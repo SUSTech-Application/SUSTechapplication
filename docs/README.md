@@ -3,6 +3,7 @@
 ## 公告：
 
 - 请有意愿负责筹划 **2021-Fall** 飞跃手册的同学联系：x.yan@uci.edu。
+- [南方科技大学飞跃手册-2019-Fall](https://SUSTech-Application.github.io/2019-Fall)
 
 ## 近期更新
 
