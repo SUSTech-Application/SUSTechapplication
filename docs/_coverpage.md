@@ -4,15 +4,15 @@
   </a>
 </p>
 
-> <middle>南方科技大学飞跃手册</middle> <small>2019-Fall</small>
+> <middle>南方科技大学飞跃手册</middle> <small>2020-Fall</small>
 
-<!-- > SUSTech Application Wiki <small>2019-Fall</small> -->
+<!-- > SUSTech Application Wiki <small>2020-Fall</small> -->
 
-- SUSTech Application Wiki <small>2019-Fall</small>
+- SUSTech Application Wiki <small>2020-Fall</small>
 
 - All Rights Reserved.
 
-[GitHub](https://github.com/SUSTech-Application/2019-Fall)
-[Get Started](#南方科技大学飞跃手册-2019-Fall)
+[GitHub](https://github.com/SUSTech-Application/2020-Fall)
+[Get Started](#南方科技大学飞跃手册-2020-Fall)
 
 ![](src/_media/bg.jpeg)
