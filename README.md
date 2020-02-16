@@ -1,12 +1,13 @@
 <p align="center">
-  <a href="https://sustech-application.github.io/2019-Fall">
+  <a href="https://sustech-application.github.io/2020-Fall">
     <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
   </a>
 </p>
 
 <p align="center">
-  南方科技大学飞跃手册-2019-Fall
+  南方科技大学飞跃手册-2020-Fall
 </p>
+
 
 <p align="center">
   <a href="https://travis-ci.org/SUSTech-Application/2019-Fall"><img alt="Travis Status" src="https://img.shields.io/travis/SUSTech-Application/2019-Fall/master.svg"></a>
