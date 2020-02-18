@@ -6,7 +6,7 @@
 
 
 
-去9月底到今年1月底，我很幸运的前往沙特参与了kaust的VSRP项目 (Visiting Student Research Program)，因为最近看到学校在宣传和KAUST的3+2本硕联陪项目，加上大家对kaust了解有限，我想以自己的角度写一篇总结向大家吐血推荐一下这个项目。
+去年9月底到今年1月底，我很幸运的前往沙特参与了kaust的VSRP项目 (Visiting Student Research Program)，因为最近看到学校在宣传和KAUST的3+2本硕联陪项目，加上大家对kaust了解有限，我想以自己的角度写一篇总结向大家吐血推荐一下这个项目。
 
 
 
