@@ -2,9 +2,7 @@
 
 #### PhD Programs:
 
-- [15级-刘国远 UIUC](个人申请总结/材料科学与工程系/[US]-15-刘国远.md)
-
-- [15级-赖煌 HKUST](个人申请总结/材料科学与工程系/[HK]-15-赖煌.md)
+To be continued.
 
 #### Master Programs:
 
@@ -24,7 +22,7 @@ To be continued.
 
 ##### 考研：
 
-- [15级-林小淞 南科大](个人申请总结/材料科学与工程系/[CN]-15-林小淞.md)
+To be continued.
 
 ##### 就业：
 

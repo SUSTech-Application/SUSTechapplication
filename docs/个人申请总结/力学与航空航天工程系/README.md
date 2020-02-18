@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-  - [15级-贺子龙 UMN](个人申请总结/力学与航空航天工程系/[US]-15-贺子龙.md)
+To be continued.
 
 #### Master Programs:
 

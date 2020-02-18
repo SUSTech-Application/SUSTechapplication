@@ -1,7 +1,29 @@
 ## 数学系
 
-- [数学与应用数学](个人申请总结/数学系/数学与应用数学/README.md)
+#### PhD Programs:
 
-- [统计学](个人申请总结/数学系/统计学/README.md)
+To be continued.
 
-- [金融数学](个人申请总结/数学系/金融数学/README.md)
+#### Master Programs:
+
+To be continued.
+
+##### 联培：
+
+To be continued.
+
+##### 直博：
+
+To be continued.
+
+##### 保研：
+
+To be continued.
+
+##### 考研：
+
+To be continued.
+
+##### 就业：
+
+To be continued.
