@@ -13,7 +13,9 @@
 
 ## 飞跃手册是什么？
 
-2016级南科大飞跃手册即将开启...
+2016级南科大飞跃手册即将开启。
+
+感谢南方科技大学飞跃手册创始人[15级-计算机科学与技术-阎相易](https://sustech-application.github.io/2020-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/[US]-15-%E9%98%8E%E7%9B%B8%E6%98%93) (**yanxiangyi1996 AT gmail.com**)。
 
 感谢学弟学妹阅读2015级南科大飞跃手册。
 
@@ -31,5 +33,5 @@
 
 ### 如何分享经验？
 
-1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**yanxiangyi1996 AT gmail.com**或**yutongwang1998 AT gmail.com**/**zhangzx2016 AT mail.sustech.edu.cn**，我们会帮助你上架。
+1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**yutongwang1998 AT gmail.com**/**zhangzx2016 AT mail.sustech.edu.cn**，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2019-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
