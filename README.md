@@ -17,6 +17,8 @@
 
 ### Contributing
 
+[![Join the chat at https://gitter.im/SUSTech-Application/2020-Fall](https://badges.gitter.im/SUSTech-Application/2020-Fall.svg)](https://gitter.im/SUSTech-Application/2020-Fall?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - Fork it!
 - Install `docsify-cli` globally via `npm`: `npm i docsify-cli -g`
 - Run docsify locally: `docsify serve docs`
