@@ -1,29 +1,7 @@
 ## 电子与电气工程系
 
-#### PhD Programs:
+- [信息工程](个人申请总结/电子与电气工程系/信息工程/README.md)
+- [通信工程](个人申请总结/电子与电气工程系/通信工程/README.md)
+- [光电信息科学与工程](个人申请总结/电子与电气工程系/光电信息科学与工程/README.md)
+- [微电子科学与工程](个人申请总结/电子与电气工程系/微电子科学与工程/README.md)
 
-To be continued.
-
-#### Master Programs:
-
-To be continued.
-
-##### 联培：
-
-To be continued.
-
-##### 直博：
-
-To be continued.
-
-##### 保研：
-
-To be continued.
-
-##### 考研：
-
-To be continued.
-
-##### 就业：
-
-To be continued.
