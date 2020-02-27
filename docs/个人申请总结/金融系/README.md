@@ -1,29 +1,8 @@
 ## 金融系
 
-#### PhD Programs:
+- [金融学](个人申请总结/金融系/金融学/README.md)
 
-To be continued.
+- [金融工程](个人申请总结/金融系/金融工程/README.md)
 
-#### Master Programs:
+  
 
-To be continued.
-
-##### 联培：
-
-To be continued.
-
-##### 直博：
-
-To be continued.
-
-##### 保研：
-
-To be continued.
-
-##### 考研：
-
-To be continued.
-
-##### 就业：
-
-To be continued.
