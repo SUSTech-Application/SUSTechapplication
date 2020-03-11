@@ -1,29 +1,5 @@
 ## 物理系
 
-#### PhD Programs:
+- [应用物理学](个人申请总结/物理系/应用物理学/README.md)
 
-To be continued.
-
-#### Master Programs:
-
-To be continued.
-
-##### 联培：
-
-To be continued.
-
-##### 直博：
-
-To be continued.
-
-##### 保研：
-
-To be continued.
-
-##### 考研：
-
-To be continued.
-
-##### 就业：
-
-To be continued.
+- [物理学](个人申请总结/物理系/物理学/README.md)

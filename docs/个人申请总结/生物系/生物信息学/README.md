@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-To be continued.
+- [15级-孙力 UPitt](个人申请总结/生物系/生物信息学/[US]-15-孙力.md)
 
 #### Master Programs:
 
