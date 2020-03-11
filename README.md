@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://sustech-application.github.io/2020-Fall">
+  <a href="https://sustech-application.github.io/Application-Book">
     <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
   </a>
 </p>
 
 <p align="center">
-  南方科技大学飞跃手册-2020-Fall
+  南方科技大学飞跃手册
 </p>
 
 
