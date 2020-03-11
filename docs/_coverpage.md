@@ -5,11 +5,11 @@
 </p>
 
 
-> <middle>南方科技大学飞跃手册</middle> <small>2020-Fall</small>
+> <middle>南方科技大学飞跃手册</middle> 
 
-<!-- > SUSTech Application Wiki <small>2020-Fall</small> -->
+<!-- > SUSTech Application Wiki -->
 
-- SUSTech Application Wiki <small>2020-Fall</small>
+- SUSTech Application Wiki 
 
 - All Rights Reserved.
 
