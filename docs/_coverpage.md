@@ -7,7 +7,6 @@
 
 > <middle>南方科技大学飞跃手册</middle>
 
-始于2019年3月
 
 <!-- > SUSTech Application Wiki -->
 
