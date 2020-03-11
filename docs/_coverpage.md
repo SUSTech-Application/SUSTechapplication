@@ -5,11 +5,11 @@
 </p>
 
 
-> <middle>南方科技大学飞跃手册</middle> 
+> <middle>南方科技大学飞跃手册 始于2019年3月</middle> 
 
-<!-- > SUSTech Application Wiki Since 2019.3-->
+<!-- > SUSTech Application Wiki -->
 
-- SUSTech Application Wiki 
+- SUSTech Application Wiki Since 2019.3
 
 - All Rights Reserved.
 
