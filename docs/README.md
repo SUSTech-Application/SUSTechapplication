@@ -9,7 +9,7 @@
   
 
 ## 近期更新
-- [2020-03-26] [申请总结] [16级-力学与航空航天工程-李若颜 [PhD@HKUST]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-liruoyan.md)
+- [2020-03-26] [申请总结] [16级-力学与航空航天工程-李若颜 [PhD@HKUST]](grad-application/mechanics-and-aerospace-engineering/[CN-HK]-16-liruoyan.md)
 - [2020-03-26] [申请总结] [16级-力学与航空航天工程-程嘉琪 [保研@中国科学技术大学]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-chengjiaqi.md)
 
 - [2020-03-16] [申请总结] [16级-微电子科学与工程-管宇江 [保研@北大深研院]](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
