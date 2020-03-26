@@ -1,10 +1,10 @@
-- grad-application (33)
+- grad-application (35)
 
   - [计算机科学与工程系 (9)](grad-application/computer-science-and-engineering/README.md)
   - [生物医学工程系 (1)](grad-application/biomedical-engineering/README.md)
   - [物理系 (1)](grad-application/physics/README.md)
   - [生物系 (1)](grad-application/biology/README.md)
-  - [力学与航空航天工程系 (4)](grad-application/mechanics-and-aerospace-engineering/README.md)
+  - [力学与航空航天工程系 (6)](grad-application/mechanics-and-aerospace-engineering/README.md)
   - [化学系 (1)](grad-application/chemistry/README.md)
   - [地球与空间科学系](grad-application/earth-and-space-science/README.md)
   - [数学系 (1)](grad-application/math/README.md)
