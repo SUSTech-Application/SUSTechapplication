@@ -6,7 +6,7 @@
   - [生物系 (1)](grad-application/生物系/README.md)
   - [力学与航空航天工程系 (4)](grad-application/mechanics-and-aerospace-engineering/README.md)
   - [化学系 (1)](grad-application/chemistry/README.md)
-  - [地球与空间科学系](grad-application/地球与空间科学系/README.md)
+  - [地球与空间科学系](grad-application/earth-and-space-science/README.md)
   - [数学系 (2)](grad-application/数学系/README.md)
   - [机械与能源工程系](grad-application/机械与能源工程系/README.md)
   - [材料科学与工程系 (3)](grad-application/材料科学与工程系/README.md)
