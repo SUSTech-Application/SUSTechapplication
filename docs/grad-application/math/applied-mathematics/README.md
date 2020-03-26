@@ -1,4 +1,4 @@
-## 统计学
+## 数学与应用数学
 
 #### PhD Programs:
 
@@ -22,7 +22,7 @@ To be continued.
 
 ##### 考研：
 
-- [15级-马悦 南科大](个人申请总结/数学系/统计学/[CN]-15-马悦.md)
+- [15级-吴一凡 南科大](grad-application/math/applied-mathematics/[CN]-15-wuyifan.md)
 
 ##### 就业：
 
