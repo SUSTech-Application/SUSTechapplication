@@ -1,4 +1,4 @@
-# [CN-HK]-16-李若颜 PhD @ HKUST
+# [CN]-16-李若颜 PhD @ HKUST
 
 ### 基本背景
 
