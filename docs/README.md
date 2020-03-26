@@ -9,29 +9,29 @@
   
 
 ## 近期更新
-- [2020-03-16] [申请总结] [16级-微电子科学与工程-管宇江 [保研@北大深研院]](个人申请总结/电子与电气工程系/微电子科学与工程/[CN]-16-管宇江.md)
+- [2020-03-16] [申请总结] [16级-微电子科学与工程-管宇江 [保研@北大深研院]](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
 
-- [2020-03-15] [申请总结] [16级-力学与航空航天工程-岐亦铭 [保研@北大]](个人申请总结/力学与航空航天工程系/[CN]-16-岐亦铭.md)
+- [2020-03-15] [申请总结] [16级-力学与航空航天工程-岐亦铭 [保研@北大]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-qiyiming.md)
 
-- [2020-03-15] [申请总结] [16级-力学与航空航天工程-尚恒锐 [保研@北航]](个人申请总结/力学与航空航天工程系/[CN]-16-尚恒锐.md)
+- [2020-03-15] [申请总结] [16级-力学与航空航天工程-尚恒锐 [保研@北航]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-shanghengrui.md)
 
-- [2020-03-15] [申请总结] [16级-力学与航空航天工程-代宇航 [PhD@CityU]](个人申请总结/力学与航空航天工程系/[CN]-16-代宇航.md)
+- [2020-03-15] [申请总结] [16级-力学与航空航天工程-代宇航 [PhD@CityU]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-daiyuhang.md)
 
-- [2020-03-15] [申请总结] [16级-计算机科学与技术-张兆旭 [PhD@USC]](个人申请总结/计算机科学与工程系/[US]-16-张兆旭.md)
+- [2020-03-15] [申请总结] [16级-计算机科学与技术-张兆旭 [PhD@USC]](grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu.md)
 
-- [2020-03-12] [就业总结] [16级-计算机科学与技术-伍凯铭 [就业@华为技术有限公司]](个人申请总结/计算机科学与工程系/[CN]-16-伍凯铭.md)
+- [2020-03-12] [就业总结] [16级-计算机科学与技术-伍凯铭 [就业@华为技术有限公司]](grad-application/computer-science-and-engineering/[CN]-16-wukaiming.md)
 
-- [2020-03-11] [申请总结] [16级-微电子科学与工程-李伟增 [保研@中国科学院微电子研究所]](个人申请总结/电子与电气工程系/微电子科学与工程/1613_李伟增.md)
+- [2020-03-11] [申请总结] [16级-微电子科学与工程-李伟增 [保研@中国科学院微电子研究所]](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
 
-- [2020-03-04] [申请总结] [《坚持中邂逅》](个人申请总结/统计与数据科学系/16唐晔) by 16级-统计与数据科学-唐晔
+- [2020-03-04] [申请总结] [《坚持中邂逅》](grad-application/statistics/[CN]-16-tangye.md) by 16级-统计与数据科学-唐晔
 
 - [2020-03-02] [英语学习] [《2个月自学雅思总分6-7》](英语学习/IELTS/2个月自学雅思总分6-7.md) by 16级-微电子科学与工程-陈秋锦
 
-- [2020-02-27] [申请总结] [《2020年金融硕士申请意法英分享》](个人申请总结/金融系/金融工程/16赖美汁.md) by 16级-金融工程-赖美汁
+- [2020-02-27] [申请总结] [《2020年金融硕士申请意法英分享》](grad-application/finance/financial-engineering/[IT]-16-laimeizhi.md) by 16级-金融工程-赖美汁
 
-- [2020-02-26] [申请总结] [《我是怎么混进腾讯的》](个人申请总结/计算机科学与工程系/[CN]-16-吴远航.md) by 16级-计算机科学与技术-吴远航
+- [2020-02-26] [申请总结] [《我是怎么混进腾讯的》](grad-application/computer-science-and-engineering/[CN]-16-wuyuanhang.md) by 16级-计算机科学与技术-吴远航
 
-- [2020-02-26] [申请总结] [《"另类"的求职之路》](个人申请总结/电子与电气工程系/通信工程/16马昊.md) by 16级-通信工程-马昊
+- [2020-02-26] [申请总结] [《"另类"的求职之路》](grad-application/electronic-and-electrical-engineering/communication-engineering/[CN]-16-mahao.md) by 16级-通信工程-马昊
 
 - [2020-02-18] [海外交流] [《我为什么推荐你去KAUST做3-6个月的科研实习》](海外交流/学期交流/我为什么推荐你去KAUST做3-6个月的科研实习.md) by [16级-计算机科学与技术-王雨童](https://rainytong.github.io/)
 
