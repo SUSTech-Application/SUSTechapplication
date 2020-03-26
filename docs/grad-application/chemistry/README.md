@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-- [15级-南博钊 Notre Dame](个人申请总结/化学系/[US]-15-南博钊.md)
+- [15级-南博钊 Notre Dame](grad-application/chemistry/[US]-15-nanbozhao.md)
 
 #### Master Programs:
 
