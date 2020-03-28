@@ -18,9 +18,9 @@
 
 - 海外交流 (4)
 
-  - [学期交流(1)](海外交流/学期交流/README.md)
-  - [暑校](海外交流/暑校/README.md)
-  - [暑研(3)](海外交流/暑研/README.md)
+  - [学期交流(1)](oversea-program/semester-program/README.md)
+  - [暑校](oversea-program/summer-school/README.md)
+  - [暑研(3)](oversea-program/summer-research/README.md)
 
 - 申请注意事项 
 
