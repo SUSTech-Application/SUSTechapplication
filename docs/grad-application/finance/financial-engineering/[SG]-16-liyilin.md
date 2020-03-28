@@ -1,4 +1,4 @@
-# [SG]-16-李一林 MS in Chemistry @ Rice University
+# [SG]-16-李一林 MS in Financial Engineering @ NUS
 
 ### 基本背景
 
