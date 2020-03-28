@@ -16,11 +16,11 @@
   - [金融系 (4)](grad-application/finance/README.md)
   - [统计与数据科学系 (2)](grad-application/statistics/README.md)
 
-- 海外交流 (1)
+- 海外交流 (4)
 
   - [学期交流(1)](海外交流/学期交流/README.md)
   - [暑校](海外交流/暑校/README.md)
-  - [暑研(2)](海外交流/暑研/README.md)
+  - [暑研(3)](海外交流/暑研/README.md)
 
 - 申请注意事项 
 

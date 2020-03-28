@@ -9,6 +9,8 @@
   
 
 ## 近期更新
+- [2020-03-28] [海外交流] [《哥伦比亚大学LDEO暑期科研》](oversea-program/summer-research/columbia_environment_LDEO_wuxin.md) by 16级-环境-武鑫
+
 - [2020-03-27] [申请总结] [16级-金融工程-李一林[MS@NUS]](grad-application/finance/financial-engineering/[SG]-16-liyilin.md)
 
 - [2020-03-27] [申请总结] [16级-化学-陈颖[PhD@Rice University]](grad-application/chemistry/[US]-16-chenying.md)
@@ -43,7 +45,7 @@
 
 - [2020-02-26] [申请总结] [《"另类"的求职之路》](grad-application/electronic-and-electrical-engineering/communication-engineering/[CN]-16-mahao.md) by 16级-通信工程-马昊
 
-- [2020-02-18] [海外交流] [《我为什么推荐你去KAUST做3-6个月的科研实习》](海外交流/学期交流/我为什么推荐你去KAUST做3-6个月的科研实习.md) by [16级-计算机科学与技术-王雨童](https://rainytong.github.io/)
+- [2020-02-18] [海外交流] [《我为什么推荐你去KAUST做3-6个月的科研实习》](oversea-program/semester-program/why_I_suggest_u_KAUST.md) by [16级-计算机科学与技术-王雨童](https://rainytong.github.io/)
 
   
 
