@@ -1,4 +1,4 @@
-- grad-application (38)
+- 个人申请总结 (38)
 
   - [计算机科学与工程系 (9)](grad-application/computer-science-and-engineering/README.md)
   - [生物医学工程系 (1)](grad-application/biomedical-engineering/README.md)
@@ -22,10 +22,6 @@
   - [暑校](oversea-program/summer-school/README.md)
   - [暑研(3)](oversea-program/summer-research/README.md)
 
-- 申请注意事项 
-
-  - [申请注意事项](申请注意事项/README.md)
-
 - 英语学习 (2)
 
   - [GMAT](英语学习/GMAT/README.md)
@@ -34,7 +30,4 @@
   - [TOEFL](英语学习/TOEFL/README.md)
   - [四六级](英语学习/四六级/README.md)
 
-- 选校经验
-
-  - [选校经验](选校经验/README.md)
 
