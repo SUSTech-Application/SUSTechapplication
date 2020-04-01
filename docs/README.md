@@ -82,4 +82,6 @@
 ## 友情链接
 
 * [16级材料系保研手册](https://docs.qq.com/doc/DY1JUbGJkaGNMTHVq?disableReturnList=1&_from=2&ADUIN=820251273&ADSESSION=1573275641&ADTAG=CLIENT.QQ.5665_.0&ADPUBNO=26946&jumpuin=820251273)
-* 南科大北美申请小分队 (QQ群群号): 894135698
+* 南科大北美申请小分队 \[QQ群群号\]: 894135698
+* 坚果钳\[微信公众号\](南科大自建留学信息分享平台): Nutcracker2020 
+
