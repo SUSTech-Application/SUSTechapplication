@@ -10,7 +10,7 @@
 
 ## 近期更新
 
-- [2020-04-01] [申请总结] [16级-光电信息科学与工程 范镇鲲 待定](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
+- [2020-04-01] [申请总结] [16级-光电信息科学与工程-范镇鲲 [待定]](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
 
 - [2020-03-28] [海外交流] [《哥伦比亚大学LDEO暑期科研》](oversea-program/summer-research/columbia_environment_LDEO_wuxin.md) by 16级-环境-武鑫
 
