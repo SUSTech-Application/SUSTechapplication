@@ -10,7 +10,9 @@
 
 ## 近期更新
 
-- [2020-04-01] [申请总结] [16级-光电信息科学与工程-范镇鲲 [待定]](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
+- [2020-04-01] [申请总结] [16级-材料科学与工程-姜诚 保研@清华大学深圳国际研究院](grad-application/materials-science-and-engineering/[CN]-16-jiangcheng.md)
+
+- [2020-04-01] [申请总结] [16级-光电信息科学与工程-范镇鲲 MS@Gatech](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
 
 - [2020-03-28] [海外交流] [《哥伦比亚大学LDEO暑期科研》](oversea-program/summer-research/columbia_environment_LDEO_wuxin.md) by 16级-环境-武鑫
 
@@ -74,3 +76,10 @@
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**yutongwang1998 AT gmail.com**/**zhangzx2016 AT mail.sustech.edu.cn**，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2020-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
+
+
+
+## 友情链接
+
+* [16级材料系保研手册](https://docs.qq.com/doc/DY1JUbGJkaGNMTHVq?disableReturnList=1&_from=2&ADUIN=820251273&ADSESSION=1573275641&ADTAG=CLIENT.QQ.5665_.0&ADPUBNO=26946&jumpuin=820251273)
+* 南科大北美申请小分队 (QQ群群号): 894135698
