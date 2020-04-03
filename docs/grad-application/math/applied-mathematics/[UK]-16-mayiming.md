@@ -201,6 +201,6 @@ The University of Warwick, Mathematics of Systems (MSc leading to PhD)
 
 #### 完美的留学规划时间线:
 
-![mayiming_2](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/math/applied-mathematics/images/mayiming_2.png)
+![mayiming_2](./images/mayiming_2.png)
 
-![mayiming_3](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/math/applied-mathematics/images/mayiming_3.png)
+![mayiming_3](./images/mayiming_3.png)
