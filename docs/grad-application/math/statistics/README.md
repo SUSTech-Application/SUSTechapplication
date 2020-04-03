@@ -18,11 +18,11 @@ To be continued.
 
 ##### 保研：
 
-* [16级-唐晔-北京大学汇丰商学院](grad-application/statistics/[CN]-16-tangye.md)
+* [16级-唐晔-北京大学汇丰商学院](grad-application/math/statistics/[CN]-16-tangye.md)
 
 ##### 考研：
 
-- [15级-马悦 南科大](grad-application/statistics/[CN]-15-mayue.md)
+- [15级-马悦 南科大](grad-application/math/statistics/[CN]-15-mayue.md)
 
 ##### 就业：
 
