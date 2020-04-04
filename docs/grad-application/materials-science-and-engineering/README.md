@@ -12,7 +12,7 @@ To be continued.
 
 ##### 联培：
 
-To be continued.
+* [16级-陈勇 HKUST](grad-application/materials-science-and-engineering/[CN]-16-chenyong.md)
 
 ##### 直博：
 

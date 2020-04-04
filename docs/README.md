@@ -10,6 +10,8 @@
 
 ## 近期更新
 
+- [2020-04-03] [申请总结] [16级-材料-陈勇 联培 @ HKUST](grad-application/materials-science-and-engineering/[CN]-16-chenyong.md)
+
 - [2020-04-03] [申请总结] [16级-应用数学-马一铭 PhD @ The University of Warwick](grad-application/math/applied-mathematics/[UK]-16-mayiming.md)
 
 - [2020-04-02] [申请总结] [16级-机械与能源工程系-郑天棋 PhD @ UCLA](grad-application/mechanical-and-energy-engineering/[US]-16-zhengtianqi.md)
