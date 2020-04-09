@@ -1,4 +1,4 @@
-- 个人申请总结 (44)
+- 个人申请总结 (45)
 
   - [计算机科学与工程系 (9)](grad-application/computer-science-and-engineering/README.md)
   - [生物医学工程系 (1)](grad-application/biomedical-engineering/README.md)
@@ -9,7 +9,7 @@
   - [地球与空间科学系](grad-application/earth-and-space-science/README.md)
   - [数学系 (2)](grad-application/math/README.md)
   - [机械与能源工程系 (1)](grad-application/mechanical-and-energy-engineering/README.md)
-  - [材料科学与工程系 (5)](grad-application/materials-science-and-engineering/README.md)
+  - [材料科学与工程系 (6)](grad-application/materials-science-and-engineering/README.md)
   - [海洋科学与工程系](grad-application/marine-science-and-engineering/README.md)
   - [环境科学与工程学院 (2)](grad-application/environmental-science-and-engineering/README.md)
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)

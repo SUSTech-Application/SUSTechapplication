@@ -2,8 +2,8 @@
 
 #### PhD Programs:
 
+- [15级-赵李明 Cornell](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
 - [15级-刘国远 UIUC](grad-application/materials-science-and-engineering/[US]-15-liuguoyuan.md)
-
 - [15级-赖煌 HKUST](grad-application/materials-science-and-engineering/[HK]-15-laihuang.md)
 
 #### Master Programs:
