@@ -10,7 +10,7 @@
 
 ## 近期更新
 
-- [2020-04-09] [申请总结] [16级-微电子科学与工程-黄皓 [PhD@UCSD] ](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao.md)
+- [2020-04-09] [申请总结] [16级-微电子科学与工程-黄皓 PhD @ UCSD ](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao.md)
 
 - [2020-04-04] [申请总结] [16级-材料-陈勇 联培 @ HKUST](grad-application/materials-science-and-engineering/[CN]-16-chenyong.md)
 
