@@ -10,7 +10,7 @@
 
 ## 近期更新
 
-- [2020-04-9] [申请总结] [15级-材料科学与工程系-赵李明 PhD @ Cornell ](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
+- [2020-04-09] [申请总结] [15级-材料科学与工程系-赵李明 PhD @ Cornell ](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
 
 - [2020-04-09] [申请总结] [16级-微电子科学与工程-黄皓 PhD @ UCSD ](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao.md)
 
