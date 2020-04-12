@@ -209,7 +209,7 @@
 
   另外，朋友向我安利了一个外国修改简历的网站—[VMock](https://vmockresume.app.link/tnCLlVCdK1)，这是一家给美国众多高校给学生简历提供**自动修改建议**的平台。听说某些高校在招生的时候也会用该平台筛选学生简历，85分以上算是优秀的简历。点击链接注册后，可以上传一份自己的简历，系统会给出各个方面的评分和修改建议。
 
-  <img src="/Users/holly/Library/Application Support/typora-user-images/image-20200228233509911.png" alt="image-20200228233509911" style="zoom:25%;" />
+  <img src="./images/wangdanyu_1.png" style="zoom:25%;" />
 
 
 
