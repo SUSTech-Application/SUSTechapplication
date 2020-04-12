@@ -10,6 +10,8 @@
 
 ## 近期更新
 
+- [2020-04-12] [申请总结] [16级-王丹妤 MFE @ EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
+
 - [2020-04-09] [申请总结] [15级-材料科学与工程系-赵李明 PhD @ Cornell ](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
 
 - [2020-04-09] [申请总结] [16级-微电子科学与工程-黄皓 PhD @ UCSD ](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao.md)
@@ -20,45 +22,45 @@
 
 - [2020-04-02] [申请总结] [16级-机械与能源工程系-郑天棋 PhD @ UCLA](grad-application/mechanical-and-energy-engineering/[US]-16-zhengtianqi.md)
 
-- [2020-04-01] [申请总结] [16级-材料科学与工程-姜诚 保研@清华大学深圳国际研究院](grad-application/materials-science-and-engineering/[CN]-16-jiangcheng.md)
+- [2020-04-01] [申请总结] [16级-材料科学与工程-姜诚 保研 @ 清华大学深圳国际研究院](grad-application/materials-science-and-engineering/[CN]-16-jiangcheng.md)
 
-- [2020-04-01] [申请总结] [16级-光电信息科学与工程-范镇鲲 MS@Gatech](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
+- [2020-04-01] [申请总结] [16级-光电信息科学与工程-范镇鲲 MS @ Gatech](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
 
 - [2020-03-28] [海外交流] [《哥伦比亚大学LDEO暑期科研》](oversea-program/summer-research/columbia_environment_LDEO_wuxin.md) by 16级-环境-武鑫
 
-- [2020-03-27] [申请总结] [16级-金融工程-李一林 [MS@NUS]](grad-application/finance/financial-engineering/[SG]-16-liyilin.md)
+- [2020-03-27] [申请总结] [16级-金融工程-李一林  MFE @ NUS](grad-application/finance/financial-engineering/[SG]-16-liyilin.md)
 
-- [2020-03-27] [申请总结] [16级-化学-陈颖 [PhD@Rice University]](grad-application/chemistry/[US]-16-chenying.md)
+- [2020-03-27] [申请总结] [16级-化学-陈颖 PhD @ Rice University](grad-application/chemistry/[US]-16-chenying.md)
 
-- [2020-03-27] [申请总结] [16级-环境科学与工程-蔡湾 [保研@清华大学深圳研究院]](grad-application/environmental-science-and-engineering/environmental-science-and-engineering/[CN]-16-caiwan.md)
+- [2020-03-27] [申请总结] [16级-环境科学与工程-蔡湾 保研 @ 清华大学深圳研究院 ](grad-application/environmental-science-and-engineering/environmental-science-and-engineering/[CN]-16-caiwan.md)
 
-- [2020-03-26] [申请总结] [16级-力学与航空航天工程-李若颜 [PhD@HKUST]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-liruoyan.md)
+- [2020-03-26] [申请总结] [16级-力学与航空航天工程-李若颜 PhD @ HKUST](grad-application/mechanics-and-aerospace-engineering/[CN]-16-liruoyan.md)
 
-- [2020-03-26] [申请总结] [16级-力学与航空航天工程-程嘉琪 [保研@中国科学技术大学]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-chengjiaqi.md)
+- [2020-03-26] [申请总结] [16级-力学与航空航天工程-程嘉琪 保研 @ 中国科学技术大学](grad-application/mechanics-and-aerospace-engineering/[CN]-16-chengjiaqi.md)
 
-- [2020-03-16] [申请总结] [16级-微电子科学与工程-管宇江 [保研@北大深研院]](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
+- [2020-03-16] [申请总结] [16级-微电子科学与工程-管宇江 保研 @ 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
 
-- [2020-03-15] [申请总结] [16级-力学与航空航天工程-岐亦铭 [保研@北大]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-qiyiming.md)
+- [2020-03-15] [申请总结] [16级-力学与航空航天工程-岐亦铭 保研 @ 北大](grad-application/mechanics-and-aerospace-engineering/[CN]-16-qiyiming.md)
 
-- [2020-03-15] [申请总结] [16级-力学与航空航天工程-尚恒锐 [保研@北航]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-shanghengrui.md)
+- [2020-03-15] [申请总结] [16级-力学与航空航天工程-尚恒锐 保研 @ 北航](grad-application/mechanics-and-aerospace-engineering/[CN]-16-shanghengrui.md)
 
-- [2020-03-15] [申请总结] [16级-力学与航空航天工程-代宇航 [PhD@CityU]](grad-application/mechanics-and-aerospace-engineering/[CN]-16-daiyuhang.md)
+- [2020-03-15] [申请总结] [16级-力学与航空航天工程-代宇航 PhD @ CityU](grad-application/mechanics-and-aerospace-engineering/[CN]-16-daiyuhang.md)
 
-- [2020-03-15] [申请总结] [16级-计算机科学与技术-张兆旭 [PhD@USC]](grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu.md)
+- [2020-03-15] [申请总结] [16级-计算机科学与技术-张兆旭 PhD @ USC](grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu.md)
 
-- [2020-03-12] [就业总结] [16级-计算机科学与技术-伍凯铭 [就业@华为技术有限公司]](grad-application/computer-science-and-engineering/[CN]-16-wukaiming.md)
+- [2020-03-12] [就业总结] [16级-计算机科学与技术-伍凯铭 就业 @ 华为技术有限公司](grad-application/computer-science-and-engineering/[CN]-16-wukaiming.md)
 
-- [2020-03-11] [申请总结] [16级-微电子科学与工程-李伟增 [保研@中国科学院微电子研究所]](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
+- [2020-03-11] [申请总结] [16级-微电子科学与工程-李伟增 保研 @ 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
 
-- [2020-03-04] [申请总结] [16级-统计与数据科学-唐晔 [保研@北京大学汇丰商学院]](grad-application/math/statistics/[CN]-16-tangye.md) 
+- [2020-03-04] [申请总结] [16级-统计与数据科学-唐晔 保研 @ 北京大学汇丰商学院](grad-application/math/statistics/[CN]-16-tangye.md) 
 
 - [2020-03-02] [英语学习] [《2个月自学雅思总分6-7》](英语学习/IELTS/2个月自学雅思总分6-7.md) by 16级-微电子科学与工程-陈秋锦
 
-- [2020-02-27] [申请总结] [16-金融工程-赖美汁 [MS@Bocconi University]](grad-application/finance/financial-engineering/[IT]-16-laimeizhi.md) 
+- [2020-02-27] [申请总结] [16-金融工程-赖美汁 MS @ Bocconi University](grad-application/finance/financial-engineering/[IT]-16-laimeizhi.md) 
 
-- [2020-02-26] [申请总结] [16-计算机科学与技术-吴远航 [就业@腾讯科技股份有限公司]](grad-application/computer-science-and-engineering/[CN]-16-wuyuanhang.md) 
+- [2020-02-26] [申请总结] [16-计算机科学与技术-吴远航 就业 @ 腾讯科技股份有限公司](grad-application/computer-science-and-engineering/[CN]-16-wuyuanhang.md) 
 
-- [2020-02-26] [申请总结] [16级-通信工程-马昊 [就业@深信服]](grad-application/electronic-and-electrical-engineering/communication-engineering/[CN]-16-mahao.md) 
+- [2020-02-26] [申请总结] [16级-通信工程-马昊 就业 @ 深信服](grad-application/electronic-and-electrical-engineering/communication-engineering/[CN]-16-mahao.md) 
 
 - [2020-02-18] [海外交流] [《我为什么推荐你去KAUST做3-6个月的科研实习》](oversea-program/semester-program/why_I_suggest_u_KAUST.md) by [16级-计算机科学与技术-王雨童](https://rainytong.github.io/)
 

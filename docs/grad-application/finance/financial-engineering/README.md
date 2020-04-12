@@ -9,6 +9,7 @@ To be continued.
 
 
 - [16级-赖美汁 Bocconi](grad-application/finance/financial-engineering/[IT]-16-laimeizhi.md)
+- [16级-王丹妤 EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
 
 ##### 联培：
 
