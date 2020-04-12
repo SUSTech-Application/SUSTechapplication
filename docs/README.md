@@ -28,7 +28,7 @@
 
 - [2020-03-28] [海外交流] [《哥伦比亚大学LDEO暑期科研》](oversea-program/summer-research/columbia_environment_LDEO_wuxin.md) by 16级-环境-武鑫
 
-- [2020-03-27] [申请总结] [16级-金融工程-李一林  MFE @ NUS](grad-application/finance/financial-engineering/[SG]-16-liyilin.md)
+- [2020-03-27] [申请总结] [16级-金融工程-李一林  MS @ NUS](grad-application/finance/financial-engineering/[SG]-16-liyilin.md)
 
 - [2020-03-27] [申请总结] [16级-化学-陈颖 PhD @ Rice University](grad-application/chemistry/[US]-16-chenying.md)
 
