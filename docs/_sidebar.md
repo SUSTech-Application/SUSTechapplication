@@ -30,6 +30,8 @@
 
   - [统计与数据科学系 (2)](grad-application/statistics/README.md)
 
+  - [医学院](grad-application/medicine/README.md)
+
     
 
 - 海外交流 (4)
