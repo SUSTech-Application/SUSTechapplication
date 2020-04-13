@@ -12,15 +12,15 @@
 
 - [2020-04-12] [申请总结] [16级-金融工程-王丹妤 MS @ EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
 
-- [2020-04-09] [申请总结] [15级-材料科学与工程系-赵李明 PhD @ Cornell ](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
+- [2020-04-09] [申请总结] [15级-材料科学与工程-赵李明 PhD @ Cornell ](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
 
 - [2020-04-09] [申请总结] [16级-微电子科学与工程-黄皓 PhD @ UCSD ](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao.md)
 
-- [2020-04-04] [申请总结] [16级-材料-陈勇 联培 @ HKUST](grad-application/materials-science-and-engineering/[CN]-16-chenyong.md)
+- [2020-04-04] [申请总结] [16级-材料科学与工程-陈勇 联培 @ HKUST](grad-application/materials-science-and-engineering/[CN]-16-chenyong.md)
 
 - [2020-04-03] [申请总结] [16级-应用数学-马一铭 PhD @ The University of Warwick](grad-application/math/applied-mathematics/[UK]-16-mayiming.md)
 
-- [2020-04-02] [申请总结] [16级-机械与能源工程系-郑天棋 PhD @ UCLA](grad-application/mechanical-and-energy-engineering/[US]-16-zhengtianqi.md)
+- [2020-04-02] [申请总结] [16级-机械与能源工程-郑天棋 PhD @ UCLA](grad-application/mechanical-and-energy-engineering/[US]-16-zhengtianqi.md)
 
 - [2020-04-01] [申请总结] [16级-材料科学与工程-姜诚 保研 @ 清华大学深圳国际研究院](grad-application/materials-science-and-engineering/[CN]-16-jiangcheng.md)
 
