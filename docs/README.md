@@ -10,7 +10,7 @@
 
 ## 近期更新
 
-- [2020-04-12] [申请总结] [16级-王丹妤 MS @ EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
+- [2020-04-12] [申请总结] [16级-金融工程-王丹妤 MS @ EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
 
 - [2020-04-09] [申请总结] [15级-材料科学与工程系-赵李明 PhD @ Cornell ](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
 
