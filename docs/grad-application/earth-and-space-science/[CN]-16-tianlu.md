@@ -10,8 +10,9 @@
 
 ### 申请结果：
 
-| **ETH  Zurich**           | MS Offer (Assistantship) | #1 (QS Earth Science)      |
+| University                | Result                   | Rank                       |
 | ------------------------- | ------------------------ | -------------------------- |
+| **ETH  Zurich**           | MS Offer (Assistantship) | #1 (QS Earth Science)      |
 | **MIT-WHOI**              | Reject                   | #2 (USNews Earth Sciences) |
 | **Penn  State**           | PhD Offer                | #5 (以下均为USNews专排)    |
 | **Columbia**              | 降录为MS                 | #5                         |
