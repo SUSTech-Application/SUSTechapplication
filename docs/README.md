@@ -87,7 +87,7 @@
 
 ### 如何分享经验？
 
-1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**zhangzx2016 AT mail.sustech.edu.cn**，我们会帮助你上架。
+1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**yutongwang1998 AT gmail.com**或**zhangzx2016 AT mail.sustech.edu.cn**，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2020-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
 
 
