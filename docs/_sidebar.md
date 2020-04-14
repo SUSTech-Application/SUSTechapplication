@@ -1,4 +1,4 @@
-- 个人申请总结 (46)
+- 个人申请总结 (47)
 
   - [计算机科学与工程系 (9)](grad-application/computer-science-and-engineering/README.md)
 
@@ -12,7 +12,7 @@
 
   - [化学系 (2)](grad-application/chemistry/README.md)
 
-  - [地球与空间科学系](grad-application/earth-and-space-science/README.md)
+  - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
   - [数学系 (2)](grad-application/math/README.md)
 
