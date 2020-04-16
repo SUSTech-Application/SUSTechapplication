@@ -2,6 +2,7 @@
 
 #### PhD Programs:
 
+- [16级-周觉晓 KAUST](grad-application/biology/bioinformatics/[KSA]-16-zhoujuexiao.md)
 - [15级-孙力 UPitt](grad-application/biology/bioinformatics/[US]-15-sunli.md)
 
 #### Master Programs:
