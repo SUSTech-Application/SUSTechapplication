@@ -9,7 +9,7 @@
   
 
 ## 近期更新
-- [2020-04-16] [申请总结] [16级-生物信息-周觉晓 PhD @ KAUST](grad-application/biology/bioinformatics/[KSA]-16-zhoujuexiao.md)
+- [2020-04-16] [申请总结] [16级-生物信息学-周觉晓 PhD @ KAUST](grad-application/biology/bioinformatics/[KSA]-16-zhoujuexiao.md)
 
 - [2020-04-13] [申请总结] [16级-地球与空间科学-田璐 MS @ ETH](grad-application/earth-and-space-science/[CN]-16-tianlu.md)
 
