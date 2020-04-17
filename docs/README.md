@@ -9,7 +9,7 @@
   
 
 ## 近期更新
-- [2020-04-17] [申请总结] [16级-生物信息学-公国钰 保研 @ 北京大学](grad-application/finance/financial-engineering/[CH]-16-gongguoyu.md)
+- [2020-04-17] [申请总结] [16级-金融工程-公国钰 保研 @ 北京大学](grad-application/finance/financial-engineering/[CH]-16-gongguoyu.md)
 
 - [2020-04-16] [申请总结] [16级-生物信息学-周觉晓 PhD @ KAUST](grad-application/biology/bioinformatics/[KSA]-16-zhoujuexiao.md)
 
