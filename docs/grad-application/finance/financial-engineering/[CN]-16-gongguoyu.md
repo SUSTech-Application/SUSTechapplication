@@ -30,11 +30,9 @@
 
 ### 北大国法介绍
 
-北京大学国际法学院（Peking University School of Transnational Law, 简称“STL”）创立于2008年，是中国也是全世界范围内，唯一将美国法律培养模式（J.D.）和我国传统的法律硕士培养模式（J.M.）相结合培养法律人才的法学院。学院创院院长为美国康奈尔大学前校长、上海纽约大学常务副校长、2011年中国政府“友谊奖”获得者、改革开放40周年40位最具影响力的外国专家之一Jeffrey Lehman教授。现任院长Philip McConnaughay历任宾夕法尼亚州立大学法学院院长和国际关系学院的创院院长、伊利诺伊大学法学院教授，并曾任顶级跨国律所美富律师事务所的合伙人。美国耶鲁大学法学院原副院长Stephen Yandle担任副院
+北京大学国际法学院（Peking University School of Transnational Law, 简称“STL”）创立于2008年，是中国也是全世界范围内，唯一将美国法律培养模式（J.D.）和我国传统的法律硕士培养模式（J.M.）相结合培养法律人才的法学院。学院创院院长为美国康奈尔大学前校长、上海纽约大学常务副校长、2011年中国政府“友谊奖”获得者、改革开放40周年40位最具影响力的外国专家之一Jeffrey Lehman教授。现任院长Philip McConnaughay历任宾夕法尼亚州立大学法学院院长和国际关系学院的创院院长、伊利诺伊大学法学院教授，并曾任顶级跨国律所美富律师事务所的合伙人。美国耶鲁大学法学院原副院长Stephen Yandle担任副院长。学院师资力量雄厚，并聘请世界著名的法学教授、著名大法官和杰出律师担任访问教授。
 
 ![img](./images/gongguoyu_1.png)
- 长。学院师资力量雄厚，并聘请世界著名的法学教授、著名大法官和杰出律师担任访问教授。 
-
 （Philip McConnaughay院长）
 
 ### 夏令营
@@ -51,14 +49,14 @@ STL夏令营最核心的活动是moot court模拟法庭比赛。如果夏令营�
 
 （院长与营员交流）
 
-![img](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/finance/financial-engineering/images/gongguoyu_4.png)
+![img](./images/gongguoyu_4.png)
 
 （模拟法庭决赛）
 
 ![img](./images/gongguoyu_5.png)
  （模拟法庭决赛）
 
-![微信图片_20190809105448](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/finance/financial-engineering/images/gongguoyu_6.png)
+![img](./images/gongguoyu_6.png)
 
 （深圳国际仲裁院参观）
 
