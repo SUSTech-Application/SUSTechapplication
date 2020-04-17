@@ -9,9 +9,11 @@
   
 
 ## 近期更新
+- [2020-04-17] [申请总结] [16级-生物信息学-公国钰 保研 @ 北京大学](grad-application/finance/financial-engineering/[CH]-16-gongguoyu.md)
+
 - [2020-04-16] [申请总结] [16级-生物信息学-周觉晓 PhD @ KAUST](grad-application/biology/bioinformatics/[KSA]-16-zhoujuexiao.md)
 
-- [2020-04-13] [申请总结] [16级-地球与空间科学-田璐 MS @ ETH](grad-application/earth-and-space-science/[CN]-16-tianlu.md)
+- [2020-04-13] [申请总结] [16级-地球与空间科学-田璐 MS @ ETH](grad-application/earth-and-space-science/[CH]-16-tianlu.md)
 
 - [2020-04-12] [申请总结] [16级-金融工程-王丹妤 MS @ EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
 
