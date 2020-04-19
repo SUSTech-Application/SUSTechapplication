@@ -8,6 +8,7 @@
 
 #### Master Programs:
 
+  - [16级-陈德源 CMU](grad-application/computer-science-and-engineering/[US]-16-chendeyuan.md)
   - [15级-方一栋 UW-Madison](grad-application/computer-science-and-engineering/[US]-15-fangyidong.md)
 
 ##### 联培：
