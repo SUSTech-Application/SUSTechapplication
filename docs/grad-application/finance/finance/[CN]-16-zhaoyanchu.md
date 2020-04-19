@@ -86,7 +86,7 @@ https://columbianyc.force.com/nd/TX_SiteLogin?startURL=%2Fnd%2FTargetX_Portal__P
 
 （以下取自在清华经管的研究生招生官网）
 
-![img](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/finance/finance/images/zhaoyanchu_1.png)
+![img](./images/zhaoyanchu_1.png)
 
 1.报名表;
 
