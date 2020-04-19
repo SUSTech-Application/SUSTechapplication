@@ -9,6 +9,8 @@
   
 
 ## 近期更新
+- [2020-04-19] [申请总结] [16级-金融-赵言楚 保研 @ 清华大学](grad-application/finance/finance/[CN]-16-zhaoyanchu.md)
+
 - [2020-04-18] [申请总结] [16级-计算机科学与技术-陈德源 MS @ CMU](grad-application/computer-science-and-engineering/[US]-16-chendeyuan.md)
 
 - [2020-04-17] [申请总结] [16级-金融工程-公国钰 保研 @ 北京大学](grad-application/finance/financial-engineering/[CN]-16-gongguoyu.md)

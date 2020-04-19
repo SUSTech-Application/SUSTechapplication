@@ -15,7 +15,7 @@
 
 
 
-### 申请结果
+### 申w请结果
 
 
 | 学校       | USNews(CS) | csranking (Overall) | 项目    | 面试情况          | 最终结果          |
