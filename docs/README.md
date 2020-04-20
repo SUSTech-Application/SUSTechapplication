@@ -9,7 +9,7 @@
   
 
 ## 近期更新
-- [2020-04-20] [申请总结] [《PhD申请的“游戏规则”、科研、英语、绩点与其他》 ](grad-application/math/applied-mathematics/[US]-16-xuyuancheng-.md) by 16级-数学-[徐源诚](https://yuancheng-xu.github.io.)
+- [2020-04-20] [申请总结] [《PhD申请的“游戏规则”、科研、英语、绩点与其他》 ](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md) by 16级-数学-[徐源诚](https://yuancheng-xu.github.io.)
 
 - [2020-04-19] [申请总结] [16级-金融-赵言楚 保研 @ 清华大学](grad-application/finance/finance/[CN]-16-zhaoyanchu.md)
 

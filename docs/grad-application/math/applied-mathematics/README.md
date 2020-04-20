@@ -1,7 +1,7 @@
 ## 数学与应用数学
 
 #### PhD Programs:
-* [16级-徐源诚 The University of Maryland](grad-application/math/applied-mathematics/[US]-16-xuyuancheng-.md)
+* [16级-徐源诚 The University of Maryland](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md)
 
 * [16级-马一铭 The University of Warwick](grad-application/math/applied-mathematics/[UK]-16-mayiming.md)
 
