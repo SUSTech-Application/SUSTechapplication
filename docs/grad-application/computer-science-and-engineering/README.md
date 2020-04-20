@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-  - [16级-张兆旭 USC](grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu.md)
+  - [16级-张兆旭 University of Southern California](grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu.md)
   - [15级-阎相易 UC Irvine](grad-application/computer-science-and-engineering/[US]-15-yanxiangyi.md)
   - [15级-谢丹宁 Purdue](grad-application/computer-science-and-engineering/[US]-15-xiedanning.md) 内含PhD面经！
 
