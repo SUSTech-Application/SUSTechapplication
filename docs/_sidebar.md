@@ -14,7 +14,7 @@
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
-  - [数学系 (2)](grad-application/math/README.md)
+  - [数学系 (4)](grad-application/math/README.md)
 
   - [机械与能源工程系 (1)](grad-application/mechanical-and-energy-engineering/README.md)
 
@@ -27,8 +27,6 @@
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
 
   - [金融系 (7)](grad-application/finance/README.md)
-
-  - [统计与数据科学系 (2)](grad-application/statistics/README.md)
 
   - [医学院](grad-application/medicine/README.md)
 
