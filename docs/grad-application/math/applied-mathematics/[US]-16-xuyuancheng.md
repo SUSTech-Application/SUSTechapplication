@@ -36,7 +36,7 @@
 
 
 
-###结果
+### 结果
 
 * **Offer** \(全奖PhD，申请难度由高向低\):
 	* Applied Math@U Washington, AMSC@Maryland (accept), Math/CSEM@UCSD, Math@UC Davis, Math@UC Irvine
@@ -79,6 +79,7 @@
 	推荐信的一般状态： 一般课程的推荐信，招生官不熟悉的老师写的一般推，不太会写信的中国老师写的推荐信，自己写的推荐信。这类推荐信就当凑数吧。
 
 	那么招生官（委员会的教授，以及你的professor of interest, 简称POI）希望在推荐信里面看到什么呢？ 每个方向的老师看重的东西不完全相同，这里引用一下Caltech的Yisong老师(ML方向)的原话。 
+	
 	> Typically, a strong PhD applicant has demonstrated some combination of sustained intellectual curiosity, mathematical maturity, programming savvy, a knack for finding creative solutions, the ability to push forward projects, resolve under duress, clarity of thought & exposition, and an appreciation for elegant insights. Obviously, not every first-year student will be strong in all aspects to start with, but a strong machine learning PhD student will have mastered all these traits by graduation.
 
 
@@ -198,7 +199,7 @@
 * 看什么排名
 
 	选项目最靠谱的还是按照感兴趣的导师来选 (PhD最重要的还是导师)，同时利用好手上的connection. 对于申请美国PhD，可以关注US NEWS的专业排名，<a href="https://www.usnews.com/education/best-global-universities/rankings" target="_blank">US NEWS global ranking</a> 以及<a href="http://www.shanghairanking.com/ARWU2018.html"  target="_blank">ARWU</a>. 有些领域会有arguably更加合理的排名（比如CS里有<a href="csrankings.org" target="_blank"> CSRanking</a>, 金数金工有quantnet). 我注意到许多人喜欢用<a href="https://www.usnews.com/best-colleges/rankings/national-universities"> US NEWS National Rankings 综合排名</a>(这也是搜索US NEWS第一个出现的)，粗略地说，这个排名是本科排名，对于PhD参考价值不大，而它的global ranking则是学术（研究生院）排名。不过<a href="https://zhuanlan.zhihu.com/p/34296778"  target="_blank">没有一个排名是完美的</a>。 
- 
+
 
 
 ### 数学、统计系有哪些申请的方向
@@ -435,18 +436,18 @@ SOP里面很重要的一点，就是具体地强调自己的兴趣/ambition、�
 
 这里谈一下我为什么不走Pure Math方向。大多数喜欢数学的孩子应该是被纯数学的美所吸引，我也不例外。实际上我每学期都会上纯数的课，就是未来防止自己失去审美的能力，也防止自己变笨。 我不选择纯数方向有两个原因，一是我对自己的智商以及甘于坐冷板凳的心态并不自信（一方面我见过太多比我聪明努力几百倍的同学，另一方面选择纯数学基本意味着只有做研究一条路可走，<a href="https://www.zhihu.com/question/296083077/answer/498269984" target="_blank"> 而纯数的教职太难了</a>，大部分人最后还是转行）；第二个原因是我有很多的选择，我虽然喜欢纯数，但也十分乐于接触交叉学科，实际上在不断接触新领域的过程中，我对这些领域的兴趣越来越大，甚至超过了纯数。 兴趣不是一见钟情，而是逐渐培养的，随着我对一些领域认识的加深，我逐渐意识到在这些领域也有十分重要的问题需要解决。
 
-##神经科学暑研
+## 神经科学暑研
 
 我了解到南科大有前辈在UPenn读计算神经科学的博士，就主动联系了他，他为我很详细地讲解了这门学科是做什么的（感谢这位学长），我极为感兴趣，就报名了上纽的神经科学暑研。由于我申请的是唯一的纯计算组，竞争比较激烈（竞争者大多是南大，复旦以及美本大三的学生），我没想到会被录取，现在想来，可能是我的南科大老师极强的推荐信，自己的1/1008排名以及面试的时候扯淡的超能力让我脱颖而出吧。 这次经历让我对神经科学里面的问题有了一定的思考（与机器学习很不一样），同时锻炼了自己的coding能力，也为我大三的暑研提供了筹码。但是我最重要收获是明白了，一个科研话题也许并不是你刚开始想象的那样子让人激动，我在项目开始之前天真地认为这个项目能够很好地解释大脑的记忆，但做的时候才发现这在数学上就是一个基于随机偏微分方程组的复杂模型，一个好的模型可以带来许多insights与Potenial solutions,但是前沿的科学领域（比如Neuroscience），我们必须意识到自己工作的局限性，以及什么样的问题是值得思考的。这次暑研让我更加成熟地看待科学工作。
 
 
-##插曲
+## 插曲
 
 我在大三自主申请了Columbia与NYU的学期交流并且都被录取了，我希望去接触一些Operations Research的东西（优化或者概率），希望申请这个方向的PhD。 当时我对概率特别感兴趣（上纽暑研时遇到了许多我不懂的随机分析知识），就打算去NYU学概率（NYU的概率是top而哥大的优化是top）然后能在接下来的暑研中做优化相关的课题（我因为有科研有GPA有英语，比较自信自己能被选入UCLA-CSST，而UCLA正好有一位优化方向的大牛每年都会收暑研的学生，我是铁了心想跟他）。 但是这个看似很“机智有远见”的打算没能抵住不确定性的打击。 我去了NYU，成功地选上随机方向的PhD课程，也如愿入选了CSST，但是却不幸地得知UCLA的那位导师刚好在今年暑假不呆在学校，不收暑研学生。 而我在NYU这边并没有很感兴趣的OR老师，所以我只能去匹配UCLA的其他老师（CSST会在三四月份做一次学生导师的双选），最后在四月匹配上了一位生物统计系的Professor, 当时的感觉像是天塌下来了，因为生物统计从来都不是我的选择。 
 
 由于NYU的学期在五月中旬在结束，UCLA暑研在七月份才开始，在中间有将近两个月的时间，我开始在NYU寻找感兴趣的老师能在这两个月带我做research。 虽然NYU在应数方面大牛云集，但是我感兴趣的老师真的很少，我最终找到了一个很感兴趣的助理教授（Theoretical Machine learning方向）并发邮件询问（学术陶瓷），老师很详细地comment on my interests， 但是在最后说，他正在养伤，他在一次运动中骨折了，询问我在七月份是否还在纽约。我枯了:worried:。七月份我已经在UCLA了。就这样我在NYU仅仅就是上了4门课，拿走了一封PhD课程的推荐信，并没有做任何的科研工作。 现在回想起来，去哥大交流并留在哥大暑研绝对是更好的选择，但时光不能重来，你只能向前看。
 
-##CSST暑研
+## CSST暑研
 
 抛开导师领域与我申请领域相差较大这一问题，我十分享受在UCLA的暑研时光。 导师分到我手上的课题是去年CSST学生没有做出来的问题（该学生仍然去了统计Top10），希望用机器学习方法去处理high-dimensional longitudinal data，这样的数据在医学中很常见。 我在一开始尝试用RNN的变体解决，但是很多医学数据量不够大，训练RNN过于昂贵，我于是开始转向statistical ML的论文，发现了一篇很重要的文章，作者是NYU Stern（商学院）的，我立即联系了他（因为当时我还有NYU的邮箱地址），他很乐于和我讨论这篇论文，并且推荐了很多该领域的工作，我正是从他推荐的论文中找到了突破口并解决了这个问题。 我现在有些许后悔没有申请NYU Stern的PhD。 我的算法做完后并没有能够很快的发表论文，因为想做一个有意思的application，我的导师又请来了新的合作者（Caltech的Professor）一起完成这篇论文（我仍然是一作），当然这已经是我的申请结束后的事情了（非常可惜）。 我在离开UCLA的时候导师说会给我写非常强的推荐信，并且希望我留下来读博，告诉我UCLA的生统几乎是不招直博的，除非老师和学生有过很成功的合作。不过由于UCLA只能申请一个专业，我回绝了这个return offer表示自己非常想去Ucla数学系。 
 
