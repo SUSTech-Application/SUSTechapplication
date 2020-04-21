@@ -1,4 +1,4 @@
-- 个人申请总结 (52)
+- 个人申请总结 (53)
 
   - [计算机科学与工程系 (10)](grad-application/computer-science-and-engineering/README.md)
 
@@ -14,7 +14,7 @@
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
-  - [数学与统计系 (5)](grad-application/math/README.md)
+  - [数学与统计系 (6)](grad-application/math/README.md)
 
   - [机械与能源工程系 (1)](grad-application/mechanical-and-energy-engineering/README.md)
 
@@ -32,9 +32,9 @@
 
     
 
-- 海外交流 (4)
+- 海外交流 (5)
 
-  - [学期交流(1)](oversea-program/semester-program/README.md)
+  - [学期交流(2)](oversea-program/semester-program/README.md)
   - [暑校](oversea-program/summer-school/README.md)
   - [暑研(3)](oversea-program/summer-research/README.md)
 
