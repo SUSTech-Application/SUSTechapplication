@@ -85,7 +85,7 @@
 
 * 为什么需要“知名”，“有海外背景”的教授写推荐信？
 
-	>  "First, when someone I know who does great research writes a letter, I generally know that we're operating **on the same scale**, and that their experience working with a student is likely to translate to something similar to my own estimation.  Second, **trust**:  After enough time handling admissions, you build up institutional knowledge that "Professor X at university Y writes very understated letters", or "Professor Z at university Q sends us a best-in-20-years student every year, and we don't believe any of it." -- Previous CMU CS committee chair. [全文在这里](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html){:target="blank"}
+	>  "First, when someone I know who does great research writes a letter, I generally know that we're operating **on the same scale**, and that their experience working with a student is likely to translate to something similar to my own estimation.  Second, **trust**:  After enough time handling admissions, you build up institutional knowledge that "Professor X at university Y writes very understated letters", or "Professor Z at university Q sends us a best-in-20-years student every year, and we don't believe any of it." -- Previous CMU CS committee chair. [全文在这里](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 
 	Here is a brutal fact: 因为大陆在北美学术界的impact不够大，国内许多老师的推荐信搁在顶尖PhD项目是没有说服力的 （尽管很多项目都是华人招生官主导大陆的招生）。所以，前往一些impact强，认可度高的地方科研、学习（大陆的强lab，香港与美国）是必要的。
 
@@ -249,7 +249,7 @@ IEOR本来是我特别想从事的方向（其实感兴趣的也是OR的人做�
 
 鼓励大家申请已经录过南科大学生的项目，也希望学弟学妹们开拓更多项目。
 
-2016级及以前，南科大数学北美直博申请到的学校有： U Washington Applied Math, Maryland AMSC, UCSD Math\*2, UIUC ISE, Stony Brook Physics, UC Davis Math, Purdue Math, Stony Brook Math, UC Irvine Math\*2, TAMU Math\*2, Iowa State EE.
+2016级及以前，南科大数学北美直博申请到的学校有： U Washington Applied Math, Maryland AMSC, UCSD Math\*2, UIUC ISE, Stony Brook Physics, UC Davis Math, Purdue Math*2, Stony Brook Math, UC Irvine Math\*2, TAMU Math\*2, Iowa State EE, Pitt Mahth.
 
 统计北美直博有： UMN Biostat\*2, Rutgers Stat, UIUC Stat, U Florida Stat\*4, Stony Brook Stat, UNC Charlotte Stat\*2.
 另外南科大前辈在读硕士/transfer之后也有申请到一些项目（比如顶尖的UW Biostat, 以及Toronto Biostat, UBC Stat, PSU Biostat, OSU Biostat等等).
