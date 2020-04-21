@@ -11,7 +11,7 @@
 ## 近期更新
 - [2020-04-21] [海外交流] [《哥伦比亚大学学期交流攻略 》](oversea-program/semester-program/uc_yangzonghao.md) by 16级-统计学-阳宗灏
 
-- [2020-04-21] [申请总结] [16级-数学-汪立达 PhD @ Penn State University](grad-application/math/statistics/[US]-14-wanglida.md)
+- [2020-04-21] [申s请总结] [14级-数学-汪立达 PhD @ Penn State University](grad-application/math/statistics/[US]-14-wanglida.md)
 
 - [2020-04-20] [申请总结] [《PhD申请的“游戏规则”、科研、英语、绩点与其他》 ](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md) by [16级-数学-徐源诚](https://yuancheng-xu.github.io.)
 
