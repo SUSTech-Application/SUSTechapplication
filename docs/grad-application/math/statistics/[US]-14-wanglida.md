@@ -62,7 +62,9 @@
 
 关于生物统计我发几个一亩三分地创始人Warald的帖子让大家参考：
 [https://www.1point3acres.com/bbs/thread-202-1-1.html](https://www.1point3acres.com/bbs/thread-202-1-1.html)
+
 [https://warald.wordpress.com/2011/08/08/统计和生物统计硕士博士出路比较/](https://warald.wordpress.com/2011/08/08/统计和生物统计硕士博士出路比较/)
+
 [https://www.1point3acres.com/warald美国职业谈-简谈制药行业生物统计的就业出路/](https://www.1point3acres.com/warald美国职业谈-简谈制药行业生物统计的就业出路/)
 
 
@@ -91,7 +93,7 @@
 
 3. 背景提升
 
-这里主要介绍一下我所参加的UW的Statistical Genetics Summer Institute（https://www.biostat.washington.edu/suminst） 。这其实是一个在美国Biostat领域比较知名的暑课了，面试时很多教授都问到了我这段经历，他们觉得利用暑假去上这样的课很好，但网上关于这个项目的相关信息很少。给我们上课基本都是UW很厉害的教授，所以你是有机会和他们接触和套磁的，遗憾的是我套的老师暑假其他时间比较忙，没能留下来和他做科研。这个暑课有四个大方向包括Statistical Genetics、Big data、Epidrmiology等，可以自由选课，去上课的学生北美的master、PhD学生居多。另外，作为学生去申请这个项目是可以免学费的，我成功申请到了奖学金，所以去上的三门课是没有收费的。
+这里主要介绍一下我所参加的UW的Statistical Genetics Summer Institute（[https://www.biostat.washington.edu/suminst](https://www.biostat.washington.edu/suminst)） 。这其实是一个在美国Biostat领域比较知名的暑课了，面试时很多教授都问到了我这段经历，他们觉得利用暑假去上这样的课很好，但网上关于这个项目的相关信息很少。给我们上课基本都是UW很厉害的教授，所以你是有机会和他们接触和套磁的，遗憾的是我套的老师暑假其他时间比较忙，没能留下来和他做科研。这个暑课有四个大方向包括Statistical Genetics、Big data、Epidrmiology等，可以自由选课，去上课的学生北美的master、PhD学生居多。另外，作为学生去申请这个项目是可以免学费的，我成功申请到了奖学金，所以去上的三门课是没有收费的。
 
 4. 推荐信
 
@@ -107,7 +109,7 @@
 
 7. 申请文书
 
-我的master和PhD申请都是DIY，没有找中介，所以文书工作都得自己来，对PhD申请而言，中介的确没有什么用。但对于中国学生而言我们写得PS、SOP一定是有问题的，所以一定要好好修改，可以拿给国外的native教授看让他们给你提意见，我记得南科大有外教会专门给学生改文书，同学们的反应都还不错。另外我要推荐一个网站，https://app.grammarly.com/，不管是发邮件还是写essay之类的，它可以帮你检查语病，时间久了之后也会帮你改掉一些不好的英语写作习惯，比如美国人很讨厌用被动语态。我在PhD申请时还另外找了申请机构帮我修改文书，我在写完初稿后发过去让他他们逐句推敲，前前后后大概修改了5遍才定稿。
+我的master和PhD申请都是DIY，没有找中介，所以文书工作都得自己来，对PhD申请而言，中介的确没有什么用。但对于中国学生而言我们写得PS、SOP一定是有问题的，所以一定要好好修改，可以拿给国外的native教授看让他们给你提意见，我记得南科大有外教会专门给学生改文书，同学们的反应都还不错。另外我要推荐一个网站，[https://app.grammarly.com/](https://app.grammarly.com/)，不管是发邮件还是写essay之类的，它可以帮你检查语病，时间久了之后也会帮你改掉一些不好的英语写作习惯，比如美国人很讨厌用被动语态。我在PhD申请时还另外找了申请机构帮我修改文书，我在写完初稿后发过去让他他们逐句推敲，前前后后大概修改了5遍才定稿。
 
 8. 信息收集
 
@@ -117,7 +119,7 @@
 
 三．选校
 
-这是针对Biostat专业，我之前有在一亩三分地发帖，里面列举了所有我申请的学校以及我对它们的了解，以及一些其他生统申请的注意事项，感兴趣的同学直接去这个链接，篇幅比较长，直接看最后选校部分就好：https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=627270&extra=page%3D1%26filter%3Dsortid%26sortid%3D189%26sortid%3D189
+这是针对Biostat专业，我之前有在一亩三分地发帖，里面列举了所有我申请的学校以及我对它们的了解，以及一些其他生统申请的注意事项，感兴趣的同学直接去这个[链接](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=627270&extra=page%3D1%26filter%3Dsortid%26sortid%3D189%26sortid%3D189)，篇幅比较长，直接看最后选校部分就好。
 
  
 

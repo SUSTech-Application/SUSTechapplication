@@ -160,7 +160,7 @@ d)    学费：学费是在开学之后才缴纳，有一次性付清，月付�
 
 欢迎大家加入哥伦比亚大学学期交流qq群，大家有什么疑问都可以在这里讨论。
 
-![../WechatIMG126.jpeg](file:////Users/zhangzhaoxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)
+![../WechatIMG126.jpeg](./images/yangzonghao_3.png)
 
 有问题需要单独探讨也可以联系我的个人邮箱：yangzh98@qq.com
 
