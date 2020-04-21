@@ -85,7 +85,7 @@
 
 * 为什么需要“知名”，“有海外背景”的教授写推荐信？
 
-	>  "First, when someone I know who does great research writes a letter, I generally know that we're operating **on the same scale**, and that their experience working with a student is likely to translate to something similar to my own estimation.  Second, **trust**:  After enough time handling admissions, you build up institutional knowledge that "Professor X at university Y writes very understated letters", or "Professor Z at university Q sends us a best-in-20-years student every year, and we don't believe any of it." -- Previous CMU CS committee chair. [全文在这里](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html){:target="blank"}
+	>  "First, when someone I know who does great research writes a letter, I generally know that we're operating **on the same scale**, and that their experience working with a student is likely to translate to something similar to my own estimation.  Second, **trust**:  After enough time handling admissions, you build up institutional knowledge that "Professor X at university Y writes very understated letters", or "Professor Z at university Q sends us a best-in-20-years student every year, and we don't believe any of it." -- Previous CMU CS committee chair. [全文在这里](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 
 	Here is a brutal fact: 因为大陆在北美学术界的impact不够大，国内许多老师的推荐信搁在顶尖PhD项目是没有说服力的 （尽管很多项目都是华人招生官主导大陆的招生）。所以，前往一些impact强，认可度高的地方科研、学习（大陆的强lab，香港与美国）是必要的。
 
@@ -239,7 +239,7 @@ UW的Amath是我一度很想去的项目，U Washington (Seattle)的应数单独
 
 Maryland的AMSC(Applied math, Statistics and Scientific Computing)是我选择的项目。该项目学术声誉很不错，专排跟UW差不多，但是它最大的优势，就是全校（几乎）任选导师！你没看错，你可以选数学系的老师，但是你也可以学商学院的、物理系的（马大物理很强）、化学系的老师，这是一个典型的交叉学科项目（但它的分类就是应用数学）。我选择Scientific Computing方向，在申请的时候填的POI全部来自CS，过去所跟的导师也是在CS下面做AI。这也是我选择这个项目的原因 —— Maryland的CS实力强劲（CS Ranking第十，AI排第六；我如果当年选择计算机系现在还不一定申请的上吧），AI是我最想从事的大方向，而该项目又给了我足够的灵活度。 该项目特别看重[diversity](#Diversity)，鼓励学妹申请。 另外有一篇AMSC前辈写的<a href="https://www.sohu.com/a/169469968_690527" target="_blank">申请攻略</a>挺不错。
 
-UCSD的math(CSEM concentration)算是一个top20的数学/应数项目，去年14级的吴学长就被该项目（math）录取，正在读博，也是之前数学系的最好水平。 我不选这个项目的原因很有意思，我感兴趣的老师(machine learning方向)一个是从UW的amath毕业不久，另一个是从Maryland AMSC毕业不久，所以我就没考虑UCSD了。不过圣地亚哥是美国最舒服的城市之一，阳光沙滩美滋滋，UCSD的学术声誉也是蛮不错的，最重要的是，UCSD连续两年给了咱们数学系offer，大伙们一定要申请呀。
+UCSD的math(CSEM concentration)算是一个top20的数学/应数项目，去年13级的吴学长就被该项目（math）录取，正在读博，也是之前数学系的最好水平。 我不选这个项目的原因很有意思，我感兴趣的老师(machine learning方向)一个是从UW的amath毕业不久，另一个是从Maryland AMSC毕业不久，所以我就没考虑UCSD了。不过圣地亚哥是美国最舒服的城市之一，阳光沙滩美滋滋，UCSD的学术声誉也是蛮不错的，最重要的是，UCSD连续两年给了咱们数学系offer，大伙们一定要申请呀。
 
 UC Davis的math是一个被低估的项目，如果你对机器学习理论、优化感兴趣，UCD有很厉害的组（Xiaodong Li, Shiqian Ma, Thomas Strohmer等）；另外它的amath也可以选择一些外系的老师（经常有学生去统计、CS、物理找导师）。 UCI的math项目我其实不太了解，不过我套磁过Roman Vershynin（没错就是那本“High dimensional probability"的作者!他前几年从Umich跳槽到UCI了）得到了热情的回复，这位老师的学生非常厉害（比如UCLA的Needell）。我亲自去过Irvine，给人度假村的感觉，非常舒服。 UCI的math今年给了我们数学系两个PhD offer！大伙们UCI也一定要申请嘛。
 
@@ -249,7 +249,7 @@ IEOR本来是我特别想从事的方向（其实感兴趣的也是OR的人做�
 
 鼓励大家申请已经录过南科大学生的项目，也希望学弟学妹们开拓更多项目。
 
-2016级及以前，南科大数学北美直博申请到的学校有： U Washington Applied Math, Maryland AMSC, UCSD Math\*2, UIUC ISE, Stony Brook Physics, UC Davis Math, Purdue Math, Stony Brook Math, UC Irvine Math\*2, TAMU Math\*2, Iowa State EE.
+2016级及以前，南科大数学北美直博申请到的学校有： U Washington Applied Math, Maryland AMSC, UCSD Math\*2, UIUC ISE, Stony Brook Physics, UC Davis Math, Purdue Math*2, Stony Brook Math, UC Irvine Math\*2, TAMU Math\*2, Iowa State EE, Pitt Math.
 
 统计北美直博有： UMN Biostat\*2, Rutgers Stat, UIUC Stat, U Florida Stat\*4, Stony Brook Stat, UNC Charlotte Stat\*2.
 另外南科大前辈在读硕士/transfer之后也有申请到一些项目（比如顶尖的UW Biostat, 以及Toronto Biostat, UBC Stat, PSU Biostat, OSU Biostat等等).
