@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-To be continued.
+* [16级-杨志遥 The University of Maryland](grad-application/math/financial-mathematics/[US]-16-yangzhiyao.md)
 
 ##### 联培：
 
