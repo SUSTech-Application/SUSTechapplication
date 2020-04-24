@@ -9,6 +9,8 @@
   
 
 ## 近期更新
+- [2020-04-24] [英语学习] [《英语学渣学习指南》](英语学习/TOEFL/英语学渣学习指南.md) by 16级-计算机科学与技术-李晶晶
+
 - [2020-04-23] [申请总结] [16级-金融数学-杨志遥 MS @ The University of Maryland ](grad-application/math/financial-mathematics/[US]-16-yangzhiyao.md) 
 
 - [2020-04-21] [海外交流] [《哥伦比亚大学学期交流攻略 》](oversea-program/semester-program/uc_yangzonghao.md) by 16级-统计学-阳宗灏
