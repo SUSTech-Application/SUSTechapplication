@@ -30,7 +30,7 @@
 | TAMU       | 43         | 27                  | CS PhD  | 2.11面            | Offer             |
 | UChicago   | 30         | 31                  | CS PhD  |                   | Rej               |
 
-
+> 两个AD原本也可以是Offer，但由于我后面跟老师说不去了，所以就没有给最后的Offer
 
 ### 研究方向的确定
 
