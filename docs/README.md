@@ -122,4 +122,7 @@
 * 南科大北美申请小分队 \[QQ群群号\]: 894135698
 * 坚果钳留学信息分享平台\[微信公众号\]: Nutcracker2020 
 * 南科大欧洲申请群\[QQ群群号\]: 391867782
+* 商科申请论坛 https://www.chasedream.com/
+* 一亩三分地--北美申请论坛 http://www.1point3acres.com/
+* 美国本土申请结果汇报论坛 https://www.thegradcafe.com/
 
