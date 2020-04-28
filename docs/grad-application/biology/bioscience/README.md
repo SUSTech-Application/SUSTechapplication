@@ -26,4 +26,4 @@ To be continued.
 
 ##### 就业：
 
-To be continued.
+- [16级-张亚杰 北京脑科学与类脑研究中心](grad-application/biology/bioscience/[CN]-16-zhangyajie.md)

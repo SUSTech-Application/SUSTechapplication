@@ -9,6 +9,8 @@
   
 
 ## 近期更新
+- [2020-04-28] [申请总结] [16级-张亚杰 北京脑科学与类脑研究中心](grad-application/biology/bioscience/[CN]-16-zhangyajie.md)
+
 - [2020-04-26] [申请总结] [16级-医学院-孟刘震 MS @ Karolinska Institute](grad-application/medicine/[SE]-16-mengliuzhen.md)
 
 - [2020-04-25] [申请总结] [16级-医学院-孙毓泽 PhD @ NUS](grad-application/medicine/[SG]-16-sunyuze.md)
