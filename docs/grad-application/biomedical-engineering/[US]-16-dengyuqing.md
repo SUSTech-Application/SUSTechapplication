@@ -54,7 +54,7 @@
 
 ### 导语
 
-我申请过程中的一些心得体会其实在前一阵的生医工系公众号推送（[https://mp.weixin.qq.com/s/g9oPMa2dWBFt-GuB1SsdCQ](https://mp.weixin.qq.com/s/g9oPMa2dWBFt-GuB1SsdCQ)）中也说过了，包括MIT给的PS以及CV如何写作技巧链接等。另外请大家申请前务必查看由数学系徐源诚学长为大家介绍的整个申请流程框架结构等一系列general问题（[https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng](https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng)）。因此我这里也就结合自己的申请结果当做案例分析了。    
+我申请过程中的一些心得体会其实在前一阵的[生医工系公众号推送](https://mp.weixin.qq.com/s/g9oPMa2dWBFt-GuB1SsdCQ)中也说过了，包括MIT给的PS以及CV如何写作技巧链接等。另外请大家申请前务必查看由数学系徐源诚学长为大家介绍的整个申请流程框架结构等一系列general问题（[https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng](https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng)）。因此我这里也就结合自己的申请结果当做案例分析了。    
 
 首先可以看到的是我申请了很多很多很多很多很多学校，也抱着中彩票的心态吧。最后结果也可以看出，拒我的有好有差，收我的，也有好有差。所以大家不要怕不敢申好学校，如果恰好碰上哪个比较match的老师就有可能收到反套，这时候才是关键！如何套磁请见计算机系谢丹宁学姐的分享([https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-15-xiedanning](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-15-xiedanning))
 
