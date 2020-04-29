@@ -72,7 +72,7 @@ I． 选学校/项目
 
 给大家拿MIT的举个例子，我选了下biology department，这里便显示出历年男女、录取比例等其他信息我就没截图了。
 
-<img src="./images/dengyuqing_1.png" alt="image-20200429212809637" style="zoom:50%;" />
+<img src="./images/dengyuqing_1.png" style="zoom:50%;" />
 
 像这样的表单能告诉我们什么呢，就是说如果这个program录取人数每年都很低的话就说明很难录取，国际生比例少可能是他们在资金上有限制（国际生很多奖学金没法申请），女生比例少他们为了diversity可能对女生有照顾之类的。需要注意的是，这里的graduate students包括了研究生和PhD。
 
