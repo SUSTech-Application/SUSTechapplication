@@ -14,49 +14,30 @@
 
 ### 申请结果
 
-> Offer
->
-> [PhD in Mechanical Engineering @ Boston University] (accepted)
->
-> [PhD in Mechanical Engineering @University of Minnesota]
->
-> [PhD in Mechanobiology Institute @ National University of Singapore]
->
-> [MS in Mechanical Engineering @ John Hopkins University]
->
-> Rej
->
-> [PhD in Bioengineering @ UC San Diego]
->
-> [PhD in Bioengineering @ UC Berkley]
->
-> [PhD in Mechanical Engineering @ MIT]
->
-> [PhD in Engineering and Applied Sciences @ Harvard University]
->
-> [PhD in Macromolecular Science and Engineering @ Michigan Engineering] (interviewed)
->
-> [PhD in Material Science and Engineering @ UC San Diego]
->
-> [PhD in Biomedical Engineering @ Brown University] (interviewed)
->
-> [PhD in Material Science and Engineering @ Northwestern University]
->
-> [PhD in Mechanical Engineering @ University of Pennsylvania]
->
-> [PhD in Biomedical Engineering @ Tufts University]
->
-> [PhD in Biomedical Engineering @ Worchester Polytechnic Institute]
->
-> Unknown
->
-> [PhD in Biomedical Engineering @ The Hongkong Polytechnic University]
-
+> Offer  
+> [PhD in Mechanical Engineering @ Boston University] (accepted)  
+> [PhD in Mechanical Engineering @University of Minnesota]  
+> [PhD in Mechanobiology Institute @ National University of Singapore]  
+> [MS in Mechanical Engineering @ John Hopkins University]  
+> Rej  
+> [PhD in Bioengineering @ UC San Diego]   
+> [PhD in Bioengineering @ UC Berkley]  
+> [PhD in Mechanical Engineering @ MIT]  
+> [PhD in Engineering and Applied Sciences @ Harvard University]  
+> [PhD in Macromolecular Science and Engineering @ Michigan Engineering] (interviewed)  
+> [PhD in Material Science and Engineering @ UC San Diego]  
+> [PhD in Biomedical Engineering @ Brown University] (interviewed)  
+> [PhD in Material Science and Engineering @ Northwestern University]  
+> [PhD in Mechanical Engineering @ University of Pennsylvania]  
+> [PhD in Biomedical Engineering @ Tufts University]  
+> [PhD in Biomedical Engineering @ Worchester Polytechnic Institute]  
+> Unknown  
+> [PhD in Biomedical Engineering @ The Hongkong Polytechnic University]  
 ### 导语
 
-我申请过程中的一些心得体会其实在前一阵的[生医工系公众号推送](https://mp.weixin.qq.com/s/g9oPMa2dWBFt-GuB1SsdCQ)中也说过了，包括MIT给的PS以及CV如何写作技巧链接等。另外请大家申请前务必查看由数学系徐源诚学长为大家介绍的整个申请流程框架结构等一系列general问题（[https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng](https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng)）。因此我这里也就结合自己的申请结果当做案例分析了。    
+我申请过程中的一些心得体会其实在前一阵的[生医工系公众号推送](https://mp.weixin.qq.com/s/g9oPMa2dWBFt-GuB1SsdCQ)中也说过了，包括MIT给的PS以及CV如何写作技巧链接等。另外请大家申请前务必查看由[数学系徐源诚学长](https://sustech-application.github.io/2020-Fall/#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng)为大家介绍的整个申请流程框架结构等一系列general问题。因此我这里也就结合自己的申请结果当做案例分析了。    
 
-首先可以看到的是我申请了很多很多很多很多很多学校，也抱着中彩票的心态吧。最后结果也可以看出，拒我的有好有差，收我的，也有好有差。所以大家不要怕不敢申好学校，如果恰好碰上哪个比较match的老师就有可能收到反套，这时候才是关键！如何套磁请见计算机系谢丹宁学姐的分享([https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-15-xiedanning](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-15-xiedanning))
+首先可以看到的是我申请了很多很多很多很多很多学校，也抱着中彩票的心态吧。最后结果也可以看出，拒我的有好有差，收我的，也有好有差。所以大家不要怕不敢申好学校，如果恰好碰上哪个比较match的老师就有可能收到反套，这时候才是关键！如何套磁请见计算机系[谢丹宁学姐的分享](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-15-xiedanning)。
 
 很好相信大家已经看出来了我比较喜欢从歪门邪道收集资源了。这里我顺便也说说如何深度挖掘信息吧。
 
@@ -82,7 +63,7 @@ I． 选学校/项目
 
 ​    iv. 学校风评：知乎，一亩三分地，US NEWS。看看学校的就业情况。前两者可以看出在中国的口碑。而US NEWS中给出的数据也是从美国人的角度做出的评价。
 
-​    v. 录取时间预测：gradcafe（https://www.thegradcafe.com/）。国际版一亩三分地。很多人收到offer就会在网上post出来，查询学校及其对应项目即可查看往年offer发放时间以及当年offer是否已经发过（有些学校可能是rolling制，这周没收到可能下周还有一波）。另外也有很多人在上面讨论自己的选择心路历程之类的。
+​    v. 录取时间预测：[gradcafe](https://www.thegradcafe.com/)。国际版一亩三分地。很多人收到offer就会在网上post出来，查询学校及其对应项目即可查看往年offer发放时间以及当年offer是否已经发过（有些学校可能是rolling制，这周没收到可能下周还有一波）。另外也有很多人在上面讨论自己的选择心路历程之类的。
 
 ​    vi. 选择：看好的学校先申请了再说，纠结最后去哪的事以后再想。建议大家在make final decision的时候想清楚自己读PhD最看重的是什么。地理位置（周边资源以及生活的便利程度），排名or导师。哪所学校最能满足自己最看重的点就选了，其他次要因素就不要比来比去徒增烦恼了。
 
