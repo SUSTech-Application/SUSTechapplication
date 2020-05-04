@@ -234,5 +234,7 @@ CS PhD的申请难度**一个取决于教授，另一个取决于学校**。关�
 
 
 
+最后衷心祝福学弟学妹们都能通过自己的努力收获最心仪的offer，一句我很喜欢的话分享给读到这里的你："**There is only one success - to be able to spend your life in your own way.**"
+
 前路漫漫，我们一起继续加油奥力给，一给我里giao！:kissing:
 
