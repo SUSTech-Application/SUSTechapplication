@@ -9,7 +9,7 @@
   
 
 ## 近期更新
-- [2020-05-03] [申请总结] [16级-计算机科学与技术-王雨童 PhD @ University of California, Davis](grad-application/computer-science-and-engineering/[US]-16-wangyutong.md)
+- [2020-05-04] [申请总结] [16级-计算机科学与技术-王雨童 PhD @ University of California, Davis](grad-application/computer-science-and-engineering/[US]-16-wangyutong.md)
 
 - [2020-05-03] [申请总结] [16级-生物医学工程-梁广儒 PhD @ Oregon Health & Science University](grad-application/biomedical-engineering/[US]-16-liangguangru.md)
 
