@@ -63,7 +63,15 @@ I． 选学校/项目
 
 ​    iv. 学校风评：知乎，一亩三分地，US NEWS。看看学校的就业情况。前两者可以看出在中国的口碑。而US NEWS中给出的数据也是从美国人的角度做出的评价。
 
-​    v. 录取时间预测：gradcafe [https://www.thegradcafe.com/](https://www.thegradcafe.com/)。国际版一亩三分地。很多人收到offer就会在网上post出来，查询学校及其对应项目即可查看往年offer发放时间以及当年offer是否已经发过（有些学校可能是rolling制，这周没收到可能下周还有一波）。另外也有很多人在上面讨论自己的选择心路历程之类的。
+​    v. 录取时间预测：gradcafe [https://www.thegradcafe.com/](https://www.thegradcafe.com/)。国际版一亩三分地。很多人收到offer就会在网上post出来，查询学校及其对应项目即可查看往年offer发放时间以及当年offer是否已经发过（有些学校可能是rolling制，这周没收到可能下周还有一波）。另外也有很多人在上面讨论自己的选择心路历程之类的。以下为网站内容示例。
+
+![image-20200504145527312](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/biomedical-engineering/images/dengyuqing_2.png)
+
+> 我在gradcafe中搜索Boston University, BME
+
+![image-20200504145606017](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/biomedical-engineering/images/dengyuqing_3.png)
+
+> 一些人也会在blogs中post申请感悟
 
 ​    vi. 选择：看好的学校先申请了再说，纠结最后去哪的事以后再想。建议大家在make final decision的时候想清楚自己读PhD最看重的是什么。地理位置（周边资源以及生活的便利程度），排名or导师。哪所学校最能满足自己最看重的点就选了，其他次要因素就不要比来比去徒增烦恼了。
 
@@ -84,6 +92,12 @@ II. 选导师
 ​    v. group members: lab website中。看看集体照，比如我看到活泼一点的就会心理上倾向觉得这个组比较轻松。都是外国人或者都是亚洲人的情况就会有些复杂（纯客观陈述，不带有任何偏见色彩，具体情况需要多方面分析，反正可以留意一下）。另外也能预测一下自己在这个组内工作的社交环境。
 
 ​    vi. 资金状况：grantome [https://grantome.com/](https://grantome.com/)_，the entirety of funding information。有钱的老师成功率更大呀。 顺便也可以看看老师正在做的项目都有什么。
+
+不知道怎么判断老师是否有钱的话可以拿一个自己认识的老师做比较。根据不同研究领域也有不同的funding大概范围。
+
+下面做个演示，比如我搜索我们BME创系主任郭老师，可以注意的是左边的filter有很多分类，另外这些funding点进去要看仔细是否是自己要找的老师（可能出现重名）以及是否合同期限还在。
+
+![image-20200504145701053](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/biomedical-engineering/images/dengyuqing_4.png)
 
 ### 个人案例分析 
 
