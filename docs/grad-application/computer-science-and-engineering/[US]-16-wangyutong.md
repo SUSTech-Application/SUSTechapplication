@@ -34,18 +34,18 @@
 
 (以下均为PhD，没有申请MS)
 
-| Level | **学校**  | USNews(CS) | csranking (小方向) | 老板                 | **项目** | 面试情况         | 最终结果                           |
-| ----- | --------- | ---------- | ------------------ | -------------------- | -------- | ---------------- | ---------------------------------- |
-| 冲刺  | UChicago  | 30         | \# 28 (计算机安全) | 大牛(prof)*2         | CS       | 无套瓷，两次面试 | Rej                                |
-| 主申  | UC Irvine | 30         | \# 2 (软件工程)    | ap                   | SE       | 套瓷，一次面试   | **Offer+fellowship**               |
-| 主申  | UC Davis  | 37         | \# 4 (软件工程)    | ap                   | CS       | 无套瓷，一次面试 | **Offer+fellowship<br />(accept)** |
-| 主申  | PSU       | 30         | \# 6 (计算机安全)  | 小牛(associate prof) | IST      | 无套瓷，一次面试 | **Offer**                          |
-| 主申  | NEU       | 40         | \# 4 (计算机安全)  | 小牛(associate prof) | CS       | 套瓷，两次面试   | **Unofficial offer**               |
-| 主申  | TAMU      | 40         | \# 46 (计算机安全) | ap                   | CS       | 套瓷，一次面试   | **Offer**                          |
-| 主申  | Rutgers   | 37         | \# 37 (软件工程)   | 新ap                 | CS       | 套瓷，一次面试   | Rej                                |
-| 主申  | TAMU      | 43         | \# 32 (计算机安全) | 小牛(associate prof) | CS       | 无套瓷，一次面试 | Rej                                |
-| 保底  | WUSTL     | 49         | \# 88 (计算机安全) | ap                   | CS       | 套瓷，一次面试   | Rej                                |
-| 保底  | UT Dallas | 64         | \# 5 (软件工程)    | ap                   | SE       | 套瓷，一次面试   | **Offer**                          |
+| Level | **学校**      | USNews(CS) | csranking (小方向) | 老板                 | **项目** | 面试情况         | 最终结果                           |
+| ----- | ------------- | ---------- | ------------------ | -------------------- | -------- | ---------------- | ---------------------------------- |
+| 冲刺  | UChicago      | 30         | \# 28 (计算机安全) | 大牛(prof)*2         | CS       | 无套瓷，两次面试 | Rej                                |
+| 主申  | UC Irvine     | 30         | \# 2 (软件工程)    | ap                   | SE       | 套瓷，一次面试   | **Offer+fellowship**               |
+| 主申  | UC Davis      | 37         | \# 4 (软件工程)    | ap                   | CS       | 无套瓷，一次面试 | **Offer+fellowship<br />(accept)** |
+| 主申  | PSU           | 30         | \# 6 (计算机安全)  | 小牛(associate prof) | IST      | 无套瓷，一次面试 | **Offer**                          |
+| 主申  | NEU           | 40         | \# 4 (计算机安全)  | 小牛(associate prof) | CS       | 套瓷，两次面试   | **Unofficial offer**               |
+| 主申  | Virginia Tech | 40         | \# 46 (计算机安全) | ap                   | CS       | 套瓷，一次面试   | **Offer**                          |
+| 主申  | Rutgers       | 37         | \# 37 (软件工程)   | 新ap                 | CS       | 套瓷，一次面试   | Rej                                |
+| 主申  | TAMU          | 43         | \# 32 (计算机安全) | 小牛(associate prof) | CS       | 无套瓷，一次面试 | Rej                                |
+| 保底  | WUSTL         | 49         | \# 88 (计算机安全) | ap                   | CS       | 套瓷，一次面试   | Rej                                |
+| 保底  | UT Dallas     | 64         | \# 5 (软件工程)    | ap                   | SE       | 套瓷，一次面试   | **Offer**                          |
 
 
 
