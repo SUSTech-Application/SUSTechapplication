@@ -53,7 +53,7 @@ I． 选学校/项目
 
 给大家拿MIT的举个例子，我选了下biology department，这里便显示出历年男女、录取比例等其他信息我就没截图了。
 
-<img src="./images/dengyuqing_1.png" style="zoom:50%;" />
+<img src="./images/dengyuqing_1.jpeg" style="zoom:50%;" />
 
 像这样的表单能告诉我们什么呢，就是说如果这个program录取人数每年都很低的话就说明很难录取，国际生比例少可能是他们在资金上有限制（国际生很多奖学金没法申请），女生比例少他们为了diversity可能对女生有照顾之类的。需要注意的是，这里的graduate students包括了研究生和PhD。
 
@@ -65,11 +65,11 @@ I． 选学校/项目
 
 ​    v. 录取时间预测：gradcafe [https://www.thegradcafe.com/](https://www.thegradcafe.com/)。国际版一亩三分地。很多人收到offer就会在网上post出来，查询学校及其对应项目即可查看往年offer发放时间以及当年offer是否已经发过（有些学校可能是rolling制，这周没收到可能下周还有一波）。另外也有很多人在上面讨论自己的选择心路历程之类的。以下为网站内容示例。
 
-![image-20200504145527312](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/biomedical-engineering/images/dengyuqing_2.png)
+![image-20200504153113465](./images/dengyuqing_2.jpeg)
 
 > 我在gradcafe中搜索Boston University, BME
 
-![image-20200504145606017](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/biomedical-engineering/images/dengyuqing_3.png)
+![image-20200504145606017](./images/dengyuqing_3.jpeg)
 
 > 一些人也会在blogs中post申请感悟
 
@@ -97,7 +97,7 @@ II. 选导师
 
 下面做个演示，比如我搜索我们BME创系主任郭老师，可以注意的是左边的filter有很多分类，另外这些funding点进去要看仔细是否是自己要找的老师（可能出现重名）以及是否合同期限还在。
 
-![image-20200504145701053](/Users/zhangzhaoxu/ResearchProject/2020-Fall/docs/grad-application/biomedical-engineering/images/dengyuqing_4.png)
+![image-20200504145701053](./images/dengyuqing_4.jpeg)
 
 ### 个人案例分析 
 
