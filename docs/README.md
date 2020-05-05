@@ -11,6 +11,8 @@
 ## 近期更新
 - [2020-05-04] [申请总结] [16级-计算机科学与技术-王雨童 PhD @ University of California, Davis](grad-application/computer-science-and-engineering/[US]-16-wangyutong.md)
 
+  *《从零科研到CS"赌博"，我经历了什么？》*
+
 - [2020-05-03] [申请总结] [16级-生物医学工程-梁广儒 PhD @ Oregon Health & Science University](grad-application/biomedical-engineering/[US]-16-liangguangru.md)
 
 - [2020-05-03] [申请总结] [16级-生物医学工程-贺文琦 PhD @ University of California, Irvine](grad-application/biomedical-engineering/[US]-16-hewenqi.md)
@@ -125,6 +127,7 @@
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**yutongwang1998 AT gmail.com**或**zhangzx2016 AT mail.sustech.edu.cn**，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2020-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
+3. 如需更新内容，请及时联系我们！
 
 
 
