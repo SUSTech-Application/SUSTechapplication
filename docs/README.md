@@ -35,6 +35,8 @@
 
 - [2020-04-20] [申请总结] [16级-数学-徐源诚 PhD @ The University of Maryland ](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md) 
 
+  *《PhD申请的“游戏规则”、科研、英语、绩点与其他》*
+
 - [2020-04-19] [申请总结] [16级-金融-赵言楚 保研 @ 清华大学](grad-application/finance/finance/[CN]-16-zhaoyanchu.md)
 
 - [2020-04-18] [申请总结] [16级-计算机科学与技术-陈德缘 MS @ CMU](grad-application/computer-science-and-engineering/[US]-16-chendeyuan.md)
