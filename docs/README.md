@@ -33,9 +33,7 @@
 
 - [2020-04-21] [申请总结] [14级-数学-汪立达 PhD @ Penn State University](grad-application/math/statistics/[US]-14-wanglida.md)
 
-- [2020-04-20] [申请总结] [16级-数学-徐源诚 PhD @ The University of Maryland ](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md) 
-
-  *《PhD申请的“游戏规则”、科研、英语、绩点与其他》*
+- [2020-04-20] [申请总结] [16级-数学-徐源诚 PhD @ The University of Maryland ](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md) *《PhD申请的“游戏规则”、科研、英语、绩点与其他》*
 
 - [2020-04-19] [申请总结] [16级-金融-赵言楚 保研 @ 清华大学](grad-application/finance/finance/[CN]-16-zhaoyanchu.md)
 
