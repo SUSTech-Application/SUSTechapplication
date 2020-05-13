@@ -17,6 +17,8 @@
 
 - [2020-05-03] [申请总结] [16级-生物医学工程-贺文琦 PhD @ University of California, Irvine](grad-application/biomedical-engineering/[US]-16-hewenqi.md)
 
+  *《选择了PhD的master分享》*
+
 - [2020-05-03] [申请总结] [16级-生物医学工程-李如璇 PhD @ University of Pittsburgh](grad-application/biomedical-engineering/[US]-16-liruxuan.md)
 
 - [2020-04-29] [申请总结] [16级-生物医学工程-邓雨晴 PhD @ Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
