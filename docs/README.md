@@ -14,7 +14,7 @@
 
 - [2020-05-04] [申请总结] [16级-计算机科学与技术-王雨童 PhD @ University of California, Davis](grad-application/computer-science-and-engineering/[US]-16-wangyutong.md)
 
-  *《从零科研到CS"赌博"，我经历了什么？》*
+  *《从零科研到CS"赌"博，我经历了什么？》*
 
 - [2020-05-03] [申请总结] [16级-生物医学工程-梁广儒 PhD @ Oregon Health & Science University](grad-application/biomedical-engineering/[US]-16-liangguangru.md)
 
@@ -98,13 +98,19 @@
 
 - [2020-03-04] [申请总结] [16级-统计与数据科学-唐晔 保研 @ 北京大学汇丰商学院](grad-application/math/statistics/[CN]-16-tangye.md) 
 
+  *《坚持中邂逅  Every small step counts》*
+
 - [2020-03-02] [英语学习] [《2个月自学雅思总分6-7》](英语学习/IELTS/2个月自学雅思总分6-7.md) by 16级-微电子科学与工程-陈秋锦
 
 - [2020-02-27] [申请总结] [16-金融工程-赖美汁 MS @ Bocconi University](grad-application/finance/financial-engineering/[IT]-16-laimeizhi.md) 
 
 - [2020-02-26] [申请总结] [16-计算机科学与技术-吴远航 就业 @ 腾讯科技股份有限公司](grad-application/computer-science-and-engineering/[CN]-16-wuyuanhang.md) 
 
+  *《我是怎么混进腾讯的》*
+
 - [2020-02-26] [申请总结] [16级-通信工程-马昊 就业 @ 深信服](grad-application/electronic-and-electrical-engineering/communication-engineering/[CN]-16-mahao.md) 
+
+  *《“另类”的求职之路》*
 
 - [2020-02-18] [海外交流] [《我为什么推荐你去KAUST做3-6个月的科研实习》](oversea-program/semester-program/why_I_suggest_u_KAUST.md) by [16级-计算机科学与技术-王雨童](https://rainytong.github.io/)
 
