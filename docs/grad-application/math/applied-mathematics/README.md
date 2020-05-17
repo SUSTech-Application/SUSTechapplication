@@ -2,11 +2,9 @@
 
 #### PhD Programs:
 
-* [16级-董泽宇 Stony Brook University](grad-application/math/applied-mathematics/[US]-16-dongzeyu.md)
-
 * [16级-徐源诚 The University of Maryland《PhD申请的“游戏规则”、科研、英语、绩点与其他》](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md)
-
 * [16级-马一铭 The University of Warwick](grad-application/math/applied-mathematics/[UK]-16-mayiming.md)
+* [16级-董泽宇 Stony Brook University](grad-application/math/applied-mathematics/[US]-16-dongzeyu.md)
 
 #### Master Programs:
 
