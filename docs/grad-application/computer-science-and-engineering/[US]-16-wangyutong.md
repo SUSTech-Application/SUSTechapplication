@@ -22,7 +22,7 @@
 >
 > UCI暑研+推荐信，KAUST科研实习+推荐信
 >
-> 申请时 no paper，目前一篇CCF-A一作在投
+> 申请时 no paper，目前一篇一作论文发表在SIGKDD 2020 (CCF-A)
 >
 > 联系方式: ytwwang@ucdavis.edu
 >
