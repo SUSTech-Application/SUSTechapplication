@@ -11,7 +11,7 @@
 >
 >一篇 CCF B Research Paper (first author)
 >
->联系方式：zhangzx@mail.sustech.edu.cn
+>联系方式：zhangzx2016@mail.sustech.edu.cn
 
 
 
