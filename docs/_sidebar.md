@@ -1,16 +1,16 @@
-- 个人申请总结 (62)
+- 个人申请总结 (64)
 
   - [计算机科学与工程系 (11)](grad-application/computer-science-and-engineering/README.md)
 
   - [生物医学工程系 (5)](grad-application/biomedical-engineering/README.md)
 
-  - [物理系 (1)](grad-application/physics/README.md)
+  - [物理系 (2)](grad-application/physics/README.md)
 
   - [生物系 (3)](grad-application/biology/README.md)
 
   - [力学与航空航天工程系 (6)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
-  - [化学系 (2)](grad-application/chemistry/README.md)
+  - [化学系 (3)](grad-application/chemistry/README.md)
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
