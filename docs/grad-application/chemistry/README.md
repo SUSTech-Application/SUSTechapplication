@@ -7,7 +7,7 @@
 
 #### Master Programs:
 
-* [15级-姜力维 Duke (转至公共管理专业)](grad-application/chemistry/[US]-15-jiangliwei.md)
+* [14级-姜力维 Duke (转至公共管理专业)](grad-application/chemistry/[US]-15-jiangliwei.md)
 
 ##### 联培：
 

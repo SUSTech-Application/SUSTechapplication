@@ -6,11 +6,10 @@
 
 - 南科大飞跃手册始创于2019年3月，往届分享请于左侧导航栏查找，以下均为本年度更新。
 
-  
 
 ## 近期更新
 
-- [2020-05-23] [申请总结] [15级-化学-姜力维 Master @ Duke University](grad-application/chemistry/[US]-15-jiangliwei.md)
+- [2020-05-23] [申请总结] [14级-化学-姜力维 Master @ Duke University](grad-application/chemistry/[US]-15-jiangliwei.md)
 
 - [2020-05-23] [申请总结] [16级-物理-汪轶凡 PhD @ Arizona State University](grad-application/physics/physics/[US]-16-wangyifan.md)
 
