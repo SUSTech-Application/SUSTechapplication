@@ -1,6 +1,6 @@
 ## 生物医学工程
 
-#### 友情链接：:point_right:[生医工保研手册](https://docs.qq.com/doc/DY1JUbGJkaGNMTHVq?disableReturnList=1&_from=2&ADUIN=820251273&ADSESSION=1573275641&ADTAG=CLIENT.QQ.5665_.0&ADPUBNO=26946&jumpuin=820251273) :point_left:
+#### 友情链接：:point_right:[生医工保研手册](https://docs.qq.com/doc/DRmtoQlhEdm9oSnpD) :point_left:
 
 #### PhD Programs:
 
