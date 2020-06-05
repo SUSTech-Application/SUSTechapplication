@@ -95,8 +95,6 @@
 
 - [2020-03-15] [申请总结] [16级-力学与航空航天工程-代宇航 PhD @ CityU](grad-application/mechanics-and-aerospace-engineering/[CN]-16-daiyuhang.md)
 
-- [2020-03-15] [申请总结] [16级-计算机科学与技术-张兆旭 PhD @ USC](grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu.md)
-
 - [2020-03-12] [就业总结] [16级-计算机科学与技术-伍凯铭 就业 @ 华为技术有限公司](grad-application/computer-science-and-engineering/[CN]-16-wukaiming.md)
 
 - [2020-03-11] [申请总结] [16级-微电子科学与工程-李伟增 保研 @ 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
