@@ -35,6 +35,7 @@
 **申请方向**
 
 > Condensed Matter Experiment
+>
 > Single-Molecule Biophysics
 
 
@@ -275,7 +276,7 @@
 >
 > 老师介绍自己做的东西及其组里的情况
 >
-> 互相问问题、尬聊（一般老师会问你已经收到哪些offer了，他们学校在你心中的定位如何，这些问题请想好后再回答。。。:slightly_smiling_face:）
+> 互相问问题、尬聊（一般老师会问你已经收到哪些offer了，他们学校在你心中的定位如何，这些问题请想好后再回答。。。:grin:）
 >
 
  
