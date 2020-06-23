@@ -5,7 +5,7 @@
 </p>
 
 
-> <middle>南方科技大学飞跃手册</middle>
+<middle>南方科技大学飞跃手册</middle>
 
 
 <!-- > SUSTech Application Wiki -->
@@ -16,5 +16,3 @@
 
 [GitHub](https://github.com/SUSTech-Application/2020-Fall)
 [Get Started](#南方科技大学飞跃手册-2020-Fall)
-
-![](src/_media/bg.jpeg)
