@@ -3,6 +3,7 @@
 #### PhD Programs:
 
 * [14级-汪立达-Penn State University](grad-application/math/statistics/[US]-14-wanglida.md)
+* [16级-赖道远-The University of Hong Kong.](grad-application/math/statistics/[HK]-16-laidaoyuan.md)
 
 #### Master Programs:
 
