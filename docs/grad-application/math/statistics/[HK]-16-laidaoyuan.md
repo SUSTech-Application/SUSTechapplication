@@ -2,18 +2,20 @@
 
 ## 申请背景
 
+赖道远 统计系
+
 > GPA 3.70/4.00; 
-> 
+>
 > ranking **21/49**;
 >
 > 研究经历（截至2019年11月）：
->1. CUHK统计系半年**无工资**RA（大四上);
+> 1. CUHK统计系半年**无工资**RA（大四上);
 >
->2. Michigan State University远程暑期研究（大三暑假);
+> 2. Michigan State University远程暑期研究（大三暑假);
 >
->3. 南科大田国梁老师讨论班（大三上）+课余research;
+> 3. 南科大田国梁老师讨论班（大三上）+课余research;
 >
->4. 南科大机械系付成龙老师实验室无工资RA（大二寒假）;
+> 4. 南科大机械系付成龙老师实验室无工资RA（大二寒假）;
 >
 > 推荐信： 本校教授（HKU, CUHK, KAUST, UCPH, KTH）+CUHK statistics AP (KAUST)
 >
