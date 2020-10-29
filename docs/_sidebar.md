@@ -30,6 +30,8 @@
 
   - [医学院(2)](grad-application/medicine/README.md)
 
+  - [深港微电子学院(1)](grad-application/school_of_microelectronics/README.md)
+
     
 
 - 海外交流 (5)
