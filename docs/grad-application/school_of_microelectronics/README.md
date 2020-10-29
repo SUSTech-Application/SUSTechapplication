@@ -1,12 +1,12 @@
-## 医学院
+## 深港微电子学院
 
 #### PhD Programs:
 
-* [16级-孙毓泽 NUS](grad-application/medicine/[SG]-16-sunyuze.md)
+To be continued
 
 #### Master Programs:
 
-* [16级-孟刘震 Karolinska Institute](grad-application/medicine/[SE]-16-mengliuzhen.md)
+To be continued
 
 ##### 联培：
 
@@ -18,7 +18,7 @@ To be continued.
 
 ##### 保研：
 
-To be continued.
+* [17级-付宇哲 北大](grad-application/school_of_microelectronics/[CN]-17-fuyuzhe.md)
 
 ##### 考研：
 
