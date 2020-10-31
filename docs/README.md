@@ -9,6 +9,8 @@
 
 ## 近期更新
 
+- [2020-10-31] [申请总结] [16级-金融科技-靖红艳 保研 @ 北京大学](grad-application/finance/financial-engineering/[CN]-16-jinghongyan.md)
+
 - [2020-10-29] [申请总结] [17级-深港微电子学院-付宇哲 保研 @ 北京大学](grad-application/school_of_microelectronics/[CN]-17-fuyuzhe.md)
 
 - [2020-08-09] [申请总结] [16级-统计学-赖道远 PhD @ The University of Hong Kong.](grad-application/math/statistics/[HK]-16-laidaoyuan.md)
