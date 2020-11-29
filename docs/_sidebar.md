@@ -2,7 +2,7 @@
 
   - [计算机科学与工程系 (11)](grad-application/computer-science-and-engineering/README.md)
 
-  - [生物医学工程系 (6)](grad-application/biomedical-engineering/README.md)
+  - [生物医学工程系 (7)](grad-application/biomedical-engineering/README.md)
 
   - [物理系 (4)](grad-application/physics/README.md)
 
@@ -14,7 +14,7 @@
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
-  - [数学与统计系 (8)](grad-application/math/README.md)
+  - [数学与统计系 (9)](grad-application/math/README.md)
 
   - [机械与能源工程系 (1)](grad-application/mechanical-and-energy-engineering/README.md)
 
