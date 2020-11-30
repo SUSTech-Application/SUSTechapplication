@@ -18,7 +18,7 @@
 
   - [机械与能源工程系 (1)](grad-application/mechanical-and-energy-engineering/README.md)
 
-  - [材料科学与工程系 (6)](grad-application/materials-science-and-engineering/README.md)
+  - [材料科学与工程系 (7)](grad-application/materials-science-and-engineering/README.md)
 
   - [海洋科学与工程系](grad-application/marine-science-and-engineering/README.md)
 
@@ -26,7 +26,7 @@
 
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
 
-  - [金融系 (8)](grad-application/finance/README.md)
+  - [金融系 (9)](grad-application/finance/README.md)
 
   - [医学院(2)](grad-application/medicine/README.md)
 

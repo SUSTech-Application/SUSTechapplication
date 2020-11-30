@@ -9,7 +9,11 @@
 
 ## 近期更新
 
-- [2020-11-27] [申请总结] [16级-数学与应用数学-赵翔宇 Master @ New York University.](grad-application/math/applied-mathematics/[US]-16-zhaoxiangyu.md)
+- [2020-11-29] [申请总结] [16级-材料科学与工程-钟柯 MSE @ Carnegie Mellon University](grad-application/materials-science-and-engineering/[US]-16-zhongke.md)
+
+- [2020-11-28] [申请总结] [16级-金融工程-李一林  MS @ National University of Singapore](grad-application/finance/financial-engineering/[SG]-16-liyilin-1.md)
+
+- [2020-11-27] [申请总结] [16级-数学与应用数学-赵翔宇 MS @ New York University.](grad-application/math/applied-mathematics/[US]-16-zhaoxiangyu.md)
 
 - [2020-11-26] [申请总结] [16级-生物医学工程-邓雨晴 PhD @ Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing-1.md)
 
@@ -25,9 +29,9 @@
 
 - [2020-06-19] [申请总结] [16级-物理-王煜寰 PhD @ University of Illinois at Urbana-Champaign.](grad-application/physics/physics/[US]-16-wangyuhuan.md)
 
-- [2020-06-05] [申请总结] [16级-生物医学工程-叶宇铭 Master @ Columbia University](grad-application/biomedical-engineering/[US]-16-yeyuming.md)
+- [2020-06-05] [申请总结] [16级-生物医学工程-叶宇铭 MS @ Columbia University](grad-application/biomedical-engineering/[US]-16-yeyuming.md)
 
-- [2020-05-23] [申请总结] [14级-化学-姜力维 Master @ Duke University](grad-application/chemistry/[US]-15-jiangliwei.md)
+- [2020-05-23] [申请总结] [14级-化学-姜力维 MS @ Duke University](grad-application/chemistry/[US]-15-jiangliwei.md)
 
 - [2020-05-23] [申请总结] [16级-物理-汪轶凡 PhD @ Arizona State University](grad-application/physics/physics/[US]-16-wangyifan.md)
 
