@@ -9,6 +9,8 @@
 
 ## 近期更新
 
+- [2020-1-7] [申请总结] [17级-金融工程-邓卓睿 MS @ 北京师范大学](grad-application/finance/financial-engineering/[CN]-17-dengzhuorui.md)
+
 - [2020-11-29] [申请总结] [16级-材料科学与工程-钟柯 MSE @ Carnegie Mellon University](grad-application/materials-science-and-engineering/[US]-16-zhongke.md)
 
 - [2020-11-28] [申请总结] [16级-金融工程-李一林  MS @ National University of Singapore](grad-application/finance/financial-engineering/[SG]-16-liyilin-1.md)

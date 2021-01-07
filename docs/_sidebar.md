@@ -1,4 +1,4 @@
-- 个人申请总结 (67)
+- 个人申请总结 (75)
 
   - [计算机科学与工程系 (11)](grad-application/computer-science-and-engineering/README.md)
 
@@ -26,7 +26,7 @@
 
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
 
-  - [金融系 (9)](grad-application/finance/README.md)
+  - [金融系 (10)](grad-application/finance/README.md)
 
   - [医学院(2)](grad-application/medicine/README.md)
 
