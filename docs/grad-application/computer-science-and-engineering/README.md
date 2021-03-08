@@ -22,9 +22,10 @@ To be continued.
 
 ##### 保研：
 
--   [17级-罗云升 浙大](grad-application/computer-science-and-engineering/[CN]-17-luoyunsheng.md)
+  - [17级-罗云升 浙大](grad-application/computer-science-and-engineering/[CN]-17-luoyunsheng.md)
 
   - [15级-章松涛 北大](grad-application/computer-science-and-engineering/[CN]-15-zhangsongtao.md)
+
   - [15级-李子强 SUSTech](grad-application/computer-science-and-engineering/[CN]-15-liziqiang.md)
 
 ##### 考研：
