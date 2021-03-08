@@ -16,7 +16,7 @@
 
   - [数学与统计系 (9)](grad-application/math/README.md)
 
-  - [机械与能源工程系 (1)](grad-application/mechanical-and-energy-engineering/README.md)
+  - [机械与能源工程系 (2)](grad-application/mechanical-and-energy-engineering/README.md)
 
   - [材料科学与工程系 (7)](grad-application/materials-science-and-engineering/README.md)
 
