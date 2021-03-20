@@ -2,6 +2,7 @@
 
 #### PhD Programs:
 
+- [17级-傅得峻 CUHK](grad-application/chemistry/[HK]-17-fudejun.md)
 - [16级-陈颖 Rice University](grad-application/chemistry/[US]-15-chenying.md)
 - [15级-南博钊 Notre Dame](grad-application/chemistry/[US]-15-nanbozhao.md)
 

@@ -10,7 +10,7 @@
 
   - [力学与航空航天工程系 (6)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
-  - [化学系 (3)](grad-application/chemistry/README.md)
+  - [化学系 (4)](grad-application/chemistry/README.md)
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
@@ -20,13 +20,13 @@
 
   - [材料科学与工程系 (7)](grad-application/materials-science-and-engineering/README.md)
 
-  - [海洋科学与工程系](grad-application/marine-science-and-engineering/README.md)
+  - [海洋科学与工程系(1)](grad-application/marine-science-and-engineering/README.md)
 
-  - [环境科学与工程学院 (2)](grad-application/environmental-science-and-engineering/README.md)
+  - [环境科学与工程学院 (3)](grad-application/environmental-science-and-engineering/README.md)
 
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
 
-  - [金融系 (10)](grad-application/finance/README.md)
+  - [金融系 (11)](grad-application/finance/README.md)
 
   - [医学院(2)](grad-application/medicine/README.md)
 
