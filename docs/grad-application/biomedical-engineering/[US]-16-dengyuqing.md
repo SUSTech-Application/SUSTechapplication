@@ -1,7 +1,5 @@
 # [US]-16-邓雨晴 PhD in ME @ Boston University
 
-### 
-
 ### 基本背景
 
 > GPA: 3.81/4 (rank 1/19)
