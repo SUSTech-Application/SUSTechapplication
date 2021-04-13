@@ -28,9 +28,9 @@
 >
 > Waitlist:
 >
-> ​		BME Ph.D. @ Rice University
->
-> ​		BME Ph.D. @ UC Irvine
+> 		BME Ph.D. @ Rice University
+> 	
+> 		BME Ph.D. @ UC Irvine
 
 ### 申请心得：
 
@@ -50,9 +50,9 @@
 
 **1.2 选校**
 
-我该参考什么排名？是否常青藤？QS？US NEWS综排/学科排名？泰晤士？软科？
-US NEWS的学科排名是相对可信的选择，**建议将US NEWS学科排名当成首要参考，其他几个排名作为辅助。**倘若你打算一直走科研这条路，可以完全不考虑任何学校的专业/综合排名，直接以课题组为导向，去试着套磁、申请你感兴趣领域的大牛。但请务必注意这句话的前提是“一直走科研这条路”，因为如果你将来要回国进入industry/company发展，公司大概率并不知道你PhD的导师可能是这个领域的开拓者，他只会关心你PhD的学校名字够不够响亮。
-选校时的一些小策略也是必不可少的。各大高校基本都会在系官网、学校官网等位置post出自己的admission data（也有的学校会很难找，可以直接在他官网的搜索处尝试关键词admission data/statistic/facts/自己发挥）。该学校的录取率、平均毕业年份、国际生比例基本都能找得到，有的学校还会post自己往年录取的学生GRE/TOEFL的成绩。这样你就可以知道这所学校的申请难度如何，按照自己对自己的定位决定是否申请（彩票费也好贵呜呜）。下图是我感觉做的比较好的Cornell University，列的非常清楚，而且可以在最上方选择你想申请的系。这样的话，**对于一些交叉类的方向，就可以选择申请难度较低的系申请**（比如一个做生物材料的教授可能在BME/MSE/医学院甚至是力学系，一个做外骨骼的教授可能在BME/机械系/力学系）。还有一些第三方网站（例如一亩三分地、某乎、gradcafe）可以参考邓雨晴学姐的分享。
+我该参考什么排名？是否常青藤？QS？USNEWS综排/学科排名？泰晤士？软科？
+USNEWS的学科排名是相对可信的选择，**建议将USNEWS学科排名当成首要参考，其他几个排名作为辅助。**倘若你打算一直走科研这条路，可以完全不考虑任何学校的专业/综合排名，直接以课题组为导向，去试着套磁、申请你感兴趣领域的大牛。但请务必注意这句话的前提是“一直走科研这条路”，因为如果你将来要回国进入industry/company发展，公司大概率并不知道你PhD的导师可能是这个领域的开拓者，他只会关心你PhD的学校名字够不够响亮。
+选校时的一些小策略也是必不可少的。各大高校基本都会在系官网、学校官网等位置post出自己的admission data（也有的学校会很难找，可以直接在他官网的搜索处尝试关键词admission data/statistic/facts/自己发挥）。该学校的录取率、平均毕业年份、国际生比例基本都能找得到，有的学校还会post自己往年录取的学生GRE/TOEFL的成绩。这样你就可以知道这所学校的申请难度如何，按照自己对自己的定位决定是否申请（彩票费也好贵呜呜）。下图是我感觉做的比较好的Cornell University，列的非常清楚，而且可以在最上方选择你想申请的系。这样的话，**对于一些交叉类的方向，就可以选择申请难度较低的系申请**（比如一个做生物材料的教授可能在BME/MSE/医学院甚至是力学系，一个做外骨骼的教授可能在BME/机械系/力学系）。还有一些第三方网站（例如一亩三分地、某乎、gradcafe）可以参考[邓雨晴学姐的分享](https://sustech-application.github.io/2020-Fall/#/grad-application/biomedical-engineering/[US]-16-dengyuqing)。
 
 
 
@@ -66,7 +66,7 @@ US NEWS的学科排名是相对可信的选择，**建议将US NEWS学科排名�
 
 ##### 2.导师选择/套磁
 
-这部分我当时也是参考邓雨晴学姐的分享，我就大概说一下套磁。套磁不需要特别早，我套磁分了两批，分别是在网申开始的初期和提交申请后。对于committee不那么强势的学校，套磁是比较重要的，**但套磁前一定要先对目标导师的研究有较为深入的了解**（仅仅看他在官网上的介绍是不够的，请务必读几篇组内近期发表的文章），**并且请务必仔细读一读**http://michaelfranz.com/prospectivestudents.html。这是UC Irvine一位计系教授写的，很多人套磁时收不到回复，往往并不是因为邮件被屏蔽/自己能力差，而是因为他们写的套磁邮件往往都是模式化的和无效的。对很多教授而言，一天收到数十封套磁邮件并不罕见，当模式化的套磁信混在一大堆学校、学术期刊、合作企业、试剂公司的邮件中，换作你是教授，你肯定也不愿意耐心分析一下这个学生适不适合自己的课题组吧。
+这部分我当时也是参考[邓雨晴学姐的分享](https://sustech-application.github.io/2020-Fall/#/grad-application/biomedical-engineering/[US]-16-dengyuqing)，我就大概说一下套磁。套磁不需要特别早，我套磁分了两批，分别是在网申开始的初期和提交申请后。对于committee不那么强势的学校，套磁是比较重要的，**但套磁前一定要先对目标导师的研究有较为深入的了解**（仅仅看他在官网上的介绍是不够的，请务必读几篇组内近期发表的文章），**并且请务必仔细读一读**[这篇写给申请者的信](http://michaelfranz.com/prospectivestudents.html)。这是UC Irvine一位计系教授写的，很多人套磁时收不到回复，往往并不是因为邮件被屏蔽/自己能力差，而是因为他们写的套磁邮件往往都是模式化的和无效的。对很多教授而言，一天收到数十封套磁邮件并不罕见，当模式化的套磁信混在一大堆学校、学术期刊、合作企业、试剂公司的邮件中，换作你是教授，你肯定也不愿意耐心分析一下这个学生适不适合自己的课题组吧。
 
 
 
@@ -109,21 +109,23 @@ GRE和托福送分的时候，一定去官网查清楚代码，不要相信名�
 
 **？面试问题：**
 
-提前准备一个Question list是很重要的，常见问题可以看谢丹宁学姐的这篇分享。除了学姐列出的问题外，在此我也补充一些我遇到的问题，诸如：Why this research direction? Career vision? 如果教授听你自我介绍完以后就开始仔细地介绍自己的科研方向，请注意，他往往会希望你在听完以后发表看法/提出针对性的问题/问你是否感兴趣，这时候你一定要能比较详细地就某一个点展开自己的陈述或者提出问题，最好是他的实验室网站上没写、但他刚刚有讲到的点。
+提前准备一个Question list是很重要的，常见问题可以看[谢丹宁学姐的这篇分享](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-15-xiedanning)。除了学姐列出的问题外，在此我也补充一些我遇到的问题，诸如：Why this research direction? Career vision? 如果教授听你自我介绍完以后就开始仔细地介绍自己的科研方向，请注意，他往往会希望你在听完以后发表看法/提出针对性的问题/问你是否感兴趣，这时候你一定要能比较详细地就某一个点展开自己的陈述或者提出问题，最好是他的实验室网站上没写、但他刚刚有讲到的点。
 
 **！困难问题：**
 
-我面试时遇到了两个问题，让我顿时手冒冷汗，感觉有点难以回答。一位是哥大教授的面试时，给我来了一套连环追问What do you think will be the biggest difference between Columbia University and SUSTech? What do you think will be the toughest challenge for your PhD study at Columbia University? How will you change yourself to beat the challenge? 另一位是NUS教授的面试，在口头介绍了大概3-5分钟自己的研究方向之后，问我Based on what I have said, your interests, and your research experience, can you make a small proposal of what we can probably work together?很巧，这位NUS教授也正是我将来在NUS的导师。
+我面试时遇到了两个问题，让我顿时手冒冷汗，感觉有点难以回答。一位是哥大教授的面试时，给我来了一套连环追问；What do you think will be the biggest difference between Columbia University and SUSTech? What do you think will be the toughest challenge for your PhD study at Columbia University? How will you change yourself to beat the challenge? 另一位是NUS教授的面试，在口头介绍了大概3-5分钟自己的研究方向之后，问我Based on what I have said, your interests, and your research experience, can you make a small proposal of what we can probably work together?很巧，这位NUS教授也正是我将来在NUS的导师。
 
 **~快乐问题：**
 
-其实一直以来，我对面试还是不太紧张的，因为交流过程中总是会有一些快乐的成分，而且面试是一个把自己网申材料里体现不出来的内容体现出来的机会（比如文章正在审）。五场面试里，教授/委员会跟我聊着聊着，我们甚至会彼此讲段子/插科打诨逗得彼此大笑，聊完之后他们也都表示很enjoy talking to me。比如NUS一位教授跟我面试时，看到了我的猫在我身后跑上跑下跳来跳去，于是问我我家猫的名字，还问will you bring your cat to NUS? 他表示自己在NUS也养了两只猫，他还当场抱了一只过来给我看，说另一只在上厕所。
+其实一直以来，我对面试还是不太紧张的，因为交流过程中总是会有一些快乐的成分，而且面试是一个把自己网申材料里体现不出来的内容体现出来的机会（比如文章正在审）。因此，对待面试的心态就显得十分重要，一个良好的面试心态会无形之中让自己的performance有很大提升。试着这样考虑：网申-面试的淘汰率显著高于面试-admission的淘汰率，而你已经得到了面试，说明教授对你还是很感兴趣的，本身机会就已经很大了；不妨将教授当做一位将来潜在的合作对象（当然，in a respectful way），去正常的聊一场天。你并不必须一直非常严肃、非常学术，可以试着抛一抛梗（当然，避免敏感话题如黄赌毒和种族问题），如果对方接了，会让整个面试的氛围变得非常好。五场面试里，教授/委员会跟我聊着聊着，我们常会被彼此的梗逗得大笑，聊完之后他们也都表示很enjoy talking to me。比如NUS一位教授跟我面试时，看到了我的猫在我身后跑上跑下跳来跳去，于是问我我家猫的名字，还问will you bring your cat to NUS? 他表示自己在NUS也养了两只猫，他还当场抱了一只过来给我看，说另一只在上厕所。再比如哥大的教授与我面试时，我把生医工的学科交叉比作了各有长处的Avengers，结果他直接问我最喜欢漫威的哪个英雄。
 
 
 
 ##### 4.最后补充一些可能是有点病病的学校特色 (doge
 
-Brown University （BME Ph.D.）：美国现场面试。我不确定这是整个布朗的要求、BME博士项目的要求、还是部分教授的要求。邓雨晴学姐一年前人在美国，去现场进行了面试，而我没有美国Visa，疫情也很难出国。尽管我多次与那位跟我约了面试的教授进行交涉“由于疫情和签证原因，能否改为线上面试”，依然无果，于是最后只能吞下一个ScM（硕士）项目。
+**Brown University （BME Ph.D.）：**
+
+美国现场面试。我不确定这是整个布朗的要求、BME博士项目的要求、还是部分教授的要求。邓雨晴学姐一年前人在美国，去现场进行了面试，而我没有美国Visa，疫情也很难出国。尽管我多次与那位跟我约了面试的教授进行交涉“由于疫情和签证原因，能否改为线上面试”，依然无果，于是最后只能吞下一个ScM（硕士）项目。
 
 **U Wisconsin Madison：**
 
