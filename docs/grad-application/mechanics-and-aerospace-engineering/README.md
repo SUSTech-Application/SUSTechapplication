@@ -2,6 +2,8 @@
 
 #### PhD Programs:
 
+-   [17级-陈炫午 清华](grad-application/mechanics-and-aerospace-engineering/[CN]-17-chenxuanwu.md)
+
   - [15级-贺子龙 UMN](grad-application/mechanics-and-aerospace-engineering/[US]-15-hezilong.md)
 
 #### Master Programs:

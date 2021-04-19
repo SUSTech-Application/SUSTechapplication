@@ -8,7 +8,7 @@
 
   - [生物系 (3)](grad-application/biology/README.md)
 
-  - [力学与航空航天工程系 (6)](grad-application/mechanics-and-aerospace-engineering/README.md)
+  - [力学与航空航天工程系 (7)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
   - [化学系 (4)](grad-application/chemistry/README.md)
 
