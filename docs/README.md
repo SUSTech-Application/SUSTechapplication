@@ -9,6 +9,8 @@
 
 ## 近期更新
 
+- [2021-06-10] [申请总结] [17级-计算机科学与技术-栾闻迪 MSCS @ University of California, San Diego](grad-application/computer-science-and-engineering/[US]-17-luanwendi.md)
+
 - [2021-04-28] [申请总结] [17级-生物科学-王超 PhD @ University of Southern California](grad-application/biology/bioscience/[US]-17-wangchao.md)
 
 - [2021-04-20] [申请总结] [17级-医学院-丁明语 PhD @ 清华大学](grad-application/medicine/[CN]-17-dingmingyu.md)
