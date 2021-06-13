@@ -2,11 +2,11 @@
 
 #### PhD Programs:
 
-*   [17级-刘雯文 同济大学](grad-application/marine-science-and-engineering/[CN]-17-liuwenwen.md)
+* [17级-刘雯文 同济大学](grad-application/marine-science-and-engineering/[CN]-17-liuwenwen.md)
 
 #### Master Programs:
 
-To be continued.
+* [17级-廖崇霖 名古屋大学](grad-application/marine-science-and-engineering/[JP]-17-liaochonglin.md)
 
 ##### 联培：
 

@@ -9,6 +9,8 @@
 
 ## 近期更新
 
+- [2021-06-13] [申请总结] [17级-海洋科学与工程-廖崇霖 G30/SGU修士 @ Nagoya University](grad-application/marine-science-and-engineering/[JP]-17-liaochonglin.md)
+
 - [2021-06-10] [申请总结] [17级-计算机科学与技术-栾闻迪 MSCS @ University of California, San Diego](grad-application/computer-science-and-engineering/[US]-17-luanwendi.md)
 
 - [2021-04-28] [申请总结] [17级-生物科学-王超 PhD @ University of Southern California](grad-application/biology/bioscience/[US]-17-wangchao.md)
