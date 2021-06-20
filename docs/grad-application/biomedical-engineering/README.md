@@ -18,6 +18,8 @@
 
   - [17级-孙锐 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-sunrui.md)
 
+  - [17级-高旭 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-gaoxu.md)
+
 #### Master Programs:
 
 - [16级-叶宇铭 Columbia University](grad-application/biomedical-engineering/[US]-16-yeyuming.md)
