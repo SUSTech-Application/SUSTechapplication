@@ -18,7 +18,7 @@
 
   - [机械与能源工程系 (2)](grad-application/mechanical-and-energy-engineering/README.md)
 
-  - [材料科学与工程系 (7)](grad-application/materials-science-and-engineering/README.md)
+  - [材料科学与工程系 (8)](grad-application/materials-science-and-engineering/README.md)
 
   - [海洋科学与工程系 (2)](grad-application/marine-science-and-engineering/README.md)
 

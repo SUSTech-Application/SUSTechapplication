@@ -23,6 +23,7 @@ To be continued.
 ##### 保研：
 
 * [16级-姜诚 清华大学深圳国际研究生院](grad-application/materials-science-and-engineering/[CN]-16-jiangcheng.md)
+* [17级-白浩宇 北京大学](grad-application/materials-science-and-engineering/[CN]-17-baihaoyu.md)
 
 ##### 考研：
 
