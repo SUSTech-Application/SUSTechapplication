@@ -1,4 +1,4 @@
-- 个人申请总结 (95)
+- 个人申请总结 (96)
 
   - [计算机科学与工程系 (13)](grad-application/computer-science-and-engineering/README.md)
 
@@ -16,7 +16,7 @@
 
   - [数学与统计系 (9)](grad-application/math/README.md)
 
-  - [机械与能源工程系 (2)](grad-application/mechanical-and-energy-engineering/README.md)
+  - [机械与能源工程系 (3)](grad-application/mechanical-and-energy-engineering/README.md)
 
   - [材料科学与工程系 (8)](grad-application/materials-science-and-engineering/README.md)
 
