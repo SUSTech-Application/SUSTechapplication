@@ -1,4 +1,4 @@
-- 个人申请总结 (96)
+- 个人申请总结 (98)
 
   - [计算机科学与工程系 (13)](grad-application/computer-science-and-engineering/README.md)
 
@@ -10,7 +10,7 @@
 
   - [力学与航空航天工程系 (7)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
-  - [化学系 (4)](grad-application/chemistry/README.md)
+  - [化学系 (5)](grad-application/chemistry/README.md)
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
@@ -26,7 +26,7 @@
 
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
 
-  - [金融系 (11)](grad-application/finance/README.md)
+  - [金融系 (12)](grad-application/finance/README.md)
 
   - [医学院 (3)](grad-application/medicine/README.md)
 
