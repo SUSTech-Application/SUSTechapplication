@@ -9,6 +9,7 @@
 
 ## 近期更新
 
+- [2021-07-05] [申请总结] [17级-化学-陈在竹 MSc @ IC](grad-application/chemistry/[UK]-17-chenzaizhu.md)
 - [2021-07-05] [申请总结] [17级-金融工程-朱烨赟 MIM @ HEC Paris](grad-application/finance/financial-engineering/[FR]-17-zhuyeyun.md)
 
 - [2021-06-27] [申请总结] [17级-机械与能源工程-邓然宝 MSC @ TU Delft](grad-application/mechanical-and-energy-engineering/[NL]-17-dengranbao.md)
