@@ -24,13 +24,12 @@
 >
 > BME MS/Ph.D. @ Columbia University
 >
+> BME Ph.D. @ UC Irvine
+>
 > BME ScM @ Brown University
 >
-> Waitlist:
->
-> 		BME Ph.D. @ Rice University
+> BME ScM @ Rice University
 > 	
-> 		BME Ph.D. @ UC Irvine
 
 ### 申请心得：
 
