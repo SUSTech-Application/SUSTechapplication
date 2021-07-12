@@ -9,6 +9,8 @@
 
 ## 近期更新
 
+- [2021-07-12] [申请总结] [16级-数学与应用数学-林睿军 Msc @ University of Copenhagen](grad-application/math/applied-mathematics/[DNK]-16-linruijun.md)
+
 - [2021-07-05] [申请总结] [17级-化学-陈在竹 MSc @ IC](grad-application/chemistry/[UK]-17-chenzaizhu.md)
 - [2021-07-05] [申请总结] [17级-金融工程-朱烨赟 MIM @ HEC Paris](grad-application/finance/financial-engineering/[FR]-17-zhuyeyun.md)
 

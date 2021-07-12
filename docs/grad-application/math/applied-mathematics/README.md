@@ -9,7 +9,7 @@
 
 #### Master Programs:
 
-To be continued.
+- [16级-林睿军 University of Copenhagen](grad-application/math/applied-mathematics/[DNK]-16-linruijun.md)
 
 ##### 联培：
 
