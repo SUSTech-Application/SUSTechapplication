@@ -9,7 +9,7 @@
 
 #### Master Programs:
 
-- [17级-胡铭涛 University of Michigan Ann Arbor](grad-application/school_of_microelectronics/[US]-17-humingtao.md)
+- [17级-胡明涛 University of Michigan Ann Arbor](grad-application/school_of_microelectronics/[US]-17-humingtao.md)
 
 ##### 联培：
 
