@@ -9,7 +9,7 @@
 
 ## 近期更新
 
-- [2021-07-20] [申请总结] [17级-深港微电子学院-胡铭涛 ECE MS @ University of Michigan Ann Arbor](grad-application/school_of_microelectronics/[US]-17-humingtao.md)
+- [2021-07-20] [申请总结] [17级-深港微电子学院-胡明涛 ECE MS @ University of Michigan Ann Arbor](grad-application/school_of_microelectronics/[US]-17-humingtao.md)
 
 - [2021-07-12] [申请总结] [16级-数学与应用数学-林睿军 Msc @ University of Copenhagen](grad-application/math/applied-mathematics/[DNK]-16-linruijun.md)
 
