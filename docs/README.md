@@ -199,7 +199,7 @@
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`/`Markdown`文件发送到**xuc2019 AT mail.sustech.edu.cn**，我们会帮助你上架。
-2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2020-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
+2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2020-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 [**《如何进行经验分享》**](如何进行经验分享)，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
 
@@ -217,3 +217,6 @@
 * Grantome 美国教授科研经费查询 https://grantome.com/search
 * NIH 美国教授科研经费查询 https://report.nih.gov/ 
 
+## 支持与备案信息
+
+🏛️[粤ICP备2021105344号](beian.miit.gov.cn)
