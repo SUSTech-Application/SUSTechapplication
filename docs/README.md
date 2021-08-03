@@ -219,4 +219,4 @@
 
 ## 支持与备案信息
 
-🏛️[粤ICP备2021105344号](beian.miit.gov.cn)
+🏛️[粤ICP备2021105344号](https://beian.miit.gov.cn/#/Integrated/index)
