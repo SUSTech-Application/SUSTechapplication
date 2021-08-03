@@ -26,7 +26,7 @@ To be continued.
 
 ##### 考研：
 
-- [16级-单坤 SUSTech](grad-application/chemistry/[SUSTech]-16-ShanKun.md)
+- [16级-单坤 SUSTech](grad-application/chemistry/[CN]-16-ShanKun.md)
 
 ##### 就业：
 

@@ -1,4 +1,4 @@
-- 个人申请总结 (100)
+- 个人申请总结 (101)
 
   - [计算机科学与工程系 (13)](grad-application/computer-science-and-engineering/README.md)
 
@@ -10,7 +10,7 @@
 
   - [力学与航空航天工程系 (7)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
-  - [化学系 (5)](grad-application/chemistry/README.md)
+  - [化学系 (6)](grad-application/chemistry/README.m)
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
@@ -31,8 +31,6 @@
   - [医学院 (3)](grad-application/medicine/README.md)
 
   - [深港微电子学院 (7)](grad-application/school_of_microelectronics/README.md)
-
-    
 
 - 海外交流 (5)
 
