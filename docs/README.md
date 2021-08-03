@@ -2,7 +2,7 @@
 
 ## 公告：
 
-- 请有意愿负责筹划 **2021-Fall** 飞跃手册的同学联系：xuc2019 AT mail.sustech.edu.cn。
+- 请有意愿负责筹划 **2022-Fall** 飞跃手册的同学联系：xuc2019 AT mail.sustech.edu.cn。
 - 南科大飞跃手册始创于2019年3月，往届分享请于左侧导航栏查找，以下均为本年度更新。
 
 * 感谢15级和16级学长学姐们的努力和付出。
@@ -14,6 +14,7 @@
 - [2021-07-12] [申请总结] [16级-数学与应用数学-林睿军 Msc @ University of Copenhagen](grad-application/math/applied-mathematics/[DNK]-16-linruijun.md)
 
 - [2021-07-05] [申请总结] [17级-化学-陈在竹 MSc @ IC](grad-application/chemistry/[UK]-17-chenzaizhu.md)
+
 - [2021-07-05] [申请总结] [17级-金融工程-朱烨赟 MIM @ HEC Paris](grad-application/finance/financial-engineering/[FR]-17-zhuyeyun.md)
 
 - [2021-06-27] [申请总结] [17级-机械与能源工程-邓然宝 MSC @ TU Delft](grad-application/mechanical-and-energy-engineering/[NL]-17-dengranbao.md)
@@ -46,7 +47,7 @@
 
 - [2021-01-15] [申请总结] [17级-机械与能源工程-刘彦菁 MSC @ TU Delft](grad-application/mechanical-and-energy-engineering/[US]-17-liuyanjing.md)
 
-- [2021-01-7] [申请总结] [17级-金融工程-邓卓睿 MS @ 北京师范大学](grad-application/finance/financial-engineering/[CN]-17-dengzhuorui.md)
+- [2021-01-07] [申请总结] [17级-金融工程-邓卓睿 MS @ 北京师范大学](grad-application/finance/financial-engineering/[CN]-17-dengzhuorui.md)
 
 - [2020-11-29] [申请总结] [16级-材料科学与工程-钟柯 MSE @ Carnegie Mellon University](grad-application/materials-science-and-engineering/[US]-16-zhongke.md)
 
@@ -219,4 +220,4 @@
 
 ## 支持与备案信息
 
-🏛️[粤ICP备2021105344号](beian.miit.gov.cn)
+🏛️[粤ICP备2021105344号](https://beian.miit.gov.cn/#/Integrated/index)
