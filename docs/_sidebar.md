@@ -10,7 +10,7 @@
 
   - [力学与航空航天工程系 (7)](grad-application/mechanics-and-aerospace-engineering/README.md)
 
-  - [化学系 (6)](grad-application/chemistry/README.m)
+  - [化学系 (6)](grad-application/chemistry/README.md)
 
   - [地球与空间科学系 (1)](grad-application/earth-and-space-science/README.md)
 
