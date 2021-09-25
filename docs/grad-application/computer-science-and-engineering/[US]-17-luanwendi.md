@@ -6,7 +6,7 @@
 >
 >TOEFL: 107 (Best Score 109 - R29 L30 S25 W25)
 >
->GRE: V153 + Q169 + AW3.5
+>GRE: V158 + Q169 + AW3.5
 >
 >NUS SoC Summer Workshop （大二结束的暑假）
 >
