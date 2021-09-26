@@ -209,7 +209,11 @@
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/2020-Fall/tree/master/docs)路径下的对应文件夹Pull Request，可参考 [**《如何进行经验分享》**](如何进行经验分享)，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
+## 贡献者
 
+<a href="https://github.com/SUSTech-Application/2020-Fall/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=SUSTech-Application/2020-Fall" />
+</a>
 
 ## 友情链接
 
