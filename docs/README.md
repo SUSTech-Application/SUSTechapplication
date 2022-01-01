@@ -11,9 +11,9 @@
 
 - 投稿/修改请联系 **xuc2019 AT mail.sustech.edu.cn** 或 **lisl2018 AT mail.sustech.edu.cn**
 
-## 2022-Fall
+## 意见/改进
 
-- 期待您的投稿
+- 【腾讯文档】南方科技大学飞跃手册意见征集表 https://docs.qq.com/sheet/DVXF2aW1oZENWR2pR
 
 ## 近期更新
 
