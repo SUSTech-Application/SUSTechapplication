@@ -31,7 +31,7 @@ To be continued.
 
 ##### 考研：
 
-To be continued.
+- [18级-匿名](grad-application/computer-science-and-engineering/[CN]-18-anonymous.md)
 
 ##### 就业：
 
