@@ -182,7 +182,7 @@ l 黑名单：部分学校会有一些引人非议的操作，每年都有人中
 
 十二月中旬可以在研招网打印准考证
 
-![1648442641(1)](_1.png)
+![1648442641(1)](grad-application/computer-science-and-engineering/[CN]-18-anoymous/_1.png)
 
 ### 五. 初试
 
@@ -210,7 +210,7 @@ l 黑名单：部分学校会有一些引人非议的操作，每年都有人中
 
 附件仅供参考
 
-![计算机网络](cn.png)
+![计算机网络](grad-application/computer-science-and-engineering/[CN]-18-anoymous/cn.png)
 
  
 
@@ -218,4 +218,4 @@ l 黑名单：部分学校会有一些引人非议的操作，每年都有人中
 
 高数版
 
-![序章 函数及初等特性](0.png)![第一章 极限与连续](1.png)![第二章 导数与微分](2.png)![第三章 一元微分学的应用](3.png)![第四章 不定积分](4.png)![第五章 定积分及应用](5.png)![第六章 多元函数微分学](6.png)![第七章 微分方程](7.png)![第八章 重积分](8.png)![第九章 级数](9.png)![第十章 空间解析几何之向量](10.png)![第十一章 曲线积分与曲面积分](11.png)
+![序章 函数及初等特性](grad-application/computer-science-and-engineering/[CN]-18-anoymous/0.png)![第一章 极限与连续](grad-application/computer-science-and-engineering/[CN]-18-anoymous/1.png)![第二章 导数与微分](grad-application/computer-science-and-engineering/[CN]-18-anoymous/2.png)![第三章 一元微分学的应用](grad-application/computer-science-and-engineering/[CN]-18-anoymous/3.png)![第四章 不定积分](grad-application/computer-science-and-engineering/[CN]-18-anoymous/4.png)![第五章 定积分及应用](grad-application/computer-science-and-engineering/[CN]-18-anoymous/5.png)![第六章 多元函数微分学](grad-application/computer-science-and-engineering/[CN]-18-anoymous/6.png)![第七章 微分方程](grad-application/computer-science-and-engineering/[CN]-18-anoymous/7.png)![第八章 重积分](grad-application/computer-science-and-engineering/[CN]-18-anoymous/8.png)![第九章 级数](grad-application/computer-science-and-engineering/[CN]-18-anoymous/9.png)![第十章 空间解析几何之向量](grad-application/computer-science-and-engineering/[CN]-18-anoymous/10.png)![第十一章 曲线积分与曲面积分](grad-application/computer-science-and-engineering/[CN]-18-anoymous/11.png)
