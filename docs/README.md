@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2022-03-31] [考研总结] [18级-计算机科学与工程系-匿名](grad-application/computer-science-and-engineering/[CN]-18-anonymous.md)
 
 - [2022-03-31] [申请总结] [18级-信管系-李之宸 MISM-BIDA @ CMU](grad-application/information-systems-and-management-engineering/big-data-management-and-applications/[US]-18-lizhichen.md)
 
