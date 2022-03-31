@@ -17,6 +17,11 @@
 
 ## 近期更新
 
+
+- [2022-03-31] [申请总结] [18级-李之宸 MISM-BIDA @ CMU](grad-application/information-systems-and-management-engineering/big-data-management-and-applications/[US]-18-lizhichen.md)
+
+- [2022-03-31] 新增[**信管系**](grad-application/information-systems-and-management-engineering/README.md)专业申请手册！
+
 - [2021-09-13] [申请总结] [17级-艾谦 PhD @ UIUC](grad-application/materials-science-and-engineering/[US]-17-aiqian.md)
 
 - [2021-08-16] [申请总结] [17级-生物科学-张展 PhD @ UPenn](grad-application/biology/bioscience/[US]-17-zhangzhan.md)
