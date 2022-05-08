@@ -9,6 +9,7 @@
 
 #### Master Programs:
 
+  - [18级-周澳蕾 CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md)
   - [17级-栾闻迪 UCSD](grad-application/computer-science-and-engineering/[US]-17-luanwendi.md)
   - [16级-陈德缘 CMU](grad-application/computer-science-and-engineering/[US]-16-chendeyuan.md)
   - [15级-方一栋 UW-Madison](grad-application/computer-science-and-engineering/[US]-15-fangyidong.md)

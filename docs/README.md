@@ -18,6 +18,7 @@
 
 ## 近期更新
 
+- [2022-03-11] [申请总结]  [18级-计算机科学与技术-周澳蕾 MS @ CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md) 
 - [2022-03-31] [保研总结] [18级-金融-肖钰琪 保研 @ 北京大学](grad-application/finance/finance/[CN]-18-xiaoyuqi.md)
 - [2022-03-31] [保研总结] [18级-金融工程-温纪鹏 保研 @ 清华大学](grad-application/finance/financial-engineering/[CN]-18-wenjipeng.md)
 - [2022-03-21] [考研总结] [18级-计算机科学与工程系-匿名](grad-application/computer-science-and-engineering/[CN]-18-anonymous.md)
