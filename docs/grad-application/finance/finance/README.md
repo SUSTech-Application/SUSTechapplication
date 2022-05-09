@@ -17,6 +17,8 @@ To be continued.
 To be continued.
 
 ##### 保研：
+
+- [18级-肖钰琪 北京大学](grad-application/finance/finance/[CN]-18-xiaoyuqi.md)
 - [17级-顾心怡 北京大学](grad-application/finance/finance/[CN]-17-guxinyi.md)
 - [16级-赵言楚 清华大学](grad-application/finance/finance/[CN]-16-zhaoyanchu.md)
 - [15级-蔡多 中山大学](grad-application/finance/finance/[CN]-15-caiduo.md)
