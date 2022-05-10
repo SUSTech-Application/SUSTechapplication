@@ -2,7 +2,7 @@
 
   - [计算机科学与工程系 (15)](grad-application/computer-science-and-engineering/README.md)
 
-  - [生物医学工程系 (9)](grad-application/biomedical-engineering/README.md)
+  - [生物医学工程系 (10)](grad-application/biomedical-engineering/README.md)
 
   - [物理系 (5)](grad-application/physics/README.md)
 

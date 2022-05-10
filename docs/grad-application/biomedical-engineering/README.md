@@ -4,6 +4,12 @@
 
 #### PhD Programs:
 
+  - [18级-王澍辰  Hong Kong University of Science and Technology ](grad-application/biomedical-engineering/[HK]-18-wangshuchen.md)
+
+  - [17级-孙锐 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-sunrui.md)
+
+  - [17级-高旭 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-gaoxu.md)
+
   - [16级-邓雨晴 Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
 
   - [16级-邓雨晴 Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing-1.md)
@@ -15,10 +21,6 @@
     *《选择了PhD的master分享》*
 
   - [16级-梁广儒 Oregon Health & Science University](grad-application/biomedical-engineering/[US]-16-liangguangru.md)
-
-  - [17级-孙锐 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-sunrui.md)
-
-  - [17级-高旭 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-gaoxu.md)
 
 #### Master Programs:
 
