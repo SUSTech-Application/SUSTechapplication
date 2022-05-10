@@ -22,7 +22,7 @@ To be continued.
 
 ##### 保研：
 
-* [18级-温纪鹏-清华大学](grad-application/finance/financial-engineering/[CN]-18-wenjipeng.md)
+* [18级-温济鹏-清华大学](grad-application/finance/financial-engineering/[CN]-18-wenjipeng.md)
 * [17级-邓卓睿-北京师范大学](grad-application/finance/financial-engineering/[CN]-17-dengzhuorui.md)
 * [16级-公国钰 北京大学](grad-application/finance/financial-engineering/[CN]-16-gongguoyu.md)
 * [16级-靖红艳 北京大学](grad-application/finance/financial-engineering/[CN]-16-jinghongyan.md)
