@@ -5,11 +5,11 @@
 * [16级-徐源诚 The University of Maryland《PhD申请的“游戏规则”、科研、英语、绩点与其他》](grad-application/math/applied-mathematics/[US]-16-xuyuancheng.md)
 * [16级-马一铭 The University of Warwick](grad-application/math/applied-mathematics/[UK]-16-mayiming.md)
 * [16级-董泽宇 Stony Brook University](grad-application/math/applied-mathematics/[US]-16-dongzeyu.md)
-* [16级-赵翔宇 New York University.](grad-application/math/applied-mathematics/[US]-16-zhaoxiangyu.md)
 
 #### Master Programs:
 
 - [16级-林睿军 University of Copenhagen](grad-application/math/applied-mathematics/[DNK]-16-linruijun.md)
+- [16级-赵翔宇 New York University.](grad-application/math/applied-mathematics/[US]-16-zhaoxiangyu.md)
 
 ##### 联培：
 
