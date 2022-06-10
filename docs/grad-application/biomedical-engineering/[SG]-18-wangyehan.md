@@ -1,4 +1,4 @@
-# \[SG\]-18-王叶晗 Biomedical Engineering MSc @ NUS
+# \[SG\]-18-王叶晗 Biotechnology MSc @ NUS
 
 ## 基本背景
 > 姓名：王叶晗
