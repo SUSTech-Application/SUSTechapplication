@@ -6,7 +6,6 @@
 - 支持**实名/匿名**投稿
 - 南科大飞跃手册始创于2019年3月，往届分享请于左侧导航栏查找，以下为更新记录。
 - 如果您对飞跃手册有好一点的建议可以通过邮箱联系我们（联系邮箱在投稿/修改标题下），让我们一起完善飞跃手册！
-- 感谢15级和16级学长学姐们的努力和付出。
 
 ## 投稿/修改
 
@@ -18,6 +17,7 @@
 
 ## 近期更新
 
+- [2022-06-10] [申请总结] [18级-生物医学工程-王叶晗 Biomedical Engineering MSc @ NUS](grad-application/biomedical-engineering/[SG]-18-wangyehan.md)
 - [2022-05-10] [申请总结]  [18级-生物医学工程-王澍辰   PhD @ HKUST ](grad-application/biomedical-engineering/[HK]-18-wangshuchen.md)
 - [2022-05-01] [申请总结] [18级-计算机科学与技术-周澳蕾 MS @ CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md)
 - [2022-03-31] [保研总结] [18级-金融-肖钰琪 保研 @ 北京大学](grad-application/finance/finance/[CN]-18-xiaoyuqi.md)
