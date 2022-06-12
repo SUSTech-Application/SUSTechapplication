@@ -18,8 +18,8 @@
 ### Contributing
 
 - Fork it!
-- Install `docsify-cli` globally via `npm`: `npm i docsify-cli -g`
-- Run docsify locally: `docsify serve docs`
+- Install dependency: `npm install` or `yarn install`
+- Run site locally: `npm run serve` or `yarn serve`
 - Create your feature branch: `git checkout -b my-new-feature`
 - Commit your changes: `git commit -am 'Add some feature'`
 - Push to the branch: `git push origin my-new-feature`

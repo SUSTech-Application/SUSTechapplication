@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 
 <head>
   <meta charset="UTF-8">
@@ -9,21 +9,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
   <meta name="description" content="A magical documentation generator.">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" title="vue">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css" title="dark" disabled>
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/buble.css" title="buble" disabled>
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/pure.css" title="pure" disabled>
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/vue.css" title="vue">
+  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/dark.css" title="dark" disabled>
+  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/buble.css" title="buble" disabled>
+  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/pure.css" title="pure" disabled>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-206673889-3"></script>
   <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'UA-206673889-3');
+    gtag('config', 'UA-206673889-3');
   </script>
-  <script src="//unpkg.com/docsify-plugin-codefund/index.js"></script>
   <style>
     nav.app-nav li ul {
       min-width: 100px;
@@ -33,6 +33,7 @@
 
 <body>
   <div id="app">Loading ...</div>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
     window.$docsify = {
       alias: {
@@ -56,15 +57,11 @@
       name: 'SUSTech Application',
       search: {
         noData: {
-          '/de-de/': 'Keine Ergebnisse!',
-          '/zh-cn/': '没有结果!',
-          '/': 'No results!'
+          '/': '没有结果!',
         },
         paths: 'auto',
         placeholder: {
-          '/de-de/': 'Suche',
-          '/zh-cn/': '搜索',
-          '/': 'Search'
+          '/': '搜索',
         }
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
@@ -76,32 +73,27 @@
                 .replace('raw.githubusercontent.com', 'github.com')
                 .replace(/\/master/, '/blob/master')
             } else {
-              url = 'https://github.com/SUSTech-Application/2020-Fall/blob/master/docs/' + vm.route.file
+              url = 'https://github.com/SUSTech-Application/SUSTechapplication/blob/master/docs/' + vm.route.file
             }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            var editHtml = '[:memo: Edit Document](' + url + ')\n';
+            var year = new Date().getFullYear();
 
             return editHtml
               + html
               + '\n\n----\n\n'
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
+              + '©  2019 - '+ year + ' 南方科技大学飞跃手册编委会. '
+              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>.'
           })
         },
       ]
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
-
-  <script>
-  ((window.gitter = {}).chat = {}).options = {
-    room: 'SUSTech-Application/2020-Fall'
-  };
-  </script>
-  <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+  <script src="//lib.baomitu.com/docsify/4.12.2/docsify.min.js"></script>
+  <script src="//lib.baomitu.com/docsify/4.12.2/plugins/search.min.js"></script>
+  <script src="//lib.baomitu.com/docsify/4.12.2/plugins/ga.min.js"></script>
+  <script src="//lib.baomitu.com/prism/1.28.0/components/prism-bash.min.js"></script>
+  <script src="//lib.baomitu.com/prism/1.28.0/components/prism-markdown.min.js"></script>
+  <script src="//lib.baomitu.com/prism/1.28.0/components/prism-nginx.min.js"></script>
 </body>
 
 </html>
