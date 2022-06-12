@@ -75,12 +75,14 @@
             } else {
               url = 'https://github.com/SUSTech-Application/SUSTechapplication/blob/master/docs/' + vm.route.file
             }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            var editHtml = '[:memo: Edit Document](' + url + ')\n';
+            var year = new Date().getFullYear();
 
             return editHtml
               + html
               + '\n\n----\n\n'
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
+              + '©  2019 - '+ year + ' 南方科技大学飞跃手册编委会. '
+              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>.'
           })
         },
       ]
