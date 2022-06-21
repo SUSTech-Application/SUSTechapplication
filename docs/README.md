@@ -17,10 +17,8 @@
 
 ## 近期更新
 
-* [2022-06-21] [申请总结] [18级-金融工程-于云嵩 UChicago @ MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
-
-* [2022-06-17] [申请总结] [18级-金融-刘博文 MS @ CUHK](grad-application/finance/finance/[HK]-18-liubowen.md)
-
+- [2022-06-21] [申请总结] [18级-金融工程-于云嵩 UChicago @ MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
+- [2022-06-17] [申请总结] [18级-金融-刘博文 MS @ CUHK](grad-application/finance/finance/[HK]-18-liubowen.md)
 - [2022-06-10] [申请总结] [18级-生物医学工程-王叶晗 MS @ NUS](grad-application/biomedical-engineering/[SG]-18-wangyehan.md)
 - [2022-05-10] [申请总结]  [18级-生物医学工程-王澍辰   PhD @ HKUST ](grad-application/biomedical-engineering/[HK]-18-wangshuchen.md)
 - [2022-05-01] [申请总结] [18级-计算机科学与技术-周澳蕾 MS @ CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md)
@@ -53,7 +51,6 @@
 - [2021-01-15] [申请总结] [17级-机械与能源工程-刘彦菁 MSC @ TU Delft](grad-application/mechanical-and-energy-engineering/[US]-17-liuyanjing.md)
 - [2021-01-07] [申请总结] [17级-金融工程-邓卓睿 MS @ 北京师范大学](grad-application/finance/financial-engineering/[CN]-17-dengzhuorui.md)
 - [2020-10-29] [申请总结] [17级-深港微电子学院-付宇哲 保研 @ 北京大学](grad-application/school_of_microelectronics/[CN]-17-fuyuzhe.md)
-  
 
 ## 飞跃手册是什么？
 

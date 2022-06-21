@@ -6,8 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-* [18级-于云嵩 MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
-
+- [18级-于云嵩 MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
 - [17级-朱烨赟 HEC Paris](grad-application/finance/financial-engineering/[FR]-17-zhuyeyun.md)
 - [16级-王丹妤 EPFL](grad-application/finance/financial-engineering/[CH]-16-wangdanyu.md)
 - [16级-李一林 NUS](grad-application/finance/financial-engineering/[SG]-16-liyilin.md)
