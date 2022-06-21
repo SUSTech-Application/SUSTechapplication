@@ -17,6 +17,10 @@
 
 ## 近期更新
 
+* [2022-06-21] [申请总结] [18级-金融工程-于云嵩 UChicago @ MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
+
+* [2022-06-17] [申请总结] [18级-金融-刘博文 MS @ CUHK](grad-application/finance/finance/[HK]-18-liubowen.md)
+
 - [2022-06-10] [申请总结] [18级-生物医学工程-王叶晗 MS @ NUS](grad-application/biomedical-engineering/[SG]-18-wangyehan.md)
 - [2022-05-10] [申请总结]  [18级-生物医学工程-王澍辰   PhD @ HKUST ](grad-application/biomedical-engineering/[HK]-18-wangshuchen.md)
 - [2022-05-01] [申请总结] [18级-计算机科学与技术-周澳蕾 MS @ CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md)
