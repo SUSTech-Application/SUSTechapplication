@@ -9,7 +9,7 @@
 
 ## 投稿/修改
 
-- 投稿/修改请联系 **xuc2019 AT mail.sustech.edu.cn** 或 **lisl2018 AT mail.sustech.edu.cn**
+- 投稿/修改请联系 **xuc2019 AT mail.sustech.edu.cn** 或 **lisl2018 AT mail.sustech.edu.cn** 或 **12012913 AT mail.sustech.edu.cn**
 
 ## 意见/改进
 
