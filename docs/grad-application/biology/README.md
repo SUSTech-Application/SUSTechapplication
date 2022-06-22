@@ -1,4 +1,4 @@
-## biology
+## 生物系
 
 - [生物信息学](grad-application/biology/bioinformatics/README.md)
 
