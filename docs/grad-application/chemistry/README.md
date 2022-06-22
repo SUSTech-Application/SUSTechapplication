@@ -9,8 +9,7 @@
 #### Master Programs:
 
 - [17级-陈在竹 IC](grad-application/chemistry/[UK]-17-chenzaizhu.md)
-
-* [14级-姜力维 Duke (转至公共管理专业)](grad-application/chemistry/[US]-15-jiangliwei.md)
+- [14级-姜力维 Duke (转至公共管理专业)](grad-application/chemistry/[US]-15-jiangliwei.md)
 
 ##### 联培：
 
