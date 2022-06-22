@@ -1,4 +1,4 @@
-## electronic-and-electrical-engineering
+## 电子与电气工程
 
 - [信息工程](grad-application/electronic-and-electrical-engineering/information-engineering/README.md)
 
