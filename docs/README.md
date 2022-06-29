@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2022-06-29] [申请总结] [16级-生物工学-蔡逸扬 PhD @ MHH](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
 - [2022-06-21] [申请总结] [18级-金融工程-于云嵩 UChicago @ MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
 - [2022-06-17] [申请总结] [18级-金融-刘博文 MS @ CUHK](grad-application/finance/finance/[HK]-18-liubowen.md)
 - [2022-06-10] [申请总结] [18级-生物医学工程-王叶晗 MS @ NUS](grad-application/biomedical-engineering/[SG]-18-wangyehan.md)
