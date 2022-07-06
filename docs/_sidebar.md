@@ -43,7 +43,7 @@
 - 英语学习 (3)
 
   - [GMAT ](英语学习/GMAT/README.md)
-  - [GRE (1)](英语学习/GRE/README.md)
+  - [GRE (2)](英语学习/GRE/README.md)
   - [IELTS (2)](英语学习/IELTS/README.md)
   - [TOEFL ](英语学习/TOEFL/README.md)
   - [四六级 ](英语学习/四六级/README.md)
