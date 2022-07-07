@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-* [17级-王超 University of Southern California](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
+* [16级-菜逸扬 Medizinische Hochschule Hannover](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
 
 #### Master Programs:
 
