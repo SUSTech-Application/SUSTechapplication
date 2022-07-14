@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-* [16级-菜逸扬 Medizinische Hochschule Hannover](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
+* [16级-蔡逸扬 Medizinische Hochschule Hannover](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
 
 #### Master Programs:
 
