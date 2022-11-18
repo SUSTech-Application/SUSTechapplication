@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2022-11-17] [申请总结] [18级-机器人工程-向沿臻 M.S. @ ETH Zürich](grad-application/mechanical-and-energy-engineering/[CH]-18-xiangyanzhen.md)
 - [2022-07-14] [申请总结] [17级-力学与航空航天工程-刘亚卓 PhD @ GT](grad-application/mechanics-and-aerospace-engineering/[US]-17-liuyazhuo.md)
 - [2022-06-29] [申请总结] [16级-生物工学-蔡逸扬 PhD @ MHH](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
 - [2022-06-21] [申请总结] [18级-金融工程-于云嵩 UChicago @ MACRM](grad-application/finance/financial-engineering/[US]-18-yuyunsong.md)
