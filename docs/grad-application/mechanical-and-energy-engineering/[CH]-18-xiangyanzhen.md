@@ -27,7 +27,6 @@
 
 - **AD\(8\):**
 
-
     - **[苏黎世联邦理工学院（ETH Zürich）-机器人、系统与控制硕士 (MS in Robotics, Systems and Control, a.k.a., MS in RSC）]:** Tier 1.0（这个Tier是我当时中介的非本专业人士评估出的，越低代表录取难度越大。仅供参考。）。第一志愿。ETH录取主要依据总绩点排名，一般给生源校的相关专业配额，按申请者排名录取，录满为止。无Waitlist。印象我申请ETH时接受托福拼分，所以总分未过线的同学也不妨试试。要求GRE但相对次要。更多信息可见：[苏黎世联邦理工学院 (ETH Zurich) 2022 硕士录取数据分享](https://zhuanlan.zhihu.com/p/502052767)，[苏黎世联邦理工学院 (ETH Zurich) 2021 硕士录取数据分享](https://zhuanlan.zhihu.com/p/362316579) 。ETH网申要求选Tutor，类似大家在南科大选生活导师。个人认为Tutor选择无关乎申请结果。申请项目同时可申ESOP奖学金，但对RSC项目的中国申请者成功概率很小。申ESOP需提早做额外准备。
     
     - **[苏黎世联邦理工学院（ETH Zürich）-机械工程硕士（MS in ME）]：** 机器人工程或相关背景专业的同学申RSC同时可以申ME和EEIT。
