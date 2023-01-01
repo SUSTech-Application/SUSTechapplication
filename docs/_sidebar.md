@@ -22,7 +22,7 @@
 
   - [海洋科学与工程系 (2)](grad-application/marine-science-and-engineering/README.md)
 
-  - [环境科学与工程学院 (3)](grad-application/environmental-science-and-engineering/README.md)
+  - [环境科学与工程学院 (4)](grad-application/environmental-science-and-engineering/README.md)
 
   - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
 
