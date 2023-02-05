@@ -24,7 +24,7 @@
 
   - [环境科学与工程学院 (4)](grad-application/environmental-science-and-engineering/README.md)
 
-  - [电子与电气工程系 (8)](grad-application/electronic-and-electrical-engineering/README.md)
+  - [电子与电气工程系 (9)](grad-application/electronic-and-electrical-engineering/README.md)
 
   - [金融系 (18)](grad-application/finance/README.md)
 
