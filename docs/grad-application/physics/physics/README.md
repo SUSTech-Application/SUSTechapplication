@@ -21,6 +21,7 @@ To be continued.
 ##### 直博：
 
   - [15级-周鑫池 北大](grad-application/physics/physics/[CN]-15-zhouxinchi.md)
+  - [19级-石晶晶 北大](grad-application/physics/physics/[CN]-19-shijingjing.md)
 
 ##### 保研：
 
