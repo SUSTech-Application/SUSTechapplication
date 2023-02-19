@@ -36,7 +36,7 @@
 - [2021-09-13] [申请总结] [17级-材料科学与工程-艾谦 PhD @ UIUC](grad-application/materials-science-and-engineering/[US]-17-aiqian.md)
 - [2021-08-16] [申请总结] [17级-生物科学-张展 PhD @ UPenn](grad-application/biology/bioscience/[US]-17-zhangzhan.md)
 - [2021-08-03] [申请总结] [16级-化学-单坤 学硕 @ SUSTech](grad-application/chemistry/[CN]-16-ShanKun.md)
-- [2021-07-20] [申请总结] [17级-深港微电子学院-胡明涛 ECE MS @ University of Michigan Ann Arbor](grad-application/school_of_microelectronics/[US]-17-humingtao.md)
+- [2021-07-20] [申请总结] [17级-深港微电子学院-胡明涛 ECE MS @ University of Michigan Ann Arbor](grad-application/microelectronics/[US]-17-humingtao.md)
 - [2021-07-12] [申请总结] [16级-数学与应用数学-林睿军 Msc @ University of Copenhagen](grad-application/math/applied-mathematics/[DNK]-16-linruijun.md)
 - [2021-07-05] [申请总结] [17级-化学-陈在竹 MSc @ IC](grad-application/chemistry/[UK]-17-chenzaizhu.md)
 - [2021-07-05] [申请总结] [17级-金融工程-朱烨赟 MIM @ HEC Paris](grad-application/finance/financial-engineering/[FR]-17-zhuyeyun.md)
@@ -56,7 +56,7 @@
 - [2021-01-27] [申请总结] [17级-计算机科学与技术-罗运升 保研 @ 浙江大学](grad-application/computer-science-and-engineering/[CN]-17-luoyunsheng.md)
 - [2021-01-15] [申请总结] [17级-机械与能源工程-刘彦菁 MSC @ TU Delft](grad-application/mechanical-and-energy-engineering/[US]-17-liuyanjing.md)
 - [2021-01-07] [申请总结] [17级-金融工程-邓卓睿 MS @ 北京师范大学](grad-application/finance/financial-engineering/[CN]-17-dengzhuorui.md)
-- [2020-10-29] [申请总结] [17级-深港微电子学院-付宇哲 保研 @ 北京大学](grad-application/school_of_microelectronics/[CN]-17-fuyuzhe.md)
+- [2020-10-29] [申请总结] [17级-深港微电子学院-付宇哲 保研 @ 北京大学](grad-application/microelectronics/[CN]-17-fuyuzhe.md)
 
 ## 飞跃手册是什么？
 
