@@ -22,17 +22,13 @@ To be continued.
 
 ##### 保研
 
-<<<<<<< HEAD:docs/grad-application/school_of_microelectronics/README.md
-- [17级-付宇哲 北大](grad-application/school_of_microelectronics/[CN]-17-fuyuzhe.md)
+- [17级-付宇哲 北大](grad-application/microelectronics/[CN]-17-fuyuzhe.md)
 - [16级-电子系-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
 - [16级-电子系-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
-=======
-* [17级-付宇哲 北大](grad-application/microelectronics/[CN]-17-fuyuzhe.md)
-* [16级-电子系-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
-* [16级-电子系-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
->>>>>>> a6f3d2be51c2e24a9f1a930b9f235ea33578f04f:docs/grad-application/microelectronics/README.md
+- [16级-电子系-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
+- [16级-电子系-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
 
-##### 考研
+**考研**
 
 To be continued.
 
