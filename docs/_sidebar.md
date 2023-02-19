@@ -30,7 +30,7 @@
 
   - [医学院 (3)](grad-application/medicine/README.md)
 
-  - [深港微电子学院 (7)](grad-application/microelectronics/README.md)
+  - [深港微电子学院 (10)](grad-application/microelectronics/README.md)
 
   - [信息系统与管理工程系 (1)](grad-application/information-systems-and-management-engineering/README.md)
 
