@@ -20,10 +20,7 @@ To be continued.
 ##### 保研：
 
 * [16级-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
-
 * [16级-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
-
-* [19级-陈仁伟 清华大学](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-19-chenrenwei.md)
 
 ##### 考研：
 
