@@ -23,6 +23,7 @@ To be continued.
 
 ##### 保研
 
+- [19级-陈仁伟 清华](grad-application/microelectronics/[CN]-19-chenrenwei.md)
 - [17级-付宇哲 北大](grad-application/microelectronics/[CN]-17-fuyuzhe.md)
 - [16级-电子系-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang.md)
 - [16级-电子系-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng.md)
