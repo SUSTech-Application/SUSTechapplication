@@ -34,6 +34,8 @@
 
   - [信息系统与管理工程系 (1)](grad-application/information-systems-and-management-engineering/README.md)
 
+  - [系统设计与智能制造学院 (1)](grad-application/sdim/README.md)
+
 - 海外交流 (5)
 
   - [学期交流 (2)](oversea-program/semester-program/README.md)
