@@ -80,7 +80,10 @@
 ## 申请结果
 
 > [!NOTE|label:最终去向]
-> TBD
+>
+> 就目前的两个 Offer 而言，应该会选择 University of Notre Dame。
+>
+> 为何选择它？UW-Madison 和 ND 都地处美国中部，在就业形势上来看相差不大。让我更偏向 ND 的，是我更熟悉且信赖的人文环境、我向往的指导老师、更好的 CSE 课程安排，以及更大的师生比。（我甚至在期待在 ND 继续接受专业的声乐训练）
 
 以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列，录取结果截止2023年3月21日。
 
