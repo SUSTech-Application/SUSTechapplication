@@ -4,6 +4,11 @@
 >
 > 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)
 
+## 更新记录
+
+- 2023-03-21：更新 UCSD 拒信，少量优化
+- 2023-02-19：首次上传
+
 ## 为什么要出国？
 
 - 拓宽文化视野
@@ -12,7 +17,7 @@
 - 国外的就业前景，乃至于（对许多人而言）最终移民的机会
 - 避免无用功
   - 参加推免需要准备竞赛、课外活动、科研等，且其对GPA的容错率过低，同时在同系同学之间营造出相互倾轧竞争的不良风气
-  - 参加考研需要花费大量时间备考，其竞争之激烈程度自不必说，
+  - 参加考研需要花费大量时间备考，其竞争之激烈程度自不必说，而这部分投入除了可以用来换取入学资格之外，几乎没有太多其他的用处。
 
 诚然，出国留学的缺点、难点也有许多，如外语、费用、安全问题、跨文化交流问题等等。但综合来说，留学依然是我心目中大多数人的最优选项。
 
@@ -70,28 +75,31 @@
 - 证书：二十余个网课证书，详见[我的 LinkedIn](https://www.linkedin.com/in/sghuang19/)
 
 > [!TIP|label:我的B面|style:flat]
-> 申请之外的我更有趣：喜欢音乐、读书、哲学、摄影，还能使长剑和军刀。醉心生产力和个人知识管理的数字花园园艺师，在消费电子展柜前流连忘返的极客。对了，还是个容易孤独的 [INFJ](https://www.16personalities.com/profiles/7c48aef917dde)，欢迎你和我[交朋友](#联系方式)。
+> 申请之外的我更有趣：喜欢音乐、读书、哲学、心理学和摄影，还能使长剑和军刀。醉心生产力和个人知识管理的数字花园园艺师，在消费电子展柜前流连忘返的极客。对了，还是个容易孤独的 [INFJ](https://www.16personalities.com/profiles/7c48aef917dde)，欢迎你和我[交朋友](#联系方式)。
 
 ## 申请结果
 
 > [!NOTE|label:最终去向]
-> TBD
+>
+> 就目前的两个 Offer 而言，应该会选择 University of Notre Dame。
+>
+> 为何选择它？UW-Madison 和 ND 都地处美国中部，在就业形势上来看相差不大。让我更偏向 ND 的，是我更熟悉且信赖的人文环境、我向往的指导老师、更好的 CSE 课程安排，以及更大的师生比。（我甚至在期待在 ND 继续接受专业的声乐训练）
 
-以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列，录取结果截止2023年2月19日。
+以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列，录取结果截止2023年3月21日。
 
-|                Institution                 | Program             |    Result    | Date    |
-| :----------------------------------------: | :------------------ | :----------: | :------ |
+|                Institution                 | Program             |    Result    |  Date   |
+| :----------------------------------------: | :------------------ | :----------: | :-----: |
 |         Carnegie Mellon University         | MS ECE              |   Pending    |         |
 | University of Illinois at Urbana-Champaign | MS ECE              |   Pending    |         |
-|     University of California San Diego     | MS ECE EC79         |   Pending    |         |
+|     University of California San Diego     | MS ECE EC79         | ~~Rejected~~ | Mar. 17 |
 |      Georgia Institute of Technology       | MS ECE              |   Pending    |         |
 |     University of Wisconsin-Madison\*      | MS CS               | ~~Rejected~~ | Feb. 14 |
 |                     "                      | MS ECE Research     |   Pending    |         |
 |                     "                      | MS ECE Professional |  *Admitted*  | Feb. 17 |
 |       University of Texas at Austin        | MS ECE              |   Pending    |         |
-|        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 9  |
+|        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 09 |
 
-总计7所学校，9个项目；目前录取2个，被拒1个。
+总计7所学校，9个项目；目前录取2所，被拒1所。
 
 \* UW-Madison 可同时申请3个项目
 
@@ -192,7 +200,7 @@
   - 尽量使用英英字典而非英汉字典，如 [Merriam-Webster](https://merriam-webster.com)、[Collins](htttps://collinsdictionary.com)、[Cambridge](https://dictionary.cambridge.org/) 等
   - ETS 提供的托福备考指南：[TOEFL® Test Preparation: The Insider's Guide](https://www.edx.org/course/toefl-test-preparation-the-insiders-guide)
 
-总得来说，学好一门语言的关键之处在于真正运用这门语言。投入再多精力到语言备考上，自己却从不在日常生活、学习、工作中使用英语、感悟英语、欣赏英语，写代码用中文注释，看文献先用软件翻译，如此种种，纵使运气使然考出了个相对过得去的成绩，事倍功半、伤财费力不说，最后也必然只能学到跛脚英语、哑巴英语。
+总得来说，学好一门语言的关键之处在于真正运用这门语言。投入再多精力到语言备考上，自己却从不在日常生活、学习、工作中**使用**英语、**感悟**英语、**欣赏**英语，写代码用中文注释，看文献先用软件翻译，如此种种，纵使运气使然考出了个相对过得去的成绩，事倍功半、伤财费力不说，最后也必然只能学到跛脚英语、哑巴英语。
 
 ### 心态
 
@@ -217,6 +225,8 @@
 > [!NOTE|label:鸣谢]
 >
 > 感谢[胡明涛学长](grad-application/microelectronics/[US]-17-humingtao.md)的经验分享，我们专业相同，成绩相近，申请的项目也类似，他的案例为我提供了重要的参考，极大地缓解了我的焦虑。
+>
+> 感谢单坤、南博钊学长提供的参考信息。
 
 [于仕琪副教授](https://www.sustech.edu.cn/zh/faculties/yushiqi.html)曾说，一门课的分数并非从100分开始扣减，而是从0分开始慢慢积攒。我想人生亦如此，我们并非从完美的生开始一步步迈向凋敝的死，而是从空虚孤寂的死开始逐渐领悟生。
 
@@ -238,6 +248,7 @@
 
 - 哔哩哔哩：[@黄彧柒](https://space.bilibili.com/11101809)
 - 小红书：[@黄彧柒](https://www.xiaohongshu.com/user/profile/62ee64ee000000001e01f345)
+- LinkedIn：[@sghuang19](https://linkedin.com/in/sghuang19)
 - 微信公众号（在建）：浮生思诚
 
 ## 请我喝杯咖啡
