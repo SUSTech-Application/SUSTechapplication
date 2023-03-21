@@ -248,6 +248,7 @@
 
 - 哔哩哔哩：[@黄彧柒](https://space.bilibili.com/11101809)
 - 小红书：[@黄彧柒](https://www.xiaohongshu.com/user/profile/62ee64ee000000001e01f345)
+- LinkedIn：[@sghuang19](https://linkedin.com/in/sghuang19)
 - 微信公众号（在建）：浮生思诚
 
 ## 请我喝杯咖啡
