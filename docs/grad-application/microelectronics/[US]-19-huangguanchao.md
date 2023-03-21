@@ -77,21 +77,21 @@
 > [!NOTE|label:最终去向]
 > TBD
 
-以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列，录取结果截止2023年2月19日。
+以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列，录取结果截止2023年3月21日。
 
-|                Institution                 | Program             |    Result    | Date    |
-| :----------------------------------------: | :------------------ | :----------: | :------ |
+|                Institution                 | Program             |    Result    |  Date   |
+| :----------------------------------------: | :------------------ | :----------: | :-----: |
 |         Carnegie Mellon University         | MS ECE              |   Pending    |         |
 | University of Illinois at Urbana-Champaign | MS ECE              |   Pending    |         |
-|     University of California San Diego     | MS ECE EC79         |   Pending    |         |
+|     University of California San Diego     | MS ECE EC79         | ~~Rejected~~ | Mar. 17 |
 |      Georgia Institute of Technology       | MS ECE              |   Pending    |         |
 |     University of Wisconsin-Madison\*      | MS CS               | ~~Rejected~~ | Feb. 14 |
 |                     "                      | MS ECE Research     |   Pending    |         |
 |                     "                      | MS ECE Professional |  *Admitted*  | Feb. 17 |
 |       University of Texas at Austin        | MS ECE              |   Pending    |         |
-|        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 9  |
+|        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 09 |
 
-总计7所学校，9个项目；目前录取2个，被拒1个。
+总计7所学校，9个项目；目前录取2所，被拒1所。
 
 \* UW-Madison 可同时申请3个项目
 
