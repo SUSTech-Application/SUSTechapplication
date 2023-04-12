@@ -10,8 +10,8 @@
 
 #### Master Programs
 
+- [19级-黄冠超 MS CSE @ ND](grad-application/microelectronics/[US]-19-huangguanchao.md)
 - [17级-胡明涛 University of Michigan Ann Arbor](grad-application/microelectronics/[US]-17-humingtao.md)
-- [19级-黄冠超 TBD](grad-application/microelectronics/[US]-19-huangguanchao.md)
 
 ##### 联培
 
