@@ -9,6 +9,7 @@
 
 #### Master Programs:
 
+  - [19级-黄冠超 ND（微电子跨申）](grad-application/microelectronics/[US]-19-huangguanchao.md)
   - [18级-周澳蕾 CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md)
   - [17级-栾闻迪 UCSD](grad-application/computer-science-and-engineering/[US]-17-luanwendi.md)
   - [16级-陈德缘 CMU](grad-application/computer-science-and-engineering/[US]-16-chendeyuan.md)
