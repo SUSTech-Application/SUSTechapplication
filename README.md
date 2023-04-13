@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sustech-application.github.io/Application-Book">
-    <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
+    <img alt="docsify" src="./docs/src/_media/bg.jpeg" height="150">
   </a>
 </p>
 
