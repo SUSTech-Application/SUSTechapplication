@@ -108,17 +108,17 @@
 
 |                Institution                 | Program             |    Result    |  Date   |
 | :----------------------------------------: | :------------------ | :----------: | :-----: |
-|         Carnegie Mellon University         | MS ECE              |   Pending    |         |
-| University of Illinois at Urbana-Champaign | MS ECE              | ~~Rejected~~ | Apr. 04 |
-|     University of California San Diego     | MS ECE EC79         | ~~Rejected~~ | Mar. 17 |
-|      Georgia Institute of Technology       | MS ECE              |   Pending    |         |
-|     University of Wisconsin-Madison\*      | MS CS               | ~~Rejected~~ | Feb. 14 |
-|                     "                      | MS ECE Research     | ~~Rejected~~ | Apr. 03 |
+|         Carnegie Mellon University         | MS ECE              | ~~Rejected~~ | Apr. 08 |
+| University of Illinois at Urbana-Champaign | MS ECE              |      "       | Apr. 04 |
+|     University of California San Diego     | MS ECE EC79         |      "       | Mar. 17 |
+|      Georgia Institute of Technology       | MS ECE              |      "       | Apr. 15 |
+|     University of Wisconsin-Madison\*      | MS CS               |      "       | Feb. 14 |
+|                     "                      | MS ECE Research     |      "       | Apr. 03 |
 |                     "                      | MS ECE Professional |  *Admitted*  | Feb. 17 |
 |       University of Texas at Austin        | MS ECE              |   Pending    |         |
 |        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 09 |
 
-总计7所学校，9个项目；目前录取2所，被拒3所。
+总计7所学校，9个项目；目前录取2所，被拒4所。
 
 \* UW-Madison 可同时申请3个项目
 
