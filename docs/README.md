@@ -17,7 +17,8 @@
 
 ## 近期更新
 
-- \[2023-02-19\] \[申请总结\] [19级-微电子-黄冠超 MS CSE @ ND](grad-application/microelectronics/[US]-19-huangguanchao.md)
+- [2023-04-19\] \[申请总结] [19级-电子与电气工程-张策 MS @ CMU](grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-19-zhangce.md)
+- [2023-02-19\] \[申请总结\] [19级-微电子-黄冠超 MS CSE @ ND](grad-application/microelectronics/[US]-19-huangguanchao.md)
 - [2023-2-15] [保研总结] [19级-物理-石晶晶 直博 @ 北京大学](grad-application/physics/physics/[CN]-19-shijingjing.md)
 - [2023-2-5] [保研总结] [19级-电子与电气工程-陈仁伟 保研 @ 清华大学](grad-application\microelectronics/[CN]-19-chenrenwei.md)
 - [2023-1-1] [申请总结] [18级-水文与水资源工程-刘怡 PhD @ UCSC](grad-application\environmental-science-and-engineering\hydrology-and-water-resources-engineerin/[US]-18-liuyi.md)
