@@ -103,7 +103,7 @@
 >
 > Wait, but [why](#决断)?
 
-以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列，录取结果截止2023年4月12日。
+以下院校依照 [CS Ranking](http://csrankings.org/) 降序排列。
 
 |                Institution                 | Program             |    Result    |  Date   |
 | :----------------------------------------: | :------------------ | :----------: | :-----: |
@@ -114,10 +114,10 @@
 |     University of Wisconsin-Madison\*      | MS CS               |      "       | Feb. 14 |
 |                     "                      | MS ECE Research     |      "       | Apr. 03 |
 |                     "                      | MS ECE Professional |  *Admitted*  | Feb. 17 |
-|       University of Texas at Austin        | MS ECE              |   Pending    |         |
+|       University of Texas at Austin        | MS ECE              | ~~Rejected~~ | Apr. 28 |
 |        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 09 |
 
-总计7所学校，9个项目；目前录取2所，被拒4所。
+总计7所学校，9个项目；目前录取2所，被拒5所。
 
 \* UW-Madison 可同时申请3个项目<br>
 \*\* 笔者在 University of Notre Dame 进行了学期交换与暑研，且两封推荐信都是该校 CSE Dept. 教授所写。
