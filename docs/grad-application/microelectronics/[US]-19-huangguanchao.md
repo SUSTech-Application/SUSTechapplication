@@ -55,10 +55,8 @@
   - 我（暂时）对学术不甚感兴趣，因此选择了偏向就业导向的 Master 项目。
   - 学制较短的 Master of Engineering 项目不便于准备实习、找工作等\*\*\*，故而选择学制更长的 Master of Science 项目。
 
-\* 唯一的例外是 University of Notre Dame，鉴于我与该校 CSE Department 千丝万缕的联系，我认为自己可以拿下该校的 MS CSE offer。
-
-\*\* 我很大程度上是受到了*名校情结*的影响，才选择放弃CSE专业以追求更高的排名。
-
+\* 唯一的例外是 University of Notre Dame，鉴于我与该校 CSE Department 千丝万缕的联系，我认为自己可以拿下该校的 MS CSE offer。<br>
+\*\* 我很大程度上是受到了*名校情结*的影响，才选择放弃CSE专业以追求更高的排名。<br>
 \*\*\* 因此放弃了 Cornell University。
 
 ## 基本背景
@@ -121,8 +119,7 @@
 
 总计7所学校，9个项目；目前录取2所，被拒4所。
 
-\* UW-Madison 可同时申请3个项目
-
+\* UW-Madison 可同时申请3个项目<br>
 \*\* 笔者在 University of Notre Dame 进行了学期交换与暑研，且两封推荐信都是该校 CSE Dept. 教授所写。
 
 另有其他院校的出现在初步的选校清单上，但最终我没有进行申请。为帮助与我背景类似的同学选校，我同时也将这些院校及没有最终进行申请的原因列出。
