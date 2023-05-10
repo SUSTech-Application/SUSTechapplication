@@ -14,6 +14,7 @@
   - [17级-栾闻迪 UCSD](grad-application/computer-science-and-engineering/[US]-17-luanwendi.md)
   - [16级-陈德缘 CMU](grad-application/computer-science-and-engineering/[US]-16-chendeyuan.md)
   - [15级-方一栋 UW-Madison](grad-application/computer-science-and-engineering/[US]-15-fangyidong.md)
+  - [19级-张策 CMU](grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-19-zhangce.md)
 
 ##### 联培：
 
