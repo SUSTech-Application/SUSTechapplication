@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2023-07-26\] \[申请总结] [19级-计算机科学与技术-陈星宇  M.S. in Software Engineering @ CMU](grad-application/computer-science-and-engineering/[US]-19-chenxingyu.md)
 - [2023-07-7\] \[申请总结] [19级-数学与应用数学-江南飞 PhD in ECE @ UC Santa Barbara](grad-application/math/applied-mathematics/[US]-19-jiangnanfei.md)
 - [2023-04-19\] \[申请总结] [19级-电子与电气工程-张策 MSML @ CMU](grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-19-zhangce.md)
 - [2023-02-19\] \[申请总结\] [19级-微电子-黄冠超 MS CSE @ ND](grad-application/microelectronics/[US]-19-huangguanchao.md)
