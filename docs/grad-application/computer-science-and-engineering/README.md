@@ -8,6 +8,7 @@
   - [15级-谢丹宁 Purdue](grad-application/computer-science-and-engineering/[US]-15-xiedanning.md) 内含PhD面经！
 
 #### Master Programs:
+  - [19级-陈星宇 CMU](grad-application/computer-science-and-engineering/[US]-19-chenxingyu.md)
   - [19级-杨文汉夫 NEU](grad-application/computer-science-and-engineering/[US]-19-yangwenhanfu.md)
   - [19级-黄冠超 ND（微电子跨申）](grad-application/microelectronics/[US]-19-huangguanchao.md)
   - [18级-周澳蕾 CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei.md)
