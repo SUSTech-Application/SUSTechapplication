@@ -17,13 +17,14 @@
 
 ## 近期更新
 
+- [2023-08-02] \[申请总结\] [19级-基础数学-刘宇涵 PhD @ Brown University](grad-application/math/basic-mathematics/[US]-19-liuyuhan.md)
 - [2023-07-26\] \[申请总结] [19级-计算机科学与技术-陈星宇  M.S. in Software Engineering @ CMU](grad-application/computer-science-and-engineering/[US]-19-chenxingyu.md)
-- [2023-07-7\] \[申请总结] [19级-数学与应用数学-江南飞 PhD in ECE @ UC Santa Barbara](grad-application/math/applied-mathematics/[US]-19-jiangnanfei.md)
+- [2023-07-07\] \[申请总结] [19级-数学与应用数学-江南飞 PhD in ECE @ UC Santa Barbara](grad-application/math/applied-mathematics/[US]-19-jiangnanfei.md)
 - [2023-04-19\] \[申请总结] [19级-电子与电气工程-张策 MSML @ CMU](grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-19-zhangce.md)
 - [2023-02-19\] \[申请总结\] [19级-微电子-黄冠超 MS CSE @ ND](grad-application/microelectronics/[US]-19-huangguanchao.md)
-- [2023-2-15] [保研总结] [19级-物理-石晶晶 直博 @ 北京大学](grad-application/physics/physics/[CN]-19-shijingjing.md)
-- [2023-2-5] [保研总结] [19级-电子与电气工程-陈仁伟 保研 @ 清华大学](grad-application\microelectronics/[CN]-19-chenrenwei.md)
-- [2023-1-1] [申请总结] [18级-水文与水资源工程-刘怡 PhD @ UCSC](grad-application\environmental-science-and-engineering\hydrology-and-water-resources-engineerin/[US]-18-liuyi.md)
+- [2023-02-15] [保研总结] [19级-物理-石晶晶 直博 @ 北京大学](grad-application/physics/physics/[CN]-19-shijingjing.md)
+- [2023-02-05] [保研总结] [19级-电子与电气工程-陈仁伟 保研 @ 清华大学](grad-application\microelectronics/[CN]-19-chenrenwei.md)
+- [2023-01-01] [申请总结] [18级-水文与水资源工程-刘怡 PhD @ UCSC](grad-application\environmental-science-and-engineering\hydrology-and-water-resources-engineerin/[US]-18-liuyi.md)
 - [2022-11-17] [申请总结] [18级-机器人工程-向沿臻 M.S. @ ETH Zürich](grad-application/mechanical-and-energy-engineering/[CH]-18-xiangyanzhen.md)
 - [2022-07-14] [申请总结] [17级-力学与航空航天工程-刘亚卓 PhD @ GT](grad-application/mechanics-and-aerospace-engineering/[US]-17-liuyazhuo.md)
 - [2022-06-29] [申请总结] [16级-生物工学-蔡逸扬 PhD @ MHH](grad-application/biology/biotechnology/[GER]-16-caiyiyang.md)
