@@ -14,7 +14,7 @@
 >
 > GRE subject(Mathematics) 92%
 >
-> GRE general 147V+150Q+3.0AW
+> GRE general 147V+170Q+3.0AW
 >
 > 最终去向：布朗大学数学系 全奖博士
 
