@@ -6,6 +6,7 @@ To be continued.
 
 #### Master Programs:
 
+* [19级-李浩铭 Columbia](grad-application/finance/finance/[US]-19-lihaoming.md)
 * [18级-刘博文 CUHK](grad-application/finance/finance/[HK]-18-liubowen.md)
 * [15级-王咏睿 CUHK(SZ)](grad-application/finance/finance/[CN]-15-wangyongrui.md)
 

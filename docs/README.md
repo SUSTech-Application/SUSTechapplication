@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2023-08-13] \[申请总结\] [19级-金融学-李浩铭 MS @ Columbia University](grad-application/finance/finance/[US]-19-lihaoming.md)
 - [2023-08-02] \[申请总结\] [19级-基础数学-刘宇涵 PhD @ Brown University](grad-application/math/basic-mathematics/[US]-19-liuyuhan.md)
 - [2023-07-26\] \[申请总结] [19级-计算机科学与技术-陈星宇  M.S. in Software Engineering @ CMU](grad-application/computer-science-and-engineering/[US]-19-chenxingyu.md)
 - [2023-07-07\] \[申请总结] [19级-数学与应用数学-江南飞 PhD in ECE @ UC Santa Barbara](grad-application/math/applied-mathematics/[US]-19-jiangnanfei.md)

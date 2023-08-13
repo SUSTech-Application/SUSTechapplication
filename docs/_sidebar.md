@@ -26,7 +26,7 @@
 
   - [电子与电气工程系 (10)](grad-application/electronic-and-electrical-engineering/README.md)
 
-  - [金融系 (18)](grad-application/finance/README.md)
+  - [金融系 (19)](grad-application/finance/README.md)
 
   - [医学院 (3)](grad-application/medicine/README.md)
 
