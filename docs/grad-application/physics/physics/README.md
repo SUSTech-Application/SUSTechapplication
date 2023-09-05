@@ -20,7 +20,7 @@ To be continued.
 
 ##### 直博：
 
-  - [19级-汪静涵 中科大](grad-application\physics\physics\[CN]-19-wangjinghan.md)
+  - [19级-汪静涵 中科大](grad-application/physics/physics/[CN]-19-wangjinghan.md)
   - [19级-石晶晶 北大](grad-application/physics/physics/[CN]-19-shijingjing.md)
   - [15级-周鑫池 北大](grad-application/physics/physics/[CN]-15-zhouxinchi.md)
 
