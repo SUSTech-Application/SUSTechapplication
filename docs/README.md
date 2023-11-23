@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2023-11-23] [招生信息] [加拿大温哥华Simon Fraser University计算机系 陈武阳助理教授 招生信息](招生信息/加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息.md)
 - [2023-09-05] \[保研总结\] [19级-物理学-汪静涵 直博 @ 中国科学技术大学](grad-application/physics/physics/[CN]-19-wangjinghan.md)
 - [2023-08-13] \[申请总结\] [19级-金融学-李浩铭 MS @ Columbia University](grad-application/finance/finance/[US]-19-lihaoming.md)
 - [2023-08-02] \[申请总结\] [19级-基础数学-刘宇涵 PhD @ Brown University](grad-application/math/basic-mathematics/[US]-19-liuyuhan.md)
