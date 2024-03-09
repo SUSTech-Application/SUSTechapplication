@@ -17,7 +17,7 @@
 
 ## 近期更新
 
-- [2024-03-06] [学习经验] [21级-光电信息科学与工程-周弘毅 经验分享](英语学习/日常学习/经验分享-21-周弘毅.md)
+- [2024-03-09] [学习经验] [21级-光电信息科学与工程-周弘毅 经验分享](英语学习/日常学习/经验分享-21-周弘毅.md)
 - [2023-11-23] [招生信息] [加拿大温哥华Simon Fraser University计算机系 陈武阳助理教授 招生信息](招生信息/加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息.md)
 - [2023-09-05] \[保研总结\] [19级-物理学-汪静涵 直博 @ 中国科学技术大学](grad-application/physics/physics/[CN]-19-wangjinghan.md)
 - [2023-08-13] \[申请总结\] [19级-金融学-李浩铭 MS @ Columbia University](grad-application/finance/finance/[US]-19-lihaoming.md)

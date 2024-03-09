@@ -42,7 +42,7 @@
   - [暑校 ](oversea-program/summer-school/README.md)
   - [暑研 (3)](oversea-program/summer-research/README.md)
 
-- 学习经验 (5)
+- 学习经验 (6)
 
   - [GMAT ](英语学习/GMAT/README.md)
   - [GRE (3)](英语学习/GRE/README.md)
