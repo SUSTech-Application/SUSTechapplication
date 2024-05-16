@@ -18,7 +18,7 @@
 >
 > 联系方式：邮箱 xyz000327@gmail.com;
 >
-> 微信 wxid_z928h2n33o3l32
+> 微信 Nel404
 >
 ## 申请结果
 最终录取项目：苏黎世联邦理工学院（ETH Zürich）-机器人、系统与控制硕士（MS in Robotics, Systems and Control）
