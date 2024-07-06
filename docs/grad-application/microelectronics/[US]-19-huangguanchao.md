@@ -1,9 +1,11 @@
 # \[US\]-19-黄冠超 MS CSE @ ND
 
-> 记住这个链接，快速访问我的飞跃手册经验分享：[feiyue.guanchao.pro](http://feiyue.guanchao.pro) <br>
-> 没时间听我废话？直接看[申请结果](#申请结果) <br>
-> 我在[深港微电子学院升学分享会](/src/people/guanchao/sme-sharing.html ':ignore')上的演示文稿，其中涉及了本文没有提到的一些内容，我认为值得一读 <br>
-> 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)
+> - 记住这个链接，快速访问我的飞跃手册：[feiyue.guanchao.pro](http://feiyue.guanchao.pro)
+> - 我在 [2023 年](/src/people/guanchao/sme-sharing-2023.html ':ignore')及 [2024 年](/src/people/guanchao/sme-sharing-2024.html ':ignore')深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
+> - 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)。
+
+> [!ATTENTION|label:Notre Dame Our Mother]
+> 再次回到圣母大学之后，我愈发意识到这个在美国受人景仰的学府和温暖的家庭被国人所严重低估——多么遗憾！因此，我正在积极地和圣母大学工学院的招生团队以及南科大国合部合作，吸引更多优秀的南科大学生来到圣母大学参加交流、暑研项目，以至选择在这里升学。圣母大学以其在美国的声誉、优质的教育、强大的校友网络、小项目规模高师生比，以及富有凝聚力的校园氛围而出众，并在 [U.S. News 美国大学排行榜](https://www.usnews.com/best-colleges/rankings/national-universities)上位列第 20 名（2024）。欢迎你来到这个充满机遇，促人成长的地方学习、生活！如果你希望进一步了解圣母大学，欢迎直接联系我，或加入南科大-ND交流QQ群：220297814。
 
 - [\[US\]-19-黄冠超 MS CSE @ ND](#us-19-黄冠超-ms-cse--nd)
   - [更新记录](#更新记录)
@@ -24,6 +26,7 @@
 
 ## 更新记录
 
+- 2024-05-16：加入 2024 年 SME 分享会 slides、就读体验、ND 介绍等
 - 2023-05-03：更新 UT Austin 结果，加入 SME 分享会 slides，少量优化
 - 2023-04-18：更新几个项目的结果，少量优化，加入「FAQ 与锐评」章节，添加目录，置顶短链接
 - 2023-04-12：更新最终去向以及几个项目的结果，少量优化
@@ -305,7 +308,7 @@
 我非常期待学弟学妹，以及前辈的联系。能以任何形式帮助到你们是我最大的荣幸。如果你在申请、学习的过程中遇到任何疑惑，亦或者想和我聊天、交朋友，欢迎随时以各种方式联系我。
 
 - QQ：838209721
-- 微信：samuelhuang2019
+- 微信：sghuang19
 - 邮箱：[samuel.g.huang@outlook.com](mailto://samuel.g.huang@outlook.com)
 - 电话：+86.181.7553.8885
 - iMessage/Telegram/WhatsApp/US-Tel.：+1.574.329.2495
@@ -314,7 +317,7 @@
 
 - 哔哩哔哩：[@黄彧柒](https://space.bilibili.com/11101809)
 - 小红书：[@黄彧柒](https://www.xiaohongshu.com/user/profile/62ee64ee000000001e01f345)
-- LinkedIn：[@sghuang19](https://linkedin.com/in/sghuang19)
+- LinkedIn：[@samuel-g-huang](https://linkedin.com/in/samuel-g-huang)
 - 微信公众号（在建）：浮生思诚
 
 ## 请我喝杯咖啡
