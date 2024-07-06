@@ -4,6 +4,6 @@
 
 - [工业设计（工程方向）](grad-application/sdim/engineering-focus/README.md)
 
-- [工业设计（设计方向）](grad-application/sdim/design-focus/README.md)
+- [工业设计（设计方向）(1)](grad-application/sdim/design-focus/README.md)
 
 - [自动化](grad-application/sdim/automatization/README.md)
