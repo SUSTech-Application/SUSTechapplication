@@ -232,4 +232,4 @@ By Yua
 
 **请作者吃点小零食**：
 
-![snacks](../../src/people/yua/give a reward.png)
+![snacks](docs/src/people/yua/give a reward.png)
