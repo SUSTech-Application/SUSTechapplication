@@ -2,14 +2,14 @@
 
 ## 公告
 
-- 请有意愿负责筹划 **2022-Fall** 飞跃手册的同学联系：xuc2019 AT mail.sustech.edu.cn。
+- 请有意愿负责筹划飞跃手册的同学联系：zhangyj2021 AT mail.sustech.edu.cn。
 - 支持**实名/匿名**投稿
 - 南科大飞跃手册始创于2019年3月，往届分享请于左侧导航栏查找，以下为更新记录。
 - 如果您对飞跃手册有好一点的建议可以通过邮箱联系我们（联系邮箱在投稿/修改标题下），让我们一起完善飞跃手册！
 
 ## 投稿/修改
 
-- 投稿/修改请联系 **xuc2019 AT mail.sustech.edu.cn** 或 **12012913 AT mail.sustech.edu.cn** 或 **12111944 AT mail.sustech.edu.cn**
+- 投稿/修改请联系 **zhangyj2021 AT mail.sustech.edu.cn**
 
 ## 意见/改进
 
