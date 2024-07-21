@@ -10,6 +10,8 @@
 
 # 动机信 (Motivation Letter)
 
+原文地址：https://fine-seed-211.notion.site/Motivation-Letter-69b629f48b2344c7be7379ed84d403d2?pvs=4
+
 ## 0. 引言
 
 本文将讲解留学申请中的动机信，英文 Motivation Letter 或 Letter of Motivation。
