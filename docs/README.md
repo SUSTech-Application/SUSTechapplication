@@ -18,6 +18,7 @@
 ## 近期更新
 
 - [2024-07-21] [申请总结] [20级-林雨航-动机信写作教程](grad-application/computer-science-and-engineering/(ML)-20-linyuhang.md)
+- [2024-07-21] [申请总结] [20级-曾宪清 南科大APS审核指北](grad-application/computer-science-and-engineering/(APS)-20-zengxianqing.md)
 - [2024-07-06] [申请总结] [19级-工业设计-余彤歌 MS @ 清华大学与华盛顿大学双学位 / MIT](grad-application/sdim/design-focus/[CN]-19-yutongge.md)
 - [2024-03-09] [学习经验] [21级-光电信息科学与工程-周弘毅 经验分享](英语学习/日常学习/经验分享-21-周弘毅.md)
 - [2023-11-23] [招生信息] [加拿大温哥华Simon Fraser University计算机系 陈武阳助理教授 招生信息](招生信息/加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息.md)
