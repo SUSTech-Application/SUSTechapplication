@@ -706,17 +706,20 @@ Thank you for considering my application. I look forward to the possibility of c
 最后做一个简单的自我介绍：我叫林雨航，计算机科学与技术专业，GPA 3.81/4.00，年排 22/223，3.8k词汇量硬考托福101的逻辑战士，无科研成果。教过 2022春+2022秋+2023春 三学期的 Java互助课，[B站回放](https://space.bilibili.com/383809016/channel/series)曾救诸多学生于水火。主申欧陆+新加坡，拿了 NTU、NUS、哥本哈根大学等7个offer，最后与女朋友一起去了瑞典皇家理工学院（KTH）。部分申请和选校经验已总结于 [小红书@Tsuki](https://www.xiaohongshu.com/user/profile/5f14f967000000000100518b?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board)，想了解欧陆或有欧陆申请意愿的朋友欢迎加好友交流：
 
 <table style="margin: auto; width: fit-content"><tbody><tr style="border: none">
-<td style="border: none"><img style="height: 21rem" src='grad-application/computer-science-and-engineering/(ML)-20-linyuhang/Wechat.jpg'></td>
-<td style="border: none"><img style="height: 21rem" src='grad-application/computer-science-and-engineering/(ML)-20-linyuhang/QQ.jpg'></td>
+<td style="border: none"><img style="height: 18rem" src='grad-application/computer-science-and-engineering/(ML)-20-linyuhang/Wechat.jpg'></td>
+<td style="border: none"><img style="height: 18rem" src='grad-application/computer-science-and-engineering/(ML)-20-linyuhang/QQ.jpg'></td>
 </tr></tbody></table>
 
-小小卖个惨：我写这篇总结花了接近10天，翻了各项目官网找论据，一些[复杂的图片](#chapter-3-3-motivation-paragraph)仅制作就花了一个多小时，初稿完成后还全文通读了几遍以纠正表述细节。原稿是用 Notion 写的，搬到飞跃手册后发现手册的自带格式与Notion格式相差极大，于是又花了一天调整CSS样式和各图片大小，以让网页内容达到预期效果。
+<table style="margin: auto; width: fit-content"><tbody><tr style="border: none">
+<td style="border: none">
+小小卖个惨：我写这篇总结花了接近10天，翻了各项目官网找论据，一些<a href="#/grad-application/computer-science-and-engineering/(ML)-20-linyuhang.md?id=chapter-3-3-motivation-paragraph">复杂的图片</a>仅制作就花了一个多小时，初稿完成后还全文通读了几遍以纠正表述细节。原稿是用 Notion 写的，搬到飞跃手册后发现手册的自带格式与Notion格式相差极大，于是又花了一天调整CSS样式和各图片大小，以让网页内容达到预期效果。
 
 真的灰常辛苦的啦~~ 如此详尽的教程连中介咨询都价格不菲，真是太良心了呢~~ 如果你觉得这篇文章对你有所帮助并且愿意打赏一点的话，我会非常非常开心的哟 (*≧︶≦))~~
+</td>
+<td style="border: none"><img src="grad-application/computer-science-and-engineering/(ML)-20-linyuhang/赞赏码.jpg" alt="赞赏码.jpg" style="zoom: 100%;" /></td>
+</tr></tbody></table>
 
- <div style='text-align: center'>
-	<img src="grad-application/computer-science-and-engineering/(ML)-20-linyuhang/赞赏码.jpg" alt="赞赏码.jpg" style="zoom: 25%;" />
- </div>
+
 
 最后的最后，附上[开头承诺](#commitment)的动机信模板以供下载参考，并再次感谢你能看到这里 🌹：
 
