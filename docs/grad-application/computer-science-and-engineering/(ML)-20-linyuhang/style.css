@@ -1,0 +1,54 @@
+article {
+    width: 46.25rem;
+}
+
+.markdown-section figure, .markdown-section p {
+    margin: 0.375rem 0;
+}
+
+.markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: 1.5rem;
+    word-spacing: .05rem;
+    margin: 0.375rem 0;
+}
+
+.markdown-section ol li, .markdown-section ul li {
+    margin: 0.375rem 0;
+}
+
+.markdown-section blockquote {
+    margin: 0.375rem 0 0.375rem 1.4rem;
+    border-left: 4px solid #e6e6e6;
+    color: #34495e;
+    padding-left: .8rem;
+}
+
+.markdown-section blockquote p {
+    font-weight: normal;
+}
+
+.markdown-section a {
+    font-weight: normal;
+    color: rgb(58,133,175);
+}
+
+.markdown-section h2 {
+    margin: 2.1875rem 0 0.5rem 0;
+}
+
+.markdown-section h3 {
+    margin: 1.25rem 0 0.3125rem 0;
+}
+
+.markdown-section h4 {
+    margin: 1rem 0 0 0;
+}
+
+.comment {
+    line-height: 1.1rem;
+    margin: 0 0 0.4rem 0;
+}
+
+img.boarder {
+    border: 1px solid #34495e;
+}

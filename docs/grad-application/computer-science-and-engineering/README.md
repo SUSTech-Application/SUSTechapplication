@@ -1,5 +1,10 @@
 ## 计算机科学与技术
 
+#### 单项技能经验：
+
+  - [20级-林雨航 动机信写作教程](grad-application/computer-science-and-engineering/(ML)-20-linyuhang.md)
+  - [20级-曾宪清 南科大APS审核指北](grad-application/computer-science-and-engineering/(APS)-20-zengxianqing.md)
+
 #### PhD Programs:
 
   - [16级-王雨童 University of California, Davis](grad-application/computer-science-and-engineering/[US]-16-wangyutong.md)
