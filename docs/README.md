@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2024-07-28] [海外交流] [匿名-UCLA夏校经验分享](oversea-program/summer-school/ucla_summer_session_recommendation.md)
 - [2024-07-21] [申请总结] [20级-林雨航-动机信写作教程](grad-application/computer-science-and-engineering/(ML)-20-linyuhang.md)
 - [2024-07-21] [申请总结] [20级-曾宪清 南科大APS审核指北](grad-application/computer-science-and-engineering/(APS)-20-zengxianqing.md)
 - [2024-07-06] [申请总结] [19级-工业设计-余彤歌 MS @ 清华大学与华盛顿大学双学位 / MIT](grad-application/sdim/design-focus/[CN]-19-yutongge.md)

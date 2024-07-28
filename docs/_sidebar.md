@@ -36,10 +36,10 @@
 
   - [系统设计与智能制造学院 (1)](grad-application/sdim/README.md)
 
-- 海外交流 (5)
+- 海外交流 (6)
 
   - [学期交流 (2)](oversea-program/semester-program/README.md)
-  - [暑校 ](oversea-program/summer-school/README.md)
+  - [暑校 (1)](oversea-program/summer-school/README.md)
   - [暑研 (3)](oversea-program/summer-research/README.md)
 
 - 学习经验 (6)
