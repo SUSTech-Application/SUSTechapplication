@@ -1,4 +1,4 @@
-# \[US\]20-Yua-CSE Ph.D.@Rensselaer Polytechnic Institute
+# \[US\]20-Yua-CSE PhD @Rensselaer Polytechnic Institute
 
 
 ## 平庸背景的泛计算机博士申请——未曾讲述的故事们
@@ -41,7 +41,7 @@ By Yua
 
 ### 1 首先最强烈推荐
 
-16级数学系徐源诚学长：[PhD申请的“游戏规则”、科研、英语、绩点与其他](https://sustech-application.com/?utm_source=online#/grad-application/math/applied-mathematics/[US]-16-xuyuancheng)
+16级数学系徐源诚学长：[PhD申请的“游戏规则”、科研、英语、绩点与其他](https://sustech-application.com/grad-application/math/applied-mathematics/[US]-16-xuyuancheng)
 
 > [!IMPORTANT]
 >
@@ -75,10 +75,10 @@ By Yua
 > [!NOTE]
 >
 > 港新：大家熟知的7所。
-> 
+>
 > 欧洲和澳洲我不太熟。
 >
-> 
+>
 > 日本（SGU英文项目）：
 >
 > 1. 东京大学 （Suzuki Taiji
@@ -86,7 +86,7 @@ By Yua
 > 3. 东北大学（去年新设立一个NLP研究中心
 > 4. 早稻田大学
 > 5. 大阪大学（Fujisaki Yasumasa
-> 6. OIST：Okinawa Institute of Sicence and Technology 只颁发5年博士学位、纯英环境（日本人占比仅30%）、在美丽的冲绳、宣传片：【OIST - University of the Future 新時代の教育研究を切り拓く】 https://www.bilibili.com/video/BV1yW411a7TG/?share_source=copy_web&vd_source=6996eff0c0f4047c83d18791025d4a1e
+> 6. OIST：Okinawa Institute of Sicence and Technology 只颁发5年博士学位、纯英环境（日本人占比仅30%）、在美丽的冲绳、宣传片：【OIST - University of the Future 新時代の教育研究を切り拓く】 https://www.bilibili.com/video/BV1yW411a7TG/
 > 7. Naist/Jaist 大学院大学（研究生院）
 >
 > 韩国：
@@ -232,4 +232,4 @@ By Yua
 
 **请作者吃点小零食**：
 
-![snacks](/yua/snacks.png)
+![snacks](./yua/snacks.png)
