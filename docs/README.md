@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2024-09-13] [海外交流] [22级-邹佳辰-UCSD Summer Session自申指南](oversea-program/summer-school/ucsd_summer_session_guide.md)
 - [2024-08-20] [申请总结] [20级-数据科学与大数据技术-Yua PhD @ Rensselaer Polytechnic Institute](grad-application/math/statistics/[US]-20-yua.md)
 - [2024-07-28] [海外交流] [匿名-UCLA夏校经验分享](oversea-program/summer-school/ucla_summer_session_recommendation.md)
 - [2024-07-21] [申请总结] [20级-林雨航-动机信写作教程](grad-application/computer-science-and-engineering/(ML)-20-linyuhang.md)
