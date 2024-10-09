@@ -1,4 +1,4 @@
-*.DS_Store
+.DS_Store
 node_modules
 /dist
 
@@ -19,10 +19,3 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
-
-# lock files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-bun.lockb
-
