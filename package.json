@@ -1,7 +1,7 @@
 {
   "name": "sustechapplication",
   "scripts": {
-    "serve": "docsify serve docs"
+    "serve": "docsify serve"
   },
   "dependencies": {
     "docsify-cli": "^4.4.4"
