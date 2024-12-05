@@ -1,0 +1,58 @@
+# Lookup table for frontmatter fields
+
+category:
+  - abroad: "Study abroad programs"
+  - employment: "Employed after graduation"
+  - grad: "Graduate school"
+  - recruit: "Recruiting information"
+
+region:
+  - au: "Australia & New Zealand"
+  - ca: "Canada"
+  - cn: "China (mainland)"
+  - de: "Germany"
+  - fr: "France"
+  - hk: "Hong Kong SAR, China"
+  - jp: "Japan"
+  - kr: "South Korea"
+  - sa: "Saudi Arabia"
+  - sg: "Singapore"
+  - tw: "Taiwan Province, China"
+  - uk: "United Kingdom"
+  - us: "United States of America"
+
+# Canonical name of universities
+university:
+  - bu: "Boston University"
+  - duke: "Duke University"
+  - hkust: "Hong Kong University of Science and Technology"
+  - kaust: "King Abdullah University of Science and Technology"
+  - mhh: "Medizinische Hochschule Hannover"
+  - nd: "University of Notre Dame"
+  - nus: "National University of Singapore"
+  - ohsu: "Oregon Health and Science University"
+  - upenn: "University of Pennsylvania"
+  - pitt: "University of Pittsburgh"
+  - sustech: "Southern University of Science and Technology"
+  - uci: "University of California, Irvine"
+  - usc: "University of Southern California"
+
+employer:
+  - cibr: "北京脑科学与类脑研究中心"
+
+degree:
+  - meng: "Master of Engineering"
+  - mphil: "Master of Philosophy"
+  - ms: "Master of Science"
+  - phd: "Doctor of Philosophy"
+
+major:
+  - chem: "Chemistry"
+  - bio: "Bio Science, Bio Tech, Bio Informatics, Bio Medical Engineering"
+  - sme: "Microelectronics"
+
+program:
+  - cse: "Computer Science and Engineering"
+  - is: "Intelligent Systems"
+  - mech: "Mechanical Engineering"
+  - neuro: "Neuroscience"
