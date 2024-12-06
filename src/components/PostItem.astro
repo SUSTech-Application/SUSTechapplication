@@ -1,0 +1,34 @@
+---
+import FormattedDate from "./FormattedDate.astro";
+const {post} = Astro.props;
+const {
+    title,
+    pubDate,
+    year,
+    category,
+    region,
+    major,
+    program,
+    university
+} = post.data;
+---
+
+<a href=`/post/${post.id}/` class="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+    <h2 class="text-xl font-semibold mb-4">{title}</h2>
+    <!-- Author and Date -->
+    <section>
+        <div>{"[Author]"}</div>
+        <div>
+            <FormattedDate date={pubDate}/>
+        </div>
+    </section>
+    <!-- Other metadata -->
+    <section>
+        <span>{year}</span>
+        <span>{category}</span>
+        <span>{region}</span>
+        <span>{major}</span>
+        <span>{program}</span>
+        <span>{university}</span>
+    </section>
+</a>
