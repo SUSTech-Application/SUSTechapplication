@@ -1,0 +1,9 @@
+---
+import Icon from "./Icon.astro";
+const { text, variant, icon } = Astro.props;
+---
+
+<div class={`badge badge-${variant} gap-2`}>
+  <Icon name={icon} className={"h-6 w-6 text-black"} />
+  {text}
+</div>

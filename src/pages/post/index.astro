@@ -1,40 +1,38 @@
 ---
-import BaseHead from '../../components/BaseHead.astro';
-import Header from '../../components/Header.astro';
-import Footer from '../../components/Footer.astro';
-// import PostItem from '../../components/PostItem.astro';
-import PostItem from '../../components/PostItem.vue';
-import {SITE_TITLE, SITE_DESCRIPTION} from '../../consts';
-import {getCollection} from 'astro:content';
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import PostItem from "../../components/PostItem.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+import { getCollection } from "astro:content";
 
-const posts = (await getCollection('post')).sort(
-    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+const posts = (await getCollection("post")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
 <!doctype html>
-<html lang="en">
-<head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION}/>
-    <style>
-    </style>
+<html lang="en" data-theme="cupcake">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <style></style>
     <title>Latest Posts</title>
-</head>
-<body>
-<Header/>
-<main>
-    <section>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <section>
         <ul>
-            {
-                posts.map((post) => (
-                        <li>
-                            <PostItem post={post}/>
-                        </li>
-                ))
-            }
+          {
+            posts.map((post) => (
+              <li>
+                <PostItem post={post} />
+              </li>
+            ))
+          }
         </ul>
-    </section>
-</main>
-<Footer/>
-</body>
+      </section>
+    </main>
+    <Footer />
+  </body>
 </html>
