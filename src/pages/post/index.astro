@@ -3,12 +3,7 @@ import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import PostItem from "../../components/PostItem.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
-import { getCollection } from "astro:content";
-
-const posts = (await getCollection("post")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
+import { SITE_TITLE, SITE_DESCRIPTION, ALL_POSTS } from "../../consts";
 ---
 
 <!doctype html>
@@ -24,7 +19,7 @@ const posts = (await getCollection("post")).sort(
       <section>
         <ul>
           {
-            posts.map((post) => (
+            ALL_POSTS.map((post) => (
               <li>
                 <PostItem post={post} />
               </li>

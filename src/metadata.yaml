@@ -1,0 +1,61 @@
+# Lookup table for metadata fields
+
+# Category, shorthand and canonical names
+category:
+  abroad: "境外交流/科研项目"
+  employment: "就业"
+  grad: "研究生项目"
+  recruit: "招生/招聘信息"
+
+# Region, and canonical names
+# FIXME: Should EU countries / North America countries be merged?
+region:
+  au: "澳大利亚/新西兰"
+  ca: "加拿大"
+  cn: "中国大陆"
+  de: "德国"
+  fr: "法国"
+  hk: "香港特别行政区"
+  jp: "日本"
+  kr: "韩国"
+  sa: "沙特阿拉伯"
+  sg: "新加坡"
+  tw: "台湾省"
+  uk: "英国"
+  us: "美国"
+
+# University, shorthand and canonical names
+university:
+  bu: "Boston University"
+  duke: "Duke University"
+  hkust: "香港科技大学"
+  kaust: "King Abdullah University of Science and Technology"
+  mhh: "Medizinische Hochschule Hannover"
+  nd: "University of Notre Dame"
+  nus: "National University of Singapore"
+  ohsu: "Oregon Health and Science University"
+  upenn: "University of Pennsylvania"
+  pitt: "University of Pittsburgh"
+  sustech: "南方科技大学"
+  uci: "University of California, Irvine"
+  usc: "University of Southern California"
+
+employer:
+  cibr: "北京脑科学与类脑研究中心"
+
+degree:
+  meng: "Master of Engineering"
+  mphil: "Master of Philosophy"
+  ms: "Master of Science"
+  phd: "Doctor of Philosophy"
+
+major:
+  chem: "化学"
+  bio: "生物"
+  sme: "微电子"
+
+program:
+  cse: "Computer Science and Engineering"
+  is: "Intelligent Systems"
+  mech: "Mechanical Engineering"
+  neuro: "Neuroscience"

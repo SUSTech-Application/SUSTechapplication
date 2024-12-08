@@ -6,7 +6,7 @@ const { id, data } = post;
 ---
 
 <a
-  :href="`/post/${id}/`"
+  href={`/post/${id}/`}
   class="block p-6 m-6 rounded-lg shadow-md hover:shadow-lg transition-shadow"
 >
   <h2 class="text-xl font-semibold">{data.title}</h2>
