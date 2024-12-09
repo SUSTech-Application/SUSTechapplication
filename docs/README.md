@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2024-12-09] [申请总结] [20级-冯鑫钰 University of Michigan, Ann Arbor-Physics](grad-application/physics/physics/\[US\]-20-fengxinyu)
 - [2024-11-25] [招生信息] [13级-何思鸿-校友招生-CS PhD@UTA](招生信息/13级-何思鸿-校友招生-CS%20PhD@UTA.md)
 - [2024-09-13] [海外交流] [22级-邹佳辰-UCSD Summer Session自申指南](oversea-program/summer-school/ucsd_summer_session_guide.md)
 - [2024-08-20] [申请总结] [20级-数据科学与大数据技术-Yua PhD @ Rensselaer Polytechnic Institute](grad-application/math/statistics/[US]-20-yua.md)
