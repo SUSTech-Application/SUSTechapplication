@@ -2,27 +2,23 @@
 
 # Category, shorthand and canonical names
 category:
-  abroad: "境外交流/科研项目"
+  grad: "研究生"
   employment: "就业"
-  grad: "研究生项目"
-  recruit: "招生/招聘信息"
+  abroad: "交流"
+  recruit: "招生"
+  exp: "经验"
 
-# Region, and canonical names
-# FIXME: Should EU countries / North America countries be merged?
+# Region, shorthand and canonical names
 region:
-  au: "澳大利亚/新西兰"
-  ca: "加拿大"
   cn: "中国大陆"
-  de: "德国"
-  fr: "法国"
-  hk: "香港特别行政区"
-  jp: "日本"
-  kr: "韩国"
-  sa: "沙特阿拉伯"
+  hmt: "港澳台"
+  na: "北美洲"
+  oc: "大洋洲"
   sg: "新加坡"
-  tw: "台湾省"
+  eu: "欧陆"
+  jk: "日韩"
+  sa: "沙特阿拉伯"
   uk: "英国"
-  us: "美国"
 
 # University, shorthand and canonical names
 university:
@@ -44,15 +40,37 @@ employer:
   cibr: "北京脑科学与类脑研究中心"
 
 degree:
-  meng: "Master of Engineering"
-  mphil: "Master of Philosophy"
-  ms: "Master of Science"
   phd: "Doctor of Philosophy"
+  ms: "Master of Science"
+  me: "Master of Engineering"
 
-major:
+# Department, shorthand and canonical names
+department:
+  # College of Science
+  math: "数学"
+  phy: "物理"
   chem: "化学"
-  bio: "生物"
+  ess: "地空"
+  stat: "统计"
+  # College of Engineering
+  mae: "力航"
+  mee: "机能"
+  mse: "材料"
+  eee: "电子"
+  cse: "计算机"
+  ocean: "海洋"
+  bme: "生医工"
+  ese: "环境"
   sme: "微电子"
+  sdim: "智能制造"
+  # School of Life Sciences
+  bio: "生物"
+  # School of Medicine
+  med: "医学"
+  # College of Business
+  fin: "金融"
+  ism: "信管"
+  acc: "会计"
 
 program:
   cse: "Computer Science and Engineering"

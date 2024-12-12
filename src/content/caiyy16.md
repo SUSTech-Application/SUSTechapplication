@@ -6,7 +6,7 @@ region: de
 category: grad
 university: mhh
 degree: phd
-major: bio
+department: bio
 program: bio
 ---
 

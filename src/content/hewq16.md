@@ -6,7 +6,7 @@ region: us
 category: grad
 university: uci
 degree: phd
-major: bio
+department: bio
 program: bio
 ---
 

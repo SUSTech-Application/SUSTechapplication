@@ -6,7 +6,7 @@ region: us
 category: grad
 university: columbia
 degree: ms
-major: bio
+department: bio
 program: bio
 ---
 

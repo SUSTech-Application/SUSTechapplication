@@ -6,7 +6,7 @@ region: sg
 category: grad
 university: nus
 degree: phd
-major: bio
+department: bio
 program: bio
 ---
 

@@ -6,7 +6,7 @@ region: us
 category: grad
 university: duke
 degree: ms
-major: bio
+department: bio
 program: bio
 ---
 

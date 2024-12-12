@@ -6,7 +6,7 @@ region: us
 category: grad
 university: upenn
 degree: phd
-major: bio
+department: bio
 program: bio
 ---
 

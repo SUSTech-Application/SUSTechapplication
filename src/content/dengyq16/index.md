@@ -7,7 +7,7 @@ region: us
 category: grad
 university: bu
 degree: phd
-major: bio
+department: bio
 program: mech
 ---
 

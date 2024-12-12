@@ -6,7 +6,7 @@ region: sa
 category: grad
 university: kaust
 degree: phd
-major: bio
+department: bio
 program: cs
 ---
 

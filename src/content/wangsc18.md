@@ -6,7 +6,7 @@ region: hk
 category: grad
 university: hkust
 degree: phd
-major: bio
+department: bio
 program: bio
 ---
 

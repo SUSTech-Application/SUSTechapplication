@@ -5,7 +5,7 @@ year: 16
 region: cn
 category: employment
 employer: cibr
-major: bio
+department: bio
 ---
 
 ### 基本信息
