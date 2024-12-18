@@ -1,7 +1,8 @@
 .DS_Store
 node_modules/
-.astro/
+.nuxt/
 dist/
+.output/
 
 # local env files
 .env.local
@@ -27,3 +28,7 @@ bun.lockb
 
 # Misc
 tags
+*.d.ts
+
+# Local Netlify folder
+.netlify/

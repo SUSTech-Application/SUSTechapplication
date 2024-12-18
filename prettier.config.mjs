@@ -1,12 +1,12 @@
 /** @type {import("prettier").Config} */
 export default {
   vueIndentScriptAndStyle: true, // Indents <script> and <style> contents
-  plugins: ["prettier-plugin-astro", "prettier-plugin-vue"],
+  plugins: ["prettier-plugin-vue"],
   overrides: [
     {
-      files: "*.astro",
+      files: "*.vue",
       options: {
-        parser: "astro",
+        parser: "vue",
       },
     },
   ],
