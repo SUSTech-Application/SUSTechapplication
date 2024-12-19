@@ -2,6 +2,8 @@
   import { ref } from "vue";
 
   const { data: metadata } = await useFetch("/api/metadata");
+
+  // extract the choices
   const options = computed(() =>
     Object.fromEntries(
       Object.entries(metadata.value).map(([field, choices]) => [

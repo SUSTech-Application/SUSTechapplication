@@ -5,8 +5,10 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "dev:netlify": "netlify dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
+    "serve:netlify": "netlify serve",
     "test": "vitest"
   },
   "dependencies": {
