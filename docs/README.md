@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2025-02-23] [申请总结] [21级-计算机科学与技术-钟志源 CS PhD @ Utah](grad-application/computer-science-and-engineering/[US]-21-zhongzhiyuan.md)
 - [2024-12-09] [申请总结] [20级-冯鑫钰 University of Michigan, Ann Arbor-Physics](grad-application/physics/physics/\[US\]-20-fengxinyu)
 - [2024-11-25] [招生信息] [13级-何思鸿-校友招生-CS PhD@UTA](招生信息/13级-何思鸿-校友招生-CS%20PhD@UTA.md)
 - [2024-09-13] [海外交流] [22级-邹佳辰-UCSD Summer Session自申指南](oversea-program/summer-school/ucsd_summer_session_guide.md)
