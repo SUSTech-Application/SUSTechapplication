@@ -1,7 +1,8 @@
 {
   "name": "sustechapplication",
   "scripts": {
-    "serve": "docsify serve docs"
+    "serve": "docsify serve docs",
+    "sort": "bunx sort-package-json"
   },
   "dependencies": {
     "docsify-cli": "^4.4.4"
