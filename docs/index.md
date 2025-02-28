@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "南方科技大学飞跃手册"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "[text goes here...]"
+  tagline: tag line goes here...
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 最近更新
+      link: /updates
+    - theme: brand
+      text: 分享经验
+      link: /contribute
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
