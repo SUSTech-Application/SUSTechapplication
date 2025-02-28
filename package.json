@@ -1,16 +1,17 @@
 {
   "name": "sustechapplication",
   "scripts": {
+    "build": "vitepress build",
+    "dev": "vitepress dev",
     "lint": "markdownlint-cli2 \"**.md\"",
     "lint:fix": "bun run lint -- --fix",
-    "serve": "docsify serve docs",
+    "preview": "vitepress preview",
     "sort": "bunx sort-package-json"
   },
-  "dependencies": {
-    "docsify-cli": "^4.4.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "markdownlint-cli2": "^0.17.2",
-    "prettier": "^3.5.2"
+    "prettier": "^3.5.2",
+    "vitepress": "^1.6.3"
   }
 }
