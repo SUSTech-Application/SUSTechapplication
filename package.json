@@ -8,6 +8,7 @@
     "docsify-cli": "^4.4.4"
   },
   "devDependencies": {
+    "markdownlint-cli2": "^0.17.2",
     "prettier": "^3.5.2"
   }
 }
