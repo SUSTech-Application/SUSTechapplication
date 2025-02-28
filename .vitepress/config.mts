@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "./docs",
+  ignoreDeadLinks: true, // FIXME:doing this just in dev
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
   themeConfig: {
