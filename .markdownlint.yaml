@@ -1,0 +1,7 @@
+line-length:
+  code_blocks: false # caught by prettier
+  tables: false
+no-duplicate-heading:
+  siblings_only: true
+no-inline-html: false
+first-line-h1: false # could be in front matter
