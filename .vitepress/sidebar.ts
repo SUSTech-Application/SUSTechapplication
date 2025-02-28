@@ -85,6 +85,19 @@ const studyAbroad: DefaultTheme.SidebarItem = {
   ],
 };
 
-const sidebar: DefaultTheme.Sidebar = [gradSchool, studyAbroad];
+const experience: DefaultTheme.SidebarItem = {
+  text: "学习经验 (6)",
+  collapsed: false,
+  items: [
+    { text: "GMAT", link: "英语学习/GMAT" },
+    { text: "GRE (3)", link: "英语学习/GRE" },
+    { text: "IELTS (2)", link: "英语学习/IELTS" },
+    { text: "TOEFL", link: "英语学习/TOEFL" },
+    { text: "四六级", link: "英语学习/四六级" },
+    { text: "日常学习 (1)", link: "英语学习/日常学习" },
+  ],
+};
+
+const sidebar: DefaultTheme.Sidebar = [gradSchool, studyAbroad, experience];
 
 export default sidebar;
