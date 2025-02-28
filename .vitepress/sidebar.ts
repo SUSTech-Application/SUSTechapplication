@@ -1,11 +1,12 @@
 import { type DefaultTheme } from "vitepress";
 
-const grad: DefaultTheme.SidebarItem = {
-  text: "目录",
+// TODO: count posts automatically
+
+const gradSchool: DefaultTheme.SidebarItem = {
+  text: "个人申请总结",
+  collapsed: false,
   items: [
     {
-      text: "个人申请总结",
-      collapsed: false,
       items: [
         {
           text: "计算机科学与工程系 (21)",
@@ -71,6 +72,19 @@ const grad: DefaultTheme.SidebarItem = {
   ],
 };
 
-const sidebar: DefaultTheme.Sidebar = [grad];
+const studyAbroad: DefaultTheme.SidebarItem = {
+  text: "海外交流",
+  collapsed: false,
+  items: [
+    {
+      text: "学期交流 (2)",
+      link: "oversea-program/semester-program",
+    },
+    { text: "暑校 (1)", link: "oversea-program/summer-school" },
+    { text: "暑研 (3)", link: "oversea-program/summer-research" },
+  ],
+};
+
+const sidebar: DefaultTheme.Sidebar = [gradSchool, studyAbroad];
 
 export default sidebar;
