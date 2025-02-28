@@ -1,6 +1,8 @@
 {
   "name": "sustechapplication",
   "scripts": {
+    "lint": "markdownlint-cli2 \"**.md\"",
+    "lint:fix": "bun run lint -- --fix",
     "serve": "docsify serve docs",
     "sort": "bunx sort-package-json"
   },
