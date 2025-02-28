@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.files": ["**.md"],
+  "editor.formatOnSave": true
+}
