@@ -1,5 +1,6 @@
 {
   "name": "sustechapplication",
+  "type": "module",
   "scripts": {
     "build": "vitepress build",
     "dev": "vitepress dev",

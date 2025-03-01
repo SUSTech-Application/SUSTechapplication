@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -13,17 +14,7 @@ export default defineConfig({
       { text: "最近更新", link: "/updates" },
       { text: "分享经验", link: "/contribute" },
     ],
-
-    // sidebar: [
-    //   {
-    //     text: "Examples",
-    //     items: [
-    //       { text: "Markdown Examples", link: "/markdown-examples" },
-    //       { text: "Runtime API Examples", link: "/api-examples" },
-    //     ],
-    //   },
-    // ],
-
+    sidebar,
     socialLinks: [
       {
         icon: "github",
