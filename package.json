@@ -12,6 +12,7 @@
   "dependencies": {},
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "cspell": "^8.17.5",
     "eslint": "^9.21.0",
     "eslint-plugin-vue": "^9.32.0",
     "markdownlint-cli2": "^0.17.2",
