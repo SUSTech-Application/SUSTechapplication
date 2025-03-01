@@ -1,6 +1,6 @@
 ## 物理系
 
-- [应用物理学](grad-application/physics/applied-physics/README.md)
+- [应用物理学](applied-physics)
 
-- [物理学](grad-application/physics/physics/README.md)
+- [物理学](physics)
 

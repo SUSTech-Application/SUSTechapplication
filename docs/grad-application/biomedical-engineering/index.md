@@ -4,28 +4,28 @@
 
 #### PhD Programs:
 
-  - [18级-王澍辰  Hong Kong University of Science and Technology ](grad-application/biomedical-engineering/[HK]-18-wangshuchen.md)
+  - [18级-王澍辰  Hong Kong University of Science and Technology ]([HK]-18-wangshuchen)
 
-  - [17级-孙锐 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-sunrui.md)
+  - [17级-孙锐 National University of Singapore]([SG]-17-sunrui)
 
-  - [17级-高旭 National University of Singapore](grad-application/biomedical-engineering/[SG]-17-gaoxu.md)
+  - [17级-高旭 National University of Singapore]([SG]-17-gaoxu)
 
-  - [16级-邓雨晴 Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
+  - [16级-邓雨晴 Boston University]([US]-16-dengyuqing)
 
-  - [16级-邓雨晴 Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing-1.md)
+  - [16级-邓雨晴 Boston University]([US]-16-dengyuqing-1)
 
-  - [16级-李如璇 University of Pittsburgh](grad-application/biomedical-engineering/[US]-16-liruxuan.md)
+  - [16级-李如璇 University of Pittsburgh]([US]-16-liruxuan)
 
-  - [16级-贺文琦 University of California, Irvine](grad-application/biomedical-engineering/[US]-16-hewenqi.md)
+  - [16级-贺文琦 University of California, Irvine]([US]-16-hewenqi)
 
     *《选择了PhD的master分享》*
 
-  - [16级-梁广儒 Oregon Health & Science University](grad-application/biomedical-engineering/[US]-16-liangguangru.md)
+  - [16级-梁广儒 Oregon Health & Science University]([US]-16-liangguangru)
 
 #### Master Programs:
-- [18级-王叶晗 National University of Singapore](grad-application/biomedical-engineering/[SG]-18-wangyehan.md)
-- [16级-叶宇铭 Columbia University](grad-application/biomedical-engineering/[US]-16-yeyuming.md)
-- [15级-隋昌祥 Duke University](grad-application/biomedical-engineering/[US]-15-suichangxiang.md)
+- [18级-王叶晗 National University of Singapore]([SG]-18-wangyehan)
+- [16级-叶宇铭 Columbia University]([US]-16-yeyuming)
+- [15级-隋昌祥 Duke University]([US]-15-suichangxiang)
 
 
 #### 联培：

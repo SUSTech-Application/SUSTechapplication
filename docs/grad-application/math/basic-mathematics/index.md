@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-* [19级-刘宇涵 Brown University](grad-application/math/basic-mathematics/[US]-19-liuyuhan.md)
+* [19级-刘宇涵 Brown University]([US]-19-liuyuhan)
 
 #### Master Programs:
 

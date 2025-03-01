@@ -2,6 +2,7 @@
 node_modules/
 .vitepress/cache/
 .vitepress/dist/
+*.paths.js
 
 .vscode/
 .idea/

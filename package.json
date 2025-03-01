@@ -2,7 +2,8 @@
   "name": "sustechapplication",
   "type": "module",
   "scripts": {
-    "build": "vitepress build",
+    "build": "./scripts/bracket-routes-fix.sh && vitepress build",
+    "clean": "rm -rf .vitepress/dist/ .vitepress/cache && find . -name \"*.paths.js\" -delete",
     "dev": "vitepress dev",
     "format": "prettier -c .",
     "format:fix": "prettier -w .",

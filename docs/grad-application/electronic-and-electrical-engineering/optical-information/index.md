@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-* [16级-范镇鲲 Gatech](grad-application/electronic-and-electrical-engineering/optical-information/[US]-16-fanzhenkun.md)
+* [16级-范镇鲲 Gatech]([US]-16-fanzhenkun)
 
 ##### 联培：
 

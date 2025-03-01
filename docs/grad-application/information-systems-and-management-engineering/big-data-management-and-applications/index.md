@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-- [18级-李之宸 CMU](grad-application/information-systems-and-management-engineering/big-data-management-and-applications/[US]-18-lizhichen.md)
+- [18级-李之宸 CMU]([US]-18-lizhichen)
 
 ##### 联培：
 

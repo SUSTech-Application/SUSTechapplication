@@ -1,4 +1,8 @@
-## 如何进行经验分享
+---
+sidebar: false
+---
+
+# 如何进行经验分享
 
 1. 如果已有`Github`账号可以跳过此步。打开[Github](https://github.com)，点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
 
