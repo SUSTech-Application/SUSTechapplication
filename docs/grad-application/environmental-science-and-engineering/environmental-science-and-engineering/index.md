@@ -17,8 +17,8 @@ To be continued.
 To be continued.
 
 ##### 保研：
-  - [17级-胡洪威 厦门大学](grad-application/environmental-science-and-engineering/environmental-science-and-engineering/[CN]-17-huhongwei.md)
-  - [16级-蔡湾 清华大学深圳研究院](grad-application/environmental-science-and-engineering/environmental-science-and-engineering/[CN]-16-caiwan.md)
+  - [17级-胡洪威 厦门大学]([CN]-17-huhongwei)
+  - [16级-蔡湾 清华大学深圳研究院]([CN]-16-caiwan)
 
 ##### 考研：
 

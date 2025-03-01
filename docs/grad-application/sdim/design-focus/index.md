@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-- [19级-余彤歌 清华大学与华盛顿大学双学位 / MIT](grad-application/sdim/design-focus/[CN]-19-yutongge.md)
+- [19级-余彤歌 清华大学与华盛顿大学双学位 / MIT]([CN]-19-yutongge)
 
 ##### 联培：
 

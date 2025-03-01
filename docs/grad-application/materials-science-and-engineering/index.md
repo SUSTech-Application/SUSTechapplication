@@ -4,18 +4,18 @@
 
 #### PhD Programs:
 
-- [15级-赵李明 Cornell](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
-- [15级-刘国远 UIUC](grad-application/materials-science-and-engineering/[US]-15-liuguoyuan.md)
-- [15级-赖煌 HKUST](grad-application/materials-science-and-engineering/[HK]-15-laihuang.md)
-- [17级-艾谦 UIUC](grad-application/materials-science-and-engineering/[US]-17-aiqian.md)
+- [15级-赵李明 Cornell]([US]-15-zhaoliming)
+- [15级-刘国远 UIUC]([US]-15-liuguoyuan)
+- [15级-赖煌 HKUST]([HK]-15-laihuang)
+- [17级-艾谦 UIUC]([US]-17-aiqian)
 
 #### Master Programs:
 
-*   [16级-钟柯 CMU](grad-application/materials-science-and-engineering/[US]-16-zhongke.md)
+*   [16级-钟柯 CMU]([US]-16-zhongke)
 
 ##### 联培：
 
-* [16级-陈勇 HKUST](grad-application/materials-science-and-engineering/[CN]-16-chenyong.md)
+* [16级-陈勇 HKUST]([CN]-16-chenyong)
 
 ##### 直博：
 
@@ -23,12 +23,12 @@ To be continued.
 
 ##### 保研：
 
-* [16级-姜诚 清华大学深圳国际研究生院](grad-application/materials-science-and-engineering/[CN]-16-jiangcheng.md)
-* [17级-白浩宇 北京大学](grad-application/materials-science-and-engineering/[CN]-17-baihaoyu.md)
+* [16级-姜诚 清华大学深圳国际研究生院]([CN]-16-jiangcheng)
+* [17级-白浩宇 北京大学]([CN]-17-baihaoyu)
 
 ##### 考研：
 
-- [15级-林小淞 南科大](grad-application/materials-science-and-engineering/[CN]-15-linxiaosong.md)
+- [15级-林小淞 南科大]([CN]-15-linxiaosong)
 
 ##### 就业：
 

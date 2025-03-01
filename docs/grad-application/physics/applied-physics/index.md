@@ -22,7 +22,7 @@ To be continued.
 
 ##### 考研：
 
-- [16级-王晗 南方科技大学](grad-application/physics/applied-physics/[CN]-16-wanghan.md)
+- [16级-王晗 南方科技大学]([CN]-16-wanghan)
 
 ##### 就业：
 

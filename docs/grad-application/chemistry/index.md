@@ -2,14 +2,14 @@
 
 #### PhD Programs:
 
-- [17级-傅得峻 CUHK](grad-application/chemistry/[HK]-17-fudejun.md)
-- [16级-陈颖 Rice University](grad-application/chemistry/[US]-15-chenying.md)
-- [15级-南博钊 Notre Dame](grad-application/chemistry/[US]-15-nanbozhao.md)
+- [17级-傅得峻 CUHK]([HK]-17-fudejun)
+- [16级-陈颖 Rice University]([US]-15-chenying)
+- [15级-南博钊 Notre Dame]([US]-15-nanbozhao)
 
 #### Master Programs:
 
-- [17级-陈在竹 IC](grad-application/chemistry/[UK]-17-chenzaizhu.md)
-- [14级-姜力维 Duke (转至公共管理专业)](grad-application/chemistry/[US]-15-jiangliwei.md)
+- [17级-陈在竹 IC]([UK]-17-chenzaizhu)
+- [14级-姜力维 Duke (转至公共管理专业)]([US]-15-jiangliwei)
 
 ##### 联培：
 
@@ -25,7 +25,7 @@ To be continued.
 
 ##### 考研：
 
-- [16级-单坤 SUSTech](grad-application/chemistry/[CN]-16-ShanKun.md)
+- [16级-单坤 SUSTech]([CN]-16-ShanKun)
 
 ##### 就业：
 
