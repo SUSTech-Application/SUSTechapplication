@@ -1,0 +1,55 @@
+name: CD
+concurrency: production
+on:
+  pull_request:
+    branches: [v2.0-dev]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Build
+        run: bun run build
+
+      - name: Upload build files
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-files
+          path: .vitepress/dist/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: production
+    env:
+      OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
+      OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
+      OSS_REGION: ${{ secrets.OSS_REGION }}
+    steps:
+      - name: Download build files
+        uses: actions/download-artifact@v4
+        with:
+          name: build-files
+          path: dist/
+
+      # see https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview/
+      - name: Setup ossutil
+        run: |
+          curl -o ossutil-2.0.6-beta.01091200-linux-amd64.zip \
+          https://gosspublic.alicdn.com/ossutil/v2-beta/2.0.6-beta.01091200/ossutil-2.0.6-beta.01091200-linux-amd64.zip
+          unzip -j ossutil-2.0.6-beta.01091200-linux-amd64.zip
+          chmod +x ossutil
+          ./ossutil version
+
+      - name: Deploy
+        run: ./ossutil sync --delete --force dist/ oss://sustech-application/

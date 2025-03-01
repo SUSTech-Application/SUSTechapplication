@@ -1,6 +1,7 @@
 proseWrap: always
 plugins:
   - "@trivago/prettier-plugin-sort-imports"
+  - "prettier-plugin-sh"
 importOrder:
   - "node"
   - "^vue"
