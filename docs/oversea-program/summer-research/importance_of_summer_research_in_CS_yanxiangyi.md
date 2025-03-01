@@ -1,6 +1,6 @@
 # 在计系，暑研对北美申请重要性的讨论
 
-by [15级-计算机-阎相易](个人申请总结/计算机科学与工程系/[US]-15-阎相易)
+by [15级-计算机-阎相易](/grad-application/computer-science-and-engineering/[US]-15-yanxiangyi)
 
 在计系，如果没有北美暑研的经历，基本不可能申请到好学校的PhD项目。
 
