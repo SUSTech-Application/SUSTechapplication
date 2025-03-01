@@ -1,6 +1,6 @@
 # 哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验
 
-<!-- FIXME: this file needs special treatment -->
+<!-- FIXME: this file needs to be rewritten in markdown -->
 
 by 15级-环境-刘静宇
 
@@ -11,7 +11,7 @@ by 15级-环境-刘静宇
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="text-align: center;margin: 0px 0% 5px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-width: 0px;box-sizing: border-box;">
-<img data-ratio="0.5803571" data-w="560" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/01.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 560px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="560px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/01.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="0.5803571" data-w="560" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/01.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 560px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="560px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/01.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -116,7 +116,7 @@ American Geophysical Union）fall meeting的abstarct，熟悉地学的小朋友�
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
-<img data-ratio="1" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/02.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/02.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1" data-w="640" data-src="../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/02.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/02.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -132,7 +132,7 @@ American Geophysical Union）fall meeting的abstarct，熟悉地学的小朋友�
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
-<img data-ratio="1" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/03.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/03.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/03.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/03.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -362,7 +362,7 @@ American Geophysical Union）fall meeting的abstarct，熟悉地学的小朋友�
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-style: solid;border-width: 4px;border-radius: 0px;border-color: rgb(242, 218, 202);box-sizing: border-box;">
-<img data-ratio="0.7515625" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/04.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/04.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="0.7515625" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/04.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/04.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -371,7 +371,7 @@ American Geophysical Union）fall meeting的abstarct，熟悉地学的小朋友�
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-style: solid;border-width: 5px;border-radius: 0px;border-color: rgb(245, 241, 204);box-sizing: border-box;">
-<img data-ratio="1.3328125" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/05.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/05.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1.3328125" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/05.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/05.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -397,7 +397,7 @@ American Geophysical Union）fall meeting的abstarct，熟悉地学的小朋友�
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
-<img data-ratio="1.3328125" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/06.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/06.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1.3328125" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/06.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/06.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -413,7 +413,7 @@ American Geophysical Union）fall meeting的abstarct，熟悉地学的小朋友�
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
-<img data-ratio="0.5625" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/07.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/07.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="0.5625" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/07.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/07.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -576,7 +576,7 @@ Natural History Muesum| 我 | MoMA</span>
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-style: solid;border-width: 5px;border-radius: 0px;border-color: rgb(242, 218, 202);box-sizing: border-box;">
-<img data-ratio="1.3328125" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/08.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/08.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1.3328125" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/08.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/08.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -585,7 +585,7 @@ Natural History Muesum| 我 | MoMA</span>
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-style: solid;border-width: 5px;border-radius: 0px;border-color: rgb(245, 241, 204);box-sizing: border-box;">
-<img data-ratio="0.75" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/09.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/09.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="0.75" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/09.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/09.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -685,7 +685,7 @@ Natural History Muesum| 我 | MoMA</span>
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-style: solid;border-width: 5px;border-radius: 0px;border-color: rgb(242, 218, 202);box-sizing: border-box;">
-<img data-ratio="1.3328125" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/10.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/10.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1.3328125" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/10.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/10.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -694,7 +694,7 @@ Natural History Muesum| 我 | MoMA</span>
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-style: solid;border-width: 5px;border-radius: 0px;border-color: rgb(245, 241, 204);box-sizing: border-box;">
-<img data-ratio="0.75" data-w="640" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/11.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/11.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="0.75" data-w="640" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/11.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 640px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="640px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/11.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>
@@ -798,7 +798,7 @@ mua~</span>
 <section class="" style="box-sizing: border-box;" powered-by="xiumi.us">
 <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
-<img data-ratio="1.3333333" data-w="600" data-src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/12.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 600px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="600px" class="" src="src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/12.jpeg" crossorigin="anonymous" data-fail="0">
+<img data-ratio="1.3333333" data-w="600" data-src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/12.jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 600px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="600px" class="" src="../../src/img/海外交流/暑研/哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验/12.jpeg" crossorigin="anonymous" data-fail="0">
 </section>
 </section>
 </section>

@@ -22,7 +22,7 @@ To be continued.
 
 ##### 保研：
 * [16级-程嘉琪 中国科学技术大学]([CN]-16-chengjiaqi)
-* [16级-尚恒锐 北航]([CN]-16-shannghengrui)
+* [16级-尚恒锐 北航]([CN]-16-shanghengrui)
 * [16级-岐亦铭 北大]([CN]-16-qiyiming)
 
 ##### 考研：

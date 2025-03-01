@@ -4,9 +4,9 @@
 
 #### PhD Programs
 
-- [16级-电子系-黄皓 UCSD](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao)
-- [15级-电子系-郭欣格 NUS/东京大学](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[SG_JP]-15-guoxinge)
-- [15级-电子系-袁锦东 UC Irvine](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-15-yuanjindong)
+- [16级-电子系-黄皓 UCSD](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-16-huanghao)
+- [15级-电子系-郭欣格 NUS/东京大学](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[SG_JP]-15-guoxinge)
+- [15级-电子系-袁锦东 UC Irvine](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[US]-15-yuanjindong)
 
 #### Master Programs
 
@@ -25,10 +25,10 @@ To be continued.
 
 - [19级-陈仁伟 清华]([CN]-19-chenrenwei)
 - [17级-付宇哲 北大]([CN]-17-fuyuzhe)
-- [16级-电子系-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang)
-- [16级-电子系-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng)
-- [16级-电子系-管宇江 北大深研院](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang)
-- [16级-电子系-李伟增 中国科学院微电子研究所](grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng)
+- [16级-电子系-管宇江 北大深研院](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang)
+- [16级-电子系-李伟增 中国科学院微电子研究所](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng)
+- [16级-电子系-管宇江 北大深研院](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-guanyujiang)
+- [16级-电子系-李伟增 中国科学院微电子研究所](/grad-application/electronic-and-electrical-engineering/microelectronic-engineering/[CN]-16-liweizeng)
 
 **考研**
 
