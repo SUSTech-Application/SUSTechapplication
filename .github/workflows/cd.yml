@@ -41,6 +41,7 @@ jobs:
           name: build-files
           path: dist/
 
+      # see https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview/
       - name: Setup ossutil
         run: |
           curl -o ossutil-2.0.6-beta.01091200-linux-amd64.zip \
@@ -49,8 +50,5 @@ jobs:
           chmod +x ossutil
           ./ossutil version
 
-      - name: Clear bucket
-        run: ./ossutil rm -rf oss://sustech-application/
-
       - name: Deploy
-        run: ./ossutil cp -r dist/ oss://sustech-application/
+        run: ./ossutil sync --delete --force dist/ oss://sustech-application/
