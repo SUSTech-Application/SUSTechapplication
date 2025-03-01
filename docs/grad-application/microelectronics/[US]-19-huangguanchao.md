@@ -1,7 +1,7 @@
 # \[US\]-19-黄冠超 MS CSE @ ND
 
 > - 记住这个链接，快速访问我的飞跃手册：[feiyue.guanchao.pro](http://feiyue.guanchao.pro)
-> - 我在 [2023 年](/src/people/guanchao/sme-sharing-2023.html ':ignore')及 [2024 年](/src/people/guanchao/sme-sharing-2024.html ':ignore')深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
+> - 我在 [2023 年](/sme-sharing-2023.html){target="_self"}及 [2024 年](/sme-sharing-2024.html){target="_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
 > - 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)。
 
 > [!ATTENTION|label:Notre Dame Our Mother]
@@ -151,11 +151,11 @@
 
 申请工作并不艰难，只是较为繁琐。我主要使用了两个工具来辅助这一过程：[Notion](https://notion.so) 与 [TickTick](https://ticktick.com)（即[滴答清单](https://dida365.com)）。
 
-![Notion](../../src/people/guanchao/notion.png)
+![Notion](/src/people/guanchao/notion.png)
 
 网上已有很多资源介绍 Notion 的使用，这里不再赘述。申请过程要面对的是多个院校，而这些院校又都有相同的 attributes：院校的名称、是否最终选中进行申请、排名、地域、截止日期、官网、申请系统入口、对该项目的简单评论等，Notion 的**数据库**功能可以很好地组织此类结构化数据。上图所展示的就是我的申请「大本营」。我以列表形式将考察的所有学校列出，通过自定义的排序规则，按照 [CS Ranking](https://csranking.org) 和 [QS World](https://www.topuniversities.com/qs-world-university-rankings) 对它们进行降序排列，并将最终勾选中的院校置顶，所有信息都一目了然。表格中的每一个条目都是一个笔记，点击打开，可以看到我对每所学校所做的更细致的研究。
 
-![TickTick](../../src/people/guanchao/ticktick.png)
+![TickTick](/src/people/guanchao/ticktick.png)
 
 正式进入申请阶段后，要面临的就是纷繁复杂的表格填写、材料提交等，利用好任务管理工具来帮助我们追踪进度可以极大地减少 FOMO (= Fear of Missing Out) 给我们带来的焦虑。上图就是我在 TickTick 中的“战时指挥所”，通过将各个类型的任务、院校划分进不同的 section，并且利用 sub-task 与 due date 来跟踪发出推荐信邀请、确认收到推荐信、送分等任务的完成情况以及项目的截止日期。在这一套系统的帮助之下，我最终幸运地没有错过任何一个截止日——当然，拖延依旧是避免不了的。
 
@@ -176,7 +176,7 @@
 > - How will our program help you achieve your intellectual and professional goals?
 > - (Optional) Are there any personal experiences, achievements, strengths, or circumstances you would like to include or that you believe will help you succeed in our program?
 
-于是，[我的 SoP](../../src/people/guanchao/uiuc-sop.md) 也完全按照要求展开，全文分为5段，分别以朴实的语言和真诚的态度回答这5个问题：
+于是，[我的 SoP](/src/people/guanchao/uiuc-sop.md) 也完全按照要求展开，全文分为5段，分别以朴实的语言和真诚的态度回答这5个问题：
 
 - 我的交换、暑研、课程经历如何为 grad study 做准备
 - 我的学术方面的兴趣：
@@ -293,7 +293,7 @@
 
 > [!NOTE|label:鸣谢]
 >
-> 感谢[胡明涛学长](grad-application/microelectronics/[US]-17-humingtao.md)的经验分享，我们专业相同，成绩相近，申请的项目也类似，他的案例为我提供了重要的参考，极大地缓解了我的焦虑。
+> 感谢[胡明涛学长]([US]-17-humingtao)的经验分享，我们专业相同，成绩相近，申请的项目也类似，他的案例为我提供了重要的参考，极大地缓解了我的焦虑。
 >
 > 感谢单坤、南博钊学长提供的参考信息。
 
@@ -324,4 +324,4 @@
 
 如果我的经验分享有帮助到你，不妨请我喝杯咖啡。赠人玫瑰，手有余香。
 
-![Coffee](../../src/people/guanchao/coffee.jpg)
+![Coffee](/src/people/guanchao/coffee.jpg)

@@ -1,16 +1,29 @@
 {
   "name": "sustechapplication",
+  "type": "module",
   "scripts": {
+    "build": "./scripts/bracket-routes-fix.sh && vitepress build",
+    "clean": "rm -rf .vitepress/dist/ .vitepress/cache && find . -name \"*.paths.js\" -delete",
+    "dev": "vitepress dev",
+    "format": "prettier -c .",
+    "format:fix": "prettier -w .",
     "lint": "markdownlint-cli2 \"**.md\"",
     "lint:fix": "bun run lint -- --fix",
-    "serve": "docsify serve docs",
-    "sort": "bunx sort-package-json"
-  },
-  "dependencies": {
-    "docsify-cli": "^4.4.4"
+    "preview": "vitepress preview",
+    "sort": "bunx sort-package-json",
+    "spellcheck": "cspell ."
   },
   "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "@types/node": "^22.13.8",
+    "ali-oss": "^6.22.0",
+    "cspell": "^8.17.5",
+    "eslint": "^9.21.0",
+    "eslint-plugin-vue": "^9.32.0",
     "markdownlint-cli2": "^0.17.2",
-    "prettier": "^3.5.2"
+    "prettier": "^3.5.2",
+    "prettier-plugin-sh": "^0.15.0",
+    "typescript-eslint": "^8.25.0",
+    "vitepress": "^1.6.3"
   }
 }

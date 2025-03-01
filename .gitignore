@@ -1,7 +1,13 @@
 .DS_Store
 node_modules/
+.vitepress/cache/
+.vitepress/dist/
+*.paths.js
+
 .vscode/
 .idea/
+
+.env
 
 package-lock.json
 pnpm-lock.yaml
