@@ -3,7 +3,7 @@
 #### PhD Programs:
 
 - [17级-傅得峻 CUHK]([HK]-17-fudejun)
-- [16级-陈颖 Rice University]([US]-15-chenying)
+- [16级-陈颖 Rice University]([US]-16-chenying)
 - [15级-南博钊 Notre Dame]([US]-15-nanbozhao)
 
 #### Master Programs:
