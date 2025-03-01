@@ -4,8 +4,6 @@
 适配项目："(ML)-20-linyuhang/XXX.png"
 -->
 
-<!-- FIXME: this file needs special treatment -->
-
 <link rel="stylesheet" type="text/css" href="(ML)-20-linyuhang/style.css">
 
 # 动机信 (Motivation Letter)

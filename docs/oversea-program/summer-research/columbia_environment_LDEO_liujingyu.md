@@ -1,6 +1,6 @@
 # 哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验
 
-<!-- FIXME: this file needs special treatment -->
+<!-- FIXME: this file needs to be rewritten in markdown -->
 
 by 15级-环境-刘静宇
 

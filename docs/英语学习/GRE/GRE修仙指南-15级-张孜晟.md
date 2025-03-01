@@ -1,7 +1,5 @@
 # GRE修仙指南
 
-<!-- FIXME: needs treatment -->
-
 作者：千张
 
 链接：https://www.zhihu.com/question/19767285/answer/149894118
