@@ -1,1 +1,11 @@
 proseWrap: always
+plugins:
+  - "@trivago/prettier-plugin-sort-imports"
+importOrder:
+  - "node"
+  - "^vue"
+  - "^vitepress"
+  - "^[^.]"
+  - "^[./]"
+importOrderSeparation: true
+importOrderSortSpecifiers: true
