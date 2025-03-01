@@ -1,8 +1,8 @@
 name: CD
 concurrency: production
 on:
-  pull_request:
-    branches: [v2.0-dev]
+  push:
+    branches: [master]
 
 jobs:
   build:
