@@ -1,0 +1,6 @@
+language: en
+dictionaries:
+  - custom-words
+ignorePaths:
+  - "**/*.html"
+useGitignore: true
