@@ -21,11 +21,30 @@ jobs:
       - name: Build
         run: bun run build
 
+      - name: Download previous build files
+        uses: actions/download-artifact@v4
+        with:
+          name: build-files
+          path: dist/
+        continue-on-error: true
+
       - name: Upload build files
         uses: actions/upload-artifact@v4
         with:
           name: build-files
           path: .vitepress/dist/
+          retention-days: 90
+          overwrite: true
+
+      - name: Diff artifacts
+        run: rsync -ainc --delete .vitepress/dist dist/ | tee diff-list
+
+      - name: Upload diff list
+        uses: actions/upload-artifact@v4
+        with:
+          name: diff-list
+          path: diff-list
+          overwrite: true
 
   deploy:
     needs: build
@@ -45,11 +64,32 @@ jobs:
       # see https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview/
       - name: Setup ossutil
         run: |
-          curl -o ossutil-2.0.6-beta.01091200-linux-amd64.zip \
-          https://gosspublic.alicdn.com/ossutil/v2-beta/2.0.6-beta.01091200/ossutil-2.0.6-beta.01091200-linux-amd64.zip
-          unzip -j ossutil-2.0.6-beta.01091200-linux-amd64.zip
+          VERSION=2.0.6-beta.01091200
+          FILE_NAME=ossutil-$VERSION-linux-amd64.zip
+          curl -o $FILE_NAME \
+          https://gosspublic.alicdn.com/ossutil/v2-beta/$VERSION/$FILE_NAME
+          unzip -j $FILE_NAME
           chmod +x ossutil
           ./ossutil version
 
-      - name: Deploy
-        run: ./ossutil sync --delete --force dist/ oss://sustech-application/
+      - name: Download diff list
+        uses: actions/download-artifact@v4
+        with:
+          name: diff-list
+          path: ./
+
+      - name: Deploy - delete files
+        continue-on-error: true
+        run: |
+          BUCKET="oss://sustech-application"
+          touch delete-list
+          grep '^\*' diff-list | sed 's/^\*.* dist\///' | tee delete-list
+          ./ossutil rm $BUCKET -f --files-from delete-list
+
+      - name: Deploy - update files
+        continue-on-error: true
+        run: |
+          BUCKET="oss://sustech-application"
+          touch update-list
+          grep  '^>' diff-list | sed 's/^>.* dist\///' | tee update-list
+          ./ossutil cp ./dist $BUCKET -f --files-from update-list 
