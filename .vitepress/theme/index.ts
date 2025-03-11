@@ -13,7 +13,13 @@ export default {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });
   },
-  enhanceApp({ app, router, siteData }) {
-    // ...
+  enhanceApp({ router }) {
+    router.onAfterRouteChange = (to) => {
+      const hashPath = to.match(/^\/#\/(.+)\/?$/);
+      if (hashPath) {
+        console.warn("Hash path is deprecated, redirecting...");
+        router.go(hashPath[1]);
+      }
+    };
   },
 } satisfies Theme;
