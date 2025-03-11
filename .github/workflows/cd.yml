@@ -84,12 +84,12 @@ jobs:
           BUCKET="oss://sustech-application"
           touch delete-list
           grep '^\*' diff-list | sed 's/^\*.* dist\///' | tee delete-list
-          ./ossutil rm $BUCKET -f --files-from delete-list
+          ./ossutil rm $BUCKET -rf --files-from delete-list
 
       - name: Deploy - update files
         continue-on-error: true
         run: |
           BUCKET="oss://sustech-application"
           touch update-list
-          grep  '^>' diff-list | sed 's/^>.* dist\///' | tee update-list
+          grep  '^>' diff-list | sed 's/^>.* dist\///'
           ./ossutil cp ./dist $BUCKET -f --files-from update-list 
