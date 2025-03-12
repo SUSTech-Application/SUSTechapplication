@@ -10,6 +10,7 @@ export default defineConfig({
   description: "[description goes here...]",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    outline: { level: "deep", label: "目录" },
     nav: [
       { text: "主页", link: "/" },
       { text: "最近更新", link: "/updates" },
