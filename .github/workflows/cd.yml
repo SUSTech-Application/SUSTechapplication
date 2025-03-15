@@ -47,10 +47,10 @@ jobs:
       # see https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview/
       - name: Setup ossutil
         run: |
-          VERSION=2.0.6-beta.01091200
+          VERSION=2.1.0
           FILE_NAME=ossutil-$VERSION-linux-amd64.zip
           curl -o $FILE_NAME \
-          https://gosspublic.alicdn.com/ossutil/v2-beta/$VERSION/$FILE_NAME
+          https://gosspublic.alicdn.com/ossutil/v2/$VERSION/$FILE_NAME
           unzip -j $FILE_NAME
           chmod +x ossutil
           ./ossutil version
