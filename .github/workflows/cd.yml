@@ -1,5 +1,5 @@
 name: CD
-concurrency: production
+concurrency: development
 on:
   push:
     branches: [master]
@@ -9,6 +9,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      REPO: ${{ github.repository }}
+      ARTIFACT_NAME: build-files
     steps:
       - uses: actions/checkout@v3
 
@@ -23,20 +27,49 @@ jobs:
       - name: Build
         run: bun run build
 
+      - name: Download previous build files
+        run: |
+          URL="https://api.github.com/repos/$REPO/actions/artifacts"
+          ARTIFACT_JSON=$(curl -s -H "Authorization: token $TOKEN" \
+            "$URL?name=$ARTIFACT_NAME&per_page=1")
+          if [ "$(echo $ARTIFACTS_JSON | jq '.total_count')" -gt 0 ]; then
+            ARTIFACT_ID=$(echo $ARTIFACTS_JSON | jq '.artifacts[0].id')
+            echo "Downloading artifact ID: $ARTIFACT_ID"
+            mkdir -p prev_build
+            curl -L -H "Authorization: token $TOKEN" \
+              "$URL/$ARTIFACT_ID/zip" -o artifact.zip
+            unzip -q artifact.zip -d prev_build
+          else
+            echo "No previous artifacts found"
+            mkdir -p prev_build
+          fi
+
       - name: Upload build files
         uses: actions/upload-artifact@v4
         with:
           name: build-files
           path: .vitepress/dist/
+          retention-days: 90
+
+      - name: Diff artifacts
+        run: |
+          rsync -ainc --delete .vitepress/dist/ prev_build/ | tee diff-list
+
+      - name: Upload diff list
+        uses: actions/upload-artifact@v4
+        with:
+          name: diff-list
+          path: diff-list
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment: production
+    environment: development
     env:
       OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
       OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
       OSS_REGION: ${{ secrets.OSS_REGION }}
+      BUCKET: oss://sustech-application
     steps:
       - name: Download build files
         uses: actions/download-artifact@v4
@@ -44,7 +77,7 @@ jobs:
           name: build-files
           path: dist/
 
-      # see https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview/
+      # https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview/
       - name: Setup ossutil
         run: |
           VERSION=2.1.0
@@ -55,8 +88,20 @@ jobs:
           chmod +x ossutil
           ./ossutil version
 
-      - name: Deploy
+      - name: Download diff list
+        uses: actions/download-artifact@v4
+        with:
+          name: diff-list
+          path: ./
+
+      - name: Deploy - delete files
         continue-on-error: true
         run: |
-          BUCKET="oss://sustech-application"
-          ./ossutil sync --force --delete --checksum ./dist $BUCKET
+          grep '^\*' diff-list | sed 's/^\*.* dist\///' | tee delete-list
+          ./ossutil rm -rf $BUCKET --files-from delete-list
+
+      - name: Deploy - update files
+        continue-on-error: true
+        run: |
+          grep  '^>' diff-list | sed 's/^>.* dist\///' | tee update-list
+          ./ossutil sync ./dist/ $BUCKET --files-from update-list
