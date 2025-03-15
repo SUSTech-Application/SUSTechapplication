@@ -1,9 +1,7 @@
 name: CD
-concurrency: development
+concurrency: production
 on:
   push:
-    branches: [master]
-  pull_request:
     branches: [master]
 
 jobs:
@@ -14,7 +12,7 @@ jobs:
       REPO: ${{ github.repository }}
       ARTIFACT_NAME: build-files
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
@@ -32,16 +30,15 @@ jobs:
           URL="https://api.github.com/repos/$REPO/actions/artifacts"
           ARTIFACT_JSON=$(curl -s -H "Authorization: token $TOKEN" \
             "$URL?name=$ARTIFACT_NAME&per_page=1")
+          mkdir prev
           if [ "$(echo $ARTIFACT_JSON | jq '.total_count')" -gt 0 ]; then
             ARTIFACT_ID=$(echo $ARTIFACT_JSON | jq '.artifacts[0].id')
             echo "Downloading artifact ID: $ARTIFACT_ID"
-            mkdir -p prev_build
             curl -L -H "Authorization: token $TOKEN" \
               "$URL/$ARTIFACT_ID/zip" -o artifact.zip
-            unzip -q artifact.zip -d prev_build
+            unzip -q artifact.zip -d prev
           else
             echo "No previous artifacts found"
-            mkdir -p prev_build
           fi
 
       - name: Upload build files
@@ -50,10 +47,11 @@ jobs:
           name: build-files
           path: .vitepress/dist/
           retention-days: 90
+          overwrite: true
 
       - name: Diff artifacts
         run: |
-          rsync -ainc --delete .vitepress/dist/ prev_build/ | tee diff-list
+          rsync -ainc --delete .vitepress/dist/ prev/ | tee diff-list
 
       - name: Upload diff list
         uses: actions/upload-artifact@v4
@@ -64,7 +62,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment: development
+    environment: production
     env:
       OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
       OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
@@ -99,7 +97,7 @@ jobs:
         run: |
           echo "======== Files to be deleted... ========"
           grep '^\*' diff-list | sed 's/^\*.* //' | tee delete-list
-          echo "======== End of deletion list ========"
+          echo "========  End of deletion list  ========"
           ./ossutil rm -rf $BUCKET --files-from delete-list
 
       - name: Deploy - update files
@@ -107,5 +105,5 @@ jobs:
         run: |
           echo "======== Files to be updated... ========"
           grep  '^>' diff-list | sed 's/^>.* //' | tee update-list
-          echo "======== End of update list ========"
-          ./ossutil sync -f ./dist/ $BUCKET --files-from update-list
+          echo "========   End of update list   ========"
+          ./ossutil sync -f dist/ $BUCKET --files-from update-list
