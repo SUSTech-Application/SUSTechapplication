@@ -2,7 +2,7 @@
 
 ## 单项技能经验
 
-- [20级-林雨航 动机信写作教程](<(ML)-20-linyuhang%3E>)
+- [20级-林雨航 动机信写作教程](<./(ML)-20-linyuhang>)
 - [20级-曾宪清 南科大APS审核指北](<(APS)-20-zengxianqing>)
 
 ## PhD Programs
