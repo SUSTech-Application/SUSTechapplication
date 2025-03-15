@@ -54,7 +54,7 @@
 - [2022-06-10] [申请总结]
   [18级-生物医学工程-王叶晗 MS @ NUS](grad-application/biomedical-engineering/[SG]-18-wangyehan)
 - [2022-05-10] [申请总结]
-  [18级-生物医学工程-王澍辰 PhD @ HKUST ](grad-application/biomedical-engineering/[HK]-18-wangshuchen)
+  [18级-生物医学工程-王澍辰 PhD @ HKUST](grad-application/biomedical-engineering/[HK]-18-wangshuchen)
 - [2022-05-01] [申请总结]
   [18级-计算机科学与技术-周澳蕾 MS @ CMU](grad-application/computer-science-and-engineering/[US]-18-zhouaolei)
 - [2022-03-31] [保研总结]
