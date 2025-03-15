@@ -97,11 +97,11 @@ jobs:
       - name: Deploy - delete files
         continue-on-error: true
         run: |
-          grep '^\*' diff-list | sed 's/^\*.* dist\///' | tee delete-list
+          grep '^\*' diff-list | sed 's/^\*.* //' | tee delete-list
           ./ossutil rm -rf $BUCKET --files-from delete-list
 
       - name: Deploy - update files
         continue-on-error: true
         run: |
-          grep  '^>' diff-list | sed 's/^>.* dist\///' | tee update-list
+          grep  '^>' diff-list | sed 's/^>.* //' | tee update-list
           ./ossutil sync ./dist/ $BUCKET --files-from update-list
