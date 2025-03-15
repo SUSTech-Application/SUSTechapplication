@@ -72,24 +72,8 @@ jobs:
           chmod +x ossutil
           ./ossutil version
 
-      - name: Download diff list
-        uses: actions/download-artifact@v4
-        with:
-          name: diff-list
-          path: ./
-
-      - name: Deploy - delete files
+      - name: Deploy
         continue-on-error: true
         run: |
           BUCKET="oss://sustech-application"
-          touch delete-list
-          grep '^\*' diff-list | sed 's/^\*.* dist\///' | tee delete-list
-          ./ossutil rm $BUCKET -rf --files-from delete-list
-
-      - name: Deploy - update files
-        continue-on-error: true
-        run: |
-          BUCKET="oss://sustech-application"
-          touch update-list
-          grep  '^>' diff-list | sed 's/^>.* dist\///'
-          ./ossutil cp ./dist $BUCKET -f --files-from update-list 
+          ./ossutil sync --delete --checksum ./dist $BUCKET
