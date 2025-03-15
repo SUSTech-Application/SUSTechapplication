@@ -23,30 +23,11 @@ jobs:
       - name: Build
         run: bun run build
 
-      - name: Download previous build files
-        uses: actions/download-artifact@v4
-        with:
-          name: build-files
-          path: dist/
-        continue-on-error: true
-
       - name: Upload build files
         uses: actions/upload-artifact@v4
         with:
           name: build-files
           path: .vitepress/dist/
-          retention-days: 90
-          overwrite: true
-
-      - name: Diff artifacts
-        run: rsync -ainc --delete .vitepress/dist dist/ | tee diff-list
-
-      - name: Upload diff list
-        uses: actions/upload-artifact@v4
-        with:
-          name: diff-list
-          path: diff-list
-          overwrite: true
 
   deploy:
     needs: build
@@ -78,4 +59,4 @@ jobs:
         continue-on-error: true
         run: |
           BUCKET="oss://sustech-application"
-          ./ossutil sync --delete --checksum ./dist $BUCKET
+          ./ossutil sync --force --delete --checksum ./dist $BUCKET
