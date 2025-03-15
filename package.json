@@ -19,7 +19,7 @@
     "ali-oss": "^6.22.0",
     "cspell": "^8.17.5",
     "eslint": "^9.21.0",
-    "eslint-plugin-vue": "^9.32.0",
+    "eslint-plugin-vue": "^10.0.0",
     "markdownlint-cli2": "^0.17.2",
     "prettier": "^3.5.2",
     "prettier-plugin-sh": "^0.15.0",
