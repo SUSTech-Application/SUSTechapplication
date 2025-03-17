@@ -16,14 +16,6 @@ const gradSchool: DefaultTheme.SidebarItem = {
           text: "生物医学工程系 (11)",
           link: "grad-application/biomedical-engineering",
         },
-        {
-          text: "计算机科学与工程系 (21)",
-          link: "grad-application/computer-science-and-engineering",
-        },
-        {
-          text: "生物医学工程系 (11)",
-          link: "grad-application/biomedical-engineering",
-        },
         { text: "物理系 (7)", link: "grad-application/physics" },
         { text: "生物系 (6)", link: "grad-application/biology" },
         {
