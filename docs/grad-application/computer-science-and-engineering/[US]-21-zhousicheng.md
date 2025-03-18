@@ -14,7 +14,7 @@
 
 发现在飞跃手册分享经验的都是专业前几的大牛。所以尝试留下一些菜狗的datapoint。
 
-联系方式 zhousc2021@mail.sustech.edu.cn
+联系方式 <zhousc2021@mail.sustech.edu.cn>
 
 ## 1 Intro
 
