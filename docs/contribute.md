@@ -51,6 +51,36 @@ GitHub 的用户界面可能在本指南发布后有所变动，请以实际为�
 
 到此，PR 就已经创建完成！维护者将会查看 PR，进行调整，确认无误后将其合并到主分支，网站更新即完成。提交 PR 后，你可以继续在 PR 上进行修改。[Netlify](https://netlify.com) 将会在 PR 中自动添加一条评论，你可以通过点击评论中的预览链接查看网页实际效果。
 
+## 在本地编辑，通过 git 进行贡献（最推荐）
+
+这一节假定你已经安装了 git 和相关的编辑器等工具，并且对 git 的使用有最基本的了解。如果你对 git 不甚了解，欢迎你联系维护者寻求帮助，在[讨论区](https://github.com/SUSTech-Application/SUSTechapplication/discussions)提问，或者参考 [git 文档](https://git-scm.com/doc)进行学习。
+
+1. [Fork](https://github.com/SUSTech-Application/SUSTechapplication/fork) 我们的仓库。
+2. `clone` 你的 fork 到本地。
+3. 创建一个新分支，用于你的修改：`git checkout -b post/your-name`。
+4. 在本地使用你喜爱的编辑器进行修改。
+5. `commit` 你的修改
+6. `push` 分支到你的 remote。
+7. 在 GitHub 上发起一个到 `upstream` 的 Pull Request（PR）。
+
+得益于 [VSCode](https://code.visualstudio.com/) 以及 [GitHub Desktop](https://github.com/apps/desktop) 这样的工具，你可以在完全不使用命令行的情况下完成上述操作！
+
+::: tip 为什么我们最推荐在本地编辑，通过 git 进行贡献？
+
+- 你将可以使用你喜爱的编辑器来编辑和预览 Markdown 文件。
+- 你可以更细致地使用 git 来管理历史修改。
+- 你可以利用 Prettier 等工具来检查代码问题和格式化，这将大大减轻维护者的负担。
+- 你可以在本地运行网站预览，确保网页效果符合你的期待。
+
+:::
+
+你可以在本地运行网站，实时查看效果：
+
+- 安装 [Bun](https://bun.sh/)
+- 安装依赖：`bun install`
+- 启动开发服务器：`bun run dev`
+- 在浏览器中访问开发服务器
+
 ## 上传非 Markdown 文件（不推荐）
 
 - 撰写经验分享帖子
@@ -65,9 +95,3 @@ GitHub 的用户界面可能在本指南发布后有所变动，请以实际为�
 - 通过 GitHub 贡献，可以让你体验开源项目的工作流程，了解 git 的使用，也是一份有趣的经历！
 
 :::
-
-## 写在最后
-
-首先请我们代表学弟学妹们，感谢你愿意分享自己宝贵的经历，同时我们也要感谢你选择了自食其力的方式，这为我们节省了大量格式转换的时间，现在我们只需专注于修改、审核即可。同时我们要恭喜你拥有了自己的`Github`账号并且了解了`.md`也就是`Markdown`这种神奇的事物。希望这个账号不会就此荒废，因为`Github`是这个世界上最富饶的代码库，你几乎可以找到任何你想要的东西。
-
-最后，祝前程似锦。
