@@ -7,6 +7,7 @@
 
 ## PhD Programs
 
+- [21级-计算机科学与技术-周思呈 University of Utah]([US]-21-zhousicheng)
 - [20级-计算机科学与技术-李思锐 University of California, Los Angeles]([US]-20-lisirui) 后疫情时代北美升学Guidebook\[大量干货！\]
 - [21级-钟志源 University of Utah]([US]-21-zhongzhiyuan)
 - [16级-王雨童 University of California, Davis]([US]-16-wangyutong)
