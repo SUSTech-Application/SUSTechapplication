@@ -13,6 +13,8 @@ hero:
     - theme: brand
       text: 分享经验
       link: /contribute
+    - text: 技术博客
+      link: /blog
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
