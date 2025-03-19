@@ -2,11 +2,11 @@
 sidebar: false
 ---
 
-# 如何进行经验分享
+# 如何在飞跃手册进行经验分享
 
 1. 如果已有`Github`账号可以跳过此步。打开[Github](https://github.com)，点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
 
-2. 登陆后进入[这个页面](https://github.com/SUSTech-Application/SUSTechapplication/tree/master/docs/)，打开一个你希望分享的页面，如``个人申请总结``->``计算机科学与工程系``，这篇文章将会一直以此为例进行说明。
+2. 登陆后进入[这个页面](https://github.com/SUSTech-Application/SUSTechapplication/tree/master/docs/)，打开一个你希望分享的页面，如`个人申请总结`->`计算机科学与工程系`，这篇文章将会一直以此为例进行说明。
 
 ![Fig.1](src/img/如何进行经验分享/001.png)
 
@@ -22,35 +22,6 @@ sidebar: false
 ![Fig.4](src/img/如何进行经验分享/004.png)
 
 将你想要分享的内容填写在下方。我们在此提供模板，同学们只需要改动其中的汉字部分即可，点击`Preview`按钮可以进行预览。
-
-```markdown
-# \[US\]15-阎相易-学校名称-项目名称
-
-## 基本背景
-
-> 三维: GPA 0.00/4 ;
->
-> TOEFL: 0\(Speaking 0\);
->
-> GRE: 130V + 130Q + 0AW
-
-## 申请结果
-
-最终录取学校：学校名称+项目名称
-
-其他录取结果：
-
-* **Offer\(0\):**
-  * \[学校名称+项目名称\] 若干
-* **AD\(0\):**
-  * \[学校名称+项目名称\] 若干
-* **Rej\(10\)**:
-  * \[学校名称+项目名称\] 若干
-
-## 申请心得
-
-若干。
-```
 
 ![Fig.5](src/img/如何进行经验分享/005.png)
 
