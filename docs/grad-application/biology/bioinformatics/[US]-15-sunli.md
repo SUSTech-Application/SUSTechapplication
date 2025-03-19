@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-孙力 PhD in Intelligent Systems @ UPitt
+year: 15
+---
+
 # \[US\]-15-孙力 PhD in Intelligent Systems @ UPitt
 
 ## 基本背景

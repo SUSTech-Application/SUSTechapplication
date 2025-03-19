@@ -1,3 +1,8 @@
+---
+title: "[US]18-周澳蕾 @ CMU - CS MS\r"
+year: 18
+---
+
 # [US]18-周澳蕾 @ CMU - CS MS
 
 ### 基本背景

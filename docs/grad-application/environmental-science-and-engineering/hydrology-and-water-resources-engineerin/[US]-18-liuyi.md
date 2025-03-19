@@ -1,3 +1,8 @@
+---
+title: '[US]18-刘怡-PhD @ University of Michigan'
+year: 18
+---
+
 # [US]18-刘怡-PhD @ University of Michigan
 
 

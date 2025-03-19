@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-阎相易 PhD in Computer Science @ UC Irvine
+year: 15
+---
+
 # \[US\]-15-阎相易 PhD in Computer Science @ UC Irvine
 
 ## 基本背景

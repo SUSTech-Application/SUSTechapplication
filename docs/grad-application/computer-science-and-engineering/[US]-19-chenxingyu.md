@@ -1,3 +1,8 @@
+---
+title: '[US]-19-陈星宇 M.S. in Software Engineering @ CMU'
+year: 19
+---
+
 # [US]-19-陈星宇 M.S. in Software Engineering @ CMU
 
 

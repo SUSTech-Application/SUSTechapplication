@@ -1,3 +1,8 @@
+---
+title: '[US] 17-刘亚卓 PhD @ Georgia Institute of Technology-Mechanical Engineering'
+year: 17
+---
+
 # [US] 17-刘亚卓 PhD @ Georgia Institute of Technology-Mechanical Engineering
 
  

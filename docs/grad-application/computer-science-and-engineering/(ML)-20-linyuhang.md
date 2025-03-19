@@ -1,3 +1,8 @@
+---
+title: 动机信 (Motivation Letter)
+year: 20
+---
+
 <!--
 注：因为项目结构原因，如果使用HTML格式加载图片，需要将本地md文件中的路径对项目进行适配。
 本地路径："./(ML)-20-linyuhang/XXX.png"

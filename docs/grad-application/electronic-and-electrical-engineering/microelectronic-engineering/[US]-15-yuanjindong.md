@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-袁锦东 PhD in Electrical Engineering @ UC Irvine
+year: 15
+---
+
 # \[US\]-15-袁锦东 PhD in Electrical Engineering @ UC Irvine
 
 ## 基本背景

@@ -1,3 +1,8 @@
+---
+title: \[US\]19-江南飞-UCSB-PhD
+year: 19
+---
+
 # \[US\]19-江南飞-UCSB-PhD
 
 ## 基本背景

@@ -1,3 +1,8 @@
+---
+title: '[US]-16-陈德缘 M.S. in Software Engineering @ CMU'
+year: 16
+---
+
 # [US]-16-陈德缘 M.S. in Software Engineering @ CMU
 
 ## 写在前面的自我介绍

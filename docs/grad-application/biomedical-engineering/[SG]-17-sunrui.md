@@ -1,3 +1,8 @@
+---
+title: '[SG]-17-孙锐 PhD @ National University of Singapore'
+year: 17
+---
+
 # [SG]-17-孙锐 PhD @ National University of Singapore
 
 ### 基本背景：

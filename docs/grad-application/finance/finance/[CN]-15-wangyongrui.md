@@ -1,3 +1,8 @@
+---
+title: \[CN\]-15级-王咏睿 Master of Accounting @ CUHK(SZ)
+year: 15
+---
+
 # \[CN\]-15级-王咏睿 Master of Accounting @ CUHK(SZ)
 
 ## 基本背景

@@ -1,3 +1,8 @@
+---
+title: \[CN\]-17-栾闻迪 MSCS @ UCSD
+year: 17
+---
+
 # \[CN\]-17-栾闻迪 MSCS @ UCSD
 
 ## 基本背景

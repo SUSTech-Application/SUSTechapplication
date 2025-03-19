@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-南博钊 PhD in Chemistry @ Notre Dame University
+year: 15
+---
+
 # \[US\]-15-南博钊 PhD in Chemistry @ Notre Dame University
 ## 基本背景
 

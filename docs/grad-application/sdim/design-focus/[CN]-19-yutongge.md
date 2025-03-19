@@ -1,3 +1,8 @@
+---
+title: '[CN]-19-余彤歌-MS@清华大学与华盛顿大学-双学位硕士 / MIT-Master of Science in Mechanical Engineering (SM)'
+year: 19
+---
+
 # [CN]-19-余彤歌-MS@清华大学与华盛顿大学-双学位硕士 / MIT-Master of Science in Mechanical Engineering (SM)
 
 ## 基本背景

@@ -1,3 +1,8 @@
+---
+title: \[KSA\]-16-周觉晓 PhD in Computer Science @ KAUST
+year: 16
+---
+
 # \[KSA\]-16-周觉晓 PhD in Computer Science @ KAUST
 
 ## 基本背景

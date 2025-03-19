@@ -1,3 +1,8 @@
+---
+title: '[EU]17-邓然宝 MSc Robotics @ Technische Universiteit Delft'
+year: 17
+---
+
 # [EU]17-邓然宝 MSc Robotics @ Technische Universiteit Delft
 
  

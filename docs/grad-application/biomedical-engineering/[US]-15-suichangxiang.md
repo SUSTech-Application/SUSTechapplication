@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-隋昌祥 MS in Biomedical Engineering @ Duke University
+year: 15
+---
+
 # \[US\]-15-隋昌祥 MS in Biomedical Engineering @ Duke University
 
 ## 基本背景

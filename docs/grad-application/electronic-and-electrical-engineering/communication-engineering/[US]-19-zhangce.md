@@ -1,3 +1,8 @@
+---
+title: \[US\]19-张策 MS in Machine Learning @ CMU
+year: 19
+---
+
 # \[US\]19-张策 MS in Machine Learning @ CMU
 
 ## 基本背景

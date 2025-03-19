@@ -1,3 +1,8 @@
+---
+title: '[CN]-16-李若颜 PhD @ HKUST'
+year: 16
+---
+
 # [CN]-16-李若颜 PhD @ HKUST
 
 ### 基本背景

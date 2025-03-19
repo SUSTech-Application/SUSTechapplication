@@ -1,3 +1,8 @@
+---
+title: '[CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich'
+year: 18
+---
+
 # [CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich
 
 **首先，感谢我的导师付成龙教授，融亦鸣教授，杨再跃教授，语言中心喻永阳老师和其他老师，以及各位学长学姐对我的海研申请的帮助以及家人的大力支持。**

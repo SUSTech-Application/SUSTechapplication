@@ -1,3 +1,8 @@
+---
+title: \[GER]16-蔡逸扬-PhD @ Medizinische Hochschule Hannover-Infection biology/DEWIN PhD program
+year: 16
+---
+
 # \[GER]16-蔡逸扬-PhD @ Medizinische Hochschule Hannover-Infection biology/DEWIN PhD program
 
 ## 基本背景

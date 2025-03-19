@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-谢丹宁 PhD in Computer Science @ Purdue
+year: 15
+---
+
 # \[US\]-15-谢丹宁 PhD in Computer Science @ Purdue
 
 ## 基本背景

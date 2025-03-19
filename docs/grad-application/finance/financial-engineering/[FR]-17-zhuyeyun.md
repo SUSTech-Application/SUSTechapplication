@@ -1,3 +1,8 @@
+---
+title: '[FR]-17-朱烨赟 MIM @ HEC Paris'
+year: 17
+---
+
 # [FR]-17-朱烨赟 MIM @ HEC Paris
 
 

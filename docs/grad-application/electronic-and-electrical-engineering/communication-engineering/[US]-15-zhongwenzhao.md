@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-钟文韶 PhD in Computer Science @ UIC
+year: 15
+---
+
 # \[US\]-15-钟文韶 PhD in Computer Science @ UIC
 
 ## 基本背景

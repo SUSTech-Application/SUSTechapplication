@@ -1,3 +1,8 @@
+---
+title: \[CN\]-15-李子强--MS in SUSTech
+year: 15
+---
+
 # \[CN\]-15-李子强--MS in SUSTech
 
 ## 基本背景

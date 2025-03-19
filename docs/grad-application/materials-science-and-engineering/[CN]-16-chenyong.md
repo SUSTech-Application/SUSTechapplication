@@ -1,3 +1,8 @@
+---
+title: '[CN]-16-陈勇 PhD in Physics @ HKUST'
+year: 16
+---
+
 # [CN]-16-陈勇 PhD in Physics @ HKUST
 
 ###  基本背景

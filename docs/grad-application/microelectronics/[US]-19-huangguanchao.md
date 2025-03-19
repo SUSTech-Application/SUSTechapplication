@@ -1,3 +1,8 @@
+---
+title: \[US\]-19-黄冠超 MS CSE @ ND
+year: 19
+---
+
 # \[US\]-19-黄冠超 MS CSE @ ND
 
 > - 记住这个链接，快速访问我的飞跃手册：[feiyue.guanchao.pro](http://feiyue.guanchao.pro)
