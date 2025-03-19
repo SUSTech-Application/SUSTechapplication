@@ -5,6 +5,9 @@ permissions:
 on:
   push:
     branches: [master]
+  # uncomment this, and change env to development, to use cd flow in dev
+  # pull_request:
+  #   branches: [master]
 
 jobs:
   build:

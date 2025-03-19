@@ -2,7 +2,7 @@
   "name": "sustechapplication",
   "type": "module",
   "scripts": {
-    "build": "./scripts/bracket-routes-fix.sh && vitepress build",
+    "build": "./scripts/bracket-routes-fix.sh && vitepress build && ./scripts/404-html.sh",
     "clean": "rm -rf .vitepress/dist/ .vitepress/cache && find . -name \"*.paths.js\" -delete",
     "dev": "vitepress dev",
     "format": "prettier -c .",
