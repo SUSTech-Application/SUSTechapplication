@@ -17,6 +17,7 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "最近更新", link: "/updates" },
       { text: "分享经验", link: "/contribute" },
+      { text: "技术博客", link: "/blog" },
     ],
     sidebar,
     socialLinks: [
