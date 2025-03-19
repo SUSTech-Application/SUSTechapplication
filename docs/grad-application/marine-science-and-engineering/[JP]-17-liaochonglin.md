@@ -1,3 +1,8 @@
+---
+title: '[JP]-17-廖崇霖-G30/SGU 修士. @ Nagoya University'
+year: 17
+---
+
 # [JP]-17-廖崇霖-G30/SGU 修士. @ Nagoya University
 
 **17-廖崇霖-Nagoya University**

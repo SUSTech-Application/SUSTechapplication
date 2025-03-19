@@ -1,3 +1,8 @@
+---
+title: \[HK\]-15-赖煌 PhD in Bioengineering @ HKUST
+year: 15
+---
+
 # \[HK\]-15-赖煌 PhD in Bioengineering @ HKUST
 
 ## 基本背景

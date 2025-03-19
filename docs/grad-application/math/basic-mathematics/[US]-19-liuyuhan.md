@@ -1,3 +1,8 @@
+---
+title: \[US\]-19-刘宇涵-Mathematics Ph.D.@Brown University
+year: 19
+---
+
 # \[US\]-19-刘宇涵-Mathematics Ph.D.@Brown University
 
 ### 关于英语考试、暑期交流和大学经验杂谈

@@ -1,3 +1,8 @@
+---
+title: '[US]-16-贺文琦 PhD in BME @ UC Irvine'
+year: 16
+---
+
 # [US]-16-贺文琦 PhD in BME @ UC Irvine
 
 ### 基本背景：

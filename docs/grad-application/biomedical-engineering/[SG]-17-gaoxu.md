@@ -1,3 +1,8 @@
+---
+title: '[SG]-17-高旭 PhD @ National University of Singapore'
+year: 17
+---
+
 # [SG]-17-高旭 PhD @ National University of Singapore
 
 

@@ -1,3 +1,8 @@
+---
+title: \[NL]17-刘彦菁 Msc Mechanical Engineering @ Technische Universiteit Delft
+year: 17
+---
+
 # \[NL]17-刘彦菁 Msc Mechanical Engineering @ Technische Universiteit Delft
 
 ## 基本背景

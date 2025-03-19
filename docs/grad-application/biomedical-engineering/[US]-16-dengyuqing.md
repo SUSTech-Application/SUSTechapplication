@@ -1,3 +1,8 @@
+---
+title: '[US]-16-邓雨晴 PhD in ME @ Boston University'
+year: 16
+---
+
 # [US]-16-邓雨晴 PhD in ME @ Boston University
 
 ### 基本背景

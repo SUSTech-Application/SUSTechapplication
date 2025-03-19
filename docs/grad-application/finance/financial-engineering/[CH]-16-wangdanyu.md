@@ -1,3 +1,8 @@
+---
+title: \[CH\]-16-王丹妤 MFE @ EPFL
+year: 16
+---
+
 # \[CH\]-16-王丹妤 MFE @ EPFL
 
 ## 写在前面

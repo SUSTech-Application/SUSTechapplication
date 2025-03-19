@@ -1,3 +1,8 @@
+---
+title: \[CN\]-15-章松涛--MS in PKU
+year: 15
+---
+
 # \[CN\]-15-章松涛--MS in PKU
 
 ## 基本背景

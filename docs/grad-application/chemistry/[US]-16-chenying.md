@@ -1,3 +1,8 @@
+---
+title: '[US]-16-陈颖 PhD in Chemistry @ Rice University'
+year: 16
+---
+
 # [US]-16-陈颖 PhD in Chemistry @ Rice University
 
 ### 基本背景

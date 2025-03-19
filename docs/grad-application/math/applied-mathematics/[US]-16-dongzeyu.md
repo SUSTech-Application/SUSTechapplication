@@ -1,3 +1,8 @@
+---
+title: \[US\]16-董泽宇-Stony Brook University-Applied Mathematics and Statistics Program
+year: 16
+---
+
 # \[US\]16-董泽宇-Stony Brook University-Applied Mathematics and Statistics Program
 
 ## 基本背景

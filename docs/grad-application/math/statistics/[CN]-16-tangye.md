@@ -1,3 +1,8 @@
+---
+title: 坚持中邂逅 Every small step counts
+year: 16
+---
+
 # 坚持中邂逅 Every small step counts
 
 唐晔 统计与数据科学系

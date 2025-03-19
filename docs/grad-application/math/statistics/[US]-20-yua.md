@@ -1,3 +1,8 @@
+---
+title: \[US\]20-Yua-CSE PhD @Rensselaer Polytechnic Institute
+year: 20
+---
+
 # \[US\]20-Yua-CSE PhD @Rensselaer Polytechnic Institute
 
 

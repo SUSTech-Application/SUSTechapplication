@@ -1,3 +1,8 @@
+---
+title: '[CN]-16-田璐 MS in Earth Science @ ETH'
+year: 16
+---
+
 # [CN]-16-田璐 MS in Earth Science @ ETH
 
 ### 基本背景

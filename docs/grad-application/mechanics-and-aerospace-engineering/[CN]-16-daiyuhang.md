@@ -1,3 +1,8 @@
+---
+title: '[CN]-16-代宇航 PhD @ CityU'
+year: 16
+---
+
 # [CN]-16-代宇航 PhD @ CityU
 
 #### 基本背景

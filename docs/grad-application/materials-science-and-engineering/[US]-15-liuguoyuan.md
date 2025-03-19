@@ -1,3 +1,8 @@
+---
+title: \[US\]-15-刘国远-PhD in MSE @ UIUC
+year: 15
+---
+
 # \[US\]-15-刘国远-PhD in MSE @ UIUC
 
 ## 基本背景

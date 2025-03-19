@@ -1,3 +1,8 @@
+---
+title: \[US\]15-贺子龙 Mechanical Engineering @ UMN
+year: 15
+---
+
 # \[US\]15-贺子龙 Mechanical Engineering @ UMN
 
 ## 基本背景

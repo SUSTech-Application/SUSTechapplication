@@ -1,3 +1,8 @@
+---
+title: '[US]17-王超-PhD @ University of Southern California-Neuroscience Graduate Program'
+year: 17
+---
+
 # [US]17-王超-PhD @ University of Southern California-Neuroscience Graduate Program
 
 ### 基本背景

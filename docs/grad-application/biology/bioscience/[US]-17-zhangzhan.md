@@ -1,3 +1,8 @@
+---
+title: \[US\]17-张展-UPenn-Bioengineering Ph.D.
+year: 17
+---
+
 # \[US\]17-张展-UPenn-Bioengineering Ph.D.
 
 ## 基本背景

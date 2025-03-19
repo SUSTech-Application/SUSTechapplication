@@ -1,3 +1,8 @@
+---
+title: '[US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA'
+year: 16
+---
+
 # [US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA
 
 ### 基本信息

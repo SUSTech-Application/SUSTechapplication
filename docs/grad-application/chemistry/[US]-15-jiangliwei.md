@@ -1,3 +1,8 @@
+---
+title: '[US]-15-姜力维 MS in Pubic Policy'
+year: 15
+---
+
 # [US]-15-姜力维 MS in Pubic Policy
 
 ### 基本背景
