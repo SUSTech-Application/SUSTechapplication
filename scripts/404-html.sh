@@ -2,10 +2,13 @@
 # injects a script in 404 to help redirect URL without .html extension
 # FIXME: this is a temporary workaround!
 
-SCRIPT="<script>
-if (!window.location.pathname.endsWith(\".html\") && !window.location.pathname.endsWith(\"/\")) {
-  window.location.href = window.location.pathname + \".html\" + window.location.search;
+cat > script_tag.txt << EOL
+<script>
+if (!window.location.pathname.endsWith(".html") && !window.location.pathname.endsWith("/")) {
+  window.location.href = window.location.pathname + ".html" + window.location.search;
 }
-</script>"
+</script>
+EOL
 
-sed -i "s|</head>|$SCRIPT\n</head>|" .vitepress/dist/404.html
+# this doesn't work on macOS
+sed -i '/<\/head>/i '"$(cat script_tag.txt)" .vitepress/dist/404.html
