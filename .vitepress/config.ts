@@ -1,5 +1,7 @@
 import { defineConfig } from "vitepress";
 
+import taskLists from "markdown-it-task-lists";
+
 import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
@@ -41,4 +43,9 @@ export default defineConfig({
       gtag("config", "G-VVQKMMQ3VE");`,
     ],
   ],
+  markdown: {
+    config: (md) => {
+      md.use(taskLists);
+    },
+  },
 });
