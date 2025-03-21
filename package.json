@@ -24,5 +24,9 @@
     "prettier-plugin-sh": "^0.15.0",
     "typescript-eslint": "^8.25.0",
     "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "@primeuix/themes": "^1.0.0",
+    "primevue": "^4.3.2"
   }
 }
