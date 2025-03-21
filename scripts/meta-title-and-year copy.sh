@@ -27,14 +27,10 @@ find docs/grad-application -type f -name "*.md" | while read -r file; do
   # Extract the first heading content (text after "# ")
   heading=$(grep -m 1 "^# " "$file" | sed 's/^# //')
 
-  # Extract creation date in updates.md
-  filename_part=$(basename "$file" | sed 's/.*-\([^.]*\)\.[^.]*$/\1/') # btw dash and dot
-  date=$(grep "$filename_part" docs/updates.md | grep -o '\[[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}\]' | tr -d '[]' | head -1)
-
   if [[ -n "$heading" ]]; then
     # Update frontmatter with the heading as title and extracted year
     yq -i --front-matter=process \
-      ".title = \"$heading\" | .year = $year | .date = \"$date\"" \
+      ".title = \"$heading\" | .year = $year" \
       "$file"
     sed -i 's/date: "\([0-9-]*\)"/date: \1/' "$file" # remove quotes around date
 
