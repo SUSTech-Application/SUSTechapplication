@@ -1,6 +1,7 @@
 ---
 title: '[US]18-刘怡-PhD @ University of Michigan'
 year: 18
+date: 2023-01-01
 ---
 
 # [US]18-刘怡-PhD @ University of Michigan

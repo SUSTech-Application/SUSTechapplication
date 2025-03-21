@@ -1,6 +1,7 @@
 ---
 title: '[SG]-16-李一林 MS in Financial Engineering @ NUS'
 year: 16
+date: 2020-03-28
 ---
 
 # [SG]-16-李一林 MS in Financial Engineering @ NUS

@@ -32,6 +32,7 @@ find docs/grad-application -type f -name "*.md" | while read -r file; do
     yq -i --front-matter=process \
       ".title = \"$heading\" | .year = $year" \
       "$file"
+    sed -i 's/date: "\([0-9-]*\)"/date: \1/' "$file" # remove quotes around date
 
     echo "  Updated: title='$heading', year='$year'"
   else

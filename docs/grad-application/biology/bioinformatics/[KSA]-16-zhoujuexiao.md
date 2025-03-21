@@ -1,6 +1,7 @@
 ---
 title: \[KSA\]-16-周觉晓 PhD in Computer Science @ KAUST
 year: 16
+date: 2020-04-16
 ---
 
 # \[KSA\]-16-周觉晓 PhD in Computer Science @ KAUST

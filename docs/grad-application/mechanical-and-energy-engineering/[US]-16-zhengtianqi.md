@@ -1,6 +1,7 @@
 ---
 title: '[US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA'
 year: 16
+date: 2020-04-02
 ---
 
 # [US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA
