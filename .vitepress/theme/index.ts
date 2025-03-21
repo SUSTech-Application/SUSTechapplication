@@ -4,6 +4,9 @@ import { h } from "vue";
 import type { Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 
+import Aura from "@primeuix/themes/aura";
+import PrimeVue from "primevue/config";
+
 import "./style.css";
 
 export default {
@@ -13,7 +16,8 @@ export default {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });
   },
-  enhanceApp({ router }) {
+  enhanceApp({ app, router }) {
+    /* redirect legacy hash path */
     router.onAfterRouteChange = (to) => {
       const hashPath = to.match(/^\/#\/(.+)\/?$/);
       if (hashPath) {
@@ -21,5 +25,8 @@ export default {
         router.go(hashPath[1]);
       }
     };
+
+    /* register PrimeVue */
+    app.use(PrimeVue, { theme: { preset: Aura } });
   },
 } satisfies Theme;
