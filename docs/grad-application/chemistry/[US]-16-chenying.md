@@ -2,6 +2,7 @@
 title: '[US]-16-陈颖 PhD in Chemistry @ Rice University'
 year: 16
 date: 2020-03-28
+type: grad
 ---
 
 # [US]-16-陈颖 PhD in Chemistry @ Rice University

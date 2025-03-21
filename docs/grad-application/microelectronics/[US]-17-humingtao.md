@@ -2,6 +2,7 @@
 title: '[US]-17-胡明涛-ECE-MS @ 密歇根安娜堡'
 year: 17
 date: 2023-02-19
+type: grad
 ---
 
 # [US]-17-胡明涛-ECE-MS @ 密歇根安娜堡

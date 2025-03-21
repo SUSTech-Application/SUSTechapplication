@@ -2,6 +2,7 @@
 title: '[US]-16-陈德缘 M.S. in Software Engineering @ CMU'
 year: 16
 date: 2020-04-17
+type: grad
 ---
 
 # [US]-16-陈德缘 M.S. in Software Engineering @ CMU
