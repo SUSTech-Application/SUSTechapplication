@@ -2,6 +2,7 @@
 title: '[US]-16-李如璇 University of Pittsburgh'
 year: 16
 date: 2020-05-04
+type: grad
 ---
 
 # [US]-16-李如璇 University of Pittsburgh

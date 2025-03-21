@@ -2,6 +2,7 @@
 title: \[US\]20-冯鑫钰-University of Michigan, Ann Arbor-Physics
 year: 20
 date: 2024-12-09
+type: grad
 ---
 
 # \[US\]20-冯鑫钰-University of Michigan, Ann Arbor-Physics

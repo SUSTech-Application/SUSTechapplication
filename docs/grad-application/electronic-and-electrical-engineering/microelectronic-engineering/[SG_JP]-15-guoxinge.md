@@ -2,6 +2,7 @@
 title: \[SG/JP\]15-郭欣格-NUS-Ph.D / 东京大学-修士
 year: 15
 date: 2020-03-26
+type: grad
 ---
 
 # \[SG/JP\]15-郭欣格-NUS-Ph.D / 东京大学-修士

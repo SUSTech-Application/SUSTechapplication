@@ -2,6 +2,7 @@
 title: '[US]-16-王煜寰 PhD in Physics @ UIUC'
 year: 16
 date: 2020-06-19
+type: grad
 ---
 
 # [US]-16-王煜寰 PhD in Physics @ UIUC

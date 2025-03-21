@@ -2,6 +2,7 @@
 title: '[SG]-16-孙毓泽 PhD in 医学院生物医学科学专业 @ NUS'
 year: 16
 date: 2020-04-25
+type: grad
 ---
 
 # [SG]-16-孙毓泽 PhD in 医学院生物医学科学专业 @ NUS

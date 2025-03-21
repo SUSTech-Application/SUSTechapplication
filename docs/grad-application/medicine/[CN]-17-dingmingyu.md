@@ -2,6 +2,7 @@
 title: '[CN]-17-丁明语 PhD @ 清华大学'
 year: 17
 date: 2021-05-09
+type: grad
 ---
 
 # [CN]-17-丁明语 PhD @ 清华大学

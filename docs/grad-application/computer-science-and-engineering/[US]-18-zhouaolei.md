@@ -2,6 +2,7 @@
 title: "[US]18-周澳蕾 @ CMU - CS MS\r"
 year: 18
 date: 2022-05-09
+type: grad
 ---
 
 # [US]18-周澳蕾 @ CMU - CS MS

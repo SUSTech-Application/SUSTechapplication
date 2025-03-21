@@ -2,6 +2,7 @@
 title: '[HK]18-王澍辰 @ HKUST - Bioengineering PhD'
 year: 18
 date: 2022-05-10
+type: grad
 ---
 
 # [HK]18-王澍辰 @ HKUST - Bioengineering PhD

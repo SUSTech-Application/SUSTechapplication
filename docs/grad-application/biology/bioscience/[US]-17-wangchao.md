@@ -2,6 +2,7 @@
 title: '[US]17-王超-PhD @ University of Southern California-Neuroscience Graduate Program'
 year: 17
 date: 2021-05-09
+type: grad
 ---
 
 # [US]17-王超-PhD @ University of Southern California-Neuroscience Graduate Program

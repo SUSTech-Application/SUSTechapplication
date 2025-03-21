@@ -2,6 +2,7 @@
 title: '[SE]-16-孟刘震 MS @ Karolinska Institute'
 year: 16
 date: 2020-04-26
+type: grad
 ---
 
 # [SE]-16-孟刘震 MS @ Karolinska Institute
