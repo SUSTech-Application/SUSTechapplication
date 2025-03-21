@@ -13,6 +13,10 @@
     "sort": "bunx sort-package-json",
     "spellcheck": "cspell ."
   },
+  "dependencies": {
+    "@primeuix/themes": "^1.0.0",
+    "primevue": "^4.3.2"
+  },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "cspell": "^8.17.5",
