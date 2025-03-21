@@ -1,6 +1,7 @@
 ---
 title: \[US\]20-Yua-CSE PhD @Rensselaer Polytechnic Institute
 year: 20
+date: 2024-08-20
 ---
 
 # \[US\]20-Yua-CSE PhD @Rensselaer Polytechnic Institute

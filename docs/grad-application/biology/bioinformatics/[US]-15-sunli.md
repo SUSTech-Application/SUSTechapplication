@@ -1,6 +1,7 @@
 ---
 title: \[US\]-15-孙力 PhD in Intelligent Systems @ UPitt
 year: 15
+date: 2020-03-26
 ---
 
 # \[US\]-15-孙力 PhD in Intelligent Systems @ UPitt

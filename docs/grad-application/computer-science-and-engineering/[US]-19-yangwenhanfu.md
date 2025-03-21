@@ -1,6 +1,7 @@
 ---
 title: "[US]19-杨文汉夫 MSCS@NEU\r"
 year: 19
+date: 2023-06-30
 ---
 
 # [US]19-杨文汉夫 MSCS@NEU

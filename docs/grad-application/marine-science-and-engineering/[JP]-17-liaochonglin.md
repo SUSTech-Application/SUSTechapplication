@@ -1,6 +1,7 @@
 ---
 title: '[JP]-17-廖崇霖-G30/SGU 修士. @ Nagoya University'
 year: 17
+date: 2021-06-14
 ---
 
 # [JP]-17-廖崇霖-G30/SGU 修士. @ Nagoya University

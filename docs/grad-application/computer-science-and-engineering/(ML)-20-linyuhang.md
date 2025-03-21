@@ -1,6 +1,7 @@
 ---
 title: 动机信 (Motivation Letter)
 year: 20
+date: 2024-07-22
 ---
 
 <!--

@@ -1,6 +1,7 @@
 ---
 title: '[CN]-16-田璐 MS in Earth Science @ ETH'
 year: 16
+date: 2020-04-17
 ---
 
 # [CN]-16-田璐 MS in Earth Science @ ETH

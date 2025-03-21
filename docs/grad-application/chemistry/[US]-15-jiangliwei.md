@@ -1,6 +1,7 @@
 ---
 title: '[US]-15-姜力维 MS in Pubic Policy'
 year: 15
+date: 2020-05-24
 ---
 
 # [US]-15-姜力维 MS in Pubic Policy

@@ -1,6 +1,7 @@
 ---
 title: '[HK]17-傅得峻-PhD in Chemistry (research programme) @ CUHK'
 year: 17
+date: 2021-03-20
 ---
 
 # [HK]17-傅得峻-PhD in Chemistry (research programme) @ CUHK

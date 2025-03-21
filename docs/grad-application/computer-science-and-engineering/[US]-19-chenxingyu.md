@@ -1,6 +1,7 @@
 ---
 title: '[US]-19-陈星宇 M.S. in Software Engineering @ CMU'
 year: 19
+date: 2023-07-28
 ---
 
 # [US]-19-陈星宇 M.S. in Software Engineering @ CMU

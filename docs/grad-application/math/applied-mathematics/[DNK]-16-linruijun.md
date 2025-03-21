@@ -1,6 +1,7 @@
 ---
 title: '[DNK]-16-林睿军 Master''s Programme in Mathematics @ University of Copenhagen'
 year: 16
+date: 2021-07-12
 ---
 
 # [DNK]-16-林睿军 Master's Programme in Mathematics @ University of Copenhagen
