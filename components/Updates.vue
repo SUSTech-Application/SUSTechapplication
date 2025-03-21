@@ -1,6 +1,5 @@
 <script setup>
 import { data as posts } from "../utils/posts.data.ts";
-console.log(posts);
 </script>
 
 <template>
