@@ -1,6 +1,7 @@
 ---
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 ### “另类”的求职之路

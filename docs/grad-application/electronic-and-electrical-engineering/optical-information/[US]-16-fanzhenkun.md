@@ -3,6 +3,7 @@ title: '[US]-16-范镇鲲 MS in ECE @ 待定'
 year: 16
 date: 2020-04-01
 type: grad
+region: US
 ---
 
 # [US]-16-范镇鲲 MS in ECE @ 待定

@@ -3,6 +3,7 @@ title: '[CN]-16-陈勇 PhD in Physics @ HKUST'
 year: 16
 date: 2020-04-04
 type: grad
+region: CN
 ---
 
 # [CN]-16-陈勇 PhD in Physics @ HKUST

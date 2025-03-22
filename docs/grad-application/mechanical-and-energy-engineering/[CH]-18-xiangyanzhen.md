@@ -3,6 +3,7 @@ title: '[CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich'
 year: 18
 date: 2022-11-17
 type: grad
+region: CH
 ---
 
 # [CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich

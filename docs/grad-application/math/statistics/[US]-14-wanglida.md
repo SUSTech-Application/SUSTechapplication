@@ -3,6 +3,7 @@ title: '[US]-14-汪立达-数学与应用数学-PhD @ PSU'
 year: 14
 date: 2020-04-21
 type: grad
+region: US
 ---
 
 # [US]-14-汪立达-数学与应用数学-PhD @ PSU

@@ -3,6 +3,7 @@ title: \[CN\]19-陈仁伟-保研-@清华大学
 year: 19
 date: 2023-02-22
 type: grad
+region: CN
 ---
 
 # \[CN\]19-陈仁伟-保研-@清华大学

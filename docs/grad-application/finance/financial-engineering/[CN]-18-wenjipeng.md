@@ -3,6 +3,7 @@ title: "[CN]-18-温济鹏 保研 金融 @清华大学\r"
 year: 18
 date: 2022-03-31
 type: grad
+region: CN
 ---
 
 # [CN]-18-温济鹏 保研 金融 @清华大学

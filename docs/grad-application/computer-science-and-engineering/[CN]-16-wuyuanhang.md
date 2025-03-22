@@ -3,6 +3,7 @@ title: 我是怎么混进腾讯的
 year: 16
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 # 我是怎么混进腾讯的

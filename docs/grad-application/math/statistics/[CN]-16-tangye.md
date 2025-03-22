@@ -3,6 +3,7 @@ title: 坚持中邂逅 Every small step counts
 year: 16
 date: 2020-04-03
 type: grad
+region: CN
 ---
 
 # 坚持中邂逅 Every small step counts

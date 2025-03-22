@@ -3,6 +3,7 @@ title: 2020年金融硕士申请意法英分享
 year: 16
 date: 2020-03-26
 type: grad
+region: IT
 ---
 
 # 2020年金融硕士申请意法英分享

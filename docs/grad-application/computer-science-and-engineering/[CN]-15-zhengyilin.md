@@ -1,6 +1,7 @@
 ---
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 ## 计算机科学与技术

@@ -3,6 +3,7 @@ title: \[CN\]-17-栾闻迪 MSCS @ UCSD
 year: 17
 date: 2021-06-10
 type: grad
+region: US
 ---
 
 # \[CN\]-17-栾闻迪 MSCS @ UCSD

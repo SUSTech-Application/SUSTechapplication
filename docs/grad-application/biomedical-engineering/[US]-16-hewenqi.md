@@ -3,6 +3,7 @@ title: '[US]-16-贺文琦 PhD in BME @ UC Irvine'
 year: 16
 date: 2020-05-04
 type: grad
+region: US
 ---
 
 # [US]-16-贺文琦 PhD in BME @ UC Irvine

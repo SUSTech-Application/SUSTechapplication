@@ -3,6 +3,7 @@ title: \[US\]-15-隋昌祥 MS in Biomedical Engineering @ Duke University
 year: 15
 date: 2020-03-26
 type: grad
+region: US
 ---
 
 # \[US\]-15-隋昌祥 MS in Biomedical Engineering @ Duke University

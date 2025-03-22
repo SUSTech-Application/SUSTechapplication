@@ -3,6 +3,7 @@ title: \[US\]-15-阎相易 PhD in Computer Science @ UC Irvine
 year: 15
 date: 2020-03-26
 type: grad
+region: US
 ---
 
 # \[US\]-15-阎相易 PhD in Computer Science @ UC Irvine

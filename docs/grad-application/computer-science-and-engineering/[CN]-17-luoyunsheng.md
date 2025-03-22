@@ -3,6 +3,7 @@ title: '[CN]17-罗运升-保研 @ 浙江大学'
 year: 17
 date: 2021-03-08
 type: grad
+region: CN
 ---
 
 # [CN]17-罗运升-保研 @ 浙江大学
