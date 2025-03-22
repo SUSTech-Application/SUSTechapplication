@@ -1,5 +1,6 @@
 ---
 date: 2024-11-20
+type: grad
 ---
 
 ## 匿名Tips

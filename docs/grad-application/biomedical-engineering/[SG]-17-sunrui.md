@@ -2,6 +2,7 @@
 title: '[SG]-17-孙锐 PhD @ National University of Singapore'
 year: 17
 date: 2021-04-12
+type: grad
 ---
 
 # [SG]-17-孙锐 PhD @ National University of Singapore
