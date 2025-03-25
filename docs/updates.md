@@ -1,3 +1,4 @@
+- [2025-03-26] [保研总结] [21级-金融数学-高奕扬 保研 @ 北京大学](grad-application/math/financial-mathematics/[CN]-21-gaoyiyang)
 - [2025-03-18] [申请总结] [21级-计算机科学与技术-周思呈 CS PhD @ University of Utah](grad-application/computer-science-and-engineering/[US]-21-zhousicheng)
 - [2025-03-15] [申请总结] [20级-计算机科学与技术-李思锐 CompMed PhD @ UCLA](grad-application/computer-science-and-engineering/[US]-20-lisirui)
 - [2025-02-23] [申请总结] [21级-计算机科学与技术-钟志源 CS PhD @ Utah](grad-application/computer-science-and-engineering/[US]-21-zhongzhiyuan)

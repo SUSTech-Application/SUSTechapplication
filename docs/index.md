@@ -33,8 +33,7 @@ hero:
 
 ## 投稿/修改
 
-- 投稿/修改请联系 **zhangyj2021 AT mail.sustech.edu.cn** 或 **12210653 AT
-  mail.sustech.edu.cn**
+- 投稿/修改请联系 **12313635 AT mail.sustech.edu.cn** 或 **zhangwy2022 AT mail.sustech.edu.cn**
 
 ## 意见/改进
 
@@ -62,7 +61,7 @@ hero:
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`/`Markdown`文件发送到**zhangyj2021
-   AT mail.sustech.edu.cn** 或者 **12210653 AT
+   AT mail.sustech.edu.cn** 或者 **zhangwy2022 AT
    mail.sustech.edu.cn**，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/SUSTechapplication/tree/master/docs)路径下的对应文件夹Pull
    Request，可参考
