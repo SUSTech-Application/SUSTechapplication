@@ -9,6 +9,7 @@ const options = Object.fromEntries(
 let schema = {
   type: "object",
   properties: {
+    date: { type: "string", format: "date" },
     department: { type: "string", enum: options.department },
     degree: { type: "string", enum: options.degree },
     employer: { type: "string" },
@@ -25,7 +26,7 @@ let schema = {
     university: { type: "string", enum: options.university },
     year: { type: "number" },
   },
-  required: ["title", "type"],
+  required: ["date", "title", "type"],
 };
 
 const gradSchema = {
