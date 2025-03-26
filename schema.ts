@@ -54,6 +54,7 @@ const recruitSchema = {
 
 const experienceSchema = { properties: { type: { const: "experience" } } };
 
+// @ts-expect-error oneOf doesn't exist on schema
 schema.oneOf = [
   gradSchema,
   abroadSchema,
