@@ -28,7 +28,7 @@ let schema = {
     title: { type: "string" },
     type: { type: "string", enum: options.type },
     university: { type: "string", enum: options.university },
-    year: { type: "integer" },
+    year: { type: "integer", minimum: 11, maximum: 99 },
   },
   required: ["date", "title", "type"],
 };
