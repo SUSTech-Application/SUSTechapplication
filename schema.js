@@ -2,21 +2,29 @@ import { readFileSync } from "fs";
 import { parse } from "yaml";
 
 const metadata = parse(readFileSync("./metadata.yaml", "utf-8"));
+const regions = Object.keys(metadata.region);
+const universities = Object.keys(metadata.university);
+const departments = Object.keys(metadata.department);
+const degrees = Object.keys(metadata.degree);
+const type = Object.keys(metadata.type);
 
 let schema = {
   type: "object",
   properties: {
-    department: { type: "string" },
-    degree: { type: "string" },
+    department: { type: "string", enum: departments },
+    degree: { type: "string", enum: degrees },
     employer: { type: "string" },
     program: { type: "string" },
-    region: { type: "object" },
-    title: { type: "string" },
-    type: {
-      type: "string",
-      enum: ["grad", "abroad", "job", "recruit", "experience"],
+    region: {
+      // either a region, or a list of regions
+      oneOf: [
+        { type: "string", enum: regions },
+        { type: "array", items: { type: "string", enum: regions } },
+      ],
     },
-    university: { type: "string" },
+    title: { type: "string" },
+    type: { type: "string", enum: type },
+    university: { type: "string", enum: universities },
     year: { type: "number" },
   },
   required: ["title", "type"],
