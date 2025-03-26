@@ -9,7 +9,7 @@ const options = Object.fromEntries(
 let schema = {
   type: "object",
   properties: {
-    date: { type: "string", format: "date" },
+    date: { type: "string", pattern: "^\d{4}-\d{2}-\d{2}$" },
     department: { type: "string", enum: options.department },
     degree: { type: "string", enum: options.degree },
     employer: { type: "string" },
@@ -18,13 +18,17 @@ let schema = {
       // either a region, or a list of regions
       oneOf: [
         { type: "string", enum: options.region },
-        { type: "array", items: { type: "string", enum: options.region } },
+        {
+          type: "array",
+          minItems: 2,
+          items: { type: "string", enum: options.region },
+        },
       ],
     },
     title: { type: "string" },
     type: { type: "string", enum: options.type },
     university: { type: "string", enum: options.university },
-    year: { type: "number" },
+    year: { type: "integer" },
   },
   required: ["date", "title", "type"],
 };
