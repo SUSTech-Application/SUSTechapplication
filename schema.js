@@ -1,3 +1,8 @@
+import { readFileSync } from "fs";
+import { parse } from "yaml";
+
+const metadata = parse(readFileSync("./metadata.yaml", "utf-8"));
+
 let schema = {
   type: "object",
   properties: {
