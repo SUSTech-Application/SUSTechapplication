@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=./metadata-schema.json
-# empty schema to suppress VSCode warnings
+# yaml-language-server: $schema=metadata-schema.yaml
 
 type:
   grad: 申请
