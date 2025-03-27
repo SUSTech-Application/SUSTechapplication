@@ -1,9 +1,11 @@
 {
   "compilerOptions": {
-    "module": "preserve",
+    "module": "ESNext",
     "moduleResolution": "bundler",
-    "strict": true,
-    "noEmit": true
+    "noEmit": true,
+    "target": "ESNext",
+    "strict": true
   },
-  "include": ["**/*.ts"]
+  "include": [".vitepress/**/*.ts", "**/*.ts", "**/*.vue"],
+  "exclude": [".vitepress/cache/**/*"]
 }

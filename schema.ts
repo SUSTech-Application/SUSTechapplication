@@ -1,12 +1,17 @@
 import { readFileSync } from "fs";
 import { parse } from "yaml";
 
-const metadata = parse(readFileSync("./metadata.yaml", "utf-8"));
+// TODO: we should probably move to a better runtime typing tool, maybe Zod?
+
+type Keys = "type" | "degree" | "region" | "department" | "university";
+type Metadata = Record<Keys, Record<string, string>>;
+
+const metadata = parse(readFileSync("./metadata.yaml", "utf-8")) as Metadata;
 const options = Object.fromEntries(
-  Object.keys(metadata).map((k) => [k, Object.keys(metadata[k])]),
+  Object.keys(metadata).map((k) => [k, Object.keys(metadata[k as Keys])]),
 );
 
-let schema = {
+const schema = {
   type: "object",
   properties: {
     author: { type: "string" },

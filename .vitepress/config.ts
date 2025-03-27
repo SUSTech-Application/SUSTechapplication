@@ -1,5 +1,7 @@
 import { defineConfig } from "vitepress";
 
+import { type PluginSimple } from "markdown-it";
+// @ts-expect-error this pkg has no types
 import taskLists from "markdown-it-task-lists";
 
 import sidebar from "./sidebar";
@@ -53,7 +55,7 @@ export default defineConfig({
   ],
   markdown: {
     config: (md) => {
-      md.use(taskLists);
+      md.use(taskLists as PluginSimple);
     },
   },
 });
