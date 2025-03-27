@@ -5,10 +5,10 @@
   日常学习:
     经验分享-21-周弘毅: zhouhy21
   IELTS:
-    2个月自学雅思总分6-7: "76"
-    英语学渣学习指南: 英语学渣学习指南
+    2个月自学雅思总分6-7: "76" # FIXME: contact author
+    英语学渣学习指南: lijj16
 grad-application:
-  申请Tips: 申请Tips
+  申请Tips: anon # TODO: year?
   information-systems-and-management-engineering:
     big-data-management-and-applications:
       "[US]-18-lizhichen": lizc18
@@ -80,7 +80,7 @@ grad-application:
     "[SG]-17-sunrui": sunr17
     "[US]-16-liruxuan": lirx16
     "[US]-16-yeyuming": yeym16
-    "[US]-16-dengyuqing-1": "dyq16"
+    "[US]-16-dengyuqing-1": dyq16
     "[US]-15-suichangxiang": suicx15
     "[US]-16-liangguangru": liangr16
     "[US]-16-hewenqi": hewq16
@@ -112,7 +112,7 @@ grad-application:
     "[US]-19-chenxingyu": chenxy19
     "[US]-17-luanwendi": luanwd17
     "[US]-16-chendeyuan": chendy16
-    "[CN]-18-anoymous": {}
+    "[CN]-18-anoymous": anon18
   mechanics-and-aerospace-engineering:
     "[CN]-16-shanghengrui": shanghr16
     "[US]-15-hezilong": hezl15
@@ -124,7 +124,7 @@ grad-application:
     "[CN]-16-chengjiaqi": chengjq16
   finance:
     finance:
-      "[HK]-18-liubowen": liub218
+      "[HK]-18-liubowen": liubw18
       "[CN]-15-wangyongrui": wangyr15
       "[CN]-17-guxinyi": guxy17
       "[CN]-18-xiaoyuqi": xiaoyq18
@@ -174,18 +174,17 @@ grad-application:
       "[US]-17-wangchao": wangc17
       "[US]-17-zhangzhan": zhangz17
     biotechnology:
-      "[德国]-16-蔡逸扬": caiyy16
       "[GER]-16-caiyiyang": caiyy16
     bioinformatics:
       "[KSA]-16-zhoujuexiao": zhouj16
       "[US]-15-sunli": sunl15
 招生信息:
-  加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息: 加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息
+  加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息: chenwy # FIXME: who submitted this?
   13级-何思鸿-校友招生-CS PhD@UTA: hesh13
 oversea-program:
   summer-research:
-    importance_of_summer_research_in_CS_yanxiangyi: importance_of_summer_research_in_CS_yanxy
-    columbia_environment_LDEO_wuxin: columbia_environment_LDEO_wux
+    importance_of_summer_research_in_CS_yanxiangyi: yanxy15a
+    columbia_environment_LDEO_wuxin: wux16
     columbia_environment_LDEO_liujingyu: columbia_environment_LDEO_liujy
   summer-school:
     ucla_summer_session_recommendation: ucla_summer_session_recommendation
