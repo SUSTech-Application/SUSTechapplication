@@ -5,10 +5,10 @@
   日常学习:
     经验分享-21-周弘毅: zhouhy21
   IELTS:
-    2个月自学雅思总分6-7: "76" # FIXME: contact author
+    2个月自学雅思总分6-7: "76" # FIXME: who wrote this?
     英语学渣学习指南: lijj16
 grad-application:
-  申请Tips: anon # TODO: year?
+  申请Tips: anon # FIXME: which year? might as well remove it
   information-systems-and-management-engineering:
     big-data-management-and-applications:
       "[US]-18-lizhichen": lizc18
@@ -185,10 +185,10 @@ oversea-program:
   summer-research:
     importance_of_summer_research_in_CS_yanxiangyi: yanxy15a
     columbia_environment_LDEO_wuxin: wux16
-    columbia_environment_LDEO_liujingyu: columbia_environment_LDEO_liujy
+    columbia_environment_LDEO_liujingyu: liujy15
   summer-school:
-    ucla_summer_session_recommendation: ucla_summer_session_recommendation
-    ucsd_summer_session_guide: ucsd_summer_session_guide
+    ucla_summer_session_recommendation: ucla_summer_session_recommendation # FIXME: who wrote this?
+    ucsd_summer_session_guide: jiz22 # FIXME: who wrote this?
   semester-program:
-    uc_yangzonghao: uc_yangzh
-    why_I_suggest_u_KAUST: why_I_suggest_u_KAUST
+    uc_yangzonghao: yangzh16
+    why_I_suggest_u_KAUST: why_I_suggest_u_KAUST # FIXME: who wrote this?
