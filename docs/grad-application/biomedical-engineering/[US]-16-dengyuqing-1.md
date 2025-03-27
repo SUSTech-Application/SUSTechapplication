@@ -2,6 +2,7 @@
 date: 2020-11-29
 type: grad
 region: US
+department: bme
 ---
 
 ![邓雨晴_00](./[US]-16-dengyuqing/邓雨晴_00.png)

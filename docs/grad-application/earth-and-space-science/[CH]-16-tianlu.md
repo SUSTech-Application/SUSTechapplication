@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-17
 type: grad
 region: CH
+department: ess
 ---
 
 # [CN]-16-田璐 MS in Earth Science @ ETH

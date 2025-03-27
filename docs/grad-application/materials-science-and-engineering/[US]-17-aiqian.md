@@ -4,6 +4,7 @@ year: 17
 date: 2021-09-13
 type: grad
 region: US
+department: mse
 ---
 
 # [US]-17-艾谦-PhD @ UIUC

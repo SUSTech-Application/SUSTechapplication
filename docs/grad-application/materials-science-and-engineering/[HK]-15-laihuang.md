@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: HK
+department: mse
 ---
 
 # \[HK\]-15-赖煌 PhD in Bioengineering @ HKUST

@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: US
+department: bio
 ---
 
 # \[US\]-15-孙力 PhD in Intelligent Systems @ UPitt

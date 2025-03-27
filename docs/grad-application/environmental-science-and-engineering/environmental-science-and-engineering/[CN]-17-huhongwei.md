@@ -4,6 +4,7 @@ year: 17
 date: 2021-03-20
 type: grad
 region: CN
+department: ese
 ---
 
 # [CN]-17-胡洪威-保研 @ 厦门大学

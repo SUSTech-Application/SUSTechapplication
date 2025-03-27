@@ -4,6 +4,7 @@ year: 19
 date: 2023-07-28
 type: grad
 region: US
+department: cse
 ---
 
 # [US]-19-陈星宇 M.S. in Software Engineering @ CMU

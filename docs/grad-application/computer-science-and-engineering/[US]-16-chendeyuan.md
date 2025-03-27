@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-17
 type: grad
 region: US
+department: cse
 ---
 
 # [US]-16-陈德缘 M.S. in Software Engineering @ CMU

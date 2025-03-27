@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-01
 type: grad
 region: CN
+department: mse
 ---
 
 # [US]-16-姜诚 保研 in 功能材料与器件@清华大学深圳国际研究生院

@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-28
 type: grad
 region: CN
+department: bio
 ---
 
 # [CN]-16-张亚杰-研究助理-北京脑科学与类脑研究中心

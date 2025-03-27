@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: US
+department: mse
 ---
 
 # \[US\]-15-刘国远-PhD in MSE @ UIUC

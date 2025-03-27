@@ -4,6 +4,7 @@ year: 18
 date: 2022-03-31
 type: grad
 region: CN
+department: cse
 ---
 
 # 南方科技大学计算机系考研攻略

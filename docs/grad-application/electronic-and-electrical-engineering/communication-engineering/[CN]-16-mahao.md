@@ -2,6 +2,7 @@
 date: 2020-03-26
 type: grad
 region: CN
+department: eee
 ---
 
 ### “另类”的求职之路

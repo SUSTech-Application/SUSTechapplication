@@ -4,6 +4,7 @@ year: 21
 date: 2025-02-24
 type: grad
 region: US
+department: cse
 ---
 
 # [US]-21-钟志源 CS PhD @ U of Utah

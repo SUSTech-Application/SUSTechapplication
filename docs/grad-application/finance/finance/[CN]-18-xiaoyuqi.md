@@ -4,6 +4,7 @@ year: 18
 date: 2022-03-31
 type: grad
 region: CN
+department: business
 ---
 
 # [CN]-18-肖钰琪 保研 金融 @ 北京大学

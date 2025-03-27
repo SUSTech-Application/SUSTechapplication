@@ -4,6 +4,7 @@ year: 17
 date: 2021-03-20
 type: grad
 region: CN
+department: business
 ---
 
 # [CN]-17-顾心怡-保研 @ 北京大学汇丰商学院

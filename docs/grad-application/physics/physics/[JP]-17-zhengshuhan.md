@@ -4,6 +4,7 @@ year: 17
 date: 2021-04-13
 type: grad
 region: JP
+department: phy
 ---
 
 # \[JP\]17-郑书晗-东京大学-IME-EEIS修士

@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: CN
+department: business
 ---
 
 # \[CN\]-15级-蔡多 财经传媒专业硕士 @ 中山大学

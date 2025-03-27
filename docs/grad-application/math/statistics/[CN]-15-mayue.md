@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: CN
+department: stat-ds
 ---
 
 # \[CN\]-15-马悦 考研 @ 南科大

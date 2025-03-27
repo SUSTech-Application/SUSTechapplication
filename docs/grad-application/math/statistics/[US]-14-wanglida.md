@@ -4,6 +4,7 @@ year: 14
 date: 2020-04-21
 type: grad
 region: US
+department: stat-ds
 ---
 
 # [US]-14-汪立达-数学与应用数学-PhD @ PSU

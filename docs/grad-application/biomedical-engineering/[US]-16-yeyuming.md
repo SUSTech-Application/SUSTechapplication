@@ -4,6 +4,7 @@ year: 16
 date: 2020-06-05
 type: grad
 region: US
+department: bme
 ---
 
 # [US]-16-叶宇铭 Master in Biomedical Engineering @ Columbia University

@@ -4,6 +4,7 @@ year: 19
 date: 2023-09-05
 type: grad
 region: CN
+department: phy
 ---
 
 # [CN]-19-汪静涵 直博 @ 中国科学技术大学

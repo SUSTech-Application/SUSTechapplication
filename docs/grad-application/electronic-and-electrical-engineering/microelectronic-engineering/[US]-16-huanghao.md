@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-09
 type: grad
 region: US
+department: eee
 ---
 
 # [US]-16-黄皓 PhD in Nanoengineering @ UCSD 

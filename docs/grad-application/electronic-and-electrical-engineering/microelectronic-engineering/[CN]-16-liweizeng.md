@@ -4,6 +4,7 @@ year: 16
 date: 2020-03-26
 type: grad
 region: CN
+department: eee
 ---
 
 # [CN]-16-李伟增 学硕 @ 中国科学院微电子研究所

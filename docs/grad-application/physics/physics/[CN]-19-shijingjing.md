@@ -4,6 +4,7 @@ year: 19
 date: 2023-02-15
 type: grad
 region: CN
+department: phy
 ---
 
 # \[CN\]19-石晶晶-北京大学-直博

@@ -2,6 +2,7 @@
 date: 2020-11-29
 type: grad
 region: US
+department: math
 ---
 
 ![赵翔宇_00](./[US]-16-zhaoxiangyu/赵翔宇_00.png)

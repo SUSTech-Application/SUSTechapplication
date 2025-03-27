@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: US
+department: chem
 ---
 
 # \[US\]-15-南博钊 PhD in Chemistry @ Notre Dame University

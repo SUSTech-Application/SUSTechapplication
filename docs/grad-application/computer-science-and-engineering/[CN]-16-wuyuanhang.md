@@ -4,6 +4,7 @@ year: 16
 date: 2020-03-26
 type: grad
 region: CN
+department: cse
 ---
 
 # 我是怎么混进腾讯的

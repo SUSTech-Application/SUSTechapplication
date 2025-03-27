@@ -4,6 +4,7 @@ year: 18
 date: 2022-05-09
 type: grad
 region: US
+department: cse
 ---
 
 # [US]18-周澳蕾 @ CMU - CS MS
