@@ -1,0 +1,194 @@
+英语学习:
+  GRE:
+    GRE修仙指南-15级-张孜晟: zhangzs15
+    GRE指南-19级-杨文汉夫: yangwhf19
+  日常学习:
+    经验分享-21-周弘毅: zhouhy21
+  IELTS:
+    2个月自学雅思总分6-7: "76" # FIXME: who wrote this?
+    英语学渣学习指南: lijj16
+grad-application:
+  申请Tips: anon # FIXME: which year? might as well remove it
+  information-systems-and-management-engineering:
+    big-data-management-and-applications:
+      "[US]-18-lizhichen": lizc18
+  environmental-science-and-engineering:
+    hydrology-and-water-resources-engineerin:
+      "[US]-15-yaoyao": yaoy15
+      "[US]-18-liuyi": liuy18
+    environmental-science-and-engineering:
+      "[CN]-16-caiwan": caiw16
+      "[CN]-17-huhongwei": huhw17
+  marine-science-and-engineering:
+    "[JP]-17-liaochonglin": liaocl17
+    "[CN]-17-liuwenwen": liuww17
+  sdim:
+    engineering-focus:
+      "[US]-19-yunzhongxiao": yunzx19
+    design-focus:
+      "[CN]-19-yutongge": yutg19
+  chemistry:
+    "[UK]-17-chenzaizhu": chenzz17
+    "[CN]-16-ShanKun": shank16
+    "[HK]-17-fudejun": fudj17
+    "[US]-16-chenying": cheny16
+    "[US]-15-nanbozhao": nanbz15
+    "[US]-15-jiangliwei": jianglw15
+  microelectronics:
+    "[US]-17-humingtao": humt17
+    "[CN]-19-chenrenwei": chenrw19
+    "[US]-19-huangguanchao": huanggc19
+    "[CN]-17-fuyuzhe": fuyz17
+  earth-and-space-science:
+    "[CH]-16-tianlu": tianl16
+  math:
+    statistics:
+      "[US]-14-wanglida": wangl14
+      "[HK]-16-laidaoyuan": laidy16
+      "[CN]-16-tangye": tangy16
+      "[CN]-15-mayue": may15
+      "[US]-20-yua": yua20
+    financial-mathematics:
+      "[US]-16-yangzhiyao": yangzy16
+    applied-mathematics:
+      "[DNK]-16-linruijun": linrj16
+      "[US]-16-zhaoxiangyu": zhaoxy16
+      "[US]-16-xuyuancheng": xuyc16
+      "[US]-19-jiangnanfei": jiangnf19
+      "[CN]-15-wuyifan": wuyf15
+      "[UK]-16-mayiming": maym16
+      "[US]-16-dongzeyu": dongzy16
+    basic-mathematics:
+      "[US]-19-liuyuhan": liuyh19
+  electronic-and-electrical-engineering:
+    microelectronic-engineering:
+      "[US]-16-huanghao": huangh16
+      "[CN]-16-liweizeng": liwz16
+      "[SG_JP]-15-guoxinge": guoxg15
+      "[CN]-16-guanyujiang": guanyj16
+      "[US]-15-yuanjindong": yuanjd15
+    communication-engineering:
+      "[CN]-16-mahao": mah16
+      "[US]-19-zhangce": zhangc19
+      "[US]-15-zhongwenzhao": zhongwz15
+    optical-information:
+      "[US]-16-fanzhenkun": fanzk16
+  biomedical-engineering:
+    "[HK]-18-wangshuchen": wangsc18
+    "[SG]-18-wangyehan": wangyh18
+    "[SG]-17-gaoxu": gaox17
+    "[SG]-17-sunrui": sunr17
+    "[US]-16-liruxuan": lirx16
+    "[US]-16-yeyuming": yeym16
+    "[US]-16-dengyuqing-1": dyq16
+    "[US]-15-suichangxiang": suicx15
+    "[US]-16-liangguangru": liangr16
+    "[US]-16-hewenqi": hewq16
+    "[US]-16-dengyuqing": dengyq16
+  medicine:
+    "[SG]-16-sunyuze": sunyz16
+    "[SE]-16-mengliuzhen": menglz16
+    "[CN]-17-dingmingyu": dingmy17
+  computer-science-and-engineering:
+    "[US]-16-zhangzhaoxu": zhangzx16
+    "[CN]-18-anonymous": anonymous18
+    "[US]-15-fangyidong": fangyd15
+    "[US]-21-zhousicheng": zhousc21
+    "[CN]-15-liziqiang": lizq15
+    "[US]-21-zhongzhiyuan": zhongzy21
+    "[CN]-16-wukaiming": wukm16
+    "[CN]-15-zhengyilin": zhengyl15
+    "[US]-20-lisirui": lisr20
+    "[US]-16-wangyutong": wangyt16
+    (ML)-20-linyuhang: linyh20
+    "[CN]-16-wuyuanhang": wuyh16
+    "[US]-19-yangwenhanfu": yangwhf19
+    "[CN]-15-zhangsongtao": zhangst15
+    (APS)-20-zengxianqing: zengxq20
+    "[CN]-17-luoyunsheng": luoysh17
+    "[US]-15-xiedanning": xiedn15
+    "[US]-18-zhouaolei": zhoual18
+    "[US]-15-yanxiangyi": yanxy15
+    "[US]-19-chenxingyu": chenxy19
+    "[US]-17-luanwendi": luanwd17
+    "[US]-16-chendeyuan": chendy16
+    "[CN]-18-anoymous": anon18
+  mechanics-and-aerospace-engineering:
+    "[CN]-16-shanghengrui": shanghr16
+    "[US]-15-hezilong": hezl15
+    "[CN]-17-chenxuanwu": chenxw17
+    "[US]-17-liuyazhuo": liuyz17
+    "[CN]-16-qiyiming": qiym16
+    "[CN]-16-daiyuhang": daiyh16
+    "[CN]-16-liruoyan": liry16
+    "[CN]-16-chengjiaqi": chengjq16
+  finance:
+    finance:
+      "[HK]-18-liubowen": liubw18
+      "[CN]-15-wangyongrui": wangyr15
+      "[CN]-17-guxinyi": guxy17
+      "[CN]-18-xiaoyuqi": xiaoyq18
+      "[CN]-15-caiduo": caid15
+      "[US]-19-lihaoming": lihm19
+      "[CN]-16-zhaoyanchu": zhaoyc16
+    financial-engineering:
+      "[CN]-16-gongguoyu": gonggy16
+      "[SG]-16-liyilin-1": "lyl16"
+      "[CN]-16-jinghongyan": jinghy16
+      "[SG]-16-liyilin": liyl16
+      "[IT]-16-laimeizhi": laimz16
+      "[CN]-18-wenjipeng": wenjp18
+      "[CN]-17-dengzhuorui": dengzr17
+      "[CH]-16-wangdanyu": wangdy16
+      "[FR]-17-zhuyeyun": zhuyy17
+      "[US]-18-yuyunsong": yuys18
+  physics:
+    physics:
+      "[US]-20-fengxinyu": fengxy20
+      "[JP]-17-zhengshuhan": zhengsh17
+      "[CN]-19-shijingjing": shijj19
+      "[US]-16-wangyuhuan": wangyh16
+      "[CN]-15-zhouxinchi": zhouxc15
+      "[US]-16-wangyifan": wangyf16
+      "[CN]-19-wangjinghan": wangjh19
+    applied-physics:
+      "[CN]-16-wanghan": wangh16
+  mechanical-and-energy-engineering:
+    "[NL]-17-liuyanjing": liuyj17
+    "[US]-16-zhengtianqi": zhengtq16
+    "[NL]-17-dengranbao": dengrb17
+    "[CH]-18-xiangyanzhen": xiangyz18
+  materials-science-and-engineering:
+    "[CN]-15-linxiaosong": linxs15
+    "[US]-16-zhongke": zhongk16
+    "[US]-15-zhaoliming": zhaolm15
+    "[US]-17-aiqian": aiq17
+    "[CN]-16-jiangcheng": jiangc16
+    "[CN]-17-baihaoyu": baihy17
+    "[CN]-16-chenyong": cheny16
+    "[HK]-15-laihuang": laih15
+    "[US]-15-liuguoyuan": liugy15
+  biology:
+    bioscience:
+      "[CN]-16-zhangyajie": zhangyj16
+      "[US]-17-wangchao": wangc17
+      "[US]-17-zhangzhan": zhangz17
+    biotechnology:
+      "[GER]-16-caiyiyang": caiyy16
+    bioinformatics:
+      "[KSA]-16-zhoujuexiao": zhouj16
+      "[US]-15-sunli": sunl15
+招生信息:
+  加拿大温哥华SimonFraserUniversity计算机系陈武阳助理教授招生信息: chenwy # FIXME: who submitted this?
+  13级-何思鸿-校友招生-CS PhD@UTA: hesh13
+oversea-program:
+  summer-research:
+    importance_of_summer_research_in_CS_yanxiangyi: yanxy15a
+    columbia_environment_LDEO_wuxin: wux16
+    columbia_environment_LDEO_liujingyu: liujy15
+  summer-school:
+    ucla_summer_session_recommendation: ucla_summer_session_recommendation # FIXME: who wrote this?
+    ucsd_summer_session_guide: jiz22 # FIXME: who wrote this?
+  semester-program:
+    uc_yangzonghao: yangzh16
+    why_I_suggest_u_KAUST: why_I_suggest_u_KAUST # FIXME: who wrote this?
