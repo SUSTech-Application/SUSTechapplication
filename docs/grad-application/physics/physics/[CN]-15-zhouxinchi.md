@@ -3,6 +3,7 @@ title: \[CN\]-15-周鑫池 PhD in Condensed Matter Theory @ ICQM-PKU
 year: 15
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 # \[CN\]-15-周鑫池 PhD in Condensed Matter Theory @ ICQM-PKU

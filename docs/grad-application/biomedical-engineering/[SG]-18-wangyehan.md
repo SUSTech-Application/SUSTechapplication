@@ -3,6 +3,7 @@ title: "\\[SG\\]-18-王叶晗 Biotechnology MSc @ NUS\r"
 year: 18
 date: 2022-06-10
 type: grad
+region: SG
 ---
 
 # \[SG\]-18-王叶晗 Biotechnology MSc @ NUS

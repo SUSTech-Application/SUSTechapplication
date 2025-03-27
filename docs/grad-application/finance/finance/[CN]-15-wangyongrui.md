@@ -3,6 +3,7 @@ title: \[CN\]-15级-王咏睿 Master of Accounting @ CUHK(SZ)
 year: 15
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 # \[CN\]-15级-王咏睿 Master of Accounting @ CUHK(SZ)

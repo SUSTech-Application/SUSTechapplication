@@ -3,6 +3,7 @@ title: \[CN\]19-石晶晶-北京大学-直博
 year: 19
 date: 2023-02-15
 type: grad
+region: CN
 ---
 
 # \[CN\]19-石晶晶-北京大学-直博

@@ -3,6 +3,7 @@ title: '[EU]17-邓然宝 MSc Robotics @ Technische Universiteit Delft'
 year: 17
 date: 2021-06-27
 type: grad
+region: NL
 ---
 
 # [EU]17-邓然宝 MSc Robotics @ Technische Universiteit Delft

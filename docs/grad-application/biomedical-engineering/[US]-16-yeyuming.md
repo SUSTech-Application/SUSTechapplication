@@ -3,6 +3,7 @@ title: '[US]-16-叶宇铭 Master in Biomedical Engineering @ Columbia University
 year: 16
 date: 2020-06-05
 type: grad
+region: US
 ---
 
 # [US]-16-叶宇铭 Master in Biomedical Engineering @ Columbia University

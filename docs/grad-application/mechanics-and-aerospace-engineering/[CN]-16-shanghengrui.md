@@ -3,6 +3,7 @@ title: '[CN]-16-尚恒锐 保研 @ 北航'
 year: 16
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 # [CN]-16-尚恒锐 保研 @ 北航

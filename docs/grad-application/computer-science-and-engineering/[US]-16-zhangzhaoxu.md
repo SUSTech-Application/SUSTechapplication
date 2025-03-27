@@ -1,6 +1,7 @@
 ---
 date: 2020-03-26
 type: grad
+region: US
 ---
 
 ![张兆旭_00](./[US]-16-zhangzhaoxu/张兆旭_00.png)

@@ -3,6 +3,7 @@ title: \[CN\]-15-林小淞 考研 @ 南科大
 year: 15
 date: 2020-03-26
 type: grad
+region: CN
 ---
 
 # \[CN\]-15-林小淞 考研 @ 南科大

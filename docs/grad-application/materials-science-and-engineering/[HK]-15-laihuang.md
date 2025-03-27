@@ -3,6 +3,7 @@ title: \[HK\]-15-赖煌 PhD in Bioengineering @ HKUST
 year: 15
 date: 2020-03-26
 type: grad
+region: HK
 ---
 
 # \[HK\]-15-赖煌 PhD in Bioengineering @ HKUST

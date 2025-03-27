@@ -3,6 +3,7 @@ title: '[CN]-16-公国钰 保研 @ 北京大学'
 year: 16
 date: 2020-04-17
 type: grad
+region: CN
 ---
 
 # [CN]-16-公国钰 保研 @ 北京大学

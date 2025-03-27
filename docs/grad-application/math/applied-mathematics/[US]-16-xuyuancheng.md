@@ -3,6 +3,7 @@ title: PhD申请的“游戏规则”、科研、英语、绩点与其他
 year: 16
 date: 2020-04-20
 type: grad
+region: US
 ---
 
 # PhD申请的“游戏规则”、科研、英语、绩点与其他

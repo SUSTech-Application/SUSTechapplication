@@ -1,6 +1,7 @@
 ---
 date: 2023-06-30
 type: grad
+region: US
 ---
 
 ## 基本背景

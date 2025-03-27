@@ -3,6 +3,7 @@ title: 生活从不亏待每一个努力向上的人
 year: 16
 date: 2020-10-31
 type: grad
+region: CN
 ---
 
 # 生活从不亏待每一个努力向上的人
