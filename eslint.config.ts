@@ -7,11 +7,5 @@ export default ts.config(
   ts.configs.strictTypeChecked,
   ts.configs.stylisticTypeChecked,
   vue.configs["flat/recommended"],
-  {
-    languageOptions: {
-      parserOptions: {
-        projectService: true,
-      },
-    },
-  },
+  { languageOptions: { parserOptions: { projectService: true } } },
 );
