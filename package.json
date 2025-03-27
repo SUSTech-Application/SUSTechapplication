@@ -11,7 +11,8 @@
     "lint:fix": "bun run lint -- --fix",
     "preview": "vitepress preview",
     "sort": "bunx sort-package-json",
-    "spellcheck": "cspell ."
+    "spellcheck": "cspell .",
+    "test": "vitest"
   },
   "dependencies": {
     "@primeuix/themes": "^1.0.0",
@@ -19,6 +20,8 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "@types/node": "^22.13.13",
+    "ajv": "^8.17.1",
     "cspell": "^8.17.5",
     "eslint": "^9.21.0",
     "eslint-plugin-vue": "^10.0.0",
@@ -27,6 +30,8 @@
     "prettier": "^3.5.2",
     "prettier-plugin-sh": "^0.15.0",
     "typescript-eslint": "^8.25.0",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.3",
+    "vitest": "^3.0.9",
+    "yaml": "^2.7.0"
   }
 }
