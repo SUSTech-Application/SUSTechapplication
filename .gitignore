@@ -1,5 +1,8 @@
 .DS_Store
+
 node_modules/
+.venv/
+
 .vitepress/cache/
 .vitepress/dist/
 *.paths.js

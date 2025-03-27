@@ -2,8 +2,8 @@
 
 #### PhD Programs:
 
-* [14级-汪立达-Penn State University]([US]-14-wanglida)
-* [16级-赖道远-The University of Hong Kong.]([HK]-16-laidaoyuan)
+- [14级-汪立达-Penn State University]([US]-14-wanglida)
+- [16级-赖道远-The University of Hong Kong.]([HK]-16-laidaoyuan)
 
 #### Master Programs:
 
@@ -19,7 +19,7 @@ To be continued.
 
 ##### 保研：
 
-* [16级-唐晔-北京大学汇丰商学院]([CN]-16-tangye)
+- [16级-唐晔-北京大学汇丰商学院]([CN]-16-tangye)
 
 ##### 考研：
 
@@ -28,7 +28,6 @@ To be continued.
 ##### 就业：
 
 To be continued.
-
 
 ## 数据科学与大数据技术
 

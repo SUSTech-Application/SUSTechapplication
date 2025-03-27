@@ -23,14 +23,13 @@
 
 不过综合两个榜单，不难找出美国大学商业分析硕士**第一梯队**的几所学校：MIT，CMU，UPenn，GaTech，UTAustin，UChicago，NYU，UC Berkely。
 
-*如果不想留美的话应该注重综合排名*：MIT，UChicago，UPenn，UC Berkely，CMU，NYU，UTAustin，GaTech。
+_如果不想留美的话应该注重综合排名_：MIT，UChicago，UPenn，UC Berkely，CMU，NYU，UTAustin，GaTech。
 
 我会介绍一下其中数据比较不透明的CMU和鲜为人知的GaTech。
 
 ### CMU
 
 卡耐基梅隆大学关于商业分析专业有三种选择：Tepper商学院的<a href="https://www.cmu.edu/tepper/programs/master-business-analytics/full-time/index.html">MSBA</a>，Heinz信息管理学院的<a href="https://www.heinz.cmu.edu/programs/information-systems-management-master/">MISM</a>和MISM下的<a href="https://www.heinz.cmu.edu/programs/information-systems-management-master/bida">BIDA</a>方向。三种选择都是STEM项目，均有OPT机会。
-
 
 Tepper商学院的MSBA项目时长为9个月，项目期间不包含暑期实习机会。由于毕业校招时缺少实习经验，竞争力可能不强。其次，MSBA项目是新设立两年的项目，就业数据仍然不甚明朗。
 
@@ -65,7 +64,6 @@ GaTech的MSA项目申请人数在1000人左右，录取人数约150人，最终C
 | FIN206   | 公司金融              |
 | FIN311   | 人工智能及金融应用    |
 | FIN303   | 计量经济学            |
-
 
 商业分析专业申请一般要求申请人拥有面向对象编程的经验。Heinz学院的BIDA更偏好Java，也可以接受C++。且商业分析专业申请需要申请人有良好的数据库基础，SQL语言也需要掌握。如果有条件的同学可以尝试学习一下非关系型数据库。
 
@@ -105,7 +103,7 @@ GaTech的MSA项目申请人数在1000人左右，录取人数约150人，最终C
 
 时值全球经济下行之际，考研、考公、保研和申请的人数连攀新高，而就业岗位仍在持续减少。随着阿里三成、腾讯一成的裁员，就业形势真的愈发扑朔迷离。可以预见的是，这几年的考研与申请一定会越来越卷，越来越难。在此祝愿大家都有着最光明的未来。
 
-----------------
+---
 
 本文作者：<a href="mailto:dangohoshi@hotmail.com" title="你瞅啥？">李之宸</a>，更新时间：2022年3月31日。
 

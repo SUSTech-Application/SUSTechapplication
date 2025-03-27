@@ -1,6 +1,6 @@
 ## 材料科学与工程
 
-#### 友情链接：:point_right:[材料系保研手册](https://docs.qq.com/doc/DY1JUbGJkaGNMTHVq?disableReturnList=1&_from=2&ADUIN=820251273&ADSESSION=1573275641&ADTAG=CLIENT.QQ.5665_.0&ADPUBNO=26946&jumpuin=820251273) :point_left:
+#### 友情链接：:point*right:[材料系保研手册](https://docs.qq.com/doc/DY1JUbGJkaGNMTHVq?disableReturnList=1&_from=2&ADUIN=820251273&ADSESSION=1573275641&ADTAG=CLIENT.QQ.5665*.0&ADPUBNO=26946&jumpuin=820251273) :point_left:
 
 #### PhD Programs:
 
@@ -11,11 +11,11 @@
 
 #### Master Programs:
 
-*   [16级-钟柯 CMU]([US]-16-zhongke)
+- [16级-钟柯 CMU]([US]-16-zhongke)
 
 ##### 联培：
 
-* [16级-陈勇 HKUST]([CN]-16-chenyong)
+- [16级-陈勇 HKUST]([CN]-16-chenyong)
 
 ##### 直博：
 
@@ -23,8 +23,8 @@ To be continued.
 
 ##### 保研：
 
-* [16级-姜诚 清华大学深圳国际研究生院]([CN]-16-jiangcheng)
-* [17级-白浩宇 北京大学]([CN]-17-baihaoyu)
+- [16级-姜诚 清华大学深圳国际研究生院]([CN]-16-jiangcheng)
+- [17级-白浩宇 北京大学]([CN]-17-baihaoyu)
 
 ##### 考研：
 

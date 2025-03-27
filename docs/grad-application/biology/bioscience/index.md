@@ -2,8 +2,8 @@
 
 #### PhD Programs:
 
--   [17级-王超 University of Southern California]([US]-17-wangchao)
--   [17级-张展 UPenn]([US]-17-zhangzhan)
+- [17级-王超 University of Southern California]([US]-17-wangchao)
+- [17级-张展 UPenn]([US]-17-zhangzhan)
 
 #### Master Programs:
 

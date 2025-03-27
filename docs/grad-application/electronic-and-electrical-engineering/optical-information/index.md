@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-* [16级-范镇鲲 Gatech]([US]-16-fanzhenkun)
+- [16级-范镇鲲 Gatech]([US]-16-fanzhenkun)
 
 ##### 联培：
 

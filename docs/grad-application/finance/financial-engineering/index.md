@@ -23,10 +23,10 @@ To be continued.
 
 ##### 保研：
 
-* [18级-温济鹏-清华大学]([CN]-18-wenjipeng)
-* [17级-邓卓睿-北京师范大学]([CN]-17-dengzhuorui)
-* [16级-公国钰 北京大学]([CN]-16-gongguoyu)
-* [16级-靖红艳 北京大学]([CN]-16-jinghongyan)
+- [18级-温济鹏-清华大学]([CN]-18-wenjipeng)
+- [17级-邓卓睿-北京师范大学]([CN]-17-dengzhuorui)
+- [16级-公国钰 北京大学]([CN]-16-gongguoyu)
+- [16级-靖红艳 北京大学]([CN]-16-jinghongyan)
 
 ##### 考研：
 

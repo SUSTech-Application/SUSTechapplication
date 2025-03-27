@@ -23,17 +23,17 @@ department: mae
 
 其他录取结果：
 
-* **Offer\(1\):**
-  * \[ME PhD @ University of Minnesota\] 
-* **AD\(2\):**
-  * \[ME PhD @ Purdue University\] 
-  * \[ME MS @ Northwestern University\] 
-* **Rej\(7\)**:
-  * \[ME MS @ Yale, Duke, Rice, Umich\] 
-  * \[ME MS @ MIT\] 
-  
+- **Offer\(1\):**
+  - \[ME PhD @ University of Minnesota\]
+- **AD\(2\):**
+  - \[ME PhD @ Purdue University\]
+  - \[ME MS @ Northwestern University\]
+- **Rej\(7\)**:
+  - \[ME MS @ Yale, Duke, Rice, Umich\]
+  - \[ME MS @ MIT\]
 
 ## 申请心得
+
 我想写在最最前面的是，各位**一定要想清楚自己申请的目的是什么**。不要盲目随从大流而出国。已经9102年了，不是十几年前那种随便一个国外的学位都能给你自己贴金的时代了。
 
 对于申请硕士，三维比较重要一点。对于申请PhD的话，你的科研一定是最重要的因素。所以，比较理想的情况是，你申请PhD时是知道自己对什么方向感兴趣的。
@@ -43,6 +43,7 @@ department: mae
 南科大的各种资源可以抓住。比如说各个系每周都会有seminar而且经常请老师来。遇到感兴趣的可以去认真听听。如果可以的话，带上自己的CV和成绩单，直接在会后与老师交流沟通。
 
 ## 申请总结
+
 关于申请的流程，我看了一下之前几位写的，都已经非常详细了。我就不在写一遍了。我写一些我的一些申请经历吧。
 
 首先是选校，由于我申请了美国，所以也只清楚美国的情况了。那边一般很少会有单独的力学系。我们力学系的同学申请的基本都是对方的Mechanical Engineering（ME）。不过这也不局限。可以大胆的去申请Biomedical Engineering（BME）、Aerospace Engineering(AE)甚至Chemical Engineering(ChemE)之类的工程学科。因为对于读博士来说，最主要是看你的导师。比如做固体力学的可以申BME去做细胞、骨头之类的研究。做流体力学的不仅仅在ME、AE，很多做ChemE的老师也是做多相流的。
@@ -68,6 +69,7 @@ Rice这学校我想拉黑，居然5月份才给我发rej……当时虽然说是
 Duke机械系里做力学的老师人少，然后出结果也很晚。
 
 ## 结语
+
 申请是一个巨大的工程，也是一次好好总结过去三年大学生活以及思考今后的几年应该怎么样度过的机会。这个过程中肯定不是轻松的，甚至是困难的。但是等回过头来，你一定会觉得是云淡风轻。
-  
+
 有什么问题也欢迎发邮件问我，andyhezilong@gmail.com。祝各位前程似锦，收获自己女神校的offer！

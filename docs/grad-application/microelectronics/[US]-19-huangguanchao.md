@@ -10,7 +10,7 @@ department: sme
 # \[US\]-19-黄冠超 MS CSE @ ND
 
 > - 记住这个链接，快速访问我的飞跃手册：[feiyue.guanchao.pro](http://feiyue.guanchao.pro)
-> - 我在 [2023 年](/sme-sharing-2023.html){target="_self"}及 [2024 年](/sme-sharing-2024.html){target="_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
+> - 我在 [2023 年](/sme-sharing-2023.html){target="\_self"}及 [2024 年](/sme-sharing-2024.html){target="\_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
 > - 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)。
 
 > [!ATTENTION|label:Notre Dame Our Mother]
@@ -85,11 +85,11 @@ department: sme
 - TOEFL：112/120
   | Listening | Speaking | Reading | Writing |
   | :-------: | :------: | :-----: | :-----: |
-  |    30     |    26    |   28    |   28    |
+  | 30 | 26 | 28 | 28 |
 - GRE：324/340
   | Verbal | Quant | Analytical Writing |
   | :----: | :---: | :----------------: |
-  |  157   |  167  |        4.0         |
+  | 157 | 167 | 4.0 |
 - 交流经历：University of Notre Dame [学期交换](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10124)，GPA 3.833/4.000
 - 科研
   - University of Notre Dame CSE Department [暑研](https://cclnd.blogspot.com/2022/08/isure-project-visualizing-and-right.html)
@@ -97,11 +97,11 @@ department: sme
   - 无论文、专利等发表
 - 竞赛/奖学金：聊胜于无
 - 推荐信
-  |       Institution        |            Department            |            Title             |                              Name                              |     Relation      |
+  | Institution | Department | Title | Name | Relation |
   | :----------------------: | :------------------------------: | :--------------------------: | :------------------------------------------------------------: | :---------------: |
-  |       南方科技大学       |          深港微电子学院          |          产学研教授          |         [陈凯](https://faculty.sustech.edu.cn/chenk6/)         |     学术导师      |
-  | University of Notre Dame | Computer Science and Engineering | Ted H. McCourtney Professor  | [Peter Kogge](https://engineering.nd.edu/faculty/peter-kogge/) | Course Instructor |
-  |            "             |                "                 | Associate Teaching Professor |            [Peter Bui](https://www3.nd.edu/~pbui/)             |         "         |
+  | 南方科技大学 | 深港微电子学院 | 产学研教授 | [陈凯](https://faculty.sustech.edu.cn/chenk6/) | 学术导师 |
+  | University of Notre Dame | Computer Science and Engineering | Ted H. McCourtney Professor | [Peter Kogge](https://engineering.nd.edu/faculty/peter-kogge/) | Course Instructor |
+  | " | " | Associate Teaching Professor | [Peter Bui](https://www3.nd.edu/~pbui/) | " |
 
 - 证书：二十余个网课证书，详见[我的 LinkedIn](https://www.linkedin.com/in/sghuang19/)
 
@@ -126,9 +126,9 @@ department: sme
 |      Georgia Institute of Technology       | MS ECE              |      "       | Apr. 15 |
 |     University of Wisconsin-Madison\*      | MS CS               |      "       | Feb. 14 |
 |                     "                      | MS ECE Research     |      "       | Apr. 03 |
-|                     "                      | MS ECE Professional |  *Admitted*  | Feb. 17 |
+|                     "                      | MS ECE Professional |  _Admitted_  | Feb. 17 |
 |       University of Texas at Austin        | MS ECE              | ~~Rejected~~ | Apr. 28 |
-|        University of Notre Dame\*\*        | MS CSE              |  *Admitted*  | Feb. 09 |
+|        University of Notre Dame\*\*        | MS CSE              |  _Admitted_  | Feb. 09 |
 
 总计7所学校，9个项目；目前录取2所，被拒5所。
 
@@ -156,7 +156,7 @@ department: sme
 ### 工具
 
 > [!WARNING|label:善假于物]
-> Our mind is for **having** ideas, not for **holding** them. -- David Allen, *Getting Things Done*
+> Our mind is for **having** ideas, not for **holding** them. -- David Allen, _Getting Things Done_
 
 申请工作并不艰难，只是较为繁琐。我主要使用了两个工具来辅助这一过程：[Notion](https://notion.so) 与 [TickTick](https://ticktick.com)（即[滴答清单](https://dida365.com)）。
 
@@ -171,7 +171,7 @@ department: sme
 ### 文书
 
 > [!TIP|label:文章憎命达]
-> What is my Job on the planet with a capital J? -- Jon Kabat-Zinn, *Wherever You Go, There You Are*
+> What is my Job on the planet with a capital J? -- Jon Kabat-Zinn, _Wherever You Go, There You Are_
 >
 > 我相信写出好的 Statement of Purpose 的最佳方法，就是不断地自我探寻、丰富、打磨自己的 Purpose。我们永远无法写出未曾经历和反思过的文字——当然，你可以选择让中介代笔，但这不是我的选项。
 
@@ -223,7 +223,7 @@ department: sme
   - 搜集信息时上 [Google](https://google.com)，用英文
   - 多逛一逛 [Reddit](https://reddit.com)、[Quora](https://quora.com) 等英文社区
 - 写
-  - Peter Kogge 教授推荐给我的 [*The Elements of Style*](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)，类似的写作方面的书籍还有很多
+  - Peter Kogge 教授推荐给我的 [_The Elements of Style_](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)，类似的写作方面的书籍还有很多
   - University of Wisonsin-Madison 的 [Writer's Handbook](https://writing.wisc.edu/handbook/)
 - 词汇及其他
   - 拓展词汇量：[Word Power Made Easy](https://www.amazon.com/Word-Power-Made-Easy-Vocabulary/dp/110187385X/)
@@ -274,7 +274,7 @@ department: sme
 
 - 我校[系统设计与智能制造学院的吴迪教授](https://www.sustech.edu.cn/zh/faculties/wudi.html)在「大数据」课程上说过的一段话曾在不止一个瞬间给我带来启发：「薪水再高也不足以改变你的人生，真正重要的是你和什么样的人一起工作」。我相信 ND 能提供与更优秀的师生更紧密的交流机会，这并非是上课坐最后一排，下课和中国学生扎堆的同学们可以理解的，但却是我能加以利用，甚至赖以成长的养分。
 - [Ruth Chang 在 TED 所做的演讲](https://www.youtube.com/watch?v=8GQZuzIdeQQ)为我的选择提供了哲学的基石。Ruth 先用一个思维实验证明，困难选择，难就难在没有任何一个选项是本质上更好的，这无关收集到的信息是否完备，是否进行了充分的考虑。在这基础上，拥有自由意志的我们不应沦为理由的奴隶，而应做出真正符合自己人格的选择，那些理由自然会纷至沓来。
-- 走出塘朗站时偶然回忆起的 [Frank Sinatra 的经典歌曲 *My Way*](https://www.youtube.com/watch?v=qQzdAsjWGPg) 恐怕是促使我做出这个决断的最后一根稻草。比活着更令人兴奋的，是以**自己的方式**活着。
+- 走出塘朗站时偶然回忆起的 [Frank Sinatra 的经典歌曲 _My Way_](https://www.youtube.com/watch?v=qQzdAsjWGPg) 恐怕是促使我做出这个决断的最后一根稻草。比活着更令人兴奋的，是以**自己的方式**活着。
 
   > For what is a man, what has he got? <br>
   > If not himself, them he has naught. <br>
