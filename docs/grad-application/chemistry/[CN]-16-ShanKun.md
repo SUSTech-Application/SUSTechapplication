@@ -4,6 +4,7 @@ year: 16
 date: 2021-08-03
 type: grad
 region: CN
+department: chem
 ---
 
 # [考研指南] 16 - 化学 - 单坤 化学学硕 @SUSTech

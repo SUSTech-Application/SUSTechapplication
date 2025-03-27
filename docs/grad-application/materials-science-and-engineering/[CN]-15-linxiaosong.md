@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: CN
+department: mse
 ---
 
 # \[CN\]-15-林小淞 考研 @ 南科大

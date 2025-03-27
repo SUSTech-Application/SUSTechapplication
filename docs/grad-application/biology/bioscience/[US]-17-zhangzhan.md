@@ -4,6 +4,7 @@ year: 17
 date: 2021-08-16
 type: grad
 region: US
+department: bio
 ---
 
 # \[US\]17-张展-UPenn-Bioengineering Ph.D.

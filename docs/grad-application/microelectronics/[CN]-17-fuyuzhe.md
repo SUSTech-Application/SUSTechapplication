@@ -4,6 +4,7 @@ year: 17
 date: 2023-02-19
 type: grad
 region: CN
+department: sme
 ---
 
 # \[CN\]-17-付宇哲-保研-@北大深信工

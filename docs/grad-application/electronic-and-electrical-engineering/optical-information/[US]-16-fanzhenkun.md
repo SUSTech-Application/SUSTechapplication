@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-01
 type: grad
 region: US
+department: eee
 ---
 
 # [US]-16-范镇鲲 MS in ECE @ 待定

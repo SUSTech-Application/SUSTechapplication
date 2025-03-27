@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: CN
+department: math
 ---
 
 # \[CN\]-15-吴一凡 考研 @ 南科大

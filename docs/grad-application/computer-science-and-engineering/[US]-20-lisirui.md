@@ -4,6 +4,7 @@ year: 20
 date: 2025-03-16
 type: grad
 region: US
+department: cse
 ---
 
 # 后疫情时代北美升学 Guidebook \[大量干货、]

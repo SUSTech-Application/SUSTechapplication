@@ -4,6 +4,7 @@ year: 15
 date: 2020-04-09
 type: grad
 region: US
+department: mse
 ---
 
 # [US]-15-赵李明 PhD in Mechanical Engineering @ Cornell （含PhD申请心得及华为面试心得）

@@ -4,6 +4,7 @@ year: 16
 date: 2022-06-29
 type: grad
 region: GER
+department: bio
 ---
 
 # \[GER]16-蔡逸扬-PhD @ Medizinische Hochschule Hannover-Infection biology/DEWIN PhD program

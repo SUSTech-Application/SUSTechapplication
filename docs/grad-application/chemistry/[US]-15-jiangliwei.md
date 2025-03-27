@@ -4,6 +4,7 @@ year: 15
 date: 2020-05-24
 type: grad
 region: US
+department: chem
 ---
 
 # [US]-15-姜力维 MS in Pubic Policy

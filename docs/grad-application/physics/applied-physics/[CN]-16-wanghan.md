@@ -4,6 +4,7 @@ year: 16
 date: 2020-06-23
 type: grad
 region: CN
+department: phy
 ---
 
 # [CN]-16-王晗 考研 @ 南方科技大学

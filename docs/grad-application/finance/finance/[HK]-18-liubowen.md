@@ -4,6 +4,7 @@ year: 18
 date: 2022-06-21
 type: grad
 region: HK
+department: business
 ---
 
 # [HK]-18级-刘博文 金融学专业硕士 @ 香港中文大学

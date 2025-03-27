@@ -4,6 +4,7 @@ year: 16
 date: 2020-03-26
 type: grad
 region: CN
+department: mae
 ---
 
 # [CN]-16-程嘉琪 MS @ 中国科学技术大学

@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: US
+department: cse
 ---
 
 # \[US\]-15-谢丹宁 PhD in Computer Science @ Purdue

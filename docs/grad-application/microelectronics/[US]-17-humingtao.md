@@ -4,6 +4,7 @@ year: 17
 date: 2023-02-19
 type: grad
 region: US
+department: sme
 ---
 
 # [US]-17-胡明涛-ECE-MS @ 密歇根安娜堡

@@ -4,6 +4,7 @@ year: 16
 date: 2020-04-16
 type: grad
 region: KSA
+department: bio
 ---
 
 # \[KSA\]-16-周觉晓 PhD in Computer Science @ KAUST

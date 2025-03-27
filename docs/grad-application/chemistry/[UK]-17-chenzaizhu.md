@@ -4,6 +4,7 @@ year: 17
 date: 2021-07-05
 type: grad
 region: UK
+department: chem
 ---
 
 # 理科转工科跨大类申请帝国理工硕士

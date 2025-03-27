@@ -4,6 +4,7 @@ year: 19
 date: 2023-06-30
 type: grad
 region: US
+department: math
 ---
 
 # \[US\]19-江南飞-UCSB-PhD

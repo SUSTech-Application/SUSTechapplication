@@ -4,6 +4,7 @@ year: 17
 date: 2022-07-14
 type: grad
 region: US
+department: mae
 ---
 
 # [US] 17-刘亚卓 PhD @ Georgia Institute of Technology-Mechanical Engineering

@@ -4,6 +4,7 @@ year: 19
 date: 2023-06-30
 type: grad
 region: US
+department: cse
 ---
 
 # [US]19-杨文汉夫 MSCS@NEU

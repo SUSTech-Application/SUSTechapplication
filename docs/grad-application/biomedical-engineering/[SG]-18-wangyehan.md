@@ -4,6 +4,7 @@ year: 18
 date: 2022-06-10
 type: grad
 region: SG
+department: bme
 ---
 
 # \[SG\]-18-王叶晗 Biotechnology MSc @ NUS

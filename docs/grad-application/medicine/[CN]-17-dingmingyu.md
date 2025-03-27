@@ -4,6 +4,7 @@ year: 17
 date: 2021-05-09
 type: grad
 region: CN
+department: med
 ---
 
 # [CN]-17-丁明语 PhD @ 清华大学

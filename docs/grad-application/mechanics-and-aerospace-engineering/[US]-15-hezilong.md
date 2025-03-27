@@ -4,6 +4,7 @@ year: 15
 date: 2020-03-26
 type: grad
 region: US
+department: mae
 ---
 
 # \[US\]15-贺子龙 Mechanical Engineering @ UMN

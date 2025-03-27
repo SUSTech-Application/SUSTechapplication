@@ -4,6 +4,7 @@ year: 17
 date: 2021-06-21
 type: grad
 region: CN
+department: mse
 ---
 
 # [CN]-17-白浩宇-硕士 @北京大学工学院 

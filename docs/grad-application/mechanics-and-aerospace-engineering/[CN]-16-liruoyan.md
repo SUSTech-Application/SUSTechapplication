@@ -4,6 +4,7 @@ year: 16
 date: 2020-03-26
 type: grad
 region: CN
+department: mae
 ---
 
 # [CN]-16-李若颜 PhD @ HKUST

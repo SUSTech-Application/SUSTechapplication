@@ -4,6 +4,7 @@ year: 16
 date: 2020-03-26
 type: grad
 region: CN
+department: cse
 ---
 
 # [CN]-16-伍凯铭-安卓开发工程师-华为

@@ -4,6 +4,7 @@ year: 18
 date: 2022-05-10
 type: grad
 region: HK
+department: bme
 ---
 
 # [HK]18-王澍辰 @ HKUST - Bioengineering PhD
