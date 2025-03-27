@@ -6,10 +6,6 @@
     "target": "ESNext",
     "strict": true
   },
-  "include": [
-    ".vitepress/**/*.ts",
-    ".vitepress/**/*.vue",
-    "**/*.ts",
-    "**/*.vue"
-  ]
+  "include": [".vitepress/**/*.ts", "**/*.ts", "**/*.vue"],
+  "exclude": [".vitepress/cache/**/*"]
 }
