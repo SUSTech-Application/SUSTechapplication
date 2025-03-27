@@ -1,6 +1,8 @@
 import { readFileSync } from "fs";
 import { parse } from "yaml";
 
+// TODO: we should probably move to a better runtime typing tool, maybe Zod?
+
 type Keys = "type" | "degree" | "region" | "department" | "university";
 type Metadata = Record<Keys, Record<string, string>>;
 
