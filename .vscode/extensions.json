@@ -1,8 +1,17 @@
 {
   "recommendations": [
+    "antfu.vite",
     "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
     "esbenp.prettier-vscode",
+    "GitHub.vscode-pull-request-github",
+    "redhat.vscode-yaml",
+    "SharzyL.cjk-word-handler",
     "streetsidesoftware.code-spell-checker",
+    "vitest.explorer",
+    "Vue.volar",
+    "xlthu.Pangu-Markdown",
     "yzhang.markdown-all-in-one"
   ]
 }
