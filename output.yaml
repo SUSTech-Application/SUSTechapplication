@@ -11,7 +11,7 @@ grad-application:
   申请Tips: 申请Tips
   information-systems-and-management-engineering:
     big-data-management-and-applications:
-      "[US]-18-lizhichen": lizhc18
+      "[US]-18-lizhichen": lizc18
   environmental-science-and-engineering:
     hydrology-and-water-resources-engineerin:
       "[US]-15-yaoyao": yaoy15
@@ -24,7 +24,7 @@ grad-application:
     "[CN]-17-liuwenwen": liuww17
   sdim:
     engineering-focus:
-      "[US]-19-yunzhongxiao": yunzhx19
+      "[US]-19-yunzhongxiao": yunzx19
     design-focus:
       "[CN]-19-yutongge": yutg19
   chemistry:
@@ -44,133 +44,133 @@ grad-application:
   math:
     statistics:
       "[US]-14-wanglida": wangl14
-      "[HK]-16-laidaoyuan": laid16
+      "[HK]-16-laidaoyuan": laidy16
       "[CN]-16-tangye": tangy16
       "[CN]-15-mayue": may15
       "[US]-20-yua": yua20
     financial-mathematics:
-      "[US]-16-yangzhiyao": yangz16
+      "[US]-16-yangzhiyao": yangzy16
     applied-mathematics:
       "[DNK]-16-linruijun": linrj16
-      "[US]-16-zhaoxiangyu": zhaox16
+      "[US]-16-zhaoxiangyu": zhaoxy16
       "[US]-16-xuyuancheng": xuyc16
-      "[US]-19-jiangnanfei": jiang19
+      "[US]-19-jiangnanfei": jiangnf19
       "[CN]-15-wuyifan": wuyf15
       "[UK]-16-mayiming": maym16
-      "[US]-16-dongzeyu": dongz16
+      "[US]-16-dongzeyu": dongzy16
     basic-mathematics:
       "[US]-19-liuyuhan": liuyh19
   electronic-and-electrical-engineering:
     microelectronic-engineering:
       "[US]-16-huanghao": huangh16
       "[CN]-16-liweizeng": liwz16
-      "[SG_JP]-15-guoxinge": guox15
-      "[CN]-16-guanyujiang": guany16
-      "[US]-15-yuanjindong": yuanj15
+      "[SG_JP]-15-guoxinge": guoxg15
+      "[CN]-16-guanyujiang": guanyj16
+      "[US]-15-yuanjindong": yuanjd15
     communication-engineering:
       "[CN]-16-mahao": mah16
       "[US]-19-zhangce": zhangc19
-      "[US]-15-zhongwenzhao": zhongw15
+      "[US]-15-zhongwenzhao": zhongwz15
     optical-information:
-      "[US]-16-fanzhenkun": fanz16
+      "[US]-16-fanzhenkun": fanzk16
   biomedical-engineering:
     "[HK]-18-wangshuchen": wangsc18
-    "[SG]-18-wangyehan": wangy18
+    "[SG]-18-wangyehan": wangyh18
     "[SG]-17-gaoxu": gaox17
     "[SG]-17-sunrui": sunr17
     "[US]-16-liruxuan": lirx16
     "[US]-16-yeyuming": yeym16
-    "[US]-16-dengyuqing-1": "116"
-    "[US]-15-suichangxiang": suich15
-    "[US]-16-liangguangru": liang16
+    "[US]-16-dengyuqing-1": "dyq16"
+    "[US]-15-suichangxiang": suicx15
+    "[US]-16-liangguangru": liangr16
     "[US]-16-hewenqi": hewq16
-    "[US]-16-dengyuqing": dengy16
+    "[US]-16-dengyuqing": dengyq16
   medicine:
     "[SG]-16-sunyuze": sunyz16
-    "[SE]-16-mengliuzhen": mengl16
-    "[CN]-17-dingmingyu": dingm17
+    "[SE]-16-mengliuzhen": menglz16
+    "[CN]-17-dingmingyu": dingmy17
   computer-science-and-engineering:
-    "[US]-16-zhangzhaoxu": zhangz16
-    "[CN]-18-anonymous": anonym18
-    "[US]-15-fangyidong": fangy15
-    "[US]-21-zhousicheng": zhous21
+    "[US]-16-zhangzhaoxu": zhangzx16
+    "[CN]-18-anonymous": anonymous18
+    "[US]-15-fangyidong": fangyd15
+    "[US]-21-zhousicheng": zhousc21
     "[CN]-15-liziqiang": lizq15
-    "[US]-21-zhongzhiyuan": zhong21
+    "[US]-21-zhongzhiyuan": zhongzy21
     "[CN]-16-wukaiming": wukm16
-    "[CN]-15-zhengyilin": zhengy15
-    "[US]-20-lisirui": lis20
-    "[US]-16-wangyutong": wangy16
+    "[CN]-15-zhengyilin": zhengyl15
+    "[US]-20-lisirui": lisr20
+    "[US]-16-wangyutong": wangyt16
     (ML)-20-linyuhang: linyh20
     "[CN]-16-wuyuanhang": wuyh16
-    "[US]-19-yangwenhanfu": yangw19
-    "[CN]-15-zhangsongtao": zhangs15
-    (APS)-20-zengxianqing: zengx20
-    "[CN]-17-luoyunsheng": luoy17
-    "[US]-15-xiedanning": xied15
-    "[US]-18-zhouaolei": zhoua18
-    "[US]-15-yanxiangyi": yanx15
-    "[US]-19-chenxingyu": chenx19
-    "[US]-17-luanwendi": luanw17
-    "[US]-16-chendeyuan": chend16
+    "[US]-19-yangwenhanfu": yangwhf19
+    "[CN]-15-zhangsongtao": zhangst15
+    (APS)-20-zengxianqing: zengxq20
+    "[CN]-17-luoyunsheng": luoysh17
+    "[US]-15-xiedanning": xiedn15
+    "[US]-18-zhouaolei": zhoual18
+    "[US]-15-yanxiangyi": yanxy15
+    "[US]-19-chenxingyu": chenxy19
+    "[US]-17-luanwendi": luanwd17
+    "[US]-16-chendeyuan": chendy16
     "[CN]-18-anoymous": {}
   mechanics-and-aerospace-engineering:
-    "[CN]-16-shanghengrui": shangh16
-    "[US]-15-hezilong": hez15
-    "[CN]-17-chenxuanwu": chenx17
-    "[US]-17-liuyazhuo": liuy17
-    "[CN]-16-qiyiming": qiy16
-    "[CN]-16-daiyuhang": daiy16
-    "[CN]-16-liruoyan": lir16
-    "[CN]-16-chengjiaqi": chengj16
+    "[CN]-16-shanghengrui": shanghr16
+    "[US]-15-hezilong": hezl15
+    "[CN]-17-chenxuanwu": chenxw17
+    "[US]-17-liuyazhuo": liuyz17
+    "[CN]-16-qiyiming": qiym16
+    "[CN]-16-daiyuhang": daiyh16
+    "[CN]-16-liruoyan": liry16
+    "[CN]-16-chengjiaqi": chengjq16
   finance:
     finance:
-      "[HK]-18-liubowen": liub18
-      "[CN]-15-wangyongrui": wangy15
-      "[CN]-17-guxinyi": gux17
-      "[CN]-18-xiaoyuqi": xiaoy18
+      "[HK]-18-liubowen": liub218
+      "[CN]-15-wangyongrui": wangyr15
+      "[CN]-17-guxinyi": guxy17
+      "[CN]-18-xiaoyuqi": xiaoyq18
       "[CN]-15-caiduo": caid15
-      "[US]-19-lihaoming": lih19
-      "[CN]-16-zhaoyanchu": zhaoy16
+      "[US]-19-lihaoming": lihm19
+      "[CN]-16-zhaoyanchu": zhaoyc16
     financial-engineering:
-      "[CN]-16-gongguoyu": gongg16
-      "[SG]-16-liyilin-1": "116"
-      "[CN]-16-jinghongyan": jingh16
+      "[CN]-16-gongguoyu": gonggy16
+      "[SG]-16-liyilin-1": "lyl16"
+      "[CN]-16-jinghongyan": jinghy16
       "[SG]-16-liyilin": liyl16
-      "[IT]-16-laimeizhi": laim16
-      "[CN]-18-wenjipeng": wenj18
-      "[CN]-17-dengzhuorui": deng17
-      "[CH]-16-wangdanyu": wangd16
-      "[FR]-17-zhuyeyun": zhuy17
-      "[US]-18-yuyunsong": yuy18
+      "[IT]-16-laimeizhi": laimz16
+      "[CN]-18-wenjipeng": wenjp18
+      "[CN]-17-dengzhuorui": dengzr17
+      "[CH]-16-wangdanyu": wangdy16
+      "[FR]-17-zhuyeyun": zhuyy17
+      "[US]-18-yuyunsong": yuys18
   physics:
     physics:
-      "[US]-20-fengxinyu": fengx20
-      "[JP]-17-zhengshuhan": zhengs17
-      "[CN]-19-shijingjing": shij19
-      "[US]-16-wangyuhuan": wangy16
-      "[CN]-15-zhouxinchi": zhousc15
-      "[US]-16-wangyifan": wangy16
-      "[CN]-19-wangjinghan": wangj19
+      "[US]-20-fengxinyu": fengxy20
+      "[JP]-17-zhengshuhan": zhengsh17
+      "[CN]-19-shijingjing": shijj19
+      "[US]-16-wangyuhuan": wangyh16
+      "[CN]-15-zhouxinchi": zhouxc15
+      "[US]-16-wangyifan": wangyf16
+      "[CN]-19-wangjinghan": wangjh19
     applied-physics:
       "[CN]-16-wanghan": wangh16
   mechanical-and-energy-engineering:
     "[NL]-17-liuyanjing": liuyj17
-    "[US]-16-zhengtianqi": zhengt16
-    "[NL]-17-dengranbao": dengr17
-    "[CH]-18-xiangyanzhen": xiangy18
+    "[US]-16-zhengtianqi": zhengtq16
+    "[NL]-17-dengranbao": dengrb17
+    "[CH]-18-xiangyanzhen": xiangyz18
   materials-science-and-engineering:
-    "[CN]-15-linxiaosong": linx15
+    "[CN]-15-linxiaosong": linxs15
     "[US]-16-zhongke": zhongk16
-    "[US]-15-zhaoliming": zhaol15
+    "[US]-15-zhaoliming": zhaolm15
     "[US]-17-aiqian": aiq17
     "[CN]-16-jiangcheng": jiangc16
-    "[CN]-17-baihaoyu": baih17
+    "[CN]-17-baihaoyu": baihy17
     "[CN]-16-chenyong": cheny16
     "[HK]-15-laihuang": laih15
-    "[US]-15-liuguoyuan": liug15
+    "[US]-15-liuguoyuan": liugy15
   biology:
     bioscience:
-      "[CN]-16-zhangyajie": zhangy16
+      "[CN]-16-zhangyajie": zhangyj16
       "[US]-17-wangchao": wangc17
       "[US]-17-zhangzhan": zhangz17
     biotechnology:
@@ -184,9 +184,9 @@ grad-application:
   13级-何思鸿-校友招生-CS PhD@UTA: hesh13
 oversea-program:
   summer-research:
-    importance_of_summer_research_in_CS_yanxiangyi: importance_of_summer_research_in_CS_yanxiangyi
-    columbia_environment_LDEO_wuxin: columbia_environment_LDEO_wuxin
-    columbia_environment_LDEO_liujingyu: columbia_environment_LDEO_liujingyu
+    importance_of_summer_research_in_CS_yanxiangyi: importance_of_summer_research_in_CS_yanxy
+    columbia_environment_LDEO_wuxin: columbia_environment_LDEO_wux
+    columbia_environment_LDEO_liujingyu: columbia_environment_LDEO_liujy
   summer-school:
     ucla_summer_session_recommendation: ucla_summer_session_recommendation
     ucsd_summer_session_guide: ucsd_summer_session_guide
