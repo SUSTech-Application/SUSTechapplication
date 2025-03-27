@@ -1,5 +1,5 @@
 ---
-title: '[US]-16-范镇鲲 MS in ECE @ 待定'
+title: "[US]-16-范镇鲲 MS in ECE @ 待定"
 year: 16
 date: 2020-04-01
 type: grad
@@ -24,8 +24,6 @@ department: eee
 ### 申请结果
 
 目前已有offer：Gatech, UPenn, U of Rochester, UCSD, UCI。都是MS。另截止4.1还有5所学校没有回信。我申的都是ECE或者EECS的master，这专业今年出结果很晚，大家之后申请需要注意一下规划。
-
- 
 
 ###ms/phd的选择
 

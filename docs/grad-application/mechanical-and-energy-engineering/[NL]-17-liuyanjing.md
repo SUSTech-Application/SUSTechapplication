@@ -17,18 +17,16 @@ department: mee
 
 ## 申请结果
 
-* **AD\(1\):**
-  * \[TU Delft\] Msc Mechanical Engineering（track: Biomechanical Design）
+- **AD\(1\):**
+  - \[TU Delft\] Msc Mechanical Engineering（track: Biomechanical Design）
 
 ## 申请经验
 
 其实我的申请季还没结束，只有代尔夫特一个学校出了结果，其他还在等待，但是这个ad收到的过程很曲折，就先写下来希望能来得及给同级以及学弟学妹们一些帮助吧。其他的内容等申请季结束了再补充。
 
-
->收到拒信怎么办
+> 收到拒信怎么办
 >
->———当然是去argue
-
+> ———当然是去argue
 
 首先先给一下timeline：
 
@@ -48,33 +46,30 @@ department: mee
 
 1.5 step3&4更新 收到ad
 
-
 delft提交申请后到收到结果会有四步，可以在网申系统里看到每一步的进度并根据进度猜测结果。比如我发现step3一天就过了，开始猜测应该是材料初审阶段因为硬性要求（课程设置、专业GPA）被拒，所以step3-4之间的时间我已经决定要写argue，但是只是胡乱猜测理由。有了心理准备之后收到rej其实还蛮平静的，甚至因为这个拒绝理由太容易argue有点开心（？）
 
 argue的步骤是：
-
 
 **1. 询问拒绝理由**
 
 delft的拒信模板是有要求写拒绝原因的，而且幸运的是我收到的拒绝理由比较具体而且是有比较大的余地可以argue的。有一些学校会用模板拒绝，比如我们收到了很多申请但名额有限之类，那就要发邮件询问更加具体的原因。
 
 > Dear Yanjing Liu,
-> 
+>
 > We regret to inform you that the Selection Committee has declined your application for admission to the MSc
-programme 2021-2023 in Master Mechanical Engineering at TU Delft.
-> 
+> programme 2021-2023 in Master Mechanical Engineering at TU Delft.
+>
 > Your application has been rejected for the following reason(s):
-> 
+>
 > - The Committee considers the course package of your BSc programme insufficient. Good chances of success in the
-ME-BMD programme depend on extensive experience with mechanical design projects at the BSc level. Your
-transcript contains too many general (engineering) knowledge courses, and too little mechanical design experience
-apart from your thesis project.
-> 
+>   ME-BMD programme depend on extensive experience with mechanical design projects at the BSc level. Your
+>   transcript contains too many general (engineering) knowledge courses, and too little mechanical design experience
+>   apart from your thesis project.
+>
 > TU Delft's admission requirements for MSc programmes can be found on our website.
-> 
+>
 > On behalf of the Executive Board, we thank you for your interest in our university and wish you the best of luck in
-your future endeavours.
-
+> your future endeavours.
 
 **2. 起草argue信**
 
@@ -96,14 +91,13 @@ argue信本质上是一个说服对方过程，也是非常个人化的，需要
 
 这里也放上我的argument letter的开头和结尾作为参考。
 
-
 > Dear Mr./Ms. ,
-> 
+>
 > I am writing this appeal to re-address my fitted candidacy for the MSc programme in Master Mechanical Engineering at TU Delft I applied. I felt a little stunned by your rejection saying that a lack of mechanical design projects in course package of my BSc programme leads to the result, as I was very confident about my BSc course structure, academic ability, and project experience. Thus, I am writing to hopefully receive your attention and reconsideration for admission decision made for the following reasons:
 >
 > ...
 >
-> All in all, I have well prepared for future study in ME-BMD programme at TU Delft. Please reconsider my application. Thanks for your time. 
+> All in all, I have well prepared for future study in ME-BMD programme at TU Delft. Please reconsider my application. Thanks for your time.
 
 **3.发送arguement letter**
 

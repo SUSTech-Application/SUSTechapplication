@@ -1,5 +1,5 @@
 ---
-title: '[US]-21-钟志源 CS PhD @ U of Utah'
+title: "[US]-21-钟志源 CS PhD @ U of Utah"
 year: 21
 date: 2025-02-24
 type: grad
@@ -42,18 +42,19 @@ department: cse
 **选校：**
 
 | School                    | USNews <br>(Grad CS) | CSRanking <br>(2019-2024) | USNews <br>(National) | Result    |
-| ------------------------- | ---------------- | --------------------- | ----------------- | --------- |
-| UC Santa Barbara          | 27               | 30                    | 39                | No reply  |
-| Ohio State University     | 27               | 40                    | 41                | No reply  |
-| University of Utah        | 42               | 29                    | 136               | **Offer** |
-| University of Connecticut | 77               | 62                    | 70                | No reply  |
-| University of Georgia     | 86               | 78                    | 46                | **Offer** |
+| ------------------------- | -------------------- | ------------------------- | --------------------- | --------- |
+| UC Santa Barbara          | 27                   | 30                        | 39                    | No reply  |
+| Ohio State University     | 27                   | 40                        | 41                    | No reply  |
+| University of Utah        | 42                   | 29                        | 136                   | **Offer** |
+| University of Connecticut | 77                   | 62                        | 70                    | No reply  |
+| University of Georgia     | 86                   | 78                        | 46                    | **Offer** |
 
 **最终去向：** PhD in Computer Science @ University of Utah
 
 截至2025.02.23的申请结果(均为CS PhD program)：
 
 - **Offer**:
+
   - **University of Georgia**: 申请前套磁+informal meeing，全英文，聊得很好，表示欢迎 & stay in touch (虽然申请后也没有connect) -> Offer
   - **University of Utah**: 申请前套磁+informal meeting，meeting后帮忙提供fee waiver，并表示“非常希望你加入我们lab” -> Offer
 
@@ -74,11 +75,13 @@ department: cse
 关于套磁这里我就不再赘述了，可以看王雨童和谢丹宁学姐的分享。个人心得：10-11月份开始套磁，过早套磁一般回复率很低，因为很多openings都还没确定。如果有精力，建议无脑海套，不要觉得自己的BG不够强就不去套磁，通过套磁观察professor的回复可以帮助你更好地**定位申请的梯度**(例如，**主申套磁回复率高的同等level的学校**)。
 
 套磁一般有以下几种情况：
+
 - **无回复**：可能是professor不招人，也可能是professor太忙，也可能是学校比较top淹没在了prof的pool里。如果是**top校/强com的彩票校**可以考虑申请，其余学校或许就可以放弃了(当然如果方向很match也可以试着申请，没有绝对的规律)。
 - **模版回复**：鼓励申请/mention my name in your application，可以视情况继续申请，有的老师喜欢申请截止后再从pool里挑人面试。
 - **约面试/informal meeting**：这种情况一般是professor对你的背景感兴趣，抓住机会在meeting中展示自己，meeting后一般会欢迎你申请，看prof的态度判断拿到offer的概率大不大。
 
 总结：
+
 > 除了部分top10的学校外，CS方向大部分学校都是强prof的，不套磁就不会有回复，套磁了至少有机会。
 
 ### 关于申请难度
@@ -86,12 +89,13 @@ department: cse
 随着LLM的热度增加，🇺🇸CS PhD申请难度更是日益上升。总体而言：
 
 > AI/ML/NLP/CV > 其他方向(System/Security/SE...) >= 泛CS专业(ECE/EE/Bioinformatics...)
-> 
+>
 > Top 30 热门组 > Top 30 普通组 >= Top 50 热门组 > Top 50 普通组 > Top 50-70
 
 仅以**AI方向，陆本，以xhs等post为参考**，**🇺🇸Top 50**的学校申请者BG基本为1篇及以上顶会一作(在投)+ 海外科研强推。**🇺🇸Top 30**的学校申请者BG基本为**2**篇及以上顶会一作(共一/在投)+ 🇺🇸的connection/推荐信。
 
 引用部分datapoints：
+
 - > 华五CS本，均分92，有国奖，ACM银。科研一段校内一段美国top10，推荐信本校课程+本校科研+美ap，pub一篇cvpr共一在投 -> offer from TAMU, UCSB
 - > 中外合办本，三封国内推荐信，NAACL共一+AAAI二作 -> offer from Rutgers
 - > 985本，GPA 3.5+/4, 🇺🇸暑研，ICML二作+Neurips二作+ICLR一作 -> offer from OSU, VT, Purdue
@@ -114,11 +118,13 @@ department: cse
 - **大组的Alumini:** 可以找到近年的新AP，例如，Huan Liu@ASU, Xia Hu@Rice, Xiangyu Zhang@Purdue, William Wang@UCSB等等
 
 汇集的信息：
+
 - [Brown CS Professors](https://drafty.cs.brown.edu/csprofessors): 统计了各年份new hire的faculty信息(部分)
 - [PhD Openings Google Spreadsheets](https://docs.google.com/spreadsheets/d/1vcEUT_5bXYFQgIzVKpsMQlYmV2xv15VtLXq2rvXZqRk/edit?gid=0#gid=0): 自发维护的Faculty招生openings，包括**当前Cycle明确要招PhD/Intern的professor**
 - [DuoOffer](https://duooffer.github.io/)：统计了一亩三分地上的招生帖子，但**时效性**需要自己去确认
 
 Social Media:
+
 - **小红书**：会有很多机构账号转发的招生贴，但质量参差不齐，需要自己筛选。但也会有prof本人xhs招生的信息。
 - **X:** 前twitter，很多美国professor会在上面发招生信息，尝试关注一些自己感兴趣的professor，相信推荐算法的力量
 
@@ -127,8 +133,9 @@ Social Media:
 由于签证原因，线下暑研机会越来越少，CS方向的applicant从有一段🇺🇸暑研，已经逐渐演变成有**一段长期(甚至多段)的remote intern experience**。
 
 通常的情况下：
+
 > 有本校/国内的科研经历or产出(**推荐信1**) -> 一段🇺🇸Top 50以上的学校的remote intern(**推荐信2**) OR 一段🇺🇸的交流/交换项目，争取线下的research intern -> (top applicant) 另一段🇺🇸的research experience(**推荐信3**)
-> 
+>
 > 理想情况下的3封推荐信：本校科研推 + 🇺🇸科研推 + 本校or🇺🇸课程推(当然，最好是科研推)
 
 关于paper，我认为是和research experience & 推荐信是强相关的。一个有顶会一作的applicant自然会有一段独立且完整的研究经历，这同时也会让advisor写推荐信时有更多细节和highlights。反过来，一段meaningful的research大概率也会产出一篇paper，即使仍然在投，advisor的推荐信也会有足够的内容去support你的这份工作。
@@ -176,6 +183,7 @@ TOFEL达到系里要求即可，一般是总分100，口语最好**23以上**。
 复盘申请季，5个meeting过的prof中，4个最后都给了我offer(最后一个没出结果)，但UCSB和OSU的老师申请后并没有给我发面试，有些遗憾。
 
 申请季的遗憾：
+
 - 没有🇺🇸的科研经历，没有一封🇺🇸的强推
 - 没有发表的paper
 - 申请方向没有🇺🇸的connection

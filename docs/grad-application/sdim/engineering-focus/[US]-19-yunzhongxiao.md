@@ -8,22 +8,20 @@ department: sdim
 ## 基本背景
 
 > 姓名: 肖云中
-> 
-> 
+>
 > 专业: 工业设计
-> 
+>
 > 学院：系统设计与智能制造学院
-> 
+>
 > 南科大GPA 3.68 / 4.0, UC Berkeley GPA 4.0/4.0
-> 
+>
 > TOEFL: 108 / 120 (28R + 29L + 23S + 28W);
-> 
+>
 > GRE: 319 没交GRE
-> 
+>
 > 海外经历：加州大学伯克利分校2022学年交流，UCB机械系URAP项目学年科研，EECS暑期科研
-> 
+>
 > 联系方式：邮箱 shawncloudy@gmail.com
-> 
 
 ## 申请结果
 
@@ -71,7 +69,7 @@ department: sdim
 1. PhD毕业并不能guarantee一个好的工作，很多top校毕业的PhD（我的学长）最后干的事情和自己的研究领域没有关联，觉得很可惜
 2. 我花了四年才找到自己真正感兴趣的领域HCI，而在此之前一直在探索
 
-**前辈C，Princeton, Reinforcement Learning Postdoc** 
+**前辈C，Princeton, Reinforcement Learning Postdoc**
 
 1. 不想要做一些码农的工作，想要找教职，在学术界做点东西出来
 2. 对科研很有热情，愿意risk时间成本
@@ -91,9 +89,11 @@ department: sdim
 4. 文书和院校的培养目的是否match也非常重要，表现出你的diversity会加分
 
 ## 海外学习
+
 海外学习经历对申请加分帮助很大，也是本科一段非常培养能力和拓展眼界的机会，南科大提供了大量的海外交流机会与支持。
 
 ### 海外科研的寻找
+
 伯克利提供了一个叫URAP的项目，本科生和BISP学生可以在入学时申请3个项目，经过SoP筛选，导师面试后加入到实验室课题中去。URAP录取率比较低，很看match程度，录取率大概<=20%，没录取也能有很多其他的方式加入到实验室中，比如直接陶瓷教授和PhD。我在Berkeley EECS的暑期科研是通过一门VR开发的课程学习找到的，课题lead是一位5th year PhD student，在课程期末展示后，他demo了自己的项目并且寻找有VR开发经验的同学加入课题。
 
 除了自己寻找海外科研，南科大很多教授也有海外的connection，可以找他们帮忙推荐。

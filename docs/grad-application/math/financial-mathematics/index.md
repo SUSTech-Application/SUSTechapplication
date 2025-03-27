@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-* [16级-杨志遥 The University of Maryland]([US]-16-yangzhiyao)
+- [16级-杨志遥 The University of Maryland]([US]-16-yangzhiyao)
 
 ##### 联培：
 

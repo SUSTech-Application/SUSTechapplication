@@ -1,5 +1,5 @@
 ---
-title: '[US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA'
+title: "[US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA"
 year: 16
 date: 2020-04-02
 type: grad
@@ -7,7 +7,7 @@ region: US
 department: mee
 ---
 
-# [US]-16-郑天棋 PhD in  Mechnical Engineering @ UCLA
+# [US]-16-郑天棋 PhD in Mechnical Engineering @ UCLA
 
 ### 基本信息
 
@@ -29,32 +29,28 @@ department: mee
 >
 > Email: [tianqizheng@ucla.edu](mailto:tianqizheng@ucla.edu)
 
- 
-
 一共申请了17所美国大学，目前为止获得的结果如下
 
-| 学校         | US News  ranking | Engineering Graduate School ranking | 项目    | 面试情况           | 结果               |
-| ------------ | ---------------- | ------------------------------------ | ------- | ------------------ | ------------------ |
-| MIT          | 3                | 1                                    | ME PHD  | 无                 | 拒绝               |
-| Stanford     | 3                | 2                                    | ME PHD  | 无                 | 拒绝               |
-| UC Berkeley  | 22               | 3                                    | ME PHD  | 无                 |                    |
-| UCLA         | 20               | 16                                   | ME PHD  | 12.20面(in person) | Offer              |
-| UPenn        | 6                | 18                                   | ME PHD  | 无                 |                    |
-| USC          | 22               | 10                                   | ISE PHD | 12.18面(in person) | Offer (fellowship) |
-| USC          | 22               | 10                                   | ME PHD  | 1.19面（skype）    | 拒绝               |
-| UCSD         | 37               | 9                                    | ME PHD  | 无                 |                    |
-| UCSB         | 34               | 27                                   | ME PHD  | 无                 | 拒绝               |
-| Purdue       | 57               | 7                                    | ME PHD  | 无                 |                    |
-| NEU          | 40               | 31                                   | ME PHD  | 无                 |                    |
-| Tufts        | 29               | 67                                   | ME PHD  | 无                 |                    |
-| UW           | 62               | 24                                   | ME PHD  | 无                 | Admission          |
-| UCI          | 36               | 36                                   | ME PHD  | 无                 |                    |
-| BU           | 40               | 36                                   | ME PHD  | 无                 | Offer (fellowship) |
-| UC Davis     | 39               | 33                                   | ME PHD  | 无                 | Admission          |
-| WPI          | 64               | 89                                   | ME PHD  | 1.10面(微信)       | Offer              |
-| UC Riverside | 91               | 80                                   | ME PHD  | 无                 |                    |
-
- 
+| 学校         | US News ranking | Engineering Graduate School ranking | 项目    | 面试情况           | 结果               |
+| ------------ | --------------- | ----------------------------------- | ------- | ------------------ | ------------------ |
+| MIT          | 3               | 1                                   | ME PHD  | 无                 | 拒绝               |
+| Stanford     | 3               | 2                                   | ME PHD  | 无                 | 拒绝               |
+| UC Berkeley  | 22              | 3                                   | ME PHD  | 无                 |                    |
+| UCLA         | 20              | 16                                  | ME PHD  | 12.20面(in person) | Offer              |
+| UPenn        | 6               | 18                                  | ME PHD  | 无                 |                    |
+| USC          | 22              | 10                                  | ISE PHD | 12.18面(in person) | Offer (fellowship) |
+| USC          | 22              | 10                                  | ME PHD  | 1.19面（skype）    | 拒绝               |
+| UCSD         | 37              | 9                                   | ME PHD  | 无                 |                    |
+| UCSB         | 34              | 27                                  | ME PHD  | 无                 | 拒绝               |
+| Purdue       | 57              | 7                                   | ME PHD  | 无                 |                    |
+| NEU          | 40              | 31                                  | ME PHD  | 无                 |                    |
+| Tufts        | 29              | 67                                  | ME PHD  | 无                 |                    |
+| UW           | 62              | 24                                  | ME PHD  | 无                 | Admission          |
+| UCI          | 36              | 36                                  | ME PHD  | 无                 |                    |
+| BU           | 40              | 36                                  | ME PHD  | 无                 | Offer (fellowship) |
+| UC Davis     | 39              | 33                                  | ME PHD  | 无                 | Admission          |
+| WPI          | 64              | 89                                  | ME PHD  | 1.10面(微信)       | Offer              |
+| UC Riverside | 91              | 80                                  | ME PHD  | 无                 |                    |
 
 Timetable
 
@@ -82,26 +78,23 @@ PS：再说一下中介的事，我没有找中介，个人意见如果是phd pr
 
 ![zhengtianqi_1](./images/zhengtianqi_1.png)
 
-
 第二段要写一点自我介绍，因为教授一般没有时间打开附件去看你的个人详细资料，所以写一段个人经历介绍，不用太长，然后就表达你的研究经历以及研究兴趣和他很match
 
-![zhengtianqi_2](./images/zhengtianqi_2.png) 
+![zhengtianqi_2](./images/zhengtianqi_2.png)
 
 关于这个套磁信，基本上先写一个模板，然后在研究方向上针对每个教授都改一下，如果有精力，可以多发几个教授，如果时间来不及，选自己最感兴趣的2-3个教授发邮件
-
- 
 
 ### 申请材料（SOP+CV+PS）（其中最重要的是SOP和CV）
 
 SOP：statement of purpose，一般要写1.为什么选择phd/master 2.为什么申请这个学校 3.个人经历 4.未来研究兴趣 5.将来想做什么。总体要求：be specific, don’t be general, don’t be vague.
 
-![zhengtianqi_3](./images/zhengtianqi_3.png) 
+![zhengtianqi_3](./images/zhengtianqi_3.png)
 
-![zhengtianqi_4](./images/zhengtianqi_4.png) 
+![zhengtianqi_4](./images/zhengtianqi_4.png)
 
-![zhengtianqi_5](./images/zhengtianqi_5.png) 
+![zhengtianqi_5](./images/zhengtianqi_5.png)
 
-![zhengtianqi_6](./images/zhengtianqi_6.png) 
+![zhengtianqi_6](./images/zhengtianqi_6.png)
 
 注1：那个主旨每个人都不同，之后的个人经历以及研究兴趣也要和主旨呼应吻合。
 
@@ -129,4 +122,4 @@ PS：有条件去美国交流学习或者summer research的同学一定要抓住
 
 我的导师白老师曾经说的一番话让我印象深刻：“有的时候机遇和平台要比个人努力更重要。”这也是我为什么对南科大非常感谢，也很幸运高考后选择了南科大来完成自己的本科学业（时常在想如果当时高考高了20分去了同济或者北航，大学生活肯定没有这么精彩）。南科大本身处于深圳市，是一个很好的平台并且充满机会来做项目，做科研，参加比赛，出国交流。其中让我印象最为深刻的就是大四来美国MIT进行一年的学习，真的学到了很多，也对我申请美国学校帮助很大。这也是为什么要去美国读书，我本人的观点是美国科研水平很高，平台很好，可以获得很多联系和机会，而且出国读书也可以帮助增长视野啥的。因此，怀着对南科大的感谢，希望我申请学校中获得的知识经验可以对南科大的同学们有所帮助。
 
- ![zhengtianqi_7](./images/zhengtianqi_7.png) 
+![zhengtianqi_7](./images/zhengtianqi_7.png)
