@@ -18,7 +18,7 @@ To be continued.
 
 ##### 保研：
 
-* [21级-高奕扬 北京大学]([CN]-21-gaoyiyang)
+- [21级-高奕扬 北京大学]([CN]-21-gaoyiyang)
 
 ##### 考研：
 
