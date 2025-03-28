@@ -9,6 +9,7 @@ department: sme
 
 # \[US\]-19-黄冠超 MS CSE @ ND
 
+<!-- prettier-ignore -->
 > - 记住这个链接，快速访问我的飞跃手册：[feiyue.guanchao.pro](http://feiyue.guanchao.pro)
 > - 我在 [2023 年](/sme-sharing-2023.html){target="\_self"}及 [2024 年](/sme-sharing-2024.html){target="\_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
 > - 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)。
