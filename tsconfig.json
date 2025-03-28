@@ -4,8 +4,7 @@
     "moduleResolution": "bundler",
     "noEmit": true,
     "strict": true,
-    "target": "ESNext",
-    "types": ["@modyfi/vite-plugin-yaml/modules"]
+    "target": "ESNext"
   },
   "exclude": ["cache", "dist"],
   "include": [".", "src/.vitepress/**/*"]
