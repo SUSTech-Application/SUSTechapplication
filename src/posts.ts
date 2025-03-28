@@ -24,4 +24,5 @@ const posts = paths.map((path) => new Post(path));
 // TODO: add type validation for metadata
 // TODO: after type validation, unwrap the metadata to simplify accessing
 
+/** All posts */
 export default posts;
