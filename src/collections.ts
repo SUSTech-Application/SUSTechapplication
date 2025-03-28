@@ -1,19 +1,10 @@
 import allPosts from "./posts";
 
-// create different collections
+export const collections = Object.groupBy(allPosts, (post) => {
+  if (post.path.startsWith("blog/")) return "blogs";
+  if (post.path.startsWith("docs/")) return "docs";
+  if (post.metadata.type === "page") return "pages";
+  return "posts";
+});
 
-/** Collection of technical blogs */
-export const blogs = allPosts.filter((post) => post.path.startsWith("blog/"));
-
-/** Collection of documentations */
-export const docs = allPosts.filter((post) => post.path.startsWith("docs/"));
-
-/** Collection of pages */
-export const pages = allPosts.filter((post) => post.metadata.type === "page");
-
-/** Collection of regular posts */
-export const posts = allPosts.filter(
-  (post) => ![...blogs, ...docs, ...pages].includes(post), // anything that's left
-);
-
-console.log(posts);
+export const { blogs, docs, pages, posts } = collections;
