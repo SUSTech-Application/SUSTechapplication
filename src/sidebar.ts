@@ -4,12 +4,16 @@ import { type DefaultTheme } from "vitepress";
 
 import { posts } from "./collections";
 import { metadata } from "./metadata";
+import { type Post } from "./posts";
 
-const postsByType = Object.groupBy(posts, (post) => post.metadata.type);
+const postsByType = Object.groupBy(
+  posts,
+  (post) => post.metadata.type as string, // TODO: type metadata
+) as Record<string, Post[]>;
 
 const gradPostsByDept = Object.groupBy(
   postsByType.grad,
-  (post) => post.metadata.department,
+  (post) => post.metadata.department as string,
 );
 
 const gradSchool: DefaultTheme.SidebarItem = {
@@ -21,7 +25,7 @@ const gradSchool: DefaultTheme.SidebarItem = {
         collapsed: true,
         text: metadata.department[dept] ?? "No Department",
         items: list?.map((post) => ({
-          text: post.metadata.title,
+          text: post.metadata.title as string,
           link: post.url,
         })),
       })),
