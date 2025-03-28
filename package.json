@@ -26,7 +26,7 @@
     "@types/ajv": "^1.0.4",
     "@types/node": "^22.13.13",
     "ajv": "^8.17.1",
-    "cspell": "^8.17.5",
+    "cspell": "^8.18.0",
     "eslint": "^9.21.0",
     "eslint-plugin-vue": "^10.0.0",
     "jiti": "^2.4.2",

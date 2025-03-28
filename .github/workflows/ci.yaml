@@ -19,11 +19,19 @@ jobs:
       - name: Install dependencies
         run: bun install
 
-      - name: Lint - ESLint
+      - name: Vitest
+        run: bun run test
+
+      - name: ESLint
         run: bun run lint:es
+
+      # TODO: markdown lint
+      # - name: MarkdownLint
+      #   run: bun run lint:md
+
+      # TODO: Spell check
+      # - name: cSpell
+      #   run: bun run spellcheck
 
       - name: Format - Prettier
         run: bun run format
-
-      # TODO: markdown lint
-      # TODO: Spell check
