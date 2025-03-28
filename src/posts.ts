@@ -2,20 +2,20 @@ import fg from "fast-glob";
 
 import { getFrontmatter } from "./utils";
 
-class Post {
+export class Post {
   path: string;
-  metadata: any;
   url: string;
+  metadata: Record<string, unknown>;
 
+  /** path is relative to VitePress srcDir, i.e. `docs/` */
   constructor(path: string) {
     this.path = path;
-    this.url = path.replace(/\.md$/, "");
+    this.url = path.replace(/index\.md$/, "").replace(/\.md$/, "");
     this.metadata = getFrontmatter(`docs/${path}`);
   }
 }
 
 const paths = await fg(["**/*.md"], { cwd: "docs" });
-const post = new Post(paths[0]);
-console.log(new Post(paths[0]));
+const posts = paths.map((path) => new Post(path));
 
-export default post;
+export default posts;
