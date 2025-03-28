@@ -2,9 +2,9 @@
   "name": "sustechapplication",
   "type": "module",
   "scripts": {
-    "build": "./scripts/bracket-routes-fix.sh && vitepress build",
-    "clean": "rm -rf .vitepress/dist/ .vitepress/cache && find . -name \"*.paths.js\" -delete",
-    "dev": "vitepress dev",
+    "build": "./scripts/bracket-routes-fix.sh && vitepress build src",
+    "clean": "rm -rf dist cache && find docs -name \"*.paths.js\" -delete",
+    "dev": "vitepress dev src",
     "format": "prettier -c .",
     "format:fix": "prettier -w .",
     "lint": "bun run lint:es && bun run lint:md",
@@ -12,7 +12,7 @@
     "lint:es:fix": "eslint --fix",
     "lint:md": "markdownlint-cli2 \"**.md\"",
     "lint:md:fix": "bun run lint -- --fix",
-    "preview": "vitepress preview",
+    "preview": "vitepress preview src",
     "sort": "bunx sort-package-json",
     "spellcheck": "cspell .",
     "test": "vitest"
