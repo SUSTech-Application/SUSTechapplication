@@ -1,5 +1,6 @@
-import Ajv from "ajv/dist/2020";
 import { expect, test } from "vitest";
+
+import Ajv from "ajv/dist/2020";
 
 import schema from "../src/schema";
 
