@@ -4,6 +4,7 @@ plugins:
 importOrder:
   - "node"
   - "^vue"
+  - "^vite"
   - "^vitepress"
   - "^[^.]"
   - "^[./]"
