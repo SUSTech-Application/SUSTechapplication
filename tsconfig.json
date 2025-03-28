@@ -3,9 +3,9 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "noEmit": true,
-    "target": "ESNext",
-    "strict": true
+    "strict": true,
+    "target": "ESNext"
   },
-  "include": [".vitepress/**/*.ts", "**/*.ts", "**/*.vue"],
-  "exclude": [".vitepress/cache/**/*"]
+  "exclude": ["cache", "dist"],
+  "include": [".", "src/.vitepress/**/*"]
 }
