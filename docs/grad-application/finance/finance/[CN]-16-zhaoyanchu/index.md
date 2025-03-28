@@ -3,6 +3,8 @@ title: "[CN]-16-赵言楚 保研 金融 @ 清华大学"
 year: 16
 date: 2020-04-19
 type: grad
+region: CN
+department: business
 ---
 
 # [CN]-16-赵言楚 保研 金融 @ 清华大学

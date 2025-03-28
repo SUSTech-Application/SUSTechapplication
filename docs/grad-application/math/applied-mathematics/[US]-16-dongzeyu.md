@@ -3,6 +3,8 @@ title: \[US\]16-董泽宇-Stony Brook University-Applied Mathematics and Statist
 year: 16
 date: 2020-05-14
 type: grad
+region: US
+department: math
 ---
 
 # \[US\]16-董泽宇-Stony Brook University-Applied Mathematics and Statistics Program
@@ -22,9 +24,7 @@ type: grad
 > 推荐信三封:
 >
 > - SUSTech 导师, Associate Professor, Numerical Analysis 方向
->
 > - SUSTech 课程老师, Professor, Dynamical System 方向
->
 > - University of Birmingham 项目导师, Associate Professor, (CS) Network Science 方向
 >
 > 科研经历: 两次科研项目经历，无发表的科研成果，无暑研
@@ -33,16 +33,16 @@ type: grad
 
 ## 申请情况
 
-| **学校** | **项目** | **录取情况**
-|-|-|-|
-| Cornell | Scientific Computing PhD | Reject
-| Brown | Applied Mathematics PhD | Reject
-| Columbia | Applied Mathematics PhD | 无奖MS
-| Minnesota | Applied Mathematics PhD | Reject
-| North Carolina | Mathematics PhD | Reject
-| Stonybrook | Applied Mathematics PhD | 全奖PhD
-| Florida State | Scientific Computing PhD | 全奖PhD
-| Arizona State | Applied Mathematics PhD | Waiting (怕是把我忘了 (x
+| **学校**       | **项目**                 | **录取情况**             |
+| -------------- | ------------------------ | ------------------------ |
+| Cornell        | Scientific Computing PhD | Reject                   |
+| Brown          | Applied Mathematics PhD  | Reject                   |
+| Columbia       | Applied Mathematics PhD  | 无奖MS                   |
+| Minnesota      | Applied Mathematics PhD  | Reject                   |
+| North Carolina | Mathematics PhD          | Reject                   |
+| Stonybrook     | Applied Mathematics PhD  | 全奖PhD                  |
+| Florida State  | Scientific Computing PhD | 全奖PhD                  |
+| Arizona State  | Applied Mathematics PhD  | Waiting (怕是把我忘了 (x |
 
 最终去向：Stony Brook University \(Applied Mathematics and Statistics PhD Program\)
 
@@ -75,9 +75,11 @@ type: grad
 - 大二的暑假，计算机系的一名访问教师在南科大开了一门 Network Science ，研究复杂网络的课程。这门课本质上还是特别偏统计的，当时我凭着自己半瓶子醋的数学知识，和老师相聊甚欢。期末 project 中，除了完成特定的任务，我还顺便对几种算法进行了~~胡乱~~综合和拓展。
 
   课程结束以后，老师的博士生找到我，说他们对我的课程和 project 非常 impressive，想邀请我一起做 Network Embedding 的研究（这点自己还是蛮自豪的，很少有老师主动找学生做研究的，说明的确很 impressive）。之后在课题组里待了半年多，觉得比较偏代码和实验，数学的东西比较少。后来老师的研究点也变了，我就不再跟进这个项目了。但当时老师给我承诺，他非常乐意为我之后的申请写推荐信。
+
 - 选完导师以后，我便直接和导师沟通，说自己在计算机和数值方面比较感兴趣，如果有相关的研究问题可以让我尝试一下。大三下学期的时候，导师便给了我一个计系提的 TDoA 定位问题，我在期末考试结束以后花了几天时间做了一点研究，找到了算法失效的原因，并给出了一些简单的解决方案，整理了一个文档反馈给了导师。
-  
+
   导师感觉里面的想法还不错，之后便和计系实验室那边对接，在数学中心做了报告，也顺带解决了毕设问题。有这段科研经历，导师更加了解我的能力，也更容易写出 specific and impressive 的推荐信。
+
 - 第三封推荐信是位于申请计划之中的，我选择了大三的一门成绩不错课程，然后在大四当了这门课的 TA，一个月不到，便厚着脸皮开始要推荐信。本以为这种目的性极强的操作容易遭白眼，结果教授人非常 nice，不仅很认真地为我写了推荐信，还为我把关了申请文书（哎以小人之心度君子之腹了）。
 
 所以可以看出，推荐信和科研经历没有想象中那么困难。需要做的便是 be active，经常找老师探讨学术，参加讨论班，甚至直接索要问题。

@@ -20,9 +20,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest
+        uses: oven-sh/setup-bun@v2
 
       - name: Install dependencies
         run: bun install
@@ -50,13 +48,12 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: build-files
-          path: .vitepress/dist/
+          path: dist/
           retention-days: 90
-          overwrite: true
 
       - name: Diff artifacts
         run: |
-          rsync -ainc --delete .vitepress/dist/ prev/ | tee diff-list
+          rsync -ainc --delete dist/ prev/ | tee diff-list
 
       - name: Upload diff list
         uses: actions/upload-artifact@v4

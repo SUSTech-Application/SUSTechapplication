@@ -90,6 +90,10 @@ const experience: DefaultTheme.SidebarItem = {
   ],
 };
 
-const sidebar: DefaultTheme.Sidebar = [gradSchool, studyAbroad, experience];
+const sidebar: DefaultTheme.SidebarItem[] = [
+  gradSchool,
+  studyAbroad,
+  experience,
+];
 
 export default sidebar;

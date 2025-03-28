@@ -1,12 +1,16 @@
 import { defineConfig } from "vitepress";
 
+import { type PluginSimple } from "markdown-it";
+// @ts-expect-error this pkg has no types
 import taskLists from "markdown-it-task-lists";
 
 import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "./docs",
+  srcDir: "../docs",
+  outDir: "../dist",
+  cacheDir: "../cache",
   cleanUrls: true,
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
@@ -17,9 +21,16 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "最近更新", link: "/updates" },
       { text: "分享经验", link: "/contribute" },
+      { text: "参考文档", link: "/docs/path", activeMatch: "/docs/" },
       { text: "技术博客", link: "/blog" },
     ],
-    sidebar,
+    sidebar: {
+      "/docs": {
+        base: "/docs/",
+        items: [{ text: "路径格式", link: "path" }],
+      },
+      "/": { base: "/", items: sidebar }, // least precedence
+    },
     socialLinks: [
       {
         icon: "github",
@@ -46,7 +57,7 @@ export default defineConfig({
   ],
   markdown: {
     config: (md) => {
-      md.use(taskLists);
+      md.use(taskLists as PluginSimple);
     },
   },
 });

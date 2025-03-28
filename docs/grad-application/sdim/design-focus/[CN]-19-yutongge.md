@@ -1,8 +1,10 @@
 ---
-title: '[CN]-19-余彤歌-MS@清华大学与华盛顿大学-双学位硕士 / MIT-Master of Science in Mechanical Engineering (SM)'
+title: "[CN]-19-余彤歌-MS@清华大学与华盛顿大学-双学位硕士 / MIT-Master of Science in Mechanical Engineering (SM)"
 year: 19
 date: 2024-07-06
 type: grad
+region: CN
+department: sdim
 ---
 
 # [CN]-19-余彤歌-MS@清华大学与华盛顿大学-双学位硕士 / MIT-Master of Science in Mechanical Engineering (SM)
@@ -58,7 +60,6 @@ type: grad
 > **联系方式：**
 >
 > melodyyu6602@gmail.com
->
 
 ## 申请结果
 

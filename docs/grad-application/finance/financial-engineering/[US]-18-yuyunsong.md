@@ -1,35 +1,34 @@
 ---
-title: '[US]18-于云嵩- UChicago @ MACRM'
+title: "[US]18-于云嵩- UChicago @ MACRM"
 year: 18
 date: 2022-06-21
 type: grad
+region: US
+department: business
 ---
 
 # [US]18-于云嵩- UChicago @ MACRM
 
 ## 基本背景
 
-> * 姓名: 于云嵩
->
-> * 专业: 金融工程
->
-> * 三维: GPA 3.79/4 ;
->
-> * TOEFL: 108/120 (Speaking 25/30);
+> - 姓名: 于云嵩
+> - 专业: 金融工程
+> - 三维: GPA 3.79/4 ;
+> - TOEFL: 108/120 (Speaking 25/30);
 
 ## 申请结果
 
-* 最终去向：芝加哥大学-Harris MACRM
+- 最终去向：芝加哥大学-Harris MACRM
 
 ### 其他录取结果：
 
-* 圣路易斯华盛顿大学-MS Finance (Track: Quant Finance )
+- 圣路易斯华盛顿大学-MS Finance (Track: Quant Finance )
 
-* 香港大学-MEcon (Track: Theory Stream) + 40% scholarship
+- 香港大学-MEcon (Track: Theory Stream) + 40% scholarship
 
-* 约翰斯·霍普金斯大学 – M.A. in International Economics and Finance
+- 约翰斯·霍普金斯大学 – M.A. in International Economics and Finance
 
-* 杜克大学 – M.A. Economics
+- 杜克大学 – M.A. Economics
 
 ### 主要奖项：
 
@@ -61,23 +60,23 @@ type: grad
 
 ### Writing Sample：
 
-* 基于2020年芝大暑期研究课题的一作文章（已发表）
+- 基于2020年芝大暑期研究课题的一作文章（已发表）
 
 ### 实习经历：
 
-* 德勤管理咨询Analytics & Cognitive数字化转型项目
+- 德勤管理咨询Analytics & Cognitive数字化转型项目
 
-* 法国安盛集团
+- 法国安盛集团
 
 ### 社团活动经历：
 
-* 南方科技大学学生会宣传部（2018-2019）
+- 南方科技大学学生会宣传部（2018-2019）
 
-* 艺术中心键盘组（2018-2020）
+- 艺术中心键盘组（2018-2020）
 
-* 树仁书院学长团2130班大学长、国际生大学长（2021-2022）
+- 树仁书院学长团2130班大学长、国际生大学长（2021-2022）
 
-* 志愿深圳服务时长155小时
+- 志愿深圳服务时长155小时
 
 ## 申请心得
 
@@ -85,19 +84,19 @@ type: grad
 
 内容概览：
 
-* 专业选择
+- 专业选择
 
-* 升学路径选择
+- 升学路径选择
 
-* 学业成绩
+- 学业成绩
 
-* DIY/中介？
+- DIY/中介？
 
-* 项目选择
+- 项目选择
 
-* 录取项目介绍
+- 录取项目介绍
 
-* 写在最后
+- 写在最后
 
 **[专业选择]**
 

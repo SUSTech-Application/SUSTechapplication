@@ -1,8 +1,10 @@
 ---
-title: '[US]-16-陈德缘 M.S. in Software Engineering @ CMU'
+title: "[US]-16-陈德缘 M.S. in Software Engineering @ CMU"
 year: 16
 date: 2020-04-17
 type: grad
+region: US
+department: cse
 ---
 
 # [US]-16-陈德缘 M.S. in Software Engineering @ CMU
@@ -13,37 +15,36 @@ type: grad
 
 ## 基本背景
 
->GPA: 3.69/4  88/100
+> GPA: 3.69/4 88/100
 >
->TOEFL: 104 (Speaking 23)
+> TOEFL: 104 (Speaking 23)
 >
->GRE: V159 + Q170 + AW4.0
+> GRE: V159 + Q170 + AW4.0
 >
 > Illinois Institue of Technology 暑研课程 + 推荐信 （大三结束的暑假）
 >
->UC Berkeley 学期交流 （大四上）
+> UC Berkeley 学期交流 （大四上）
 >
->联系方式：sheepman314@gmail.com
+> 联系方式：sheepman314@gmail.com
 
 可以看到，我的GPA不算高，全系排名20%多。托福过线，GRE还算不错。IIT是伊利诺伊理工大学，CS专排一百左右，这个项目介绍说是暑研，其实更像是一个project-based course。我是大三结束的暑假去的，之后会详细介绍一下这个项目。IIT的项目结束之后，我前往伯克利进行的学期交流，那时候我是大四上，正是申请季，也就是说，**我一边进行学期交流，一边进行master的申请**。
 
 ## 申请结果
 
-
-| 学校        | USNews(CS) | csranking (Overall) | 项目名称                                                     | 录取结果 |
-| ----------- | ---------- | ------------------- | ------------------------------------------------------------ | -------- |
+| 学校        | USNews(CS) | csranking (Overall) | 项目名称                                                                           | 录取结果 |
+| ----------- | ---------- | ------------------- | ---------------------------------------------------------------------------------- | -------- |
 | CMU         | 1          | 1                   | [M.S. in Software Engineering](https://www.ece.cmu.edu/academics/ms-se/index.html) | AD       |
-| Rice        | 20         | 52                  | [Master of Computer Science](https://csweb.rice.edu/professional-master-mcs) | AD       |
-| UCI         | 30         | 24                  | [Master of Software Engineering](https://www.informatics.uci.edu/grad/mswe/) | AD       |
-| NYU Courant | 30         | 19                  | [MSCS](https://cs.nyu.edu/home/master/prospective_mscs.html) | AD       |
-| NEU         | 49         | 14                  | [MSCS](https://www.khoury.northeastern.edu/program/computer-science-ms/) | AD       |
-| CMU         | 1          | 1                   | [MSE-SS](https://mse.isri.cmu.edu/applicants/mse-ap/index.html) | REJ      |
-| Brown       | 25         | 41                  | [ScM CS](https://cs.brown.edu/degrees/masters/)              | REJ      |
-| NYU Tandon  | 30         | 19                  | [MSCS](https://engineering.nyu.edu/academics/programs/computer-science-ms) | REJ      |
-| UCSD        | 16         | 9                   | [MSCS](https://cse.ucsd.edu/graduate/degree-programs/ms-program) | REJ      |
+| Rice        | 20         | 52                  | [Master of Computer Science](https://csweb.rice.edu/professional-master-mcs)       | AD       |
+| UCI         | 30         | 24                  | [Master of Software Engineering](https://www.informatics.uci.edu/grad/mswe/)       | AD       |
+| NYU Courant | 30         | 19                  | [MSCS](https://cs.nyu.edu/home/master/prospective_mscs.html)                       | AD       |
+| NEU         | 49         | 14                  | [MSCS](https://www.khoury.northeastern.edu/program/computer-science-ms/)           | AD       |
+| CMU         | 1          | 1                   | [MSE-SS](https://mse.isri.cmu.edu/applicants/mse-ap/index.html)                    | REJ      |
+| Brown       | 25         | 41                  | [ScM CS](https://cs.brown.edu/degrees/masters/)                                    | REJ      |
+| NYU Tandon  | 30         | 19                  | [MSCS](https://engineering.nyu.edu/academics/programs/computer-science-ms)         | REJ      |
+| UCSD        | 16         | 9                   | [MSCS](https://cse.ucsd.edu/graduate/degree-programs/ms-program)                   | REJ      |
 
-* Pending: Columbia (MSCS), UT Austin(ECE-SE), USC(MSCS), NWU(MSCS), UCI(MCS)
-* 表格中NYU Tandon的排名借用的NYU的排名。NYU既有Courant本部，又有Tandon工学院。之前二者的CS专排是分开的，Tandon以前的排名是40~50，现在二者共用排名。
+- Pending: Columbia (MSCS), UT Austin(ECE-SE), USC(MSCS), NWU(MSCS), UCI(MCS)
+- 表格中NYU Tandon的排名借用的NYU的排名。NYU既有Courant本部，又有Tandon工学院。之前二者的CS专排是分开的，Tandon以前的排名是40~50，现在二者共用排名。
 
 ## 申请季之前的准备
 
@@ -169,4 +170,3 @@ type: grad
 谢谢一直支持我的爸爸妈妈。谢谢所有好朋友们。
 
 谢谢坚持下来的我自己。这条路上，我也有过怀疑，有过失落，有过迷茫，但幸好坚持了下来，迎来了美妙的结果。
-

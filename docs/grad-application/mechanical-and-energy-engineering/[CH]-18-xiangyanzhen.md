@@ -1,8 +1,10 @@
 ---
-title: '[CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich'
+title: "[CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich"
 year: 18
 date: 2022-11-17
 type: grad
+region: CH
+department: mee
 ---
 
 # [CH]18-向沿臻 MS in Robotics, Systems and Control @ ETH Zürich
@@ -26,75 +28,75 @@ type: grad
 > 联系方式：邮箱 xyz000327@gmail.com;
 >
 > 微信 Nel404
->
+
 ## 申请结果
+
 最终录取项目：苏黎世联邦理工学院（ETH Zürich）-机器人、系统与控制硕士（MS in Robotics, Systems and Control）
 
 所有申请/考虑过申请的项目：
 
 - **AD\(8\):**
 
-    - **[苏黎世联邦理工学院（ETH Zürich）-机器人、系统与控制硕士 (MS in Robotics, Systems and Control, a.k.a., MS in RSC）]:** Tier 1.0（这个Tier是我当时中介的非本专业人士评估出的，越低代表录取难度越大。仅供参考。）。第一志愿。ETH录取主要依据总绩点排名，一般给生源校的相关专业配额，按申请者排名录取，录满为止。无Waitlist。印象我申请ETH时接受托福拼分，所以总分未过线的同学也不妨试试。要求GRE但相对次要。更多信息可见：[苏黎世联邦理工学院 (ETH Zurich) 2022 硕士录取数据分享](https://zhuanlan.zhihu.com/p/502052767)，[苏黎世联邦理工学院 (ETH Zurich) 2021 硕士录取数据分享](https://zhuanlan.zhihu.com/p/362316579) 。ETH网申要求选Tutor，类似大家在南科大选生活导师。个人认为Tutor选择无关乎申请结果。申请项目同时可申ESOP奖学金，但对RSC项目的中国申请者成功概率很小。申ESOP需提早做额外准备。
-    
-    - **[苏黎世联邦理工学院（ETH Zürich）-机械工程硕士（MS in ME）]：** 机器人工程或相关背景专业的同学申RSC同时可以申ME和EEIT。
+  - **[苏黎世联邦理工学院（ETH Zürich）-机器人、系统与控制硕士 (MS in Robotics, Systems and Control, a.k.a., MS in RSC）]:** Tier 1.0（这个Tier是我当时中介的非本专业人士评估出的，越低代表录取难度越大。仅供参考。）。第一志愿。ETH录取主要依据总绩点排名，一般给生源校的相关专业配额，按申请者排名录取，录满为止。无Waitlist。印象我申请ETH时接受托福拼分，所以总分未过线的同学也不妨试试。要求GRE但相对次要。更多信息可见：[苏黎世联邦理工学院 (ETH Zurich) 2022 硕士录取数据分享](https://zhuanlan.zhihu.com/p/502052767)，[苏黎世联邦理工学院 (ETH Zurich) 2021 硕士录取数据分享](https://zhuanlan.zhihu.com/p/362316579) 。ETH网申要求选Tutor，类似大家在南科大选生活导师。个人认为Tutor选择无关乎申请结果。申请项目同时可申ESOP奖学金，但对RSC项目的中国申请者成功概率很小。申ESOP需提早做额外准备。
+  - **[苏黎世联邦理工学院（ETH Zürich）-机械工程硕士（MS in ME）]：** 机器人工程或相关背景专业的同学申RSC同时可以申ME和EEIT。
 
-    - **[代尔夫特理工大学 (TU Delft) -机器人学硕士 (MS in Robotics) ]：** Tier 2.0。TUD录取是Rolling制，早申请录取概率大。17级有学长以TUD硕士生身份申到了CSC中荷互换奖学金（见：[17级-邓然宝 Technische Universiteit Delft 申请总结](https://sustech-application.com/#/grad-application/mechanical-and-energy-engineering/[NL]-17-dengranbao)）。理论上任何地方留学都可以申CSC奖学金，除了美国拿CSC可能引起签证上的麻烦。我也见过拿CSC奖学金来ETH留学的同学。
+  - **[代尔夫特理工大学 (TU Delft) -机器人学硕士 (MS in Robotics) ]：** Tier 2.0。TUD录取是Rolling制，早申请录取概率大。17级有学长以TUD硕士生身份申到了CSC中荷互换奖学金（见：[17级-邓然宝 Technische Universiteit Delft 申请总结](https://sustech-application.com/#/grad-application/mechanical-and-energy-engineering/[NL]-17-dengranbao)）。理论上任何地方留学都可以申CSC奖学金，除了美国拿CSC可能引起签证上的麻烦。我也见过拿CSC奖学金来ETH留学的同学。
 
-    - **[密歇根大学安娜堡分校（UMich Ann Arbor）-机器人学硕士（MS in Robotics）]：** Tier 1.5。第二志愿。一般美国学校更重视综合背景，但我觉得这个项目的录取也是按成绩排名来的。给Waitlist。在机械系18级同学里发了至少四个Offer，至少一个Waitlist席。这个项目是大家公认的好项目，资源丰富，无论是找实习找工作还是继续读博深造都很便利。
+  - **[密歇根大学安娜堡分校（UMich Ann Arbor）-机器人学硕士（MS in Robotics）]：** Tier 1.5。第二志愿。一般美国学校更重视综合背景，但我觉得这个项目的录取也是按成绩排名来的。给Waitlist。在机械系18级同学里发了至少四个Offer，至少一个Waitlist席。这个项目是大家公认的好项目，资源丰富，无论是找实习找工作还是继续读博深造都很便利。
 
-    - **[密歇根大学安娜堡分校（UMich Ann Arbor）-机械工程硕士（MS in ME）]：** 机器人工程或相关背景专业的同学申RSC同时可以申ME和EEIT。
+  - **[密歇根大学安娜堡分校（UMich Ann Arbor）-机械工程硕士（MS in ME）]：** 机器人工程或相关背景专业的同学申RSC同时可以申ME和EEIT。
 
-    - **[宾夕法尼亚大学（UPenn）-机械工程硕士（MS in ME）]：** 据说有机会通过该项目去GRASP机器人实验室，如果是这样就太香了。这个项目在机械系18级同学里至少发了三个Offer。
+  - **[宾夕法尼亚大学（UPenn）-机械工程硕士（MS in ME）]：** 据说有机会通过该项目去GRASP机器人实验室，如果是这样就太香了。这个项目在机械系18级同学里至少发了三个Offer。
 
-    - **[加州大学伯克利分校（UC Berkeley）-机械工程工程硕士（MEng in ME）]：** Tier 1.5。一年制项目。UC Berkeley牌子响亮，但这个项目时间短，课程安排紧凑，并不利于找实习和工作/进一步读博深造。UC Berkeley也有两年制的MS项目，当时我听说只有Berkeley的本科生能申，但后来也见过陆本同学录取。
+  - **[加州大学伯克利分校（UC Berkeley）-机械工程工程硕士（MEng in ME）]：** Tier 1.5。一年制项目。UC Berkeley牌子响亮，但这个项目时间短，课程安排紧凑，并不利于找实习和工作/进一步读博深造。UC Berkeley也有两年制的MS项目，当时我听说只有Berkeley的本科生能申，但后来也见过陆本同学录取。
 
-    - **[康奈尔大学（Cornell）-机械工程工程硕士（MEng in ME）]:** 一年制项目。同样名校但项目时长太短。申这个项目同时可申Knight Scholarship奖学金，需提早做额外准备。
+  - **[康奈尔大学（Cornell）-机械工程工程硕士（MEng in ME）]:** 一年制项目。同样名校但项目时长太短。申这个项目同时可申Knight Scholarship奖学金，需提早做额外准备。
 
 - **REJ\(7\):**
 
-    - **[洛桑联邦理工学院（EPFL）-机械工程硕士（MS in ME）]：** EPFL历年来招收人数一直比ETH少。参考：[EPFL2021年录取新生本科背景调查报告](https://zhuanlan.zhihu.com/p/364218556)。和ETH一样无Waitlist。EPFL MS Robotics在南科大机械系18级同学里只发了一个Offer。不同于ETH，EPFL只允许申请一个项目。抱着增大录取概率的想法我特地避开了Robotics，但还是吃了闭门羹。
+  - **[洛桑联邦理工学院（EPFL）-机械工程硕士（MS in ME）]：** EPFL历年来招收人数一直比ETH少。参考：[EPFL2021年录取新生本科背景调查报告](https://zhuanlan.zhihu.com/p/364218556)。和ETH一样无Waitlist。EPFL MS Robotics在南科大机械系18级同学里只发了一个Offer。不同于ETH，EPFL只允许申请一个项目。抱着增大录取概率的想法我特地避开了Robotics，但还是吃了闭门羹。
 
-    - **[宾夕法尼亚大学（UPenn）-机器人学硕士（MS in Robotics）]：** Tier 1.5。和ETH MS RSC平行第一志愿。先给Waitlist席后拒。UPenn GRASP实验室是全美知名的机器人学院之一（虽称作实验室，但规模堪比学院了）。据我所知机械系18级同学应该是没有被这个项目录取的。
+  - **[宾夕法尼亚大学（UPenn）-机器人学硕士（MS in Robotics）]：** Tier 1.5。和ETH MS RSC平行第一志愿。先给Waitlist席后拒。UPenn GRASP实验室是全美知名的机器人学院之一（虽称作实验室，但规模堪比学院了）。据我所知机械系18级同学应该是没有被这个项目录取的。
 
-    - **[卡耐基梅隆大学（CMU）-机械工程硕士（MS in ME）]：** Tier 1.5。CMU是美国机器人强校中的执牛耳者。据我所知机械系18级同学应该是都被拒了，目前南科大机械系只有17级有位去CMU交流过的学长拿了这个的Offer。
+  - **[卡耐基梅隆大学（CMU）-机械工程硕士（MS in ME）]：** Tier 1.5。CMU是美国机器人强校中的执牛耳者。据我所知机械系18级同学应该是都被拒了，目前南科大机械系只有17级有位去CMU交流过的学长拿了这个的Offer。
 
-    - **[密歇根大学安娜堡分校（UMich Ann Arbor）-电子与计算机工程硕士（MS in ECE）]:** UMich有特殊的“降录取”机制，即PhD申请未通过默认归到MS申请，于是我一开始申请了PhD in ECE。本来十二月提交了申请，但后来觉得文书没改完善（早点开始写/改文书真的很重要），且即使拿到“降录取”，也会较正常录取晚接到通知，影响拿到Offer后做决定。因此邮件退掉了PhD的申请，改申了MS。但还是吃拒了（这里突然想起申MS比申PhD还要多交材料，好像要列出本科所有数理课和专业课成绩来着）。据我所知机械系18级同学应该是有通过“降录取”机制拿到这个项目的Offer的。
+  - **[密歇根大学安娜堡分校（UMich Ann Arbor）-电子与计算机工程硕士（MS in ECE）]:** UMich有特殊的“降录取”机制，即PhD申请未通过默认归到MS申请，于是我一开始申请了PhD in ECE。本来十二月提交了申请，但后来觉得文书没改完善（早点开始写/改文书真的很重要），且即使拿到“降录取”，也会较正常录取晚接到通知，影响拿到Offer后做决定。因此邮件退掉了PhD的申请，改申了MS。但还是吃拒了（这里突然想起申MS比申PhD还要多交材料，好像要列出本科所有数理课和专业课成绩来着）。据我所知机械系18级同学应该是有通过“降录取”机制拿到这个项目的Offer的。
 
-    - **[加州大学圣地亚哥分校（UC San Diego）-电子与计算机工程硕士（MS in ECE）]:** Tier 2.0。UCSD的EC80硕士项目(Intelligent Systems, Robotics & Control)是颇受推荐的项目。机械系18级同学至少一位同学拿到了录取。
+  - **[加州大学圣地亚哥分校（UC San Diego）-电子与计算机工程硕士（MS in ECE）]:** Tier 2.0。UCSD的EC80硕士项目(Intelligent Systems, Robotics & Control)是颇受推荐的项目。机械系18级同学至少一位同学拿到了录取。
 
-    - **[西北大学（NU）-机器人学硕士（MS in Robotics）]：** Tier 1.5。默拒。一年制项目，水平不清楚。机械系18级同学至少一位同学拿到了录取。
+  - **[西北大学（NU）-机器人学硕士（MS in Robotics）]：** Tier 1.5。默拒。一年制项目，水平不清楚。机械系18级同学至少一位同学拿到了录取。
 
-    - **[西北大学（NU）-机械工程硕士（MS in ME）]：** 一年制项目，水平不清楚。
+  - **[西北大学（NU）-机械工程硕士（MS in ME）]：** 一年制项目，水平不清楚。
 
 - **Other Considered Programs:**
 
-    - **[香港大学(HKU)/香港中文大学(CUHK)/香港科技大学(HKUST)/新加坡国立大学(NUS)/南洋理工大学(NTU) -ME/ECE/BME相关PhD项目]：** 香港/新加坡的PhD项目优点很明显：机会相对多，申请难度不如北美PhD（北美优秀的PhD项目录取普遍青睐他们学术圈内教授的推荐，故美本同学有着“近水楼台先得月”的优势，陆本尤其非清北华五同学的机会相当有限。不过近两年也老听闻“港新申请愈来愈卷”的说法，具体怎么样不清楚），和国内联系密切，奖学金也给得非常可观。由于没时间套磁没有申请，事后回想挺遗憾的（套过一位HKU的教授，得益于导师推荐，可惜对方不招收本科直博生。理论上大四上有时间套磁，但我计划大四下出去交流，和导师商量后把毕设调整到大四上做了，毕设占据了大量时间）。机器人工程的同学可以申请ME/ECE/BME(Biomedical Engineering)等专业的项目，取决于想去的课题组在哪个专业下。
+  - **[香港大学(HKU)/香港中文大学(CUHK)/香港科技大学(HKUST)/新加坡国立大学(NUS)/南洋理工大学(NTU) -ME/ECE/BME相关PhD项目]：** 香港/新加坡的PhD项目优点很明显：机会相对多，申请难度不如北美PhD（北美优秀的PhD项目录取普遍青睐他们学术圈内教授的推荐，故美本同学有着“近水楼台先得月”的优势，陆本尤其非清北华五同学的机会相当有限。不过近两年也老听闻“港新申请愈来愈卷”的说法，具体怎么样不清楚），和国内联系密切，奖学金也给得非常可观。由于没时间套磁没有申请，事后回想挺遗憾的（套过一位HKU的教授，得益于导师推荐，可惜对方不招收本科直博生。理论上大四上有时间套磁，但我计划大四下出去交流，和导师商量后把毕设调整到大四上做了，毕设占据了大量时间）。机器人工程的同学可以申请ME/ECE/BME(Biomedical Engineering)等专业的项目，取决于想去的课题组在哪个专业下。
 
-    - **[麻省理工学院（MIT）-机械工程硕士（MS in ME）]：** Tier 1.0。MIT MS ME的申请需额外准备材料，临近提交截止时间时发现来不及准备了，鉴于项目彩票性质过强，也就没在意了。咱校17级和18级都有同学拿到录取，但本科都不是机械系的。MIT的名气不言而喻，且是美国少数给硕士生发奖学金的学校（据我了解，MIT MS ME应该是硕士期间做RA就能拿全奖，而且有不少的机会转博士），推荐大家冲。
+  - **[麻省理工学院（MIT）-机械工程硕士（MS in ME）]：** Tier 1.0。MIT MS ME的申请需额外准备材料，临近提交截止时间时发现来不及准备了，鉴于项目彩票性质过强，也就没在意了。咱校17级和18级都有同学拿到录取，但本科都不是机械系的。MIT的名气不言而喻，且是美国少数给硕士生发奖学金的学校（据我了解，MIT MS ME应该是硕士期间做RA就能拿全奖，而且有不少的机会转博士），推荐大家冲。
 
-    - **[佐治亚理工学院（Gatech）-机器人学硕士（MS in Robotics）]：** Tier 1.5。遗憾申请季没认识到Gatech在理工科方面的实力和声誉，以及学费相对便宜的优势。Gatech近年在深圳新开了校区，深圳校区的同学有机会去本部学习，也能拿和本部一样的学位，不妨考虑。机械系18级同学至少1位同学拿到了Gatech本部MS Robotics的录取。
+  - **[佐治亚理工学院（Gatech）-机器人学硕士（MS in Robotics）]：** Tier 1.5。遗憾申请季没认识到Gatech在理工科方面的实力和声誉，以及学费相对便宜的优势。Gatech近年在深圳新开了校区，深圳校区的同学有机会去本部学习，也能拿和本部一样的学位，不妨考虑。机械系18级同学至少1位同学拿到了Gatech本部MS Robotics的录取。
 
-    - **[约翰霍普金斯大学（JHU）-机器人学硕士（MS in Robotics）]：** Tier 1.5。这个项目给我们这届发Offer相当慷慨，至少发了五个。考虑到Baltimore的治安问题，没有申请，其实该申了再说。
+  - **[约翰霍普金斯大学（JHU）-机器人学硕士（MS in Robotics）]：** Tier 1.5。这个项目给我们这届发Offer相当慷慨，至少发了五个。考虑到Baltimore的治安问题，没有申请，其实该申了再说。
 
-    - **[多伦多大学（UofT）-机械工程硕士（MASC in ME）]：** Tier 1.5。加拿大的MASC(Master of Applied Science)硕士项目往往有可观的奖学金，而且在加拿大留下来相对容易。由于需提前套磁，当时没时间套，所以没申请。有兴趣留学加拿大的同学不妨也关注McGill, UBC的相关项目。
+  - **[多伦多大学（UofT）-机械工程硕士（MASC in ME）]：** Tier 1.5。加拿大的MASC(Master of Applied Science)硕士项目往往有可观的奖学金，而且在加拿大留下来相对容易。由于需提前套磁，当时没时间套，所以没申请。有兴趣留学加拿大的同学不妨也关注McGill, UBC的相关项目。
 
-    - **[康奈尔大学（Cornell）-机械工程博士（PhD in ME）]：** MS ME项目Tier 1.5。Cornell PhD ME也有类似UMich PhD ECE的降录取到MS的机制。打算申但没空准备了。其实挺遗憾当时没试试申请北美的PhD的，但感觉也确实挤不出时间套磁了。
+  - **[康奈尔大学（Cornell）-机械工程博士（PhD in ME）]：** MS ME项目Tier 1.5。Cornell PhD ME也有类似UMich PhD ECE的降录取到MS的机制。打算申但没空准备了。其实挺遗憾当时没试试申请北美的PhD的，但感觉也确实挤不出时间套磁了。
 
-    - **[密歇根大学安娜堡分校（UMich Ann Arbor）-电子与计算机工程博士（PhD in ECE）]：** Tier 1.5。不再赘述。
+  - **[密歇根大学安娜堡分校（UMich Ann Arbor）-电子与计算机工程博士（PhD in ECE）]：** Tier 1.5。不再赘述。
 
-    - **[卡耐基梅隆大学（CMU）-机器人学硕士（MS in Robotics）]：** Tier 1.0。美国少数带大额奖学金的硕士项目，外加CMU本身在机器人领域无出其右的地位，申请难度堪比不少优秀的的PhD项目。目前咱们机械系还没有拿到录取的同学。
+  - **[卡耐基梅隆大学（CMU）-机器人学硕士（MS in Robotics）]：** Tier 1.0。美国少数带大额奖学金的硕士项目，外加CMU本身在机器人领域无出其右的地位，申请难度堪比不少优秀的的PhD项目。目前咱们机械系还没有拿到录取的同学。
 
-    - **[哥伦比亚大学（Columbia）-机械工程硕士（MS in ME）]：** 做机器人的课题组很少，且学费生活费高昂。
+  - **[哥伦比亚大学（Columbia）-机械工程硕士（MS in ME）]：** 做机器人的课题组很少，且学费生活费高昂。
 
-    - **[杜克大学（Duke）-机械工程硕士（MS in ME）]：** 由于拿到理想的Offer了申请还没截止，也就没申请。
+  - **[杜克大学（Duke）-机械工程硕士（MS in ME）]：** 由于拿到理想的Offer了申请还没截止，也就没申请。
 
-    - **[伊利诺伊大学香槟分校(UIUC) -自动系统和机器人学硕士(MS in Autonomous Systems and Robotics) ]：** 同样拿到理想Offer了申请还没截止。印象UIUC是美国学费和生活费都相对便宜的好学校之一，颇受中国留学生青睐。
+  - **[伊利诺伊大学香槟分校(UIUC) -自动系统和机器人学硕士(MS in Autonomous Systems and Robotics) ]：** 同样拿到理想Offer了申请还没截止。印象UIUC是美国学费和生活费都相对便宜的好学校之一，颇受中国留学生青睐。
 
-    - **[南加州大学(USC) -计算机科学硕士(MS in CS)]：** 别名USC37，声名远扬的转码项目。由于转码需订制文书，且我暂时没有转码需求，没有申请。
+  - **[南加州大学(USC) -计算机科学硕士(MS in CS)]：** 别名USC37，声名远扬的转码项目。由于转码需订制文书，且我暂时没有转码需求，没有申请。
 
-    - **[东北大学(NEU) -计算机科学硕士(Align MS in CS)]：** 一般称为NEU CS Align，也是经典转码项目。
+  - **[东北大学(NEU) -计算机科学硕士(Align MS in CS)]：** 一般称为NEU CS Align，也是经典转码项目。
 
-    - **[卡耐基梅隆大学(CMU) -其他硕士项目]：** CMU提供的硕士项目相当丰富，有换方向打算的同学不妨考虑。
+  - **[卡耐基梅隆大学(CMU) -其他硕士项目]：** CMU提供的硕士项目相当丰富，有换方向打算的同学不妨考虑。
 
 ## 申请心得
 
@@ -190,4 +192,3 @@ type: grad
 &ensp;&ensp;南科大飞跃手册首页下的友情链接。
 
 &ensp;&ensp;......
-

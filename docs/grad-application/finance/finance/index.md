@@ -6,9 +6,9 @@ To be continued.
 
 #### Master Programs:
 
-* [19级-李浩铭 Columbia]([US]-19-lihaoming)
-* [18级-刘博文 CUHK]([HK]-18-liubowen)
-* [15级-王咏睿 CUHK(SZ)]([CN]-15-wangyongrui)
+- [19级-李浩铭 Columbia]([US]-19-lihaoming)
+- [18级-刘博文 CUHK]([HK]-18-liubowen)
+- [15级-王咏睿 CUHK(SZ)]([CN]-15-wangyongrui)
 
 ##### 联培：
 

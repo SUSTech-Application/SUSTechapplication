@@ -1,60 +1,52 @@
 ---
-title: '[US] 17-刘亚卓 PhD @ Georgia Institute of Technology-Mechanical Engineering'
+title: "[US] 17-刘亚卓 PhD @ Georgia Institute of Technology-Mechanical Engineering"
 year: 17
 date: 2022-07-14
 type: grad
+region: US
+department: mae
 ---
 
 # [US] 17-刘亚卓 PhD @ Georgia Institute of Technology-Mechanical Engineering
 
- 
-
 **首先感谢我的导师洪伟教授在申请过程中对我的大力支持**
-
- 
 
 ## 基本背景：
 
-* 姓名：刘亚卓
-* 专业：理论与应用力学
-* GPA：3.89/4
-* TOEFL：94/120（Speaking 21/30）
-* GRE：156V+170Q (Waived)
-* 交流经历：Cornell University Online Summer Intern
-* 科研经历：一篇专利（中国），一篇SCI一作论文IF4.8（等offer过程中Available Online），竞赛若干
-* 联系方式：[liuyz2017@mail.sustech.edu.cn](mailto:liuyz2017@mail.sustech.edu.cn) （每周Check两次）
-
- 
+- 姓名：刘亚卓
+- 专业：理论与应用力学
+- GPA：3.89/4
+- TOEFL：94/120（Speaking 21/30）
+- GRE：156V+170Q (Waived)
+- 交流经历：Cornell University Online Summer Intern
+- 科研经历：一篇专利（中国），一篇SCI一作论文IF4.8（等offer过程中Available Online），竞赛若干
+- 联系方式：[liuyz2017@mail.sustech.edu.cn](mailto:liuyz2017@mail.sustech.edu.cn) （每周Check两次）
 
 ## 申请结果
 
-* 最终录取：Georgia Tech ME (Mechanical Engineering) PhD Program （可附赠一个非本专业的硕士学位）
-* 其他录取结果：（均为ME PhD Program）
-  * UT-Austin
-  * CU Boulder
-  * HKUST
-  * NEU
-  * Purdue University - West Lafayette
-  * UCLA (AD，后面有老师愿意给funding但是太晚了我已经接了GT offer了)
-  * Cornell (Rej，TOEFL Speaking不够23分，未显示在Candidate pool中)
-  * McGill (Rej，投的时候没看清，这个PhD项目要求申请时已经有学士学位，本科在读不能申请)
-
- 
+- 最终录取：Georgia Tech ME (Mechanical Engineering) PhD Program （可附赠一个非本专业的硕士学位）
+- 其他录取结果：（均为ME PhD Program）
+  - UT-Austin
+  - CU Boulder
+  - HKUST
+  - NEU
+  - Purdue University - West Lafayette
+  - UCLA (AD，后面有老师愿意给funding但是太晚了我已经接了GT offer了)
+  - Cornell (Rej，TOEFL Speaking不够23分，未显示在Candidate pool中)
+  - McGill (Rej，投的时候没看清，这个PhD项目要求申请时已经有学士学位，本科在读不能申请)
 
 ## 经验教训：
 
-* 看清项目要求，确认是否需要已经持有学士/硕士学位
-* 语言成绩要尽早准备，越高越好
-* 部分学校的申请系统会自动隐藏语言成绩不符合要求的申请人，如果有套磁的导师，需要尽早联系导师说明情况，需要导师亲自发邮件到Admission Office要你的资料。
-* 对于导师制的PhD项目，即使发了拒信也是可以改成offer的
-* 很多公立大学的PhD项目会发不带奖学金的AD（学校也需要捞点钱），如果真的需要奖学金的话要自己联系导师找funding或者联系系秘书要TA Position（通常对口语有要求）。一般不建议走CSC，后续签证可能会遇到问题。
-* 自己的导师一定是自己求学路上的贵人，申请过程中要多和导师交流。
-* 一些综合排名不一定很高的学校，在某一方面可能特别突出，例如NEU世界排名150+但毕业不愁找工作
-* 想清楚为什么要出国，想不清楚就看看这篇知乎：
+- 看清项目要求，确认是否需要已经持有学士/硕士学位
+- 语言成绩要尽早准备，越高越好
+- 部分学校的申请系统会自动隐藏语言成绩不符合要求的申请人，如果有套磁的导师，需要尽早联系导师说明情况，需要导师亲自发邮件到Admission Office要你的资料。
+- 对于导师制的PhD项目，即使发了拒信也是可以改成offer的
+- 很多公立大学的PhD项目会发不带奖学金的AD（学校也需要捞点钱），如果真的需要奖学金的话要自己联系导师找funding或者联系系秘书要TA Position（通常对口语有要求）。一般不建议走CSC，后续签证可能会遇到问题。
+- 自己的导师一定是自己求学路上的贵人，申请过程中要多和导师交流。
+- 一些综合排名不一定很高的学校，在某一方面可能特别突出，例如NEU世界排名150+但毕业不愁找工作
+- 想清楚为什么要出国，想不清楚就看看这篇知乎：
 
 https://www.zhihu.com/question/324846525/answer/686877856
-
- 
 
 ## 认清现实，放弃幻想：
 
@@ -91,7 +83,5 @@ https://www.zhihu.com/question/324846525/answer/686877856
 12、关于转方向。以我现在的室友为例，本科建筑，硕士土木，博士机械，实习CS，可谓是一波三折。我自己是本科力学，软材料方向，博士机械/固体力学，金属材料方向，可以算是转方向了，但是没有我室友跳得厉害。其实对于博士而言，只要在读过程中尽量不要转方向，一开始转方向本就无伤大雅，知识面铺开反而更有助于后续的发展。
 
 13、关于导师跑路。前两天我室友和我说，他博士导师突然拿到了新加坡那边一大笔钱，准备跑路了。这也是可能出现的问题，建议在申请初期就考虑好，那些已经功成名就，现在就想恰点钱的老教授们，可能就是隐藏的雷点。
-
- 
 
 最后祝大家能收到理想的offer！

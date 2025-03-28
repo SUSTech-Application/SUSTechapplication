@@ -3,6 +3,8 @@ title: "[SG]-17-高旭 PhD @ National University of Singapore"
 year: 17
 date: 2021-06-20
 type: grad
+region: SG
+department: bme
 ---
 
 # [SG]-17-高旭 PhD @ National University of Singapore

@@ -1,8 +1,11 @@
 ---
 title: "[CN]-16-公国钰 保研 @ 北京大学"
+title: "[CN]-16-公国钰 保研 @ 北京大学"
 year: 16
 date: 2020-04-17
 type: grad
+region: CN
+department: business
 ---
 
 # [CN]-16-公国钰 保研 @ 北京大学
@@ -47,6 +50,7 @@ STL夏令营最核心的活动是moot court模拟法庭比赛。如果夏令营�
 
 ![img](gongguoyu_2.png)
 
+（与毕业的学长学姐们交流）
 （与毕业的学长学姐们交流）
 
 ![img](gongguoyu_3.png)

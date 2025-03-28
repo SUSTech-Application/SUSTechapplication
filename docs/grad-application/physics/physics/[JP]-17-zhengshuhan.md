@@ -3,13 +3,15 @@ title: \[JP\]17-郑书晗-东京大学-IME-EEIS修士
 year: 17
 date: 2021-04-13
 type: grad
+region: JP
+department: phy
 ---
 
 # \[JP\]17-郑书晗-东京大学-IME-EEIS修士
 
 ## 基本背景
 
-> 姓名: 郑书晗		
+> 姓名: 郑书晗
 >
 > 专业: 物理学
 >
@@ -29,9 +31,9 @@ type: grad
 
 其他录取结果：
 
-* **Rej\(2\)**:
-  * \[UCSD Cognitive Science PhD program\]
-  * \[EPFL Life Sciences Engineering Master program\] 
+- **Rej\(2\)**:
+  - \[UCSD Cognitive Science PhD program\]
+  - \[EPFL Life Sciences Engineering Master program\]
 
 ## 申请心得
 
@@ -46,8 +48,6 @@ type: grad
 英文项目对南科大的同学比较友好。首先，英文项目不对申请者日语水平做任何要求，所有交流都是通过英语进行。其次，和欧美博士申请类似，申请英文项目需要事先和教授套磁。所以如果研究方向和教授特别match，那被录取的概率就大很多（一般入试好像是过了笔试才能填意向教授）。
 
 其它入学途径包括日本特色的研究生(research student)制度和外国人特别选考，对这两种途径感兴趣的同学可以去官网查找相关资料。
-
-
 
 以下是一些项目的官网以及各种经验贴的链接，相信会对大家有帮助。
 
@@ -69,23 +69,19 @@ https://www.zhihu.com/column/c_1302741532127526912
 
 https://www.zhihu.com/column/japancs
 
-
-
 ### IME项目
 
-我是通过东京大学IME英文项目申请的。IME项目的全称是 *International Multidisciplinary Engineering*，包含了东京大学工学院的7个系。也就是说，只要意向研究室的教授在这7个系有教职，便可以考虑通过IME项目申请。该项目的基本信息及申请流程在项目主页(http://www.ime.t.u-tokyo.ac.jp)上相当清楚。另外，IME项目没有录取名额限制，只要达到了教授和研究科委员会的某个标准就会被录取。
+我是通过东京大学IME英文项目申请的。IME项目的全称是 _International Multidisciplinary Engineering_，包含了东京大学工学院的7个系。也就是说，只要意向研究室的教授在这7个系有教职，便可以考虑通过IME项目申请。该项目的基本信息及申请流程在项目主页(http://www.ime.t.u-tokyo.ac.jp)上相当清楚。另外，IME项目没有录取名额限制，只要达到了教授和研究科委员会的某个标准就会被录取。
 
 以下我结合自己的申请经历和查阅到的资料对IME项目主页上的Application Schedule（以2020年9月申请为例）做一些补充。
-
-
 
 1. September 1st, 2020 (from 15:00 JST)
    Start of On-line Registration/ On-line Application
 
    最好在这一步前就开始套磁，相当于提前占坑。如果教授对你感兴趣，一般会要求写研究计划书(Research proposal)或直接进行私人面试。研究计划书相当重要，要体现出自己对领域前沿的理解，最好花几天时间闭关构思。
-   
+
    网申需填写的内容较多，耗时较长，请提前准备。
-   
+
 2. September 18th, 2020
    Deadline for individual screening
    (Only for those who need to be checked)
@@ -103,7 +99,7 @@ https://www.zhihu.com/column/japancs
    南科大的邮箱可能会拦截T-cens发送的推荐信链接，可以提醒教授去腾讯企业邮的拦截邮件里查找。
 
    另外，**不同于欧美“强推>>一切”，日留推荐信的重要程度较低。**
-   
+
 5. November 11th, 2020
    Deadline of receiving the acceptance letter from your prospective supervisor
 
@@ -129,12 +125,7 @@ https://www.zhihu.com/column/japancs
 
    IME项目放榜的时间一般在入学当年2月20日左右，录信和拒信会同时发，没有waitlist。
 
-
-
 总体上感觉IME项目不算特别难申。虽然一个系录的人不太多（主要原因应该是申请的人少），但只要和教授合拍，并且面试笔试不出大问题一般就能通过，学弟学妹们冲啊！
-
-
-
 
 ### Why or Why not Japan
 
@@ -146,10 +137,6 @@ https://www.zhihu.com/column/japancs
 
 日留也存在一定劣势。在一些新兴领域，日本的学术界和工业界发展均较为缓慢（或者说技能树点的比较偏）。另外，日本的学术圈较封闭，容易和当前热点脱节。对于读CS一心想找工作的同学，日本程序员的工资也比不上美国。
 
-
-
 我个人是在美国交换期间诞生了日留的愿望，也许是因为当时看了不少动漫（三月的狮子,攻壳机动队2045...），或者是因为当时和前后两任日本室友相处得不错，又或者是因为当时极其糟糕的中美关系。回国后就只想着去日本了。
-
-
 
 最后，南科大飞跃手册上关于日留的资料还比较少，希望这篇文章能给学弟学妹在学业规划上带来帮助。有任何问题可以随时通过QQ或邮箱联系我。

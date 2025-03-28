@@ -2,10 +2,10 @@
 
 #### PhD Programs:
 
-* [16级-徐源诚 The University of Maryland《PhD申请的“游戏规则”、科研、英语、绩点与其他》]([US]-16-xuyuancheng)
-* [16级-马一铭 The University of Warwick]([UK]-16-mayiming)
-* [16级-董泽宇 Stony Brook University]([US]-16-dongzeyu)
-* [19级-江南飞 UC Santa Barbara]([US]-19-jiangnanfei)
+- [16级-徐源诚 The University of Maryland《PhD申请的“游戏规则”、科研、英语、绩点与其他》]([US]-16-xuyuancheng)
+- [16级-马一铭 The University of Warwick]([UK]-16-mayiming)
+- [16级-董泽宇 Stony Brook University]([US]-16-dongzeyu)
+- [19级-江南飞 UC Santa Barbara]([US]-19-jiangnanfei)
 
 #### Master Programs:
 

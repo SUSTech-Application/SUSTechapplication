@@ -18,11 +18,11 @@ export default {
   },
   enhanceApp({ app, router }) {
     /* redirect legacy hash path */
-    router.onAfterRouteChange = (to) => {
-      const hashPath = to.match(/^\/#\/(.+)\/?$/);
+    router.onAfterRouteChange = async (to) => {
+      const hashPath = /^\/#\/(.+)\/?$/.exec(to);
       if (hashPath) {
         console.warn("Hash path is deprecated, redirecting...");
-        router.go(hashPath[1]);
+        await router.go(hashPath[1]);
       }
     };
 

@@ -1,8 +1,10 @@
 ---
-title: '[US]-16-叶宇铭 Master in Biomedical Engineering @ Columbia University'
+title: "[US]-16-叶宇铭 Master in Biomedical Engineering @ Columbia University"
 year: 16
 date: 2020-06-05
 type: grad
+region: US
+department: bme
 ---
 
 # [US]-16-叶宇铭 Master in Biomedical Engineering @ Columbia University
@@ -19,7 +21,7 @@ type: grad
 
 > 最终去向：Columbia University MS in Biomedical Engineering
 >
-> AD: 
+> AD:
 >
 > Cornell Meng
 >
@@ -70,4 +72,3 @@ UCI一年的学费大约是35000刀，2b2b三个人住大约每个人1000刀左�
 6. How would you peers describe your character
 
 我面试的时候是根据我自己的实验室经历和课程经历来答的，着重体现我的科研能力和学习能力，每题都举了详细的例子。
-

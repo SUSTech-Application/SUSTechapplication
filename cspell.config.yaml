@@ -1,6 +1,7 @@
 language: en
 dictionaries:
   - custom-words
+  - en-gb
 ignorePaths:
   - "**/*.html"
 useGitignore: true

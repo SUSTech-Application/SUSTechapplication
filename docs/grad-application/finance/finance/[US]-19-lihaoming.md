@@ -1,8 +1,10 @@
 ---
-title: '[US]-19-李浩铭-企业风险管理 @ Columbia University'
+title: "[US]-19-李浩铭-企业风险管理 @ Columbia University"
 year: 19
 date: 2023-08-13
 type: grad
+region: US
+department: business
 ---
 
 # [US]-19-李浩铭-企业风险管理 @ Columbia University
@@ -23,19 +25,19 @@ type: grad
 
 Offer(7):
 
-​	Columbia ERM
+​ Columbia ERM
 
-​	WUSTL MSFWAM
+​ WUSTL MSFWAM
 
-​	UIUC MSF
+​ UIUC MSF
 
-​	UR MSF
+​ UR MSF
 
-​	BC MSF
+​ BC MSF
 
-​	WFU MSBA
+​ WFU MSBA
 
-​	HKU MFin
+​ HKU MFin
 
 ## 申请心得
 
@@ -53,11 +55,7 @@ Offer(7):
 
 至于需不需要请中介，还需要根据自己是否在申请季有足够时间进行资料收集决定。在拉完申请专业的综合排名之后，还需要上每个项目的官网了解诸如class profile，admission materials，requirements这类申请匹配与否的内容，也要至少看过项目的课程安排，这样对项目能学什么、后续文书可以写哪些点也有帮助。除此之外，也不能唯排名论，有些项目可能不欢迎国际学生（比如前三十里就有个别学校国际学生比例极低极低），还有些项目可能学校综排没有挤进前三十，但项目性价比高（比如UR、UIUC）。因此还需要对每个感兴趣的项目进行进一步了解（当然，后续写文书的时候就要花更多精力在项目资源以及匹配度上）。因此，如果有非常充足的时间愿意静下心来仔细研究感兴趣的项目的同学，中介所能帮助到的并没有那么多（最多的还是帮做dirty work以及带领你入门以了解申请流程），而真的很赶时间的同学（比如大四G还没考出来的同时还挂着一段实习，又要申请美研），其实请了中介也并不能直接躺平。
 
- 
-
 另外分享一点小知识，如果金融学专业的同学申请美研的时候主申金融（MSF），其实因为我们学校可以学到诸如常、偏微分方程，java，python，数据挖掘等选修课，所以在确保纯金融项目可以按时提交、相关软背景也比较符合的话，也可以试试其他相关商科项目，如芝大MPP，UCB Analytics，西北IMC，UCLA MQE等看着不像金融实则可以申一下的优质项目。（当然如果你量化背景很强完全可以冲MFE 和 MSBA 哈哈哈哈哈，这两个专业在美国开的比金融硕士多得多）
-
- 
 
 **\## 申请注意事项**
 

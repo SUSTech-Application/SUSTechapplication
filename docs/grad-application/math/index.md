@@ -4,4 +4,3 @@
 - [金融数学](financial-mathematics/)
 - [统计学](statistics/)
 - [基础数学](basic-mathematics/)
-

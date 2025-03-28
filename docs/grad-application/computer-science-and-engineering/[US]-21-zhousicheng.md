@@ -3,6 +3,8 @@ title: \[US\]21-周思呈-University of Utah-CS PhD
 year: 21
 date: 2025-03-19
 type: grad
+region: US
+department: cse
 ---
 
 # \[US\]21-周思呈-University of Utah-CS PhD

@@ -3,6 +3,8 @@ title: \[US\]-19-黄冠超 MS CSE @ ND
 year: 19
 date: 2023-02-19
 type: grad
+region: US
+department: sme
 ---
 
 # \[US\]-19-黄冠超 MS CSE @ ND

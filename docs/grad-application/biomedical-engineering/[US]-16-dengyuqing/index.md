@@ -3,6 +3,8 @@ title: "[US]-16-邓雨晴 PhD in ME @ Boston University"
 year: 16
 date: 2020-04-29
 type: grad
+region: US
+department: bme
 ---
 
 # [US]-16-邓雨晴 PhD in ME @ Boston University

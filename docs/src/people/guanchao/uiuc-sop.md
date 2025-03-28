@@ -37,22 +37,22 @@ Throughout my study for electrical engineering and computer science and
 engineering, in the big picture, I found myself particularly interested in:
 
 - Thinking about the relations between the pervasive discrete objects in the
-    world.
+  world.
 - Finding isomorphism across multiple disciplines, for example, the
-    mathematics behind music and graph data structure underneath politics and
-    social networks.
+  mathematics behind music and graph data structure underneath politics and
+  social networks.
 - Designing systems that work well and look cool, as if putting LEGO bricks
-    together.
+  together.
 - Most importantly, understanding the magic behind the ubiquitous black boxes
-    collectively called computers nowadays.
+  collectively called computers nowadays.
 
 These macroscopic intellectual interests crystallize into the following
 scholarly questions that I am interested in exploring in the graduate study:
 
 - How to design distributed/parallel computing systems to support the
-    escalating demand from industry and researchers?
+  escalating demand from industry and researchers?
 - How do programming languages work? What are the details that provide the
-    features we took for granted?
+  features we took for granted?
 - How do computers work from a systems programming level?
 
 I am also intrigued by the role that computer technologies play in modern

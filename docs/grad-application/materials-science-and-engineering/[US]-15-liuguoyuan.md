@@ -3,6 +3,8 @@ title: \[US\]-15-刘国远-PhD in MSE @ UIUC
 year: 15
 date: 2020-03-26
 type: grad
+region: US
+department: mse
 ---
 
 # \[US\]-15-刘国远-PhD in MSE @ UIUC
@@ -21,13 +23,13 @@ type: grad
 
 其他录取结果：
 
-* **Offer\(1\):**
-  * \[PhD in Biomedical Engineering @ Texas A&M University\]
-* **AD\(1\):**
-  * \[Master of Science in Engineering @ Johns Hopkins University\]
-* **Rej\(2\)**:
-  * \[PhD in MSE @ Penn\]
-  * \[PhD in MSE @ Northwestern\]
+- **Offer\(1\):**
+  - \[PhD in Biomedical Engineering @ Texas A&M University\]
+- **AD\(1\):**
+  - \[Master of Science in Engineering @ Johns Hopkins University\]
+- **Rej\(2\)**:
+  - \[PhD in MSE @ Penn\]
+  - \[PhD in MSE @ Northwestern\]
 
 ## 申请心得
 
@@ -72,7 +74,6 @@ type: grad
 TOEFL的能力障碍主要在听力，口语或者作文（好吧，好像除了阅读都可能有问题）。提升听力最直接的方法就是多听，泛听的资源包括：网课，播客（The Daily, NPR, Scientific American 60s science)，Youtube视频；精听的话TPO就好。口语和作文重点是要掌握一个思考的模板。考场上要组织足够流畅精准的语言已经需要花费很大的力气，所以完全没有构思的时间，整个口语回答或者作文的架构在考前就要烂熟于心。
 
 GRE我认为最大的困难就是单词了。我的单词背得很糟糕，现在想来主要是因为是时间安排的问题。GRE非常需要一整段时间，每天大剂量的单词背诵，然后趁热打铁。如果不能一战分手，基本上需要重新准备了。
-
 
 ### 资源
 

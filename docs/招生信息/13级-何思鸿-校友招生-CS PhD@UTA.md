@@ -4,7 +4,7 @@
 
 我从康涅狄格大学计算机科学与工程系获得博士学位，从加州大学尔湾分校统计系获得硕士学位，以及从南方科技大学数学系获得学士学位。我目前的研究方向包括：
 
-- 强化学习（reinforcement learning (RL)：robust RL，multi-agent  RL，federated RL，explainable RL等）
+- 强化学习（reinforcement learning (RL)：robust RL，multi-agent RL，federated RL，explainable RL等）
 - 信息物理系统（cyber-physical systems：smart city，intelligent transportation，connected autonomous vehicles，smart logistics等）
 - 控制与优化（optima control， optimization，distributionally robust optimization等）
 - 智能决策（decision-making：LLM for decision making，explainable and safe decision-making等）
@@ -21,10 +21,11 @@ General Embodied AI旨在使人工智能系统能够像人类一样通过感知�
 
 最后，希望能和校友们一起做点研究，不一定要和我读博做intern，只要想connect都可以联系～
 
-------
+---
+
 选择UTA计算机系的8个理由：
 
-1.学科排名高：UTA计算机系在cs ranking排名中名列61位，排名相近的学校包括：德州大学达拉斯分校(#57)，圣路易斯华盛顿大学(#57)，密歇根州立大学(#59)，罗彻斯特理工(#59)，圣母大学(#61)，匹兹堡大学(#61)，特拉华大学(#64)，加州大学墨赛德分校(#65)，康涅狄格大学(#65)，佛罗里达大学(#65)等。(https://csrankings.org/#/index?all&us) 
+1.学科排名高：UTA计算机系在cs ranking排名中名列61位，排名相近的学校包括：德州大学达拉斯分校(#57)，圣路易斯华盛顿大学(#57)，密歇根州立大学(#59)，罗彻斯特理工(#59)，圣母大学(#61)，匹兹堡大学(#61)，特拉华大学(#64)，加州大学墨赛德分校(#65)，康涅狄格大学(#65)，佛罗里达大学(#65)等。(https://csrankings.org/#/index?all&us)
 
 2.生活便利：UTA所处达拉斯-沃斯堡城市群是美国第4大城市群，仅次于纽约、洛杉矶和芝加哥城市群。得利于庞大的人口数量和交通枢纽优势，该地区日常生活便利，生活成本低廉，并拥有非常多地道中餐馆（吃饭不愁），亚洲超市（物资不愁），购物商场（购物不愁），新建楼房（租房不愁）。衣食住行一个不愁。
 
