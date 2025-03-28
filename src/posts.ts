@@ -18,4 +18,7 @@ export class Post {
 const paths = await fg(["**/*.md"], { cwd: "docs" });
 const posts = paths.map((path) => new Post(path));
 
+// TODO: add type validation for metadata
+// TODO: after type validation, unwrap the metadata to simplify accessing
+
 export default posts;
