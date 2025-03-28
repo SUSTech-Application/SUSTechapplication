@@ -1,5 +1,5 @@
 import type { UserConfig } from "vite";
 
-import yaml from "@modyfi/vite-plugin-yaml";
+import Yaml from "@modyfi/vite-plugin-yaml";
 
-export default { plugins: [yaml()] } as UserConfig;
+export default { plugins: [Yaml()] } as UserConfig;
