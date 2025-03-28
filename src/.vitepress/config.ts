@@ -8,7 +8,9 @@ import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "./docs",
+  srcDir: "../docs",
+  outDir: "../dist",
+  cacheDir: "../cache",
   cleanUrls: true,
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
