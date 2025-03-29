@@ -16,6 +16,8 @@ department: sme
 > - 我在 [2023 年](/sme-sharing-2023.html){target="_self"}及 [2024 年](/sme-sharing-2024.html){target="_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
 > - 如果我的经验分享有帮助到你，不妨 [请我喝杯咖啡](#请我喝杯咖啡)。
 
+<!-- place holder to suppress markdownlint warning -->
+
 > [!IMPORTANT] Notre Dame Our Mother
 > 再次回到圣母大学之后，我愈发意识到这个在美国受人景仰的学府和温暖的家庭被国人所严重低估——多么遗憾！因此，我正在积极地和圣母大学工学院的招生团队以及南科大国合部合作，吸引更多优秀的南科大学生来到圣母大学参加交流、暑研项目，以至选择在这里升学。圣母大学以其在美国的声誉、优质的教育、强大的校友网络、小项目规模高师生比，以及富有凝聚力的校园氛围而出众，并在 [U.S. News 美国大学排行榜](https://usnews.com/best-colleges/rankings/national-universities) 上位列第 20 名（2024）。欢迎你来到这个充满机遇，促人成长的地方学习、生活！如果你希望进一步了解圣母大学，欢迎直接联系我，或加入南科大-ND 交流 QQ 群：220297814。
 
@@ -54,8 +56,8 @@ department: sme
   - 我（暂时）对学术不甚感兴趣，因此选择了偏向就业导向的 Master 项目。
   - 学制较短的 Master of Engineering 项目不便于准备实习、找工作等、\*\*\*，故而选择学制更长的 Master of Science 项目。
 
-\* 唯一的例外是 University of Notre Dame，鉴于我与该校 CSE Department 千丝万缕的联系，我认为自己可以拿下该校的 MS CSE offer。<br>
-\*\* 我很大程度上是受到了*名校情结*的影响，才选择放弃 CSE 专业以追求更高的排名。<br>
+\* 唯一的例外是 University of Notre Dame，鉴于我与该校 CSE Department 千丝万缕的联系，我认为自己可以拿下该校的 MS CSE offer。\
+\*\* 我很大程度上是受到了*名校情结*的影响，才选择放弃 CSE 专业以追求更高的排名。\
 \*\*\* 因此放弃了 Cornell University。
 
 ## 基本背景
@@ -126,7 +128,7 @@ department: sme
 
 总计 7 所学校，9 个项目；目前录取 2 所，被拒 5 所。
 
-\* UW-Madison 可同时申请 3 个项目<br>
+\* UW-Madison 可同时申请 3 个项目 \
 \*\* 笔者在 University of Notre Dame 进行了学期交换与暑研，且两封推荐信都是该校 CSE Dept. 教授所写。
 
 另有其他院校的出现在初步的选校清单上，但最终我没有进行申请。为帮助与我背景类似的同学选校，我同时也将这些院校及没有最终进行申请的原因列出。
@@ -230,8 +232,8 @@ department: sme
 
 > [!IMPORTANT] 心如止水
 >
-> 暮色苍茫看劲松，乱云飞渡仍从容。—— 毛泽东 <br>
-> 不识庐山真面目，只缘身在此山中。—— 苏轼 <br>
+> 暮色苍茫看劲松，乱云飞渡仍从容。—— 毛泽东 \
+> 不识庐山真面目，只缘身在此山中。—— 苏轼 \
 > 我们自身的焦虑是申请过程中最大的负担和最大的不确定因素。
 
 人类的恐惧往往来自于未知，申请正是一个未知事物扎堆的过程。我到底要不要出国？要去哪个地区？我要选什么项目、什么专业、哪个学校？我需要准备什么材料？我的实力和定位如何？我真的可以被录取吗？虽然如今互联网更发达，信息更透明，只要有一定的英语能力能很便捷地获取申请相关的公开信息，但这些未知数依然如阴云般笼罩在申请的各个阶段，影响我们的心态。
@@ -270,12 +272,12 @@ department: sme
 - [Ruth Chang 在 TED 所做的演讲](https://youtube.com/watch?v=8GQZuzIdeQQ) 为我的选择提供了哲学的基石。Ruth 先用一个思维实验证明，困难选择，难就难在没有任何一个选项是本质上更好的，这无关收集到的信息是否完备，是否进行了充分的考虑。在这基础上，拥有自由意志的我们不应沦为理由的奴隶，而应做出真正符合自己人格的选择，那些理由自然会纷至沓来。
 - 走出塘朗站时偶然回忆起的 [Frank Sinatra 的经典歌曲 _My Way_](https://youtube.com/watch?v=qQzdAsjWGPg) 恐怕是促使我做出这个决断的最后一根稻草。比活着更令人兴奋的，是以**自己的方式**活着。
 
-  > For what is a man, what has he got? <br>
-  > If not himself, them he has naught. <br>
-  > To say the things he truly feels, <br>
-  > And not the words of one who kneels. <br>
-  > The record shows I took the blows, <br>
-  > And did it MY way. <br>
+  > For what is a man, what has he got? \
+  > If not himself, them he has naught. \
+  > To say the things he truly feels, \
+  > And not the words of one who kneels. \
+  > The record shows I took the blows, \
+  > And did it MY way. \
   > Yes, it was MY way.
 
 从技术性的角度上来说，我的朋友以及所咨询的教授都肯定我「一定能找到工作」，Peter Bui 教授对我的评价也是 ND CSE Dept. 中 "top" 级别的学生。从这个角度上来说，似乎「下限」都已经满足了，而 ND 或许还有着更高的上限。
