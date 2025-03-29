@@ -168,12 +168,16 @@ department: sme
 
 ### 文书
 
+<!-- cSpell:words Kabat -->
+
 > [!TIP] 文章憎命达
 > What is my Job on the planet with a capital J? -- Jon Kabat-Zinn, _Wherever You Go, There You Are_
 >
 > 我相信写出好的 Statement of Purpose 的最佳方法，就是不断地自我探寻、丰富、打磨自己的 Purpose。我们永远无法写出未曾经历和反思过的文字——当然，你可以选择让中介代笔，但这不是我的选项。
 
 这里着重强调 Statement of Purpose 的写作。在我自己撰写的第一版 SoP 当中，我也试着绞尽脑汁组织语言，尽量将「故事」渲染得绘声绘色。但后来我又将这些繁文缛节全都抛在一边，转而按照项目要求来一问一答，我相信这是更省力、更直观的写作方法，更加能体现申请人真实的心态。
+
+<!-- cSpell:words UIUC -->
 
 以 University of Illinois at Urbana-Champaign 的 Statement of Purpose 举例，UIUC 对申请人询问了如下几个问题：
 
@@ -222,7 +226,7 @@ department: sme
   - 多逛一逛 [Reddit](https://reddit.com)、[Quora](https://quora.com) 等英文社区
 - 写
   - Peter Kogge 教授推荐给我的 [_The Elements of Style_](https://amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)，类似的写作方面的书籍还有很多
-  - University of Wisonsin-Madison 的 [Writer's Handbook](https://writing.wisc.edu/handbook/)
+  - University of Wisconsin-Madison 的 [Writer's Handbook](https://writing.wisc.edu/handbook/)
 - 词汇及其他
   - 拓展词汇量：[Word Power Made Easy](https://amazon.com/Word-Power-Made-Easy-Vocabulary/dp/110187385X/)
   - 尽量使用英英字典而非英汉字典，如 [Merriam-Webster](https://merriam-webster.com)、[Collins](https://collinsdictionary.com)、[Cambridge](https://dictionary.cambridge.org/) 等
@@ -313,6 +317,8 @@ department: sme
 ## 联系方式
 
 我非常期待学弟学妹，以及前辈的联系。能以任何形式帮助到你们是我最大的荣幸。如果你在申请、学习的过程中遇到任何疑惑，亦或者想和我聊天、交朋友，欢迎随时以各种方式联系我。
+
+<!-- cSpell:words sghuang -->
 
 - QQ：838209721
 - 微信：sghuang19
