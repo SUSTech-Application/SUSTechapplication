@@ -84,13 +84,17 @@ department: sme
   4. 深港微电子学院 [陈全助理教授](https://faculty.sustech.edu.cn/chenq3/) 是名义上的第一指导老师
 - GPA：3.69/4.00，专业排名 17/71（Top 25%）
 - TOEFL：112/120
+
   | Listening | Speaking | Reading | Writing |
   | :-------: | :------: | :-----: | :-----: |
-  | 30 | 26 | 28 | 28 |
+  |    30     |    26    |   28    |   28    |
+
 - GRE：324/340
+
   | Verbal | Quant | Analytical Writing |
   | :----: | :---: | :----------------: |
-  | 157 | 167 | 4.0 |
+  |  157   |  167  |        4.0         |
+
 - 交流经历：University of Notre Dame [学期交换](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10124)，GPA 3.833/4.000
 - 科研
   - University of Notre Dame CSE Department [暑研](https://cclnd.blogspot.com/2022/08/isure-project-visualizing-and-right.html)
@@ -98,11 +102,12 @@ department: sme
   - 无论文、专利等发表
 - 竞赛/奖学金：聊胜于无
 - 推荐信
-  | Institution | Department | Title | Name | Relation |
+
+  |       Institution        |            Department            |            Title             |                              Name                              |     Relation      |
   | :----------------------: | :------------------------------: | :--------------------------: | :------------------------------------------------------------: | :---------------: |
-  | 南方科技大学 | 深港微电子学院 | 产学研教授 | [陈凯](https://faculty.sustech.edu.cn/chenk6/) | 学术导师 |
-  | University of Notre Dame | Computer Science and Engineering | Ted H. McCourtney Professor | [Peter Kogge](https://engineering.nd.edu/faculty/peter-kogge/) | Course Instructor |
-  | " | " | Associate Teaching Professor | [Peter Bui](https://www3.nd.edu/~pbui/) | " |
+  |       南方科技大学       |          深港微电子学院          |          产学研教授          |         [陈凯](https://faculty.sustech.edu.cn/chenk6/)         |     学术导师      |
+  | University of Notre Dame | Computer Science and Engineering | Ted H. McCourtney Professor  | [Peter Kogge](https://engineering.nd.edu/faculty/peter-kogge/) | Course Instructor |
+  |            "             |                "                 | Associate Teaching Professor |            [Peter Bui](https://www3.nd.edu/~pbui/)             |         "         |
 
 - 证书：二十余个网课证书，详见 [我的 LinkedIn](https://www.linkedin.com/in/sghuang19/)
 
