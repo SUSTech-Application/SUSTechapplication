@@ -1,5 +1,4 @@
 ---
-title: \[CN\]-15-吴一凡 考研 @ 南科大
 year: 15
 date: 2020-03-26
 type: grad

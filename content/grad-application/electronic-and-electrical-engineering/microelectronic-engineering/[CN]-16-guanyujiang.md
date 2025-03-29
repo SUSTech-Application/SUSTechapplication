@@ -1,5 +1,4 @@
 ---
-title: "[CN]-16-管宇江 保研 @ 北大深研院"
 year: 16
 date: 2020-03-26
 type: grad

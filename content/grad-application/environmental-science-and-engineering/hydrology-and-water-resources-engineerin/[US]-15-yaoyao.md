@@ -1,5 +1,4 @@
 ---
-title: \[US\]-15-姚瑶 PhD in Marine Science @ USF
 year: 15
 date: 2020-03-26
 type: grad

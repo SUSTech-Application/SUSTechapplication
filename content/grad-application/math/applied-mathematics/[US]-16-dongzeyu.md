@@ -1,5 +1,4 @@
 ---
-title: \[US\]16-董泽宇-Stony Brook University-Applied Mathematics and Statistics Program
 year: 16
 date: 2020-05-14
 type: grad

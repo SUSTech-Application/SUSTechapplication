@@ -1,5 +1,4 @@
 ---
-title: "[CN]-16-岐亦铭 保研  @ 北大"
 year: 16
 date: 2020-03-26
 type: grad

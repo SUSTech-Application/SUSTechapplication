@@ -1,16 +1,19 @@
 import fg from "fast-glob";
 
-import { getFrontmatter } from "./utils";
+import { getFrontmatter, getH1 } from "./utils";
 
 export class Post {
+  /** File path of the MD file, relative to `srcDir`, ie. `content/` */
   path: string;
   url: string;
+  title: string;
   metadata: Record<string, unknown>;
 
   /** path is relative to VitePress srcDir, i.e. `content/` */
   constructor(path: string) {
     this.path = path;
     this.url = path.replace(/index\.md$/, "").replace(/\.md$/, "");
+    this.title = getH1(`content/${path}`);
     this.metadata = getFrontmatter(`content/${path}`);
   }
 }

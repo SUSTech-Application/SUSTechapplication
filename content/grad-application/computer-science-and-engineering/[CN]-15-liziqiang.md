@@ -1,5 +1,4 @@
 ---
-title: \[CN\]-15-李子强--MS in SUSTech
 year: 15
 date: 2020-03-26
 type: grad

@@ -1,5 +1,4 @@
 ---
-title: \[NL]17-刘彦菁 Msc Mechanical Engineering @ Technische Universiteit Delft
 year: 17
 date: 2021-03-09
 type: grad

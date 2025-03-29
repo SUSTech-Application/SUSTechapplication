@@ -1,6 +1,5 @@
 ---
 date: 2025-03-19
-title: 通过 Clean URL 访问飞跃手册
 ---
 
 # 通过 Clean URL 访问飞跃手册

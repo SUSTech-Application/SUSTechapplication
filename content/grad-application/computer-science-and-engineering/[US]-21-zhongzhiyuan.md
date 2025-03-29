@@ -1,5 +1,4 @@
 ---
-title: "[US]-21-钟志源 CS PhD @ U of Utah"
 year: 21
 date: 2025-02-24
 type: grad

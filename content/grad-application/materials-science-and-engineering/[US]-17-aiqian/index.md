@@ -1,5 +1,4 @@
 ---
-title: "[US]-17-艾谦-PhD @ UIUC"
 year: 17
 date: 2021-09-13
 type: grad

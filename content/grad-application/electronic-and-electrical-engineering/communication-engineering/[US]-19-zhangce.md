@@ -1,5 +1,4 @@
 ---
-title: \[US\]19-张策 MS in Machine Learning @ CMU
 year: 19
 date: 2023-04-19
 type: grad
