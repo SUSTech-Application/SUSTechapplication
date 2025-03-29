@@ -12,6 +12,9 @@ export default defineConfig({
   outDir: "../dist",
   cacheDir: "../cache",
   cleanUrls: true,
+  // FIXME: this is a temp workaround.
+  // currently ignoring all dead links that is not an asset with extension
+  ignoreDeadLinks: [/^.*\.[^.]+$/],
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
   themeConfig: {

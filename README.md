@@ -1,7 +1,7 @@
 <section align="center">
   <img
     alt="SUSTech"
-    src="./docs/src/_media/SUSTech_University_Logo.png"
+    src="./docs/public/sustech.png"
     height="150"
   >
 
