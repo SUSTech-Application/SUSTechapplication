@@ -9,6 +9,8 @@ department: sme
 
 # \[US\]-19-黄冠超 MS CSE @ ND
 
+<!-- cSpell:words feiyue guanchao -->
+
 <!-- prettier-ignore -->
 > - 记住这个链接，快速访问我的飞跃手册：[feiyue.guanchao.pro](http://feiyue.guanchao.pro)
 > - 我在 [2023 年](/sme-sharing-2023.html){target="_self"}及 [2024 年](/sme-sharing-2024.html){target="_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
@@ -102,17 +104,20 @@ department: sme
   - 无论文、专利等发表
 - 竞赛/奖学金：聊胜于无
 - 推荐信
+  <!-- cSpell: words Kogge -->
 
-  |       Institution        |            Department            |            Title             |                              Name                              |     Relation      |
-  | :----------------------: | :------------------------------: | :--------------------------: | :------------------------------------------------------------: | :---------------: |
-  |       南方科技大学       |          深港微电子学院          |          产学研教授          |         [陈凯](https://faculty.sustech.edu.cn/chenk6/)         |     学术导师      |
-  | University of Notre Dame | Computer Science and Engineering | Ted H. McCourtney Professor  | [Peter Kogge](https://engineering.nd.edu/faculty/peter-kogge/) | Course Instructor |
-  |            "             |                "                 | Associate Teaching Professor |            [Peter Bui](https://www3.nd.edu/~pbui/)             |         "         |
+  |       Institution        |            Department            |            Title             |                             Name                              |     Relation      |
+  | :----------------------: | :------------------------------: | :--------------------------: | :-----------------------------------------------------------: | :---------------: |
+  |       南方科技大学       |          深港微电子学院          |          产学研教授          |         [陈凯](https://faculty.sustech.edu.cn/chen6/)         |     学术导师      |
+  | University of Notre Dame | Computer Science and Engineering | Ted H. McCourtney Professor  | [Peter Kogge](https://engineering.nd.edu/faculty/peter-koge/) | Course Instructor |
+  |            "             |                "                 | Associate Teaching Professor |               [Peter Bui](https://nd.edu/~pbui)               |         "         |
 
-- 证书：二十余个网课证书，详见 [我的 LinkedIn](https://www.linkedin.com/in/sghuang19/)
+- 证书：二十余个网课证书，详见 [我的 LinkedIn](https://linkedin.com/in/sghuang19/)
+
+<!-- cSpell:words INFJ -->
 
 > [!TIP] 我的 B 面
-> 申请之外的我更有趣：喜欢音乐、读书、哲学、心理学和摄影，还能使长剑和军刀。醉心生产力和个人知识管理的数字花园园艺师，在消费电子展柜前流连忘返的极客。对了，还是个容易孤独的 [INFJ](https://www.16personalities.com/profiles/7c48aef917dde)，欢迎你和我 [交朋友](#联系方式)。
+> 申请之外的我更有趣：喜欢音乐、读书、哲学、心理学和摄影，还能使长剑和军刀。醉心生产力和个人知识管理的数字花园园艺师，在消费电子展柜前流连忘返的极客。对了，还是个容易孤独的 [INFJ](https://16personalities.com/profiles/7c48aef917dde)，欢迎你和我 [交朋友](#联系方式)。
 
 ## 申请结果
 
@@ -168,7 +173,7 @@ department: sme
 
 ![Notion](notion.png)
 
-网上已有很多资源介绍 Notion 的使用，这里不再赘述。申请过程要面对的是多个院校，而这些院校又都有相同的 attributes：院校的名称、是否最终选中进行申请、排名、地域、截止日期、官网、申请系统入口、对该项目的简单评论等，Notion 的**数据库**功能可以很好地组织此类结构化数据。上图所展示的就是我的申请「大本营」。我以列表形式将考察的所有学校列出，通过自定义的排序规则，按照 [CS Ranking](https://csranking.org) 和 [QS World](https://www.topuniversities.com/qs-world-university-rankings) 对它们进行降序排列，并将最终勾选中的院校置顶，所有信息都一目了然。表格中的每一个条目都是一个笔记，点击打开，可以看到我对每所学校所做的更细致的研究。
+网上已有很多资源介绍 Notion 的使用，这里不再赘述。申请过程要面对的是多个院校，而这些院校又都有相同的 attributes：院校的名称、是否最终选中进行申请、排名、地域、截止日期、官网、申请系统入口、对该项目的简单评论等，Notion 的**数据库**功能可以很好地组织此类结构化数据。上图所展示的就是我的申请「大本营」。我以列表形式将考察的所有学校列出，通过自定义的排序规则，按照 [CS Ranking](https://csranking.org) 和 [QS World](https://topuniversities.com/qs-world-university-rankings) 对它们进行降序排列，并将最终勾选中的院校置顶，所有信息都一目了然。表格中的每一个条目都是一个笔记，点击打开，可以看到我对每所学校所做的更细致的研究。
 
 ![TickTick](ticktick.png)
 
@@ -222,19 +227,19 @@ department: sme
   - 能说的第一步是多听
   - 自言自语
   - 与同伴共同练习
-  - 推荐网课：[The Pronunciation of American English Specialization](https://www.coursera.org/specializations/american-english-pronunciation)
+  - 推荐网课：[The Pronunciation of American English Specialization](https://coursera.org/specializations/american-english-pronunciation)
 - 读
   - 阅读英文书籍，特别是教材以及低龄读物（简化过的名著等）
-  - 订阅并阅读高质量的 Newsletter，如 [National Geographic](https://www.nationalgeographic.com/newsletters/signup)、[Smithonian](https://smithsonian.com/newsletters/)
+  - 订阅并阅读高质量的 Newsletter，如 [National Geographic](https://nationalgeographic.com/newsletters/signup)、[Smithonian](https://smithsonian.com/newsletters/)
   - 搜集信息时上 [Google](https://google.com)，用英文
   - 多逛一逛 [Reddit](https://reddit.com)、[Quora](https://quora.com) 等英文社区
 - 写
-  - Peter Kogge 教授推荐给我的 [_The Elements of Style_](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)，类似的写作方面的书籍还有很多
+  - Peter Kogge 教授推荐给我的 [_The Elements of Style_](https://amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)，类似的写作方面的书籍还有很多
   - University of Wisonsin-Madison 的 [Writer's Handbook](https://writing.wisc.edu/handbook/)
 - 词汇及其他
-  - 拓展词汇量：[Word Power Made Easy](https://www.amazon.com/Word-Power-Made-Easy-Vocabulary/dp/110187385X/)
-  - 尽量使用英英字典而非英汉字典，如 [Merriam-Webster](https://merriam-webster.com)、[Collins](htttps://collinsdictionary.com)、[Cambridge](https://dictionary.cambridge.org/) 等
-  - ETS 提供的托福备考指南：[TOEFL® Test Preparation: The Insider's Guide](https://www.edx.org/course/toefl-test-preparation-the-insiders-guide)
+  - 拓展词汇量：[Word Power Made Easy](https://amazon.com/Word-Power-Made-Easy-Vocabulary/dp/110187385X/)
+  - 尽量使用英英字典而非英汉字典，如 [Merriam-Webster](https://merriam-webster.com)、[Collins](https://collinsdictionary.com)、[Cambridge](https://dictionary.cambridge.org/) 等
+  - ETS 提供的托福备考指南：[TOEFL® Test Preparation: The Insider's Guide](https://edx.org/course/toefl-test-preparation-the-insiders-guide)
 
 总得来说，学好一门语言的关键之处在于真正运用这门语言。投入再多精力到语言备考上，自己却从不在日常生活、学习、工作中**使用**英语、**感悟**英语、**欣赏**英语，写代码用中文注释，看文献先用软件翻译，如此种种，纵使运气使然考出了个相对过得去的成绩，事倍功半、伤财费力不说，最后也必然只能学到跛脚英语、哑巴英语。
 
@@ -278,9 +283,9 @@ department: sme
 
 在这最后的决断中，有三个资源为我提供了重要的参考。
 
-- 我校 [系统设计与智能制造学院的吴迪教授](https://www.sustech.edu.cn/zh/faculties/wudi.html) 在「大数据」课程上说过的一段话曾在不止一个瞬间给我带来启发：「薪水再高也不足以改变你的人生，真正重要的是你和什么样的人一起工作」。我相信 ND 能提供与更优秀的师生更紧密的交流机会，这并非是上课坐最后一排，下课和中国学生扎堆的同学们可以理解的，但却是我能加以利用，甚至赖以成长的养分。
-- [Ruth Chang 在 TED 所做的演讲](https://www.youtube.com/watch?v=8GQZuzIdeQQ) 为我的选择提供了哲学的基石。Ruth 先用一个思维实验证明，困难选择，难就难在没有任何一个选项是本质上更好的，这无关收集到的信息是否完备，是否进行了充分的考虑。在这基础上，拥有自由意志的我们不应沦为理由的奴隶，而应做出真正符合自己人格的选择，那些理由自然会纷至沓来。
-- 走出塘朗站时偶然回忆起的 [Frank Sinatra 的经典歌曲 _My Way_](https://www.youtube.com/watch?v=qQzdAsjWGPg) 恐怕是促使我做出这个决断的最后一根稻草。比活着更令人兴奋的，是以**自己的方式**活着。
+- 我校 [系统设计与智能制造学院的吴迪教授](https://sustech.edu.cn/zh/faculties/wudi.html) 在「大数据」课程上说过的一段话曾在不止一个瞬间给我带来启发：「薪水再高也不足以改变你的人生，真正重要的是你和什么样的人一起工作」。我相信 ND 能提供与更优秀的师生更紧密的交流机会，这并非是上课坐最后一排，下课和中国学生扎堆的同学们可以理解的，但却是我能加以利用，甚至赖以成长的养分。
+- [Ruth Chang 在 TED 所做的演讲](https://youtube.com/watch?v=8GQZuzIdeQQ) 为我的选择提供了哲学的基石。Ruth 先用一个思维实验证明，困难选择，难就难在没有任何一个选项是本质上更好的，这无关收集到的信息是否完备，是否进行了充分的考虑。在这基础上，拥有自由意志的我们不应沦为理由的奴隶，而应做出真正符合自己人格的选择，那些理由自然会纷至沓来。
+- 走出塘朗站时偶然回忆起的 [Frank Sinatra 的经典歌曲 _My Way_](https://youtube.com/watch?v=qQzdAsjWGPg) 恐怕是促使我做出这个决断的最后一根稻草。比活着更令人兴奋的，是以**自己的方式**活着。
 
   > For what is a man, what has he got? <br>
   > If not himself, them he has naught. <br>
@@ -312,7 +317,7 @@ department: sme
 >
 > 感谢单坤、南博钊学长提供的参考信息。
 
-[于仕琪副教授](https://www.sustech.edu.cn/zh/faculties/yushiqi.html) 曾说，一门课的分数并非从 100 分开始扣减，而是从 0 分开始慢慢积攒。我想人生亦如此，我们并非从完美的生开始一步步迈向凋敝的死，而是从空虚孤寂的死开始逐渐领悟生。
+[于仕琪副教授](https://sustech.edu.cn/zh/faculties/yushiqi.html) 曾说，一门课的分数并非从 100 分开始扣减，而是从 0 分开始慢慢积攒。我想人生亦如此，我们并非从完美的生开始一步步迈向凋敝的死，而是从空虚孤寂的死开始逐渐领悟生。
 
 申请过程的不确定性因素很多，很难定义什么叫失败——被梦校拒绝是失败吗？去了保底学校是失败吗？「全拒德」是失败吗？即使结果不甚理想，我们也并非全无收获。不管是一大步，一小步，抑或是充满了曲折和血泪的一步，都是向理想迈进的坚实一步。与其将这些不如意视作失败，不如将它们当作一场惨痛而壮烈的胜利，铭记在心。
 
@@ -331,7 +336,7 @@ department: sme
 你也可以在其他平台关注我，不定期不定主题发布内容。
 
 - 哔哩哔哩：[@黄彧柒](https://space.bilibili.com/11101809)
-- 小红书：[@黄彧柒](https://www.xiaohongshu.com/user/profile/62ee64ee000000001e01f345)
+- 小红书：[@黄彧柒](https://xiaohongshu.com/user/profile/62ee64ee000000001e01f345)
 - LinkedIn：[@samuel-g-huang](https://linkedin.com/in/samuel-g-huang)
 - 微信公众号（在建）：浮生思诚
 
