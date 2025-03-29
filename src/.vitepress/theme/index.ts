@@ -1,6 +1,4 @@
 // https://vitepress.dev/guide/custom-theme
-import { h } from "vue";
-
 import type { Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 
@@ -11,13 +9,8 @@ import "./style.css";
 
 export default {
   extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    });
-  },
   enhanceApp({ app, router }) {
-    /* redirect legacy hash path */
+    /* redirect legacy hash path, can only be done on client side */
     router.onAfterRouteChange = async (to) => {
       const hashPath = /^\/#\/(.+)\/?$/.exec(to);
       if (hashPath) {

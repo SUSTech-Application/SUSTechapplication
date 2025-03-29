@@ -3,21 +3,22 @@ import { parse } from "yaml";
 
 // TODO: we should probably move to a better runtime typing tool, maybe Zod?
 
-type Keys = "type" | "degree" | "region" | "department" | "university";
-type Metadata = Record<Keys, Record<string, string>>;
+type Key = "type" | "degree" | "region" | "department" | "university";
+type Metadata = Record<Key, Record<string, string>>;
+type Options = Record<Key, string[]>;
 
-const metadata = parse(readFileSync("./metadata.yaml", "utf-8")) as Metadata;
+const metadata = parse(readFileSync("src/metadata.yaml", "utf8")) as Metadata;
 const options = Object.fromEntries(
-  Object.keys(metadata).map((k) => [k, Object.keys(metadata[k as Keys])]),
-);
+  Object.keys(metadata).map((k) => [k, Object.keys(metadata[k as Key])]),
+) as Options;
 
 const schema = {
   type: "object",
   properties: {
     author: { type: "string" },
     date: { type: "string", pattern: "^\\d{4}-\\d{2}-\\d{2}$" },
-    department: { type: "string", enum: options.department },
     degree: { type: "string", enum: options.degree },
+    department: { type: "string", enum: options.department },
     employer: { type: "string" },
     program: { type: "string" },
     region: {

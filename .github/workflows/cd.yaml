@@ -95,7 +95,6 @@ jobs:
           path: ./
 
       - name: Deploy - delete files
-        continue-on-error: true
         run: |
           echo "======== Files to be deleted... ========"
           grep '^\*' diff-list | sed 's/^\*.* //' | tee delete-list
@@ -103,7 +102,6 @@ jobs:
           ./ossutil rm -rf $BUCKET --files-from delete-list
 
       - name: Deploy - update files
-        continue-on-error: true
         run: |
           echo "======== Files to be updated... ========"
           grep  '^>' diff-list | sed 's/^>.* //' | tee update-list

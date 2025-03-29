@@ -2,9 +2,11 @@ plugins:
   - "@trivago/prettier-plugin-sort-imports"
   - "prettier-plugin-sh"
 importOrder:
-  - "node"
+  - "^node"
   - "^vue"
+  - "^(vite|vite/)$"
   - "^vitepress"
+  - "^vitest"
   - "^[^.]"
   - "^[./]"
 importOrderSeparation: true
