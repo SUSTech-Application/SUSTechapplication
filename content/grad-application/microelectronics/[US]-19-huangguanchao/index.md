@@ -14,8 +14,8 @@ department: sme
 > - 我在 [2023 年](/sme-sharing-2023.html){target="\_self"}及 [2024 年](/sme-sharing-2024.html){target="\_self"}深港微电子学院升学分享会上的演示文稿，其中涉及了本文没有提到的一些内容以及就读后的体会，值得一读。
 > - 如果我的经验分享有帮助到你，不妨[请我喝杯咖啡](#请我喝杯咖啡)。
 
-> [!ATTENTION|label:Notre Dame Our Mother]
-> 再次回到圣母大学之后，我愈发意识到这个在美国受人景仰的学府和温暖的家庭被国人所严重低估——多么遗憾！因此，我正在积极地和圣母大学工学院的招生团队以及南科大国合部合作，吸引更多优秀的南科大学生来到圣母大学参加交流、暑研项目，以至选择在这里升学。圣母大学以其在美国的声誉、优质的教育、强大的校友网络、小项目规模高师生比，以及富有凝聚力的校园氛围而出众，并在 [U.S. News 美国大学排行榜](https://www.usnews.com/best-colleges/rankings/national-universities)上位列第 20 名（2024）。欢迎你来到这个充满机遇，促人成长的地方学习、生活！如果你希望进一步了解圣母大学，欢迎直接联系我，或加入南科大-ND交流QQ群：220297814。
+> [!IMPORTANT] Notre Dame Our Mother
+> 再次回到圣母大学之后，我愈发意识到这个在美国受人景仰的学府和温暖的家庭被国人所严重低估——多么遗憾！因此，我正在积极地和圣母大学工学院的招生团队以及南科大国合部合作，吸引更多优秀的南科大学生来到圣母大学参加交流、暑研项目，以至选择在这里升学。圣母大学以其在美国的声誉、优质的教育、强大的校友网络、小项目规模高师生比，以及富有凝聚力的校园氛围而出众，并在 [U.S. News 美国大学排行榜](https://usnews.com/best-colleges/rankings/national-universities)上位列第 20 名（2024）。欢迎你来到这个充满机遇，促人成长的地方学习、生活！如果你希望进一步了解圣母大学，欢迎直接联系我，或加入南科大-ND交流QQ群：220297814。
 
 - [\[US\]-19-黄冠超 MS CSE @ ND](#us-19-黄冠超-ms-cse--nd)
   - [更新记录](#更新记录)
@@ -57,7 +57,7 @@ department: sme
 
 ## 申请目标
 
-> [!ATTENTION|label:明确目标]
+> [!IMPORTANT] 明确目标
 > 不管你的软硬件条件如何，希望申请哪个地区、哪一个层次的院校、哪一个专业，都应首先了解自己希望借此最终达成的目标。
 
 - 转码 => ECE
@@ -106,12 +106,12 @@ department: sme
 
 - 证书：二十余个网课证书，详见[我的 LinkedIn](https://www.linkedin.com/in/sghuang19/)
 
-> [!TIP|label:我的B面|style:flat]
+> [!TIP] 我的B面
 > 申请之外的我更有趣：喜欢音乐、读书、哲学、心理学和摄影，还能使长剑和军刀。醉心生产力和个人知识管理的数字花园园艺师，在消费电子展柜前流连忘返的极客。对了，还是个容易孤独的 [INFJ](https://www.16personalities.com/profiles/7c48aef917dde)，欢迎你和我[交朋友](#联系方式)。
 
 ## 申请结果
 
-> [!NOTE|label:最终去向]
+> [!NOTE] 最终去向
 >
 > Master of Science in Computer Science and Engineering, University of Notre Dame
 >
@@ -156,7 +156,7 @@ department: sme
 
 ### 工具
 
-> [!WARNING|label:善假于物]
+> [!WARNING] 善假于物
 > Our mind is for **having** ideas, not for **holding** them. -- David Allen, _Getting Things Done_
 
 申请工作并不艰难，只是较为繁琐。我主要使用了两个工具来辅助这一过程：[Notion](https://notion.so) 与 [TickTick](https://ticktick.com)（即[滴答清单](https://dida365.com)）。
@@ -171,7 +171,7 @@ department: sme
 
 ### 文书
 
-> [!TIP|label:文章憎命达]
+> [!TIP] 文章憎命达
 > What is my Job on the planet with a capital J? -- Jon Kabat-Zinn, _Wherever You Go, There You Are_
 >
 > 我相信写出好的 Statement of Purpose 的最佳方法，就是不断地自我探寻、丰富、打磨自己的 Purpose。我们永远无法写出未曾经历和反思过的文字——当然，你可以选择让中介代笔，但这不是我的选项。
@@ -202,7 +202,7 @@ department: sme
 
 ### 英语
 
-> [!ATTENTION|label:逐本舍末]
+> [!IMPORTANT] 逐本舍末
 > 我期待穷尽余生来精进英语的听说读写，但不愿意腾出一个星期来准备托福。我们学习的对象是名为 English 的语言，而非一场叫做 TOEFL 的考试。
 
 我的托福、GRE 考试都几乎是裸考，从未完整地做过一张模拟卷子，仅仅简单地了解过题型和考试流程。为了准备交换申请，初次考托福时，取得了110分的成绩；我的 GRE 也仅参加一次考试。
@@ -235,7 +235,7 @@ department: sme
 
 ### 心态
 
-> [!ATTENTION|label:心如止水]
+> [!IMPORTANT] 心如止水
 >
 > 暮色苍茫看劲松，乱云飞渡仍从容。—— 毛泽东 <br>
 > 不识庐山真面目，只缘身在此山中。—— 苏轼 <br>
@@ -251,7 +251,7 @@ department: sme
 
 ### 决断
 
-> [!NOTE|label:广度优先]
+> [!NOTE] 广度优先
 > 哦，我的灵魂并不向往不朽，而是要穷尽可能之地。 —— 品达《皮托竞技会颂歌》之三
 
 虽然尚有几个项目的机会渺茫的结果还未公布，但已有的两个选择已经足以让我纠结不已了。
@@ -301,7 +301,7 @@ department: sme
 
 ## 写在最后
 
-> [!NOTE|label:鸣谢]
+> [!NOTE] 鸣谢
 >
 > 感谢[胡明涛学长]([US]-17-humingtao)的经验分享，我们专业相同，成绩相近，申请的项目也类似，他的案例为我提供了重要的参考，极大地缓解了我的焦虑。
 >
