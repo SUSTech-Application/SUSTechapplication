@@ -1,5 +1,4 @@
 ---
-title: \[US\]-15-钟文韶 PhD in Computer Science @ UIC
 year: 15
 date: 2020-03-26
 type: grad

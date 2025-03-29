@@ -1,5 +1,4 @@
 ---
-title: 南科大APS审核指北
 year: 20
 date: 2024-07-22
 type: grad

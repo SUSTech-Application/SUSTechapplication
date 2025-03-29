@@ -1,5 +1,4 @@
 ---
-title: \[US\]-15-刘国远-PhD in MSE @ UIUC
 year: 15
 date: 2020-03-26
 type: grad

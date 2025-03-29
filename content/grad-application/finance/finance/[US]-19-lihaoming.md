@@ -1,5 +1,4 @@
 ---
-title: "[US]-19-李浩铭-企业风险管理 @ Columbia University"
 year: 19
 date: 2023-08-13
 type: grad

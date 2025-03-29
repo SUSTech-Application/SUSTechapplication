@@ -1,5 +1,4 @@
 ---
-title: "[CN]-17-陈炫午 PhD @ 清华大学"
 year: 17
 date: 2021-04-19
 type: grad

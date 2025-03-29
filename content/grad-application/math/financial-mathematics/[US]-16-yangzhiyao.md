@@ -1,5 +1,4 @@
 ---
-title: "[US]-16-杨志遥 MS in Business Analytics @ UMD"
 year: 16
 date: 2020-04-23
 type: grad

@@ -1,5 +1,4 @@
 ---
-title: \[CN\]-15-章松涛--MS in PKU
 year: 15
 date: 2020-03-26
 type: grad

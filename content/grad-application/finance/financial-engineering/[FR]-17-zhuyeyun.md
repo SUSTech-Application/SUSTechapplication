@@ -1,5 +1,4 @@
 ---
-title: "[FR]-17-朱烨赟 MIM @ HEC Paris"
 year: 17
 date: 2021-07-05
 type: grad
