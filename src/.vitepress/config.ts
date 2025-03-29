@@ -14,6 +14,7 @@ export default defineConfig({
   cleanUrls: true,
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: { level: "deep", label: "目录" },
