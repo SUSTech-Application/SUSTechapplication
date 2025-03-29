@@ -23,6 +23,8 @@ department: sme
 
 ## 更新记录
 
+<!-- cSpell:words UCSD -->
+
 - 2024-05-16：加入 2024 年 SME 分享会 slides、就读体验、ND 介绍等
 - 2023-05-03：更新 UT Austin 结果，加入 SME 分享会 slides，少量优化
 - 2023-04-18：更新几个项目的结果，少量优化，加入「FAQ 与锐评」章节，添加目录，置顶短链接
@@ -48,13 +50,13 @@ department: sme
 > 不管你的软硬件条件如何，希望申请哪个地区、哪一个层次的院校、哪一个专业，都应首先了解自己希望借此最终达成的目标。
 
 - 转码 => ECE
-  - 由于 CSE 专业的申请竞争过于激烈、\*，且我本科并 CSE 专业，因此选择申请 ECE 项目。
+  - 由于 CSE 专业的申请竞争过于激烈\*，且我本科并 CSE 专业，因此选择申请 ECE 项目。
   - 因此，我希望项目能提供偏向软件方面的课程选择。
   - 同时，我需要院校能提供较好的就业出路，故而地理位置、院校的行业声誉将成为重要的考虑因素。
-  - 但请注意，我的分析并非是唯一的最优解，通过放弃院校排名、\*\*来满足 CSE 专业也是非常值得考虑的选项。
+  - 但请注意，我的分析并非是唯一的最优解，通过放弃院校排名\*\*来满足 CSE 专业也是非常值得考虑的选项。
 - 找工 => Master
   - 我（暂时）对学术不甚感兴趣，因此选择了偏向就业导向的 Master 项目。
-  - 学制较短的 Master of Engineering 项目不便于准备实习、找工作等、\*\*\*，故而选择学制更长的 Master of Science 项目。
+  - 学制较短的 Master of Engineering 项目不便于准备实习、找工作等\*\*\*，故而选择学制更长的 Master of Science 项目。
 
 \* 唯一的例外是 University of Notre Dame，鉴于我与该校 CSE Department 千丝万缕的联系，我认为自己可以拿下该校的 MS CSE offer。\
 \*\* 我很大程度上是受到了*名校情结*的影响，才选择放弃 CSE 专业以追求更高的排名。\
@@ -137,7 +139,7 @@ department: sme
 | :--------------------------------------: | :--------------------------: |
 |   University of California Los Angeles   | 申请难度大，且课程设计偏硬件 |
 |      University of South California      |           费用高昂           |
-|     University of Michigan-Ann Arbor     |        截止日期晚、\*        |
+|     University of Michigan-Ann Arbor     |         截止日期晚\*         |
 |           Columbia University            |              "               |
 |             Duke University              |              "               |
 |         Northwestern University          |     已得到其他院校 offer     |
