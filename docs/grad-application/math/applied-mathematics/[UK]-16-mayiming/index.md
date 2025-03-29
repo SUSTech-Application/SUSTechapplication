@@ -1,6 +1,5 @@
 ---
 title: "[UK]-16-马一铭 MSc leading to PhD in Mathematics of Systems @ The University of Warwick"
-title: "[UK]-16-马一铭 MSc leading to PhD in Mathematics of Systems @ The University of Warwick"
 year: 16
 date: 2020-04-03
 type: grad

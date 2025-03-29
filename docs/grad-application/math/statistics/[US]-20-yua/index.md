@@ -212,4 +212,4 @@ By Yua
 
 **请作者吃点小零食**：
 
-![snacks](./yua/snacks.png)
+![snacks](snacks.png)
