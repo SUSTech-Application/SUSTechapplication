@@ -8,7 +8,7 @@ department: cse
 
 <!--
 注：因为项目结构原因，如果使用HTML格式加载图片，需要将本地md文件中的路径对项目进行适配。
-本地路径："./(ML)-20-linyuhang/XXX.png"
+本地路径："./XXX.png"
 适配项目："(ML)-20-linyuhang/XXX.png"
 -->
 
@@ -50,7 +50,7 @@ department: cse
    URL：https://opintopolku.fi/konfo/en/hakukohde/1.2.246.562.20.00000000000000036106/valintaperuste
 
     <div style='text-align: center'>
-    <img class="boarder" src="./(ML)-20-linyuhang/1-动机信要求-赫尔辛基.png" alt="1-动机信要求-赫尔辛基.png" style="zoom: 55%;" />
+    <img class="boarder" src="./1-动机信要求-赫尔辛基.png" alt="1-动机信要求-赫尔辛基.png" style="zoom: 55%;" />
     </div>
 
    原文：
@@ -96,7 +96,7 @@ department: cse
    URL：https://www.aalto.fi/en/study-options/computer-science-computer-communication-and-information-sciences-master-of-science-technology
 
     <div style='text-align: center'>
-    <img src="./(ML)-20-linyuhang/2-动机信要求-阿尔托.png" alt="2-动机信要求-阿尔托.png" style="zoom: 55%;" />
+    <img src="./2-动机信要求-阿尔托.png" alt="2-动机信要求-阿尔托.png" style="zoom: 55%;" />
     </div>
 
    原文：
@@ -131,7 +131,7 @@ department: cse
    URL：https://www.kth.se/en/studies/master/computer-science/entry-requirements-computer-science-1.419975
 
     <div style='text-align: center'>
-    <img src="./(ML)-20-linyuhang/3-动机信要求-KTH.png" alt="3-动机信要求-KTH.png" style="zoom: 62%;" />
+    <img src="./3-动机信要求-KTH.png" alt="3-动机信要求-KTH.png" style="zoom: 62%;" />
     </div>
 
    原文：
@@ -176,7 +176,7 @@ TU/e）对于动机信的要求中有提到：
 - 最多两张 A4 纸
 
  <div style='text-align: center'>
- 	<img class="boarder" src="./(ML)-20-linyuhang/4-格式例外-埃因霍温.png" alt="4-格式例外-埃因霍温.png" style="zoom: 100%;" />
+ 	<img class="boarder" src="./4-格式例外-埃因霍温.png" alt="4-格式例外-埃因霍温.png" style="zoom: 100%;" />
     <div style='font-size: 14px; color: gray'>
         来源：TU/e申请系统，需要注册登录后才能看到，故无固定URL
      </div>
@@ -204,7 +204,7 @@ TU/e）对于动机信的要求中有提到：
 Yours sincerely, Yuhang Lin
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/5-书信开头.png" alt="5-书信开头.png" style="zoom: 27.8%;" />
+ <img src="./5-书信开头.png" alt="5-书信开头.png" style="zoom: 27.8%;" />
  </div>
 
 #### 2.1.2 A4 纸篇幅
@@ -222,7 +222,7 @@ Yours sincerely, Yuhang Lin
 所有页面设置推荐参数如下表所示：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/6-字数.png" alt="6-字数.png" style="zoom: 28%;" />
+ <img src="./6-字数.png" alt="6-字数.png" style="zoom: 28%;" />
  </div>
 
 除去动机信内容本身外，部分项目还可能要求你在顶部或底部加一些额外文本，如第一部分提到的 KTH 便要求：
@@ -233,13 +233,13 @@ Yours sincerely, Yuhang Lin
 > 如果你申请多个项目…你应该…在页面顶部注明每封动机信适用于哪个项目。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/7-页眉案例-KTH多项目.png" alt="7-页眉案例-KTH多项目.png" style="zoom: 60%;" />
+ <img src="./7-页眉案例-KTH多项目.png" alt="7-页眉案例-KTH多项目.png" style="zoom: 60%;" />
  </div>
 
 这种情况下，为了不让额外文本占用动机信主体区域，可以将所要求的文本放置于页眉或页脚内。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/8-页眉页脚入口.png" alt="8-页眉页脚入口.png" style="zoom: 60%;" />
+ <img src="./8-页眉页脚入口.png" alt="8-页眉页脚入口.png" style="zoom: 60%;" />
  </div>
 
 ### <span id='chapter-2-2'>2.2 动机信内容</span>
@@ -271,7 +271,7 @@ Yours sincerely, Yuhang Lin
 如果项目没有强制要求额外内容，那么我个人的选择是，多描述一个项目经历；这样写作难度稍低，也能传达更多个人品质：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/9-动机信结构.png" alt="9-动机信结构.png" style="zoom: 28%;" />
+ <img src="./9-动机信结构.png" alt="9-动机信结构.png" style="zoom: 28%;" />
  </div>
 
 这种结构能满足绝大部分申请项目对于动机信的要求，接下来我将逐一讲解每一部分、每个自然段应该如何撰写。
@@ -283,7 +283,7 @@ Yours sincerely, Yuhang Lin
 这一段没有什么重点和易错点，唯一的注意事项是控制字数、不要写得过多，这只是一个开头，不要占用后面重点内容的太多空间。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/10-自我介绍段.png" alt="10-自我介绍段.png" style="zoom: 28%;" />
+ <img src="./10-自我介绍段.png" alt="10-自我介绍段.png" style="zoom: 28%;" />
  </div>
 
 #### 2.2.2 项目经历段
@@ -297,7 +297,7 @@ Yours sincerely, Yuhang Lin
 - 涵盖范围：CV的目的是快速传达你的技能和经验等硬性能力，所以会介绍多个项目，每个项目会介绍得尽量全面，内容涵盖项目整体介绍、你的负责内容、你的工作成果等；动机信目的则是通过具体案例展示你的个人性格、热情等软性因素，来说明你适合适合该申请项目。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/11-CV与动机信区别.png" alt="11-CV与动机信区别.png" style="zoom: 30.5%;" />
+ <img src="./11-CV与动机信区别.png" alt="11-CV与动机信区别.png" style="zoom: 30.5%;" />
  </div>
 
 我根据我的个人写作经验总结出了以下两个思考步骤，供大家参考：
@@ -321,7 +321,7 @@ Yours sincerely, Yuhang Lin
    如果这是一个相对普通的项目，没有那么多转折或者戏剧性情节，那可以考虑选择一些比较通用的套话作为性格，例如“勤奋好学”“在实战中积累了丰富的开发经验”。然后选取一些非常常见的抽象概念，如“克服困难”“团队沟通”。从这些抽象概念延申，回忆你在该经历中这些抽象概念的具象实现。例如“克服困难”可以是“学习从未接触过的技术栈”，也可以是“某行代码报错迟迟无法解决”，还可以是“助教判分错误而去argue”。抽象到具体是一个增熵的过程，每个人遇到的实际情况都不相同，这些具象的细节便是你的独特之处。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/12-项目经历段.png" alt="12-项目经历段.png" style="zoom: 28%;" />
+ <img src="./12-项目经历段.png" alt="12-项目经历段.png" style="zoom: 28%;" />
  </div>
 
 从文学写作角度来说，该流程不甚恰当，例如文学写作遵从“从观点到论据”的过程，应当先立人物性格，再从以往经历中寻找例子；但受限于教育制度和人生视野等原因，更多时候我们是拿着一堆从课程、科研、交流等地方好不容易搜刮出来的、为数不多的项目经历来撰写文书，其数量并不足以支撑文学“从观点到论据”的流程，因此我反其道而行之，先定论据，再定性格，用一种“先射箭再画靶”的方式提高了项目经历的利用率，算是一种向现实妥协的无奈之举。
@@ -331,7 +331,7 @@ Yours sincerely, Yuhang Lin
 该段用于阐述你与申请项目的契合度，需要包含专业选择动机、项目选择动机、预期学习成果。依然采用总分结构，首句开篇点明你看上的是该申请项目的哪个子方向 (track)，基本结构如下：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/13-学习动机段.png" alt="13-学习动机段.png" style="zoom: 28%;" />
+ <img src="./13-学习动机段.png" alt="13-学习动机段.png" style="zoom: 28%;" />
  </div>
 
 本段也是全文唯一一段与项目本身信息有关的段落，可以利用这一点向审阅者展示更多有利于你的信息，例如：
@@ -358,7 +358,7 @@ Yours sincerely, Yuhang Lin
 - 项目视角：不需要你动脑子去思考、官网明确写出的项目特点。如“可选择实习作为选修课”。
 
      <div style='text-align: center'>
-     	<img src="./(ML)-20-linyuhang/14-TUe实习作选修课.png" alt="14-TUe实习作选修课.png" style="zoom: 35%;" />
+     	<img src="./14-TUe实习作选修课.png" alt="14-TUe实习作选修课.png" style="zoom: 35%;" />
      	<div style='font-size: 14px; color: gray'>
             图源：<a style='color: gray' target="_blank" href='https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering/course-structure-and-curriculum'>TU/e MSc CSE 课程结构介绍</a>
          </div>
@@ -367,28 +367,28 @@ Yours sincerely, Yuhang Lin
 - 课程结构视角：课程结构中最吸引你的一个结构安排，注意是多门课之间的结构安排，而不是某一门课的内容。如“该专业有极为少见的‘游戏开发’子分支”、“选课没有任何强制搭配而完全由你自主决定”、”可以‘主修+辅修’共两个子分支“；如果课程结构没有特别亮眼的地方，仅仅“单纯对某一子分支感兴趣“也可以作为你的选择理由。
 
      <div style='text-align: center'>
-        	<img class="boarder" src="./(ML)-20-linyuhang/15-CTH游戏开发子方向.png" alt="15-CTH游戏开发子方向.png" style="zoom: 45%;" />
+        	<img class="boarder" src="./15-CTH游戏开发子方向.png" alt="15-CTH游戏开发子方向.png" style="zoom: 45%;" />
         	<div class="comment" style='font-size: 14px; color: gray'>
             图源：<a style='color:gray' target="_blank" href='https://www.chalmers.se/en/education/find-masters-programme/interaction-design-and-technologies-msc/#topics-covered'>CTH MSc IDT 课程结构介绍</a>
         </div>
      </div> 	
     
      <div style='text-align: center'>
-        	<img class="boarder" src="./(ML)-20-linyuhang/16-UU自由选课.png" alt="16-UU自由选课.png" style="zoom: 44%;" />
+        	<img class="boarder" src="./16-UU自由选课.png" alt="16-UU自由选课.png" style="zoom: 44%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              图源：<a style='color:gray' target="_blank" href='https://www.uu.se/en/study/outline?query=2988'>UU MSc CS 课程结构介绍</a>
          </div>
      </div>
     
      <div style='text-align: center'>
-        	<img class="boarder" src="./(ML)-20-linyuhang/17-阿尔托辅修.png" alt="17-阿尔托辅修.png" style="zoom: 42%;" />
+        	<img class="boarder" src="./17-阿尔托辅修.png" alt="17-阿尔托辅修.png" style="zoom: 42%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              图源：<a style='color:gray' target="_blank" href='https://www.aalto.fi/en/programmes/masters-programme-in-computer-communication-and-information-sciences/curriculum-2022-2024#30-software-and-service-engineering--sse-'>Aalto CCIS 项目介绍</a>
          </div>
      </div>
     
      <div style='text-align: center'>
-        	<img class="boarder" src="./(ML)-20-linyuhang/18-KTH软件开发子方向.png" alt="18-KTH软件开发子方向.png" style="zoom: 36%;" />
+        	<img class="boarder" src="./18-KTH软件开发子方向.png" alt="18-KTH软件开发子方向.png" style="zoom: 36%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              图源：<a style='color:gray' target="_blank" href='https://www.kth.se/en/studies/master/computer-science/courses-computer-science-1.502267'>KTH MSc CS 课程介绍</a>
          </div>
@@ -397,14 +397,14 @@ Yours sincerely, Yuhang Lin
 - 课程内容视角：该申请项目中特别吸引你的、你特别想修读的某一门或某一些课程。如“一系列传授工程性技能的课程”、“一学期只有这一门课、规模庞大、分工岗位齐全、能够认证30选修学分的大型游戏开发项目”。
 
      <div style='text-align: center'>
-        	<img class="boarder" src="./(ML)-20-linyuhang/19-赫尔辛基全栈课程.png" alt="19-赫尔辛基全栈课程.png" style="zoom: 40%;" />
+        	<img class="boarder" src="./19-赫尔辛基全栈课程.png" alt="19-赫尔辛基全栈课程.png" style="zoom: 40%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              图源：<a style='color:gray' target="_blank" href='https://studies.helsinki.fi/instructions/article/structure-and-scope-my-degree-programme?degree_programme_code=MH50_009'>UU MSc CS 项目结构介绍</a>
          </div>
      </div>
     
      <div style='text-align: center'>
-        	<img class="boarder" src="./(ML)-20-linyuhang/20-哥哈DADIU.png" alt="20-哥哈DADIU.png" style="zoom: 40%;" />
+        	<img class="boarder" src="./20-哥哈DADIU.png" alt="20-哥哈DADIU.png" style="zoom: 40%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              左图源：<a style='color:gray' target="_blank" href='https://studies.ku.dk/masters/computer-science/programme-structure/recommended_studytracks/'>KU CS 硕士项目学习分支</a>；右上右下图源：<a style='color:gray' target="_blank" href='https://studies.ku.dk/masters/computer-science/programme-structure/'>KU CS 硕士项目结构介绍</a>
          </div>
@@ -426,7 +426,7 @@ YYY)”有序对，那你也可以用“贵校与我的学术兴趣更吻合”�
 本段的目的是展示你未来的职业规划。依旧采用“总-分”结构：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/21-职业目标段.png" alt="21-职业目标段.png" style="zoom: 28%;" />
+ <img src="./21-职业目标段.png" alt="21-职业目标段.png" style="zoom: 28%;" />
  </div>
 
 1. 表达职业目标
@@ -438,7 +438,7 @@ YYY)”有序对，那你也可以用“贵校与我的学术兴趣更吻合”�
    如果你对于未来没有什么想法，可以尝试以下思路：首先，根据自己兴趣确定大方向是“就业”还是“学术深造”；然后去申请项目的官网寻找该项目对于未来机会的介绍、往届毕业生的去向，任何申请项目一定有这个介绍，无论是就业还是深造；然后你只需要从中挑选一个你看着顺眼的就行。
 
     <div style='text-align: center'>
-   	<img src="./(ML)-20-linyuhang/22-未来前景案例.png" alt="22-未来前景案例.png" style="zoom: 48%;" />
+   	<img src="./22-未来前景案例.png" alt="22-未来前景案例.png" style="zoom: 48%;" />
         <div class="comment" style='font-size: 14px;color:gray'>
             上图源：<a style='color:gray' target="_blank" href='https://www.helsinki.fi/en/degree-programmes/computer-science-masters-programme/studying'>UH MSc CS 项目介绍</a>；下图源：<a style='color:gray' target="_blank" href='https://www.aalto.fi/en/study-options/computer-science-computer-communication-and-information-sciences-master-of-science-technology'>Aalto MSc CCIS 项目介绍</a>
         </div>
@@ -451,7 +451,7 @@ YYY)”有序对，那你也可以用“贵校与我的学术兴趣更吻合”�
    如果将动机信内容按照时间划分，那么之前你写的内容都是关于“过去”和“现在”的：“项目经历段”是对于过去历程的精炼总结、“学习动机段”是现在因个人兴趣而被申请项目吸引。而本段则是“未来”：你想要从项目中收获什么、想让项目如何帮助你。
 
     <div style='text-align: center'>
-    <img src="./(ML)-20-linyuhang/23-时间线.png" alt="23-时间线.png" style="zoom: 28%;" />
+    <img src="./23-时间线.png" alt="23-时间线.png" style="zoom: 28%;" />
     </div>
 
    既然是关于未来的段落，那就应该从未来的视角去看。请设想一下，假如时间已经过去了好几年，你即将从该高校的该项目毕业，并且你非常想在XXX岗位就业/在YYY领域深造（取决于你段首句的内容），面对众多应届生和往届生的就业压力/升学竞争，显然你需要有拿得出手的本事才能获得想要的就业/升学offer。那么请思考：在完全理想、不考虑经济租房等等压力的情况下，你应该具备什么样的能力才能获得offer？
@@ -486,7 +486,7 @@ contributing to and learning from your distinguished program.
 整封动机信中固定文字如下，无论给哪个申请项目写动机信，这些固定文本都不需要变动：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/24-固定文本.png" alt="24-固定文本.png" style="zoom: 28%;" />
+ <img src="./24-固定文本.png" alt="24-固定文本.png" style="zoom: 28%;" />
  </div>
 
 ### 3.1 自我介绍段
@@ -498,13 +498,13 @@ contributing to and learning from your distinguished program.
 我的其他基本信息如下：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/25-个人信息.png" alt="25-个人信息.png" style="zoom: 28%;" />
+ <img src="./25-个人信息.png" alt="25-个人信息.png" style="zoom: 28%;" />
  </div>
 
 用最简洁的语言说明这些信息，并使用一些语言技巧精炼字数，我的首段内容如下：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/26-自我介绍段分析.png" alt="26-自我介绍段分析.png" style="zoom: 29%;" />
+ <img src="./26-自我介绍段分析.png" alt="26-自我介绍段分析.png" style="zoom: 29%;" />
  </div>
 
 ### 3.2 项目经历段
@@ -514,11 +514,11 @@ contributing to and learning from your distinguished program.
 经历细节没有固定的写作技巧，怎么方便怎么写即可。例如，我在经历段1中选取的两个细节，每个都有值得说道的实时回应和结果，因此我就采用了“1细节=1内容+1结果”的方式讲述；经历段2的两个细节没有实时反馈，但是整个项目取得了不错的成果，因此我用了“2细节+1项目成果”的方式叙述。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/27-项目经历段1分析.png" alt="27-项目经历段1分析.png" style="zoom: 29%;" />
+ <img src="./27-项目经历段1分析.png" alt="27-项目经历段1分析.png" style="zoom: 29%;" />
  </div>
 
  <div style='text-align: center'>
- 	<img src="./(ML)-20-linyuhang/28-项目经历段2分析.png" alt="28-项目经历段2分析.png" style="zoom: 29%;" />
+ 	<img src="./28-项目经历段2分析.png" alt="28-项目经历段2分析.png" style="zoom: 29%;" />
  </div>
 
 ### 3.3 学习动机段
@@ -526,7 +526,7 @@ contributing to and learning from your distinguished program.
 该项目属于阿尔托大学、计算机通信与信息科学硕士项目、软件与服务工程专业，我中意其“软件工程”子分支。该大类/子分支有两个特点：课程表中有偏实践的课、可以“主修+辅修”共两个分支。
 
  <div style='text-align: center'>
-	<img class="boarder" src="./(ML)-20-linyuhang/29-阿尔托SSE特点.png" alt="29-阿尔托SSE特点.png" style="zoom: 50%;" />
+	<img class="boarder" src="./29-阿尔托SSE特点.png" alt="29-阿尔托SSE特点.png" style="zoom: 50%;" />
      <div class="comment" style='font-size: 14px;color:gray'>
          上下图源：<a style='color:gray' target="_blank" href='https://www.aalto.fi/en/programmes/masters-programme-in-computer-communication-and-information-sciences/curriculum-2022-2024#30-software-and-service-engineering--sse-'>Aalto CCIS 项目介绍</a>
      </div>
@@ -546,7 +546,7 @@ contributing to and learning from your distinguished program.
 
 <span id='chapter-3-3-motivation-paragraph'>
     <div style='text-align: center'>
-        <img src="./(ML)-20-linyuhang/30-学习动机段分析.png" alt="30-学习动机段分析.png" style="zoom: 29%;" />
+        <img src="./30-学习动机段分析.png" alt="30-学习动机段分析.png" style="zoom: 29%;" />
     </div>
 </span>
 
@@ -559,13 +559,13 @@ contributing to and learning from your distinguished program.
 所以我的“项目作用”至少有两点：一点讲课业内的学习成绩要好，一点讲课外的实习要找；不过这样比较单薄，那就在这两段前再加一句“好好学习天天向上”的口号吧。
 
  <div style='text-align: center'>
- 	<img src="./(ML)-20-linyuhang/31-职业目标段扩展.png" alt="31-职业目标段扩展.png" style="zoom: 29%"/>
+ 	<img src="./31-职业目标段扩展.png" alt="31-职业目标段扩展.png" style="zoom: 29%"/>
  </div>
 
 此外，我还在本段内使用了多个写作技巧，如多次回扣上一段的项目特点以增强段落间联系、在多个句子中加入就业相关的表达以凸显本段重点等。全文如下：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/32-职业目标段分析.png" alt="32-职业目标段分析.png" style="zoom: 28.5%;" />
+ <img src="./32-职业目标段分析.png" alt="32-职业目标段分析.png" style="zoom: 28.5%;" />
  </div>
 
 结尾段和书信格式见[2.1.1](#chapter-2-1-1)小节，此处不再赘述。
@@ -577,7 +577,7 @@ contributing to and learning from your distinguished program.
 在我撰写的动机信中，需要更改以下段落的部分内容：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/33-段落改写.png" alt="33-段落改写.png" style="zoom: 29.2%;" />
+ <img src="./33-段落改写.png" alt="33-段落改写.png" style="zoom: 29.2%;" />
  </div>
 
 为了更直观地体现改写的内容，本小节我将展示我的两篇动机信，并重点标识其中不同的部分。这两篇动机信对应的申请项目分别是：
@@ -606,7 +606,7 @@ contributing to and learning from your distinguished program.
 本段只需要修改申请项目的名称即可。
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/34-自我介绍段改写.png" alt="34-自我介绍段改写.png" style="zoom: 30%;" />
+ <img src="./34-自我介绍段改写.png" alt="34-自我介绍段改写.png" style="zoom: 30%;" />
  </div>
 
 ### 4.2 学习动机段
@@ -616,13 +616,13 @@ contributing to and learning from your distinguished program.
 我在这两个申请项目中找到的特点及优势如下：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/36-两项目特点对比.png" alt="36-两项目特点对比.png" style="zoom: 25%;" />
+ <img src="./36-两项目特点对比.png" alt="36-两项目特点对比.png" style="zoom: 25%;" />
  </div>
 
 随后根据不同要点修改对应内容：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/35-学习动机段改写.png" alt="35-学习动机段改写.png" style="zoom: 29%;" />
+ <img src="./35-学习动机段改写.png" alt="35-学习动机段改写.png" style="zoom: 29%;" />
  </div>
 
 ### 4.3 职业目标段
@@ -630,7 +630,7 @@ contributing to and learning from your distinguished program.
 [2.2.4](#chapter-2-2-4)小节提过，本段的撰写思路是套用本科生涯需要改进的地方。由于这种构思方式强调个人行为、将职业本身排除在外，因此这一段中每个人的内容可能互不相同，但同一个人对不同职业目标的修改篇幅却几乎没有。换言之，本段需要修改的内容极少，例如在我写出的文案中，甚至只需要根据申请项目更改职业名称即可：
 
  <div style='text-align: center'>
- <img src="./(ML)-20-linyuhang/37-职业目标段改写.png" alt="37-职业目标段改写.png" style="zoom: 29%;" />
+ <img src="./37-职业目标段改写.png" alt="37-职业目标段改写.png" style="zoom: 29%;" />
  </div>
 
 ## <span id='chapter-5'>5. 动机信的其他应用</span>
@@ -644,7 +644,7 @@ contributing to and learning from your distinguished program.
 例如，DTU HCAI 的上传材料中没有要求动机信或者个人陈述：
 
  <div style='text-align: center'>
-	<img class="boarder" src="./(ML)-20-linyuhang/38-DTU无动机信要求.png" alt="38-DTU无动机信要求.png" style="zoom: 45%;" />
+	<img class="boarder" src="./38-DTU无动机信要求.png" alt="38-DTU无动机信要求.png" style="zoom: 45%;" />
      <div class="comment" style='font-size: 14px;color:gray'>
          图源：<a style='color:gray' target="_blank" href='https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/required-documents'>DTU 硕士项目申请文件要求</a>
      </div>
@@ -653,7 +653,7 @@ contributing to and learning from your distinguished program.
 但是在申请奖学金时却要求提供一个单独的、强调学术成就和兴趣的声明：
 
  <div style='text-align: center'>
-	<img class="boarder" src="./(ML)-20-linyuhang/39-DTU学术声明要求.png" alt="39-DTU学术声明要求.png" style="zoom: 45%;" />
+	<img class="boarder" src="./39-DTU学术声明要求.png" alt="39-DTU学术声明要求.png" style="zoom: 45%;" />
      <div class="comment" style='font-size: 14px;color:gray'>
          图源：<a style='color:gray' target="_blank" href='https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/required-documents'>DTU 硕士项目申请文件要求</a>
      </div>
@@ -662,7 +662,7 @@ contributing to and learning from your distinguished program.
 在 DTU 的官方网申指南中，该学术声明要求内容为：毕业目标、科研兴趣、项目经历、奖学金颁发原因。
 
  <div style='text-align: center'>
-	<img class="boarder" src="./(ML)-20-linyuhang/40-DTU学术声明内容.png" alt="40-DTU学术声明内容.png" style="zoom: 35%;" />
+	<img class="boarder" src="./40-DTU学术声明内容.png" alt="40-DTU学术声明内容.png" style="zoom: 35%;" />
      <div class="comment" style='font-size: 14px;color:gray'>
          图源：<a style='color:gray' target="_blank" href='https://www.dtu.dk/english/-/media/dtu-endk/education/msc-programmes/admission/dans-guides/online-application-guide_2022_2.pdf'>DTU 官方网申指南</a>
      </div>
@@ -671,7 +671,7 @@ contributing to and learning from your distinguished program.
 而既然这是”单独的“一份文书，显然开头需要一段简要的自我介绍；再调整一下叙述顺序，即可将该声明调整至与本文所述动机信相似的结构：
 
  <div style='text-align: center'>
-	<img src="./(ML)-20-linyuhang/41-DTU学术声明结构.png" alt="41-DTU学术声明结构.png" style="zoom: 31%;" />
+	<img src="./41-DTU学术声明结构.png" alt="41-DTU学术声明结构.png" style="zoom: 31%;" />
  </div>
 
 这样就能将全新的“学术声明”文书撰写任务，转化为对于现有推荐信的修改任务，稍微节省了一丢丢工作量。
@@ -705,7 +705,7 @@ contributing to and learning from your distinguished program.
 - 排版一团乱码：每种排版格式都有存在意义，数字列表强调有序，圆点列表强调无序，图片用于佐证或在同一画面内展示多信息间逻辑关系，自然段适合平铺直叙地陈述逻辑，等等。直接用“标题+自然段”的 HTML 把一坨文字糊脸上就是恶心人。
 
  <div style='text-align: center'>
-	<img class="boarder" src="./(ML)-20-linyuhang/42-垃圾攻略.png" alt="42-垃圾攻略.png" style="zoom: 65%;" />
+	<img class="boarder" src="./42-垃圾攻略.png" alt="42-垃圾攻略.png" style="zoom: 65%;" />
      <div class="comment" style='font-size: 14px;color:gray; text-align:left'>
          <div>
              例如这坨↑↑↑，排版稀烂、胡乱换行，而且全篇废话，看了跟没看一样。我TM也知道要写最出彩的经历啊，我也知道大厂实习有含金量啊，但是我没有怎么办啊？？？而且这TM写的还是错的，我都不知道作者脑子是被门夹了还是怎么样，居然敢劝人把班级干部作为项目经历写进动机信？？？
@@ -731,8 +731,8 @@ contributing to and learning from your distinguished program.
 [小红书@Tsuki](https://www.xiaohongshu.com/user/profile/5f14f967000000000100518b?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board)，申请德国的同学可以参考女朋友写的[APS经验帖](<(APS)-20-zengxianqing.md>)。想了解欧陆或有欧陆申请意愿的朋友欢迎加好友交流：
 
 <table style="margin: auto; width: fit-content"><tbody><tr style="border: none">
-<td style="border: none"><img style="height: 18rem" src='./(ML)-20-linyuhang/Wechat.jpg'></td>
-<td style="border: none"><img style="height: 18rem" src='./(ML)-20-linyuhang/QQ.jpg'></td>
+<td style="border: none"><img style="height: 18rem" src='./Wechat.jpg'></td>
+<td style="border: none"><img style="height: 18rem" src='./QQ.jpg'></td>
 </tr></tbody></table>
 
 <table style="margin: auto; width: fit-content"><tbody><tr style="border: none">
@@ -742,7 +742,7 @@ contributing to and learning from your distinguished program.
 真的灰常辛苦的啦~~ 如此详尽的教程连中介咨询都价格不菲，真是太良心了呢~~ 如果你觉得这篇文章对你有所帮助并且愿意打赏一点的话，我会非常非常开心的哟 (\*≧︶≦))~~
 
 </td>
-<td style="border: none"><img src="./(ML)-20-linyuhang/赞赏码.jpg" alt="赞赏码.jpg" style="zoom: 100%;" /></td>
+<td style="border: none"><img src="./赞赏码.jpg" alt="赞赏码.jpg" style="zoom: 100%;" /></td>
 </tr></tbody></table>
 
 最后的最后，附上[开头承诺](#commitment)的动机信模板以供下载参考，并再次感谢你能看到这里 🌹：
