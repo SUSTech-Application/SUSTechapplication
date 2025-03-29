@@ -1,7 +1,7 @@
 language: en
-dictionaries:
-  - custom-words
-  - en-gb
-ignorePaths:
-  - "**/*.html"
+dictionaries: [words, en-gb]
+dictionaryDefinitions:
+  - name: words
+    path: words.txt
+ignorePaths: ["**/*.html"]
 useGitignore: true
