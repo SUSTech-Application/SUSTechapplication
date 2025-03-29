@@ -61,9 +61,9 @@ department: bme
 USNEWS的学科排名是相对可信的选择，**建议将USNEWS学科排名当成首要参考，其他几个排名作为辅助。**倘若你打算一直走科研这条路，可以完全不考虑任何学校的专业/综合排名，直接以课题组为导向，去试着套磁、申请你感兴趣领域的大牛。但请务必注意这句话的前提是“一直走科研这条路”，因为如果你将来要回国进入industry/company发展，公司大概率并不知道你PhD的导师可能是这个领域的开拓者，他只会关心你PhD的学校名字够不够响亮。
 选校时的一些小策略也是必不可少的。各大高校基本都会在系官网、学校官网等位置post出自己的admission data（也有的学校会很难找，可以直接在他官网的搜索处尝试关键词admission data/statistic/facts/自己发挥）。该学校的录取率、平均毕业年份、国际生比例基本都能找得到，有的学校还会post自己往年录取的学生GRE/TOEFL的成绩。这样你就可以知道这所学校的申请难度如何，按照自己对自己的定位决定是否申请（彩票费也好贵呜呜）。下图是我感觉做的比较好的Cornell University，列的非常清楚，而且可以在最上方选择你想申请的系。这样的话，**对于一些交叉类的方向，就可以选择申请难度较低的系申请**（比如一个做生物材料的教授可能在BME/MSE/医学院甚至是力学系，一个做外骨骼的教授可能在BME/机械系/力学系）。还有一些第三方网站（例如一亩三分地、某乎、gradcafe）可以参考[邓雨晴学姐的分享](https://sustech-application.github.io/2020-Fall/#/grad-application/biomedical-engineering/[US]-16-dengyuqing)。
 
-![img1](./sunrui_2.jpeg)
+![img1](sunrui_2.jpeg)
 
-![img1](./sunrui_3.jpeg)
+![img1](sunrui_3.jpeg)
 
 ##### 2.导师选择/套磁
 
