@@ -5,7 +5,7 @@ title: 通过 Clean URL 访问飞跃手册
 
 # 通过 Clean URL 访问飞跃手册
 
-作者：[黄冠超](https://sghuang.com) (<hi@sghua.ng>)
+作者：[黄冠超](https://sghua.ng) (<hi@sghua.ng>)
 
 飞跃手册的访问看似直白，实则是由许多技术细节所支撑的。例如，如何通过不带 `.html` 后缀的链接正常访问飞跃手册？
 
