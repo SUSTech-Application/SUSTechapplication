@@ -25,6 +25,7 @@ department: sme
 
 <!-- cSpell:words UCSD -->
 
+- 2025-03-29：重新格式化以适应 VitePress
 - 2024-05-16：加入 2024 年 SME 分享会 slides、就读体验、ND 介绍等
 - 2023-05-03：更新 UT Austin 结果，加入 SME 分享会 slides，少量优化
 - 2023-04-18：更新几个项目的结果，少量优化，加入「FAQ 与锐评」章节，添加目录，置顶短链接
