@@ -1,7 +1,7 @@
 <section align="center">
   <img
     alt="SUSTech"
-    src="./docs/public/sustech.png"
+    src="./content/public/sustech.png"
     height="150"
   >
 

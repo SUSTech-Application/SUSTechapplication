@@ -5,7 +5,7 @@ add_department() {
   local path="$1"
   local department="$2"
 
-  find docs/grad-application/"$path" -type f -name "*.md" | while read -r file; do
+  find content/grad-application/"$path" -type f -name "*.md" | while read -r file; do
     if [[ $(basename "$file") == "index.md" ]]; then
       continue
     fi

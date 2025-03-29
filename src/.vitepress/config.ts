@@ -8,7 +8,7 @@ import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "../docs",
+  srcDir: "../content",
   outDir: "../dist",
   cacheDir: "../cache",
   cleanUrls: true,

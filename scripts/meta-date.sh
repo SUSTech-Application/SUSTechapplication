@@ -1,7 +1,7 @@
 #!/bin/bash
 # uses yq to modify YAML frontmatter
 
-find docs/grad-application -type f -name "*.md" | while read -r file; do
+find content/grad-application -type f -name "*.md" | while read -r file; do
 
   # Skip index.md files
   if [[ $(basename "$file") == "index.md" ]]; then

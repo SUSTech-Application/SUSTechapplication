@@ -43,7 +43,7 @@ def build_structure(root_dir):
     return structure
 
 def main():
-    docs_dir = 'docs'
+    docs_dir = 'content'
     output_file = 'output.yaml'
     
     if not os.path.exists(docs_dir):

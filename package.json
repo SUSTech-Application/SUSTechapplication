@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "build": "./scripts/bracket-routes-fix.sh && vitepress build src",
-    "clean": "rm -rf dist cache && find docs -name \"*.paths.js\" -delete",
+    "clean": "rm -rf dist cache && find content -name \"*.paths.js\" -delete",
     "dev": "vitepress dev src",
     "format": "prettier -c .",
     "format:fix": "prettier -w .",

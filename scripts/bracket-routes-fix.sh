@@ -5,7 +5,7 @@
 
 echo "generating .paths.js files for bracket routes..."
 
-files=$(find docs -type f -name '*.md' \( -path '*\[*\]*' -o -name '*\[*\]*' \))
+files=$(find content -type f -name '*.md' \( -path '*\[*\]*' -o -name '*\[*\]*' \))
 
 for file in $files; do
   dir=$(dirname "$file")

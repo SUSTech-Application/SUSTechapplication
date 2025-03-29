@@ -7,15 +7,15 @@ export class Post {
   url: string;
   metadata: Record<string, unknown>;
 
-  /** path is relative to VitePress srcDir, i.e. `docs/` */
+  /** path is relative to VitePress srcDir, i.e. `content/` */
   constructor(path: string) {
     this.path = path;
     this.url = path.replace(/index\.md$/, "").replace(/\.md$/, "");
-    this.metadata = getFrontmatter(`docs/${path}`);
+    this.metadata = getFrontmatter(`content/${path}`);
   }
 }
 
-const paths = await fg(["**/*.md"], { cwd: "docs" });
+const paths = await fg(["**/*.md"], { cwd: "content" });
 const posts = paths.map((path) => new Post(path));
 
 // TODO: add type validation for metadata
