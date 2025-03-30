@@ -2,6 +2,9 @@ import { type DefaultTheme } from "vitepress";
 
 // TODO: count posts automatically
 
+// TODO: disable new sidebar temporarily
+
+/**
 import { posts as allPosts } from "./collections";
 import { metadata } from "./metadata";
 import { type Post } from "./posts";
@@ -32,6 +35,8 @@ const gradSchool: DefaultTheme.SidebarItem = {
     },
   ],
 };
+
+*/
 
 const studyAbroad: DefaultTheme.SidebarItem = {
   text: "海外交流",
