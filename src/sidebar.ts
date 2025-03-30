@@ -90,10 +90,16 @@ const experience: DefaultTheme.SidebarItem = {
   ],
 };
 
-const sidebar: DefaultTheme.SidebarItem[] = [
-  gradSchool,
-  studyAbroad,
-  experience,
-];
+const posts: DefaultTheme.SidebarItem[] = [gradSchool, studyAbroad, experience];
 
-export default sidebar;
+/** Sidebar object for documentations */
+const docs = {
+  base: "docs/",
+  items: [
+    { text: "分享经验", link: "contribute" },
+    { text: "路径格式", link: "path" },
+    { text: "元数据", link: "metadata" },
+  ] as DefaultTheme.SidebarItem[],
+};
+
+export default { posts, docs };

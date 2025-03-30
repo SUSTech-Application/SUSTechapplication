@@ -4,7 +4,7 @@ import { type PluginSimple } from "markdown-it";
 // @ts-expect-error this pkg has no types
 import taskLists from "markdown-it-task-lists";
 
-import sidebar from "./sidebar";
+import sidebar from "../sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -22,17 +22,14 @@ export default defineConfig({
     outline: { level: "deep", label: "目录" },
     nav: [
       { text: "主页", link: "/" },
-      { text: "最近更新", link: "/updates" },
-      { text: "分享经验", link: "/contribute" },
-      { text: "参考文档", link: "/docs/path", activeMatch: "/docs/" },
-      { text: "技术博客", link: "/blog" },
+      { text: "最近更新", link: "updates" },
+      { text: "分享经验", link: "docs/contribute" },
+      { text: "参考文档", link: "docs/contribute", activeMatch: "docs" },
+      { text: "技术博客", link: "blog" },
     ],
     sidebar: {
-      "/docs": {
-        base: "/docs/",
-        items: [{ text: "路径格式", link: "path" }],
-      },
-      "/": { base: "/", items: sidebar }, // least precedence
+      "/docs": sidebar.docs,
+      "/": sidebar.posts, // least precedence
     },
     socialLinks: [
       {
