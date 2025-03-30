@@ -2,12 +2,12 @@ import { type DefaultTheme } from "vitepress";
 
 // TODO: count posts automatically
 
-import { posts } from "./collections";
+import { posts as allPosts } from "./collections";
 import { metadata } from "./metadata";
 import { type Post } from "./posts";
 
 const postsByType = Object.groupBy(
-  posts,
+  allPosts,
   (post) => post.metadata.type as string, // TODO: type metadata
 ) as Record<string, Post[]>;
 
@@ -17,7 +17,7 @@ const gradPostsByDept = Object.groupBy(
 );
 
 const gradSchool: DefaultTheme.SidebarItem = {
-  text: "个人申请总结",
+  text: "升学经验分享",
   collapsed: false,
   items: [
     {
