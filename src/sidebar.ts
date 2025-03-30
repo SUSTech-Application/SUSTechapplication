@@ -2,6 +2,42 @@ import { type DefaultTheme } from "vitepress";
 
 // TODO: count posts automatically
 
+// TODO: disable new sidebar temporarily
+
+/**
+import { posts as allPosts } from "./collections";
+import { metadata } from "./metadata";
+import { type Post } from "./posts";
+
+const postsByType = Object.groupBy(
+  allPosts,
+  (post) => post.metadata.type as string, // TODO: type metadata
+) as Record<string, Post[]>;
+
+const gradPostsByDept = Object.groupBy(
+  postsByType.grad,
+  (post) => post.metadata.department as string,
+);
+
+const gradSchool: DefaultTheme.SidebarItem = {
+  text: "升学经验分享",
+  collapsed: false,
+  items: [
+    {
+      items: Object.entries(gradPostsByDept).map(([dept, list]) => ({
+        collapsed: true,
+        text: metadata.department[dept] ?? "No Department",
+        items: list?.map((post) => ({
+          text: post.metadata.title as string,
+          link: post.url,
+        })),
+      })),
+    },
+  ],
+};
+
+*/
+
 const gradSchool: DefaultTheme.SidebarItem = {
   text: "个人申请总结",
   collapsed: false,
