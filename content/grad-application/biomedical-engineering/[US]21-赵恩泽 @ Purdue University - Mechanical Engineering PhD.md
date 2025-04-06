@@ -44,7 +44,7 @@ type: grad
 
 - offer:
 
-  - 华盛顿大学圣路易斯分校 - PhD in Biomedical Engineering @ Washington University in St. Louis （有 lab rotation)
+  - 华盛顿大学圣路易斯分校 - PhD in Biomedical Engineering @ Washington University in St. Louis （有 lab rotation）
   - 加州大学尔湾分校 - PhD in Biomedical Engineering @ UCI (Fellowship，有 lab rotation)
   - 东北大学 - PhD in Bioengineering @ Northeastern University (Direct Match, 可以和哈佛联培）
   - 西北大学 - Ms in Biomedical Engineering @ Northwestern University （降录）
@@ -78,7 +78,7 @@ TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全�
 
 ### 选校/方向
 
-先说结论：**_多多益善，错位竞争_**。
+先说结论：**多多益善，错位竞争**。
 
 首先，list 上的学校项目数量越多越好，在当前严峻的形势下（北美），量变不一定质变，但一定能保底（作为参考我申了 30 个 PhD 项目，学校档次大致可分为 5 个，例如哈耶普斯麻第一档。.. 亚利桑那州立大学 ASU，纽约大学 NYU 第五档）。
 
@@ -130,7 +130,7 @@ TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全�
 
 - 小红书：申请出国全流程生活指南，哪里不会问哪里。po 个私人账号 ID：228576061，发过一些经验帖，走过路过不要错过 hhh
 
-- X (Twitter)：有些即将入职的新 AP 会在上面发布招聘信息，关键词搜“2x fall phd position”“bme/me incoming ap”...
+- X (Twitter)：有些即将入职的新 AP 会在上面发布招聘信息，关键词搜"2x fall phd position”“bme/me incoming ap"...
 
 - [GradCafe](https://www.thegradcafe.com)：全球申请者的信息共享平台，申请信息（面试，offer，rej) 实时掌握，快去感受焦虑 (bushi) 给别人制造焦虑！
 
