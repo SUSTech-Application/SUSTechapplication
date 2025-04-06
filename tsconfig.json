@@ -1,11 +1,4 @@
 {
-  "compilerOptions": {
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-    "noEmit": true,
-    "strict": true,
-    "target": "ESNext"
-  },
-  "exclude": ["cache", "dist"],
+  "extends": "@vue/tsconfig/tsconfig.json",
   "include": [".", "src/.vitepress/**/*"]
 }
