@@ -1,5 +1,4 @@
 ---
-title: "[US]21-赵恩泽 @ Purdue University - Mechanical Engineering PhD"
 year: 21
 date: 2025-03-26
 type: grad
@@ -8,6 +7,8 @@ type: grad
 # [US] 21-赵恩泽 @ Purdue University - Mechanical Engineering PhD
 
 ## 基本背景
+
+<!-- cSpell:words bioRxiv -->
 
 > 姓名：赵恩泽 \
 > 专业：生物医学工程 \
@@ -35,6 +36,8 @@ type: grad
 
 ### 最终去向
 
+<!-- cSpell:words Winkelman -->
+
 普渡大学 - PhD in Mechanical Engineering @ Purdue University (Ross Fellowship & Winkelman Fellowship)
 
 ### 其他录取结果
@@ -46,6 +49,8 @@ type: grad
   - 东北大学 - PhD in Bioengineering @ Northeastern University (Direct Match, 可以和哈佛联培）
   - 西北大学 - Ms in Biomedical Engineering @ Northwestern University （降录）
   - 科罗拉多大学博尔德分校 - Ms in Biomedical Engineering @ University of Colorado-Boulder （降录）
+
+<!-- cSpell:words BMEP -->
 
 - Rej _（申请项目多，选了些有代表的）_:
 
@@ -67,7 +72,7 @@ type: grad
 
 ### 语言
 
-TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全部失败，100 分是我永远跨不过的坎。第一次 92；第二次 99，想着“搏一搏”去 argue 重新评分，结果“摩托变单车”，花钱自降 3 分；第三次还是 96，听力口语进步明显但是写作拉了。好在对于 PhD application，分够用就行，三次渡劫失败后直接开摆。
+TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全部失败，100 分是我永远跨不过的坎。第一次 92；第二次 99，想着「搏一搏」去 argue 重新评分，结果「摩托变单车」，花钱自降 3 分；第三次还是 96，听力口语进步明显但是写作拉了。好在对于 PhD application，分够用就行，三次渡劫失败后直接开摆。
 
 希望后来的道友们早些修炼，早日成功！
 
@@ -77,11 +82,11 @@ TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全�
 
 首先，list 上的学校项目数量越多越好，在当前严峻的形势下（北美），量变不一定质变，但一定能保底（作为参考我申了 30 个 PhD 项目，学校档次大致可分为 5 个，例如哈耶普斯麻第一档。.. 亚利桑那州立大学 ASU，纽约大学 NYU 第五档）。
 
-其次，BME“海纳百川”——方向众多，选项目不必局限于 BME/BioE，根据科研方向可以考虑 Mechanical/Materials/Molecular/Neural Engineering，BBS 等等。这样做一方面避开了热门项目的外部竞争 （比如 Johns Hopkins BME 专排第一，每年申请人数递增，25 Fall 突破 1000 人申请，可以考虑 JHU 其他项目），另一方面减小内部竞争 （对于我们南科大 BME 这个整体，同一项目一般只录一个，极少有给两个以上 offer 的情况）。
+其次，BME「海纳百川」——方向众多，选项目不必局限于 BME/BioE，根据科研方向可以考虑 Mechanical/Materials/Molecular/Neural Engineering，BBS 等等。这样做一方面避开了热门项目的外部竞争 （比如 Johns Hopkins BME 专排第一，每年申请人数递增，25 Fall 突破 1000 人申请，可以考虑 JHU 其他项目），另一方面减小内部竞争 （对于我们南科大 BME 这个整体，同一项目一般只录一个，极少有给两个以上 offer 的情况）。
 
 ### 套磁
 
-“You can but not necessary”这是 HMS 导师对于套磁的评价。我的实践结果验证了他的观点：给我 offer 的都没有套过，套过的都拒了。这玩意儿也是玄学，个人认为只有有 connection 的套磁是有效的，盲套和不套差别不大。诸君可自己尝试。套的话图个心理安慰，不套的也别慌，问题不大。
+"You can but not necessary" 这是 HMS 导师对于套磁的评价。我的实践结果验证了他的观点：给我 offer 的都没有套过，套过的都拒了。这玩意儿也是玄学，个人认为只有有 connection 的套磁是有效的，盲套和不套差别不大。诸君可自己尝试。套的话图个心理安慰，不套的也别慌，问题不大。
 
 ### 推荐信
 
@@ -93,7 +98,9 @@ TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全�
 
 面试大体分为单人面和多人面 (panel meeting)。单人又分为两种：和意向导师 (poi) 面，或者和 committee member 面。无论哪种形式，预先了解面试老师的方向背景肯定是必要的，如果是 poi 最好要了解他的代表作以及最新成果。
 
-面试时注意 greeting，千万别上来就 My name is xx, from xx. 好的面试一开始肯定是寒 (che) 暄 (pi)：How is it going?/Where are you now?/... 甚至可以聊时事热点和 daily life: 我和 UCI 的老师聊加州山火，和 WashU 的老师聊圣路易斯的停车费和养车花销，和 Upitt 的老师聊 federal funding... 这些不仅能让面试氛围变得轻松，也能让老师意识到我们不是死做科研的。**_现在的学术界更 prefer 能说会道的六边形战士。_**
+<!-- cSpell:words Upitt -->
+
+面试时注意 greeting，千万别上来就 My name is xx, from xx. 好的面试一开始肯定是寒 (che) 暄 (pi)：How is it going?/Where are you now?/... 甚至可以聊时事热点和 daily life: 我和 UCI 的老师聊加州山火，和 WashU 的老师聊圣路易斯的停车费和养车花销，和 Upitt 的老师聊 federal funding... 这些不仅能让面试氛围变得轻松，也能让老师意识到我们不是死做科研的。**现在的学术界更 prefer 能说会道的六边形战士。**
 
 说回来，往往第一次面试是最紧张的，pay more attention to the first one, 之后就仿佛“轻舟已过万重山”，再多的面试也无所畏惧。
 
@@ -109,6 +116,8 @@ TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全�
 
 找一些全奖硕士项目，美国不多，关注一下欧洲香港和中东。
 
+<!-- cSpell:words KAUST VRSP -->
+
 在这免费打个广告——虽然我没去过，但是从大一开始就是我的梦寐之地：KAUST 沙特阿卜杜拉国王科技大学。它的全奖硕士项目每年 2 万刀工资，免费住临海别墅，报销路费，科研条件一流，每年排名都在涨。即使是它的访学项目 VRSP 也福利众多。结合沙特的国家战略“2030 愿景”以及沙特世博会的举办来看，学校的地位名声以及资源未来可期。
 
 ### 信息时代中介还有必要吗？
@@ -117,15 +126,17 @@ TOEFL 是我的劫，一共渡了三次（国内 2 次，美国 1 次），全�
 
 ## 参考内容
 
-小红书：申请出国全流程生活指南，哪里不会问哪里。po 个私人账号 ID：228576061，发过一些经验帖，走过路过不要错过 hhh
+<!-- cSpell:words bushi Grantome -->
 
-X (Twitter)：有些即将入职的新 AP 会在上面发布招聘信息，关键词搜“2x fall phd position”“bme/me incoming ap”...
+- 小红书：申请出国全流程生活指南，哪里不会问哪里。po 个私人账号 ID：228576061，发过一些经验帖，走过路过不要错过 hhh
 
-[GradCafe](https://www.thegradcafe.com)：全球申请者的信息共享平台，申请信息（面试，offer，rej) 实时掌握，快去感受焦虑 (bushi) 给别人制造焦虑！
+- X (Twitter)：有些即将入职的新 AP 会在上面发布招聘信息，关键词搜“2x fall phd position”“bme/me incoming ap”...
 
-[Grantome](https://grantome.com): 可查 poi 的 funding，信息不全仅供参考
+- [GradCafe](https://www.thegradcafe.com)：全球申请者的信息共享平台，申请信息（面试，offer，rej) 实时掌握，快去感受焦虑 (bushi) 给别人制造焦虑！
 
-[Posted PhD positions](https://www.phdportal.com) - mostly Europe & Canada：另一个查询 phd position 的平台
+- [Grantome](https://grantome.com): 可查 poi 的 funding，信息不全仅供参考
+
+- [Posted PhD positions](https://www.phdportal.com) - mostly Europe & Canada：另一个查询 phd position 的平台
 
 ## 邮箱
 
