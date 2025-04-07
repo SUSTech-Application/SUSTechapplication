@@ -3,8 +3,8 @@ plugins:
   - "prettier-plugin-sh"
 importOrder:
   - "^node"
-  - "^vue"
-  - "^(vite|vite/)$"
+  - "^vue(/.+)?$"
+  - "^vite(/.+)?$"
   - "^vitepress"
   - "^vitest"
   - "^[^.]"
