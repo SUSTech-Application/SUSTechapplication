@@ -65,9 +65,8 @@ type: page
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`/`Markdown`文件发送到**zhangyj2021
    AT mail.sustech.edu.cn** 或者 **zhangwy2022 AT
    mail.sustech.edu.cn**，我们会帮助你上架。
-2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SUSTech-Application/SUSTechapplication/tree/master/docs)路径下的对应文件夹Pull
-   Request，可参考
-   [**《如何进行经验分享》**](contribute)，Merge后便即时上线。
+2. 对于熟悉Git操作的同学：可参考
+   [**《如何进行经验分享》**](https://sustech-application.com/docs/contribute)，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
 ## 贡献者
