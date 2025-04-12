@@ -1,7 +1,7 @@
 import { expect, test } from "vitest";
 
-import posts from "../src/posts";
-import { getFrontmatter, getH1 } from "../src/utils";
+import posts from "@/posts";
+import { getFrontmatter, getH1 } from "@/utils";
 
 test("frontmatter is loaded correctly", () => {
   const frontmatter = getFrontmatter("__test__/test.md");

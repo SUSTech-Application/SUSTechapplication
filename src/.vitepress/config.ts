@@ -1,10 +1,12 @@
+import { resolve } from "node:path";
+
 import { defineConfig } from "vitepress";
 
 import { type PluginSimple } from "markdown-it";
 // @ts-expect-error this pkg has no types
 import taskLists from "markdown-it-task-lists";
 
-import sidebar from "../sidebar";
+import sidebar from "@/sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -17,6 +19,7 @@ export default defineConfig({
   ignoreDeadLinks: [/^.*\.[^.]+$/],
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: { level: "deep", label: "目录" },
@@ -55,9 +58,17 @@ export default defineConfig({
       gtag("config", "G-VVQKMMQ3VE");`,
     ],
   ],
+
   markdown: {
     config: (md) => {
       md.use(taskLists as PluginSimple);
+    },
+  },
+
+  vite: {
+    resolve: {
+      alias: { "@": resolve(__dirname, "../") },
+      extensions: [".ts", ".js", ".vue"], // prefer .ts files
     },
   },
 });

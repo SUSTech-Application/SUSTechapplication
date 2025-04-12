@@ -1,4 +1,4 @@
-import METADATA from "../../src/metadata";
+import METADATA from "@/metadata";
 
 export const REGIONS = METADATA.region;
 

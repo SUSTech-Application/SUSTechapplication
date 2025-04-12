@@ -2,12 +2,12 @@ plugins:
   - "@trivago/prettier-plugin-sort-imports"
   - "prettier-plugin-sh"
 importOrder:
-  - "^node"
+  - "^node:"
   - "^vue(/.+)?$"
   - "^vite(/.+)?$"
   - "^vitepress"
   - "^vitest"
-  - "^[^.]"
-  - "^[./]"
+  - "^(?!\\.|@\/).*" # doesn't start with . nor @/
+  - "^(\\.|@\/)" # starts with . or @/
 importOrderSeparation: true
 importOrderSortSpecifiers: true
