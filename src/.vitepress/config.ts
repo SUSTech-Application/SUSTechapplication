@@ -1,3 +1,5 @@
+import { resolve } from "node:path";
+
 import { defineConfig } from "vitepress";
 
 import { type PluginSimple } from "markdown-it";
@@ -62,4 +64,6 @@ export default defineConfig({
       md.use(taskLists as PluginSimple);
     },
   },
+
+  vite: { resolve: { alias: { "@": resolve(__dirname, "../") } } },
 });
