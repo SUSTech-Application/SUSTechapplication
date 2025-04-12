@@ -1,5 +1,4 @@
 {
-  "compilerOptions": { "baseUrl": ".", "paths": { "@/*": ["src/*"] } },
   "extends": "@vue/tsconfig/tsconfig.json",
   "include": [".", "src/.vitepress/**/*"]
 }
