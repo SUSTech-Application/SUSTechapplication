@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=metadata-schema.yaml
 
 type:
-  grad: 申请
-  abroad: 交流项目
+  grad: 研究生项目
+  abroad: 境外交流项目
   job: 就业
   recruit: 招生
   experience: 专项经验分享
