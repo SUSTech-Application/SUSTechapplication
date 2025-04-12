@@ -1,4 +1,4 @@
-import METADATA from "@/metadata";
+import METADATA from "../../src/metadata";
 
 export const TYPES = METADATA.type;
 
