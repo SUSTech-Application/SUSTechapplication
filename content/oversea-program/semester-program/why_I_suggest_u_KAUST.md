@@ -1,3 +1,11 @@
+---
+year: 16
+department: cse
+region: sa
+date: 2020-02-18
+type: abroad
+---
+
 # 我为什么推荐你去KAUST做3-6个月的科研实习
 
 > 当初想去KAUST做科研实习，很重要的一个原因是想体验阿拉伯的文化和生活（笑。—— [16级计算机系王雨童](https://rainytong.github.io/)

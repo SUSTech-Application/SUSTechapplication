@@ -1,3 +1,8 @@
+---
+type: recruit
+region: ca
+---
+
 # 加拿大温哥华Simon Fraser University计算机系 陈武阳助理教授 招生信息
 
 **加拿大温哥华Simon Fraser University计算机系陈武阳助理教授招收机器学习/人工智能/计算机视觉/计算生物学方向博士生（计划招收2~4名学生）**

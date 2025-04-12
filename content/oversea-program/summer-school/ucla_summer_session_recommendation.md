@@ -1,3 +1,10 @@
+---
+department: cse
+region: us
+type: abroad
+date: 2024-07-28
+---
+
 # UCLA夏校经验分享
 
 ## 前言
