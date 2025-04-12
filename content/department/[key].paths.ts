@@ -1,8 +1,8 @@
-import { metadata } from "../../src/metadata";
+import METADATA from "../../src/metadata";
 
 export default {
   paths() {
-    return Object.entries(metadata.department).map(([key, val]) => ({
+    return Object.entries(METADATA.department).map(([key, val]) => ({
       params: { key, val },
     }));
   },
