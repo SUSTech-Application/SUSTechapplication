@@ -1,8 +1,10 @@
 import METADATA from "../../src/metadata";
 
+export const REGIONS = METADATA.region;
+
 export default {
   paths() {
-    return Object.entries(METADATA.region).map(([key, val]) => ({
+    return Object.entries(REGIONS).map(([key, val]) => ({
       params: { key, val },
     }));
   },
