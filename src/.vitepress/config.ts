@@ -17,6 +17,7 @@ export default defineConfig({
   ignoreDeadLinks: [/^.*\.[^.]+$/],
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: { level: "deep", label: "目录" },
@@ -55,6 +56,7 @@ export default defineConfig({
       gtag("config", "G-VVQKMMQ3VE");`,
     ],
   ],
+
   markdown: {
     config: (md) => {
       md.use(taskLists as PluginSimple);
