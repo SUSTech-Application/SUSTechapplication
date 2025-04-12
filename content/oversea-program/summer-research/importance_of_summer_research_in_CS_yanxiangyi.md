@@ -1,3 +1,11 @@
+---
+year: 15
+department: cse
+region: us
+date: 2020-02-15
+type: abroad
+---
+
 # 在计系，暑研对北美申请重要性的讨论
 
 by [15级-计算机-阎相易](/grad-application/computer-science-and-engineering/[US]-15-yanxiangyi)

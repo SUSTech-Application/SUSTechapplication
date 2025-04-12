@@ -1,3 +1,11 @@
+---
+year: 16
+department: stat-ds
+region: us
+date: 2020-04-21
+type: abroad
+---
+
 # 哥伦比亚大学学期交流攻略
 
 ### 写在前面：

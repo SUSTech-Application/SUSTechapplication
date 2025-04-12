@@ -1,3 +1,8 @@
+---
+type: experience
+date: 2020-02-15
+---
+
 # GRE修仙指南
 
 作者：千张

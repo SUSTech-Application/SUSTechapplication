@@ -1,3 +1,11 @@
+---
+year: 16
+department: ese
+region: us
+date: 2020-03-28
+type: abroad
+---
+
 # 哥伦比亚大学LDEO暑期科研
 
 ![01](01.png)

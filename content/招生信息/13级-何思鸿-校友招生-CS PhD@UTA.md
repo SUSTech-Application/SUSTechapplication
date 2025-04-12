@@ -1,3 +1,8 @@
+---
+type: recruit
+region: us
+---
+
 ## 美国德克萨斯大学阿灵顿分校 The University of Texas at Arlington计算机系 何思鸿助理教授 招生信息
 
 南科大的校友同学们好，我是南科大13级金融数学专业毕业生何思鸿，现在在德克萨斯大学阿灵顿分校UTA计算机系做助理教授，现在正在招生（PhD学生，research intern），还请大家多多支持多多转发～

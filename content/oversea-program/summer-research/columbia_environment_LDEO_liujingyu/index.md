@@ -1,3 +1,11 @@
+---
+year: 15
+department: ese
+region: us
+date: 2020-04-21
+type: abroad
+---
+
 # 哥伦比亚大学环境学院LDEO暑期实习申请攻略+体验
 
 <!-- FIXME: this file needs to be rewritten in markdown -->

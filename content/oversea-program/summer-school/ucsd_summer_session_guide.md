@@ -1,3 +1,11 @@
+---
+year: 22
+department: bme
+region: us
+date: 2024-09-12
+type: abroad
+---
+
 # UCSD Summer Session 自申指南
 
 **笔者简介**：2022级，智能医学工程专业，神经与控制实验室
