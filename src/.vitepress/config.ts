@@ -6,7 +6,7 @@ import { type PluginSimple } from "markdown-it";
 // @ts-expect-error this pkg has no types
 import taskLists from "markdown-it-task-lists";
 
-import sidebar from "@/sidebar";
+import sidebar from "../sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
