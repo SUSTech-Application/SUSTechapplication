@@ -1,28 +1,28 @@
-import { options } from "./metadata";
+import { OPTIONS } from "./metadata";
 
 const schema = {
   type: "object",
   properties: {
     author: { type: "string" },
     date: { type: "string", pattern: "^\\d{4}-\\d{2}-\\d{2}$" },
-    degree: { type: "string", enum: options.degree },
-    department: { type: "string", enum: options.department },
+    degree: { type: "string", enum: OPTIONS.degree },
+    department: { type: "string", enum: OPTIONS.department },
     employer: { type: "string" },
     program: { type: "string" },
     region: {
       // either a region, or a list of regions
       oneOf: [
-        { type: "string", enum: options.region },
+        { type: "string", enum: OPTIONS.region },
         {
           type: "array",
           minItems: 2,
-          items: { type: "string", enum: options.region },
+          items: { type: "string", enum: OPTIONS.region },
         },
       ],
     },
     title: { type: "string" },
-    type: { type: "string", enum: options.type },
-    university: { type: "string", enum: options.university },
+    type: { type: "string", enum: OPTIONS.type },
+    university: { type: "string", enum: OPTIONS.university },
     year: { type: "integer", minimum: 11, maximum: 99 },
   },
   required: ["author", "date", "title", "type"],
