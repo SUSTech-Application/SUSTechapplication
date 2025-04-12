@@ -4,7 +4,7 @@ export const TYPES = METADATA.type;
 
 export default {
   paths() {
-    return Object.entries(METADATA.type).map(([key, val]) => ({
+    return Object.entries(TYPES).map(([key, val]) => ({
       params: { key, val },
     }));
   },
