@@ -1,13 +1,14 @@
 <script setup lang="ts">
-import type { Post } from "../posts";
+import type { Page } from "../pages.data";
 
-defineProps<{ posts: Post[] }>();
+defineProps<{ posts: Page[] }>();
 </script>
 
 <template>
   <ul>
     <li v-for="post in posts" :key="post.url">
-      <a :href="post.url">{{ post.title }}</a>
+      {{ post.metadata.date }} -
+      <a :href="post.url">{{ post.title ?? "无标题" }}</a>
     </li>
   </ul>
 </template>
