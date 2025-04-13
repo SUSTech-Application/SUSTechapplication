@@ -1,4 +1,4 @@
-import posts from "../../src/posts";
+import { posts } from "../../src/collections";
 
 export const YEARS = [
   ...new Set(

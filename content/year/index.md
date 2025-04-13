@@ -1,8 +1,7 @@
 # 按年级索引
 
 <script setup>
-// import { YEARS } from "./[year].paths"
-// FIXME: need a better way to pass this info to client side
+import { YEARS } from "./[year].paths"
 </script>
 
 <ul>
