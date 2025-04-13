@@ -2,5 +2,6 @@
   "cSpell.files": ["**.md"],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "vite.vitepressBase": "src"
+  "vite.vitepressBase": "src",
+  "vue.server.includeLanguages": ["vue", "markdown"]
 }
