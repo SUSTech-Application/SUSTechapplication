@@ -1,15 +1,13 @@
 <script setup lang="ts">
 import type { Post } from "../posts";
 
-defineProps<{
-  posts: Post[];
-}>();
+defineProps<{ posts: Post[] }>();
 </script>
 
 <template>
   <ul>
     <li v-for="post in posts" :key="post.url">
-      {{ post.title }}
+      <a :href="post.url">{{ post.title }}</a>
     </li>
   </ul>
 </template>
