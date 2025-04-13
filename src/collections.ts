@@ -1,11 +1,11 @@
-import allPosts, { Post } from "./posts";
+import { type Page, data } from "./pages.data";
 
-export const collections = Object.groupBy(allPosts, (post) => {
-  if (post.path.startsWith("blog/")) return "blogs";
-  if (post.path.startsWith("docs/")) return "docs";
-  if (post.metadata.type === "page") return "pages";
+const collections = Object.groupBy(data, (page) => {
+  if (page.url.startsWith("/blog/")) return "blogs";
+  if (page.url.startsWith("/docs/")) return "docs";
+  if (page.metadata.type === "page") return "pages";
   return "posts";
-  // assert that all keys types of posts exist
-}) as Record<"blogs" | "docs" | "pages" | "posts", Post[]>;
+  // assert that all types of pages exist
+}) as Record<"blogs" | "docs" | "pages" | "posts", Page[]>;
 
 export const { blogs, docs, pages, posts } = collections;
