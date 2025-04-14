@@ -19,10 +19,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup Node # this provides global polyfills?
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
-        with:
-          bun-download-url: "https://github.com/oven-sh/bun/releases/latest/download/bun-linux-x64.zip"
 
       - name: Install dependencies
         run: bun install
