@@ -11,13 +11,18 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     env:
       TOKEN: ${{ secrets.GITHUB_TOKEN }}
       REPO: ${{ github.repository }}
       ARTIFACT_NAME: build-files
     steps:
       - uses: actions/checkout@v4
+
+      - name: Setup Node # this provides global polyfills?
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
