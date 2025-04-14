@@ -77,9 +77,9 @@ const generateQRCode = () => {
 
     // 创建图片元素
     const qrCodeImg = document.createElement("img");
-    qrCodeImg.alt = "扫描二维码访问原文";
-    qrCodeImg.style.width = "128px";
-    qrCodeImg.style.height = "128px";
+    qrCodeImg.alt = "扫码访问";
+    qrCodeImg.style.width = "80px";
+    qrCodeImg.style.height = "80px";
 
     // 处理主题颜色
     let bgColor = theme.background.replace("#", "");
@@ -90,7 +90,7 @@ const generateQRCode = () => {
     if (!fgColor) fgColor = "000000";
 
     // 使用QR Code API生成二维码
-    const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=${encodeURIComponent(qrUrl)}&bgcolor=${bgColor}&color=${fgColor}`;
+    const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=${encodeURIComponent(qrUrl)}&bgcolor=${bgColor}&color=${fgColor}`;
 
     // 设置加载事件
     qrCodeImg.onload = () => {
@@ -100,7 +100,7 @@ const generateQRCode = () => {
     qrCodeImg.onerror = (e) => {
       console.error("Failed to load QR code image:", e);
       // 尝试使用默认颜色
-      qrCodeImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=${encodeURIComponent(qrUrl)}`;
+      qrCodeImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=${encodeURIComponent(qrUrl)}`;
     };
 
     // 设置图片源
@@ -248,20 +248,23 @@ onMounted(() => {
               v-html="text"
               class="formatted-text"
             ></blockquote>
-            <div class="share-source">
-              <p>南方科技大学飞跃手册</p>
-            </div>
           </div>
-          <div class="share-qrcode-container">
-            <div
-              class="share-qrcode"
-              :style="{
-                backgroundColor: themeStyle.background,
-                borderColor: themeStyle.borderColor,
-              }"
-            >
-              <div id="qrcode"></div>
-              <p class="qrcode-text">扫描二维码访问原文</p>
+          <div class="share-footer">
+            <div class="share-footer-left">
+              <p class="share-website">南科飞跃手册</p>
+              <p class="share-url">sustech-application.com</p>
+            </div>
+            <div class="share-qrcode-container">
+              <div
+                class="share-qrcode"
+                :style="{
+                  backgroundColor: themeStyle.background,
+                  borderColor: themeStyle.borderColor,
+                }"
+              >
+                <div id="qrcode"></div>
+                <p class="qrcode-text">扫码访问</p>
+              </div>
             </div>
           </div>
         </div>
@@ -372,33 +375,61 @@ onMounted(() => {
   font-size: 14px;
 }
 
+.share-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-top: 15px;
+}
+
+.share-footer-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.share-website {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+
+.share-url {
+  font-size: 14px;
+  opacity: 0.8;
+  margin: 0;
+}
+
 .share-qrcode-container {
   display: flex;
-  justify-content: center;
-  margin-top: 20px;
+  justify-content: flex-end;
 }
 
 .share-qrcode {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 15px;
+  padding: 8px;
   border-radius: 8px;
   border: 1px solid;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  max-width: 160px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 100px;
 }
 
 .share-qrcode img {
   display: block;
   border-radius: 4px;
+  width: 80px;
+  height: 80px;
 }
 
 .qrcode-text {
-  margin-top: 10px;
-  font-size: 14px;
+  margin-top: 5px;
+  font-size: 12px;
   text-align: center;
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 /* 控制按钮样式 */
