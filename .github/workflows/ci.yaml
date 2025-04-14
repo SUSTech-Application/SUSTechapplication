@@ -2,8 +2,8 @@ name: CI
 permissions:
   actions: read
 on:
-  # pull_request:
-  #   branches: ["**"]
+  pull_request:
+    branches: ["**"]
 
 jobs:
   check:
