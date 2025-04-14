@@ -141,9 +141,19 @@ const downloadAsImage = async () => {
     // 确保背景色正确应用
     const theme =
       themes.find((t) => t.name === currentTheme.value) || themes[0];
+
+    // 计算厚度分辨率的尺寸
+    const originalWidth = shareCardRef.value.offsetWidth;
+    const originalHeight = shareCardRef.value.offsetHeight;
+    const scale = 3; // 3倍分辨率
+    const scaledWidth = originalWidth * scale;
+    const scaledHeight = originalHeight * scale;
+
+    // 设置克隆元素的样式
+    clone.style.width = `${originalWidth}px`;
+    clone.style.height = `${originalHeight}px`;
     clone.style.backgroundColor = theme.background;
     clone.style.color = theme.text;
-    clone.style.width = `${shareCardRef.value.offsetWidth}px`;
     clone.style.padding = "20px";
     clone.style.borderRadius = "8px";
     clone.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.1)";
@@ -151,18 +161,20 @@ const downloadAsImage = async () => {
     // 添加到临时容器
     cloneContainer.appendChild(clone);
 
-    // 使用toPng生成图片
+    // 使用toPng生成高分辨率图片
     const dataUrl = await domToImage.toPng(clone, {
       quality: 1,
       bgcolor: theme.background,
-      width: shareCardRef.value.offsetWidth,
-      height: shareCardRef.value.offsetHeight,
+      width: scaledWidth, // 使用放大后的宽度
+      height: scaledHeight, // 使用放大后的高度
       style: {
         margin: "0",
         padding: "20px",
         "border-radius": "8px",
         "background-color": theme.background,
         color: theme.text,
+        transform: `scale(${scale})`,
+        "transform-origin": "top left",
       },
     });
 
