@@ -43,17 +43,26 @@ const setTheme = (themeName) => {
   currentTheme.value = themeName;
   // 重新生成二维码以匹配主题颜色
   qrcodeGenerated.value = false;
+
+  // 清除之前的二维码
+  const qrcodeElement = document.getElementById("qrcode");
+  if (qrcodeElement) {
+    qrcodeElement.innerHTML = "";
+  }
+
   setTimeout(generateQRCode, 100);
 };
 
 // Function to generate QR code
 const generateQRCode = () => {
   if (typeof window === "undefined" || typeof document === "undefined") return;
-  if (!document.getElementById("qrcode") || qrcodeGenerated.value) return;
 
   try {
-    // 清除之前的二维码（如果有）
+    // 获取QR码容器元素
     const qrcodeElement = document.getElementById("qrcode");
+    if (!qrcodeElement) return;
+
+    // 清除之前的内容
     qrcodeElement.innerHTML = "";
 
     // 获取当前主题颜色
@@ -61,27 +70,44 @@ const generateQRCode = () => {
       themes.find((t) => t.name === currentTheme.value) ?? themes[0];
 
     // 生成正确的URL
-    // 在开发环境中使用当前网址，在生产环境中使用基础URL
+    // 使用绝对URL确保在任何页面都能正确生成
     const baseUrl = "https://sustech-application.com";
     const currentPath = window.location.pathname;
     const qrUrl = `${baseUrl}${currentPath}`;
 
-    // 使用原生方式创建二维码图片
+    // 创建图片元素
     const qrCodeImg = document.createElement("img");
     qrCodeImg.alt = "扫描二维码访问原文";
     qrCodeImg.style.width = "128px";
     qrCodeImg.style.height = "128px";
 
+    // 处理主题颜色
+    let bgColor = theme.background.replace("#", "");
+    let fgColor = theme.text.replace("#", "");
+
+    // 确保颜色格式正确
+    if (!bgColor) bgColor = "ffffff";
+    if (!fgColor) fgColor = "000000";
+
     // 使用QR Code API生成二维码
-    const bgColor = theme.background.replace("#", "");
-    const fgColor = theme.text.replace("#", "");
     const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=${encodeURIComponent(qrUrl)}&bgcolor=${bgColor}&color=${fgColor}`;
+
+    // 设置加载事件
+    qrCodeImg.onload = () => {
+      qrcodeGenerated.value = true;
+    };
+
+    qrCodeImg.onerror = (e) => {
+      console.error("Failed to load QR code image:", e);
+      // 尝试使用默认颜色
+      qrCodeImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=${encodeURIComponent(qrUrl)}`;
+    };
+
+    // 设置图片源
     qrCodeImg.src = qrCodeUrl;
 
     // 添加到DOM
     qrcodeElement.appendChild(qrCodeImg);
-
-    qrcodeGenerated.value = true;
   } catch (err) {
     console.error("Failed to generate QRCode:", err);
   }
@@ -160,17 +186,27 @@ const downloadAsImage = async () => {
 watch(
   () => props.visible,
   (newValue) => {
-    if (newValue && !qrcodeGenerated.value) {
-      // Small delay to ensure DOM is ready
+    // 当组件变为可见时，重置状态并生成新的二维码
+    if (newValue) {
+      // 重置状态
+      qrcodeGenerated.value = false;
+
+      // 清除之前的二维码
+      const qrcodeElement = document.getElementById("qrcode");
+      if (qrcodeElement) {
+        qrcodeElement.innerHTML = "";
+      }
+
+      // 小延迟确保 DOM 准备就绪
       setTimeout(generateQRCode, 100);
     }
   },
+  { immediate: true }, // 立即触发一次
 );
 
+// 当组件挂载时，如果可见则生成二维码
 onMounted(() => {
-  if (props.visible) {
-    setTimeout(generateQRCode, 100);
-  }
+  // 组件挂载时不需要额外生成二维码，因为 watch 中的 immediate: true 会处理
 });
 </script>
 
