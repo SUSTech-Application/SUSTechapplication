@@ -1,5 +1,5 @@
 <script setup>
-import { computed, defineProps, onMounted, ref, watch } from "vue";
+import { computed, defineEmits, defineProps, onMounted, ref, watch } from "vue";
 
 const props = defineProps({
   text: {
@@ -10,11 +10,9 @@ const props = defineProps({
     type: Boolean,
     default: false,
   },
-  "on-close": {
-    type: Function,
-    default: () => {},
-  },
 });
+
+const emit = defineEmits(["close"]);
 
 const qrcodeGenerated = ref(false);
 const isGeneratingImage = ref(false);
@@ -44,41 +42,48 @@ const themeStyle = computed(() => {
 const setTheme = (themeName) => {
   currentTheme.value = themeName;
   // 重新生成二维码以匹配主题颜色
-  if (qrcodeGenerated.value) {
-    const qrcodeElement = document.getElementById("qrcode");
-    if (qrcodeElement) {
-      qrcodeElement.innerHTML = "";
-      qrcodeGenerated.value = false;
-      setTimeout(generateQRCode, 100);
-    }
-  }
+  qrcodeGenerated.value = false;
+  setTimeout(generateQRCode, 100);
 };
 
 // Function to generate QR code
-const generateQRCode = async () => {
+const generateQRCode = () => {
   if (typeof window === "undefined" || typeof document === "undefined") return;
   if (!document.getElementById("qrcode") || qrcodeGenerated.value) return;
 
   try {
-    const QRCodeModule = await import("qrcodejs2");
-    const QRCode = QRCodeModule.default;
+    // 清除之前的二维码（如果有）
+    const qrcodeElement = document.getElementById("qrcode");
+    qrcodeElement.innerHTML = "";
 
     // 获取当前主题颜色
     const theme =
-      themes.find((t) => t.name === currentTheme.value) || themes[0];
+      themes.find((t) => t.name === currentTheme.value) ?? themes[0];
 
-    new QRCode(document.getElementById("qrcode"), {
-      text: window.location.href,
-      width: 128,
-      height: 128,
-      colorDark: theme.text,
-      colorLight: theme.background,
-      correctLevel: QRCode.CorrectLevel.H,
-    });
+    // 生成正确的URL
+    // 在开发环境中使用当前网址，在生产环境中使用基础URL
+    const baseUrl = "https://sustech-application.com";
+    const currentPath = window.location.pathname;
+    const qrUrl = `${baseUrl}${currentPath}`;
+
+    // 使用原生方式创建二维码图片
+    const qrCodeImg = document.createElement("img");
+    qrCodeImg.alt = "扫描二维码访问原文";
+    qrCodeImg.style.width = "128px";
+    qrCodeImg.style.height = "128px";
+
+    // 使用QR Code API生成二维码
+    const bgColor = theme.background.replace("#", "");
+    const fgColor = theme.text.replace("#", "");
+    const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=128x128&data=${encodeURIComponent(qrUrl)}&bgcolor=${bgColor}&color=${fgColor}`;
+    qrCodeImg.src = qrCodeUrl;
+
+    // 添加到DOM
+    qrcodeElement.appendChild(qrCodeImg);
 
     qrcodeGenerated.value = true;
   } catch (err) {
-    console.error("Failed to load QRCode:", err);
+    console.error("Failed to generate QRCode:", err);
   }
 };
 
@@ -170,11 +175,11 @@ onMounted(() => {
 </script>
 
 <template>
-  <div v-if="visible" class="share-card-overlay" @click="props['on-close']">
+  <div v-if="visible" class="share-card-overlay" @click="emit('close')">
     <div class="share-card-container" @click.stop>
       <div class="share-card-header">
         <h3>分享内容</h3>
-        <button class="close-button" @click="props['on-close']">×</button>
+        <button class="close-button" @click="emit('close')">×</button>
       </div>
 
       <!-- 预览卡片 - 用于下载 -->
@@ -196,15 +201,20 @@ onMounted(() => {
               class="formatted-text"
             ></blockquote>
             <div class="share-source">
-              <p>来源: 南方科技大学飞跃手册</p>
+              <p>南方科技大学飞跃手册</p>
             </div>
           </div>
-          <div
-            class="share-qrcode"
-            :style="{ backgroundColor: themeStyle.background }"
-          >
-            <div id="qrcode"></div>
-            <p>扫描二维码访问原文</p>
+          <div class="share-qrcode-container">
+            <div
+              class="share-qrcode"
+              :style="{
+                backgroundColor: themeStyle.background,
+                borderColor: themeStyle.borderColor,
+              }"
+            >
+              <div id="qrcode"></div>
+              <p class="qrcode-text">扫描二维码访问原文</p>
+            </div>
           </div>
         </div>
       </div>
@@ -314,19 +324,33 @@ onMounted(() => {
   font-size: 14px;
 }
 
+.share-qrcode-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
 .share-qrcode {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 20px;
-  padding: 10px;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 160px;
+}
+
+.share-qrcode img {
+  display: block;
   border-radius: 4px;
 }
 
-.share-qrcode p {
+.qrcode-text {
   margin-top: 10px;
   font-size: 14px;
   text-align: center;
+  line-height: 1.4;
 }
 
 /* 控制按钮样式 */

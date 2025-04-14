@@ -161,7 +161,7 @@ onUnmounted(() => {
     <ShareCard
       :text="selectedText"
       :visible="shareCardVisible"
-      :on-close="closeShareCard"
+      @close="closeShareCard"
     />
   </div>
 </template>
