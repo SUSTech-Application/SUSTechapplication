@@ -21,12 +21,6 @@ jobs:
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
-        # with:
-        #   bun-download-url: https://bun.sh/download/latest/linux/x64
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: latest
 
       - name: Install dependencies
         run: bun install
