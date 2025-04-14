@@ -41,7 +41,8 @@ const handleSelection = () => {
 
 // Handle mouseup event to detect selection
 const handleMouseUp = () => {
-  if (typeof window === "undefined") return;
+  // 如果分享卡片已显示，不再监听选择变化
+  if (typeof window === "undefined" || shareCardVisible.value) return;
   setTimeout(handleSelection, 10); // Small delay to ensure selection is complete
 };
 
@@ -69,6 +70,12 @@ const shareText = () => {
 // Close share card
 const closeShareCard = () => {
   shareCardVisible.value = false;
+  // 清空选中的文本，以便用户可以重新选择
+  setTimeout(() => {
+    if (typeof window !== "undefined") {
+      window.getSelection()?.removeAllRanges();
+    }
+  }, 100);
 };
 
 // Click outside to hide menu

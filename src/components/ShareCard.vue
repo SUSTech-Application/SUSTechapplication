@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, onMounted, ref, watch } from "vue";
+import { computed, defineProps, onMounted, ref, watch } from "vue";
 
 const props = defineProps({
   text: {
@@ -19,6 +19,40 @@ const props = defineProps({
 const qrcodeGenerated = ref(false);
 const isGeneratingImage = ref(false);
 const shareCardRef = ref(null);
+const currentTheme = ref("dark"); // 默认暗色主题
+
+// 定义主题
+const themes = [
+  { name: "dark", background: "#333", text: "#fff", border: "#4285f4" },
+  { name: "light", background: "#fff", text: "#333", border: "#4285f4" },
+  { name: "blue", background: "#1a73e8", text: "#fff", border: "#fff" },
+  { name: "green", background: "#0f9d58", text: "#fff", border: "#fff" },
+  { name: "red", background: "#ea4335", text: "#fff", border: "#fff" },
+];
+
+// 当前主题的样式
+const themeStyle = computed(() => {
+  const theme = themes.find((t) => t.name === currentTheme.value) || themes[0];
+  return {
+    background: theme.background,
+    color: theme.text,
+    borderColor: theme.border,
+  };
+});
+
+// 设置主题
+const setTheme = (themeName) => {
+  currentTheme.value = themeName;
+  // 重新生成二维码以匹配主题颜色
+  if (qrcodeGenerated.value) {
+    const qrcodeElement = document.getElementById("qrcode");
+    if (qrcodeElement) {
+      qrcodeElement.innerHTML = "";
+      qrcodeGenerated.value = false;
+      setTimeout(generateQRCode, 100);
+    }
+  }
+};
 
 // Function to generate QR code
 const generateQRCode = async () => {
@@ -29,12 +63,16 @@ const generateQRCode = async () => {
     const QRCodeModule = await import("qrcodejs2");
     const QRCode = QRCodeModule.default;
 
+    // 获取当前主题颜色
+    const theme =
+      themes.find((t) => t.name === currentTheme.value) || themes[0];
+
     new QRCode(document.getElementById("qrcode"), {
       text: window.location.href,
       width: 128,
       height: 128,
-      colorDark: "#000000",
-      colorLight: "#ffffff",
+      colorDark: theme.text,
+      colorLight: theme.background,
       correctLevel: QRCode.CorrectLevel.H,
     });
 
@@ -55,7 +93,7 @@ const downloadAsImage = async () => {
 
     const dataUrl = await domToImage.toPng(shareCardRef.value, {
       quality: 0.95,
-      bgcolor: "#fff",
+      bgcolor: "transparent",
     });
 
     // Create download link
@@ -96,26 +134,58 @@ onMounted(() => {
         <h3>分享内容</h3>
         <button class="close-button" @click="props['on-close']">×</button>
       </div>
-      <div class="share-card" ref="shareCardRef">
+
+      <!-- 预览卡片 - 用于下载 -->
+      <div
+        class="share-card"
+        ref="shareCardRef"
+        :style="{
+          backgroundColor: themeStyle.background,
+          color: themeStyle.color,
+          borderColor: themeStyle.borderColor,
+        }"
+      >
         <div class="share-content">
-          <blockquote>{{ text }}</blockquote>
-          <div class="share-source">
-            <p>来源: 南方科技大学飞跃手册</p>
+          <div class="share-text">
+            <blockquote :style="{ borderLeftColor: themeStyle.borderColor }">
+              {{ text }}
+            </blockquote>
+            <div class="share-source">
+              <p>来源: 南方科技大学飞跃手册</p>
+            </div>
+          </div>
+          <div
+            class="share-qrcode"
+            :style="{ backgroundColor: themeStyle.background }"
+          >
+            <div id="qrcode"></div>
+            <p>扫描二维码访问原文</p>
           </div>
         </div>
-        <div class="share-qrcode">
-          <div id="qrcode"></div>
-          <p>扫描二维码访问原文</p>
-        </div>
-        <div class="share-actions">
+      </div>
+
+      <!-- 控制按钮 - 不包含在下载图片中 -->
+      <div class="share-controls">
+        <div class="theme-selector">
+          <span>主题：</span>
           <button
-            class="download-button"
-            @click="downloadAsImage"
-            :disabled="isGeneratingImage"
+            v-for="theme in themes"
+            :key="theme.name"
+            class="theme-button"
+            :class="{ active: currentTheme === theme.name }"
+            :style="{ backgroundColor: theme.background, color: theme.text }"
+            @click="setTheme(theme.name)"
           >
-            {{ isGeneratingImage ? "生成中..." : "下载分享图片" }}
+            A
           </button>
         </div>
+        <button
+          class="download-button"
+          @click="downloadAsImage"
+          :disabled="isGeneratingImage"
+        >
+          {{ isGeneratingImage ? "生成中..." : "下载分享图片" }}
+        </button>
       </div>
     </div>
   </div>
@@ -170,9 +240,10 @@ onMounted(() => {
   flex-direction: column;
   gap: 20px;
   padding: 20px;
-  border: 1px solid #eee;
   border-radius: 8px;
   margin: 20px 0;
+  position: relative;
+  overflow: hidden;
 }
 
 .share-content {
@@ -182,15 +253,14 @@ onMounted(() => {
 .share-content blockquote {
   font-size: 18px;
   line-height: 1.6;
-  color: #333;
-  border-left: 4px solid #4285f4;
   padding-left: 15px;
   margin: 0 0 20px 0;
+  border-left-width: 4px;
+  border-left-style: solid;
 }
 
 .share-source {
   font-size: 14px;
-  color: #666;
 }
 
 .share-qrcode {
@@ -198,32 +268,49 @@ onMounted(() => {
   flex-direction: column;
   align-items: center;
   margin-top: 20px;
+  padding: 10px;
+  border-radius: 4px;
 }
 
 .share-qrcode p {
   margin-top: 10px;
   font-size: 14px;
-  color: #666;
+  text-align: center;
 }
 
-@media (min-width: 768px) {
-  .share-card {
-    flex-direction: row;
-  }
-
-  .share-qrcode {
-    margin-top: 0;
-  }
-}
-
-.share-actions {
+/* 控制按钮样式 */
+.share-controls {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
   margin-top: 20px;
 }
 
+.theme-selector {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.theme-button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.theme-button.active {
+  border-color: #000;
+}
+
 .download-button {
-  padding: 8px 16px;
+  padding: 10px 16px;
   background-color: #4285f4;
   color: white;
   border: none;
@@ -231,6 +318,7 @@ onMounted(() => {
   cursor: pointer;
   font-size: 14px;
   transition: background-color 0.2s;
+  align-self: center;
 }
 
 .download-button:hover {
@@ -240,5 +328,20 @@ onMounted(() => {
 .download-button:disabled {
   background-color: #ccc;
   cursor: not-allowed;
+}
+
+@media (min-width: 768px) {
+  .share-card {
+    flex-direction: row;
+  }
+
+  .share-qrcode {
+    margin-top: 0;
+    min-width: 150px;
+  }
+
+  .theme-selector {
+    justify-content: center;
+  }
 }
 </style>
