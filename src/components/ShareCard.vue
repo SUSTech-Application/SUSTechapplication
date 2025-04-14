@@ -25,7 +25,8 @@ const themes = [
   { name: "light", background: "#fff", text: "#333", border: "#4285f4" },
   { name: "blue", background: "#1a73e8", text: "#fff", border: "#fff" },
   { name: "green", background: "#0f9d58", text: "#fff", border: "#fff" },
-  { name: "red", background: "#ea4335", text: "#fff", border: "#fff" },
+  { name: "orange", background: "#ed6c00", text: "#ffffff", border: "#ffffff" },
+  { name: "teal", background: "#2bb7b3", text: "#ffffff", border: "#ffffff" },
 ];
 
 // 当前主题的样式
