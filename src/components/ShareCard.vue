@@ -91,12 +91,48 @@ const downloadAsImage = async () => {
   try {
     const domToImage = await import("dom-to-image-more");
 
-    const dataUrl = await domToImage.toPng(shareCardRef.value, {
-      quality: 0.95,
-      bgcolor: "transparent",
+    // 创建一个新的div元素，用于生成图片
+    const cloneContainer = document.createElement("div");
+    cloneContainer.style.position = "absolute";
+    cloneContainer.style.left = "-9999px";
+    cloneContainer.style.top = "-9999px";
+    document.body.appendChild(cloneContainer);
+
+    // 克隆分享卡片
+    const clone = shareCardRef.value.cloneNode(true);
+
+    // 确保背景色正确应用
+    const theme =
+      themes.find((t) => t.name === currentTheme.value) || themes[0];
+    clone.style.backgroundColor = theme.background;
+    clone.style.color = theme.text;
+    clone.style.width = `${shareCardRef.value.offsetWidth}px`;
+    clone.style.padding = "20px";
+    clone.style.borderRadius = "8px";
+    clone.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.1)";
+
+    // 添加到临时容器
+    cloneContainer.appendChild(clone);
+
+    // 使用toPng生成图片
+    const dataUrl = await domToImage.toPng(clone, {
+      quality: 1,
+      bgcolor: theme.background,
+      width: shareCardRef.value.offsetWidth,
+      height: shareCardRef.value.offsetHeight,
+      style: {
+        margin: "0",
+        padding: "20px",
+        "border-radius": "8px",
+        "background-color": theme.background,
+        color: theme.text,
+      },
     });
 
-    // Create download link
+    // 移除临时元素
+    document.body.removeChild(cloneContainer);
+
+    // 创建下载链接
     const link = document.createElement("a");
     link.download = `share-${new Date().getTime()}.png`;
     link.href = dataUrl;
@@ -143,6 +179,7 @@ onMounted(() => {
           backgroundColor: themeStyle.background,
           color: themeStyle.color,
           borderColor: themeStyle.borderColor,
+          boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
         }"
       >
         <div class="share-content">
@@ -247,6 +284,12 @@ onMounted(() => {
 }
 
 .share-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.share-text {
   flex: 1;
 }
 
