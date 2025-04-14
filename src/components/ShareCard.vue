@@ -1,6 +1,8 @@
 <script setup>
 import { computed, onMounted, ref, watch } from "vue";
 
+import { useData } from "vitepress";
+
 const props = defineProps({
   text: {
     type: String,
@@ -14,10 +16,21 @@ const props = defineProps({
 
 const emit = defineEmits(["close"]);
 
+// 获取VitePress的主题设置
+const { isDark } = useData();
+
 const qrcodeGenerated = ref(false);
 const isGeneratingImage = ref(false);
 const shareCardRef = ref(null);
-const currentTheme = ref("dark"); // 默认暗色主题
+const currentTheme = ref(isDark.value ? "dark" : "light"); // 根据网站主题设置默认值
+
+// 监听网站主题变化
+watch(isDark, (newValue) => {
+  // 只有当当前主题是dark或light时才自动切换
+  if (currentTheme.value === "dark" || currentTheme.value === "light") {
+    currentTheme.value = newValue ? "dark" : "light";
+  }
+});
 
 // 定义主题
 const themes = [
@@ -114,11 +127,9 @@ const generateQRCode = () => {
   }
 };
 
-// Function to download share card as image
-const downloadAsImage = async () => {
-  if (!shareCardRef.value || typeof window === "undefined") return;
-
-  isGeneratingImage.value = true;
+// 生成分享卡片图片
+const generateShareImage = async () => {
+  if (!shareCardRef.value || typeof window === "undefined") return null;
 
   try {
     const domToImage = await import("dom-to-image-more");
@@ -156,7 +167,7 @@ const downloadAsImage = async () => {
     clone.style.backgroundColor = theme.background;
     clone.style.color = theme.text;
     clone.style.padding = "20px";
-    clone.style.borderRadius = "8px";
+    clone.style.borderRadius = "12px";
     clone.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.1)";
 
     // 添加到临时容器
@@ -171,7 +182,7 @@ const downloadAsImage = async () => {
       style: {
         margin: "0",
         padding: "20px",
-        "border-radius": "8px",
+        "border-radius": "12px",
         "background-color": theme.background,
         color: theme.text,
         transform: `scale(${scale})`,
@@ -182,6 +193,26 @@ const downloadAsImage = async () => {
     // 移除临时元素
     document.body.removeChild(cloneContainer);
 
+    return dataUrl;
+  } catch (err) {
+    console.error("Failed to generate image:", err);
+    return null;
+  }
+};
+
+// Function to download share card as image
+const downloadAsImage = async () => {
+  if (!shareCardRef.value || typeof window === "undefined") return;
+
+  isGeneratingImage.value = true;
+
+  try {
+    const dataUrl = await generateShareImage();
+
+    if (!dataUrl) {
+      throw new Error("Failed to generate image");
+    }
+
     // 创建下载链接
     const link = document.createElement("a");
     link.download = `share-${new Date().getTime()}.png`;
@@ -190,7 +221,39 @@ const downloadAsImage = async () => {
 
     isGeneratingImage.value = false;
   } catch (err) {
-    console.error("Failed to generate image:", err);
+    console.error("Failed to download image:", err);
+    isGeneratingImage.value = false;
+  }
+};
+
+// 复制图片到剪贴板
+const copyToClipboard = async () => {
+  if (!shareCardRef.value || typeof window === "undefined") return;
+
+  isGeneratingImage.value = true;
+
+  try {
+    const dataUrl = await generateShareImage();
+
+    if (!dataUrl) {
+      throw new Error("Failed to generate image");
+    }
+
+    // 将dataUrl转换为Blob
+    const res = await fetch(dataUrl);
+    const blob = await res.blob();
+
+    // 创建ClipboardItem并复制到剪贴板
+    const item = new ClipboardItem({ "image/png": blob });
+    await navigator.clipboard.write([item]);
+
+    // 显示成功消息
+    alert("图片已复制到剪贴板！");
+
+    isGeneratingImage.value = false;
+  } catch (err) {
+    console.error("Failed to copy image to clipboard:", err);
+    alert("复制图片失败，请尝试下载图片后手动分享。");
     isGeneratingImage.value = false;
   }
 };
@@ -286,13 +349,22 @@ onMounted(() => {
             A
           </button>
         </div>
-        <button
-          class="download-button"
-          @click="downloadAsImage"
-          :disabled="isGeneratingImage"
-        >
-          {{ isGeneratingImage ? "生成中..." : "下载分享图片" }}
-        </button>
+        <div class="button-group">
+          <button
+            class="copy-button"
+            @click="copyToClipboard"
+            :disabled="isGeneratingImage"
+          >
+            {{ isGeneratingImage ? "生成中..." : "复制到剪贴板" }}
+          </button>
+          <button
+            class="download-button"
+            @click="downloadAsImage"
+            :disabled="isGeneratingImage"
+          >
+            {{ isGeneratingImage ? "生成中..." : "下载分享图片" }}
+          </button>
+        </div>
       </div>
     </div>
   </div>
@@ -313,7 +385,7 @@ onMounted(() => {
 }
 
 .share-card-container {
-  background-color: white;
+  background-color: var(--vp-c-bg);
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   width: 90%;
@@ -321,6 +393,7 @@ onMounted(() => {
   max-height: 90vh;
   overflow-y: auto;
   padding: 20px;
+  color: var(--vp-c-text-1);
 }
 
 .share-card-header {
@@ -332,6 +405,7 @@ onMounted(() => {
 
 .share-card-header h3 {
   margin: 0;
+  color: var(--vp-c-text-1);
 }
 
 .close-button {
@@ -464,25 +538,47 @@ onMounted(() => {
   border-color: #000;
 }
 
-.download-button {
+.button-group {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.download-button,
+.copy-button {
   padding: 10px 16px;
-  background-color: #4285f4;
-  color: white;
+  color: var(--vp-c-white);
   border: none;
   border-radius: 4px;
   cursor: pointer;
   font-size: 14px;
-  transition: background-color 0.2s;
-  align-self: center;
+  transition: all 0.2s ease;
+  flex: 1;
+  max-width: 200px;
+  background-color: var(--vp-c-brand);
+  position: relative;
+  overflow: hidden;
 }
 
-.download-button:hover {
-  background-color: #3367d6;
+.download-button:hover,
+.copy-button:hover {
+  background-color: var(--vp-c-brand-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.download-button:disabled {
-  background-color: #ccc;
+.download-button:active,
+.copy-button:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+.download-button:disabled,
+.copy-button:disabled {
+  background-color: var(--vp-c-gray);
   cursor: not-allowed;
+  opacity: 0.7;
 }
 
 @media (min-width: 768px) {
