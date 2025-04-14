@@ -1,5 +1,5 @@
 <script setup>
-import { computed, defineEmits, defineProps, onMounted, ref, watch } from "vue";
+import { computed, onMounted, ref, watch } from "vue";
 
 const props = defineProps({
   text: {
@@ -77,7 +77,7 @@ const generateQRCode = () => {
 
     // 创建图片元素
     const qrCodeImg = document.createElement("img");
-    qrCodeImg.alt = "扫码访问";
+    qrCodeImg.alt = "扫码访问原文";
     qrCodeImg.style.width = "80px";
     qrCodeImg.style.height = "80px";
 
@@ -263,7 +263,7 @@ onMounted(() => {
                 }"
               >
                 <div id="qrcode"></div>
-                <p class="qrcode-text">扫码访问</p>
+                <p class="qrcode-text">扫码访问原文</p>
               </div>
             </div>
           </div>
