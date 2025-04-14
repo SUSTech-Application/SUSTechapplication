@@ -5,6 +5,7 @@ import DefaultTheme from "vitepress/theme";
 import Aura from "@primeuix/themes/aura";
 import PrimeVue from "primevue/config";
 
+import PostList from "../../components/PostList.vue";
 import "./style.css";
 
 export default {
@@ -21,5 +22,8 @@ export default {
 
     /* register PrimeVue */
     app.use(PrimeVue, { theme: { preset: Aura } });
+
+    /* register global components */
+    app.component("PostList", PostList);
   },
 } satisfies Theme;

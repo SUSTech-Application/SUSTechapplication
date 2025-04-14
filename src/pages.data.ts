@@ -5,7 +5,7 @@ import { z } from "zod";
 // TODO: more validations
 const Metadata = z
   .object({
-    date: z.union([z.date(), z.undefined()]),
+    date: z.string(),
   })
   .passthrough();
 
@@ -27,10 +27,15 @@ export default createContentLoader("**/*.md", {
         return { title, url: page.url, metadata: page.frontmatter };
       })
       .map((page) => ({
+        // assert page.metadata.date is Date
         ...page,
-        metadata: Metadata.parse(page.metadata),
+        metadata: {
+          ...page.metadata,
+          date: z.union([z.date(), z.undefined()]).parse(page.metadata.date),
+        },
       }))
       .sort((a, b) => {
+        // sort according to date
         const dateA = a.metadata.date;
         const dateB = b.metadata.date;
         // If both dates exist, sort newest first
@@ -40,7 +45,20 @@ export default createContentLoader("**/*.md", {
         if (dateB) return 1;
         // If no dates, fall back to alphabetical by title
         return a.title?.localeCompare(b.title ?? "") ?? 0;
-      });
+      })
+      .map((page) => ({
+        // convert date to string
+        ...page,
+        metadata: {
+          ...page.metadata,
+          date: page.metadata.date?.toISOString().split("T")[0] ?? "",
+        },
+      }))
+      .map((page) => ({
+        // validate type of the the whole metadata object
+        ...page,
+        metadata: Metadata.parse(page.metadata),
+      }));
   },
 });
 

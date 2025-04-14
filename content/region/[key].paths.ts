@@ -1,7 +1,5 @@
 import METADATA from "../../src/metadata";
 
-// import METADATA from "../../src/metadata";
-
 export const REGIONS = METADATA.region;
 
 export default {
