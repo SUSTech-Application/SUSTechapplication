@@ -101,6 +101,12 @@ const downloadAsImage = async () => {
     // 克隆分享卡片
     const clone = shareCardRef.value.cloneNode(true);
 
+    // 确保 HTML 格式在克隆中保留
+    const blockquote = clone.querySelector(".formatted-text");
+    if (blockquote) {
+      blockquote.innerHTML = props.text;
+    }
+
     // 确保背景色正确应用
     const theme =
       themes.find((t) => t.name === currentTheme.value) || themes[0];
@@ -184,9 +190,11 @@ onMounted(() => {
       >
         <div class="share-content">
           <div class="share-text">
-            <blockquote :style="{ borderLeftColor: themeStyle.borderColor }">
-              {{ text }}
-            </blockquote>
+            <blockquote
+              :style="{ borderLeftColor: themeStyle.borderColor }"
+              v-html="text"
+              class="formatted-text"
+            ></blockquote>
             <div class="share-source">
               <p>来源: 南方科技大学飞跃手册</p>
             </div>
@@ -386,5 +394,42 @@ onMounted(() => {
   .theme-selector {
     justify-content: center;
   }
+}
+
+.formatted-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.formatted-text p {
+  margin: 0.5em 0;
+}
+
+.formatted-text strong,
+.formatted-text b {
+  font-weight: bold;
+}
+
+.formatted-text em,
+.formatted-text i {
+  font-style: italic;
+}
+
+.formatted-text a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.formatted-text ul,
+.formatted-text ol {
+  padding-left: 1.5em;
+  margin: 0.5em 0;
+}
+
+.formatted-text code {
+  font-family: monospace;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
 }
 </style>

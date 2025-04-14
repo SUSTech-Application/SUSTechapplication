@@ -35,7 +35,14 @@ const handleSelection = () => {
     const x = rect.left + rect.width / 2;
     const y = rect.top - 10; // Position above the selection
 
-    showMenu(x, y, selection.toString());
+    // 获取选中文本的HTML内容
+    const container = document.createElement("div");
+    const clonedSelection = range.cloneContents();
+    container.appendChild(clonedSelection);
+    const htmlContent = container.innerHTML;
+
+    // 使用HTML内容而不是纯文本
+    showMenu(x, y, htmlContent);
   }
 };
 
