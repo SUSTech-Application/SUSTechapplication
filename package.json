@@ -18,18 +18,18 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@primeuix/themes": "^1.0.0",
+    "@primeuix/themes": "^1.0.3",
     "primevue": "^4.3.3"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "@types/ajv": "^1.0.4",
-    "@types/node": "^22.13.14",
+    "@types/node": "^22.14.1",
     "@vue/tsconfig": "^0.7.0",
     "ajv": "^8.17.1",
-    "cspell": "^8.18.0",
-    "eslint": "^9.23.0",
-    "eslint-config-prettier": "^10.1.1",
+    "cspell": "^8.18.1",
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-vue": "^10.0.0",
     "fast-glob": "^3.3.3",
     "gray-matter": "^4.0.3",
@@ -37,12 +37,12 @@
     "markdown-it-task-lists": "^2.1.1",
     "markdownlint-cli2": "^0.17.2",
     "prettier": "^3.5.3",
-    "prettier-plugin-sh": "^0.17.0",
-    "typescript-eslint": "^8.28.0",
-    "vite": "^6.2.3",
+    "prettier-plugin-sh": "^0.17.2",
+    "typescript-eslint": "^8.29.1",
+    "vite": "^6.2.6",
     "vitepress": "^1.6.3",
-    "vitest": "^3.0.9",
-    "yaml": "^2.7.0",
+    "vitest": "^3.1.1",
+    "yaml": "^2.7.1",
     "zod": "^3.24.2"
   }
 }
