@@ -32,7 +32,7 @@ export default async (to: string, router: Router) => {
     if (typeof curSegment === "string") {
       // TODO: turn this on once migrated
       // to = curSegment;
-      // isredirected = true;
+      // isRedirected = true;
       // console.warn("redirecting to new path");
       break;
     }
@@ -41,7 +41,7 @@ export default async (to: string, router: Router) => {
   }
 
   if (isRedirected) {
-    await router.go(to);
+    await router.go(to); // must be awaited to avoid flash of 404
     return false; // abort the previous navigation
   }
 };

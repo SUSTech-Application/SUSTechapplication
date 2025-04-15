@@ -32,8 +32,6 @@
     "eslint": "^9.24.0",
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-vue": "^10.0.0",
-    "fast-glob": "^3.3.3",
-    "gray-matter": "^4.0.3",
     "jiti": "^2.4.2",
     "markdownlint-cli2": "^0.17.2",
     "prettier": "^3.5.3",
@@ -42,7 +40,6 @@
     "vite": "^6.2.6",
     "vitepress": "^1.6.3",
     "vitest": "^3.1.1",
-    "yaml": "^2.7.1",
     "zod": "^3.24.2"
   }
 }
