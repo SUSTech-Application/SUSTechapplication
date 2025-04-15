@@ -12,11 +12,12 @@ export default {
   extends: DefaultTheme,
   enhanceApp({ app, router }) {
     /* redirect legacy hash path, can only be done on client side */
-    router.onAfterRouteChange = async (to) => {
+    router.onBeforeRouteChange = async (to) => {
       const hashPath = /^\/#\/(.+)\/?$/.exec(to);
       if (hashPath) {
         console.warn("Hash path is deprecated, redirecting...");
         await router.go(hashPath[1]);
+        return false; // cancel this route change
       }
     };
 
