@@ -15,6 +15,18 @@ const mapping = parse(
 
 /** A Vue plugin to handle client side redirections */
 export default async (to: string, router: Router) => {
+  let isRedirected = false;
+
+  /* remove hash in the path */
+  const hasHash = /^\/#\/(.+)\/?$/.exec(to);
+  if (hasHash) {
+    console.warn("Hash path is deprecated, redirecting...");
+    await router.go(hasHash[1]);
+    isRedirected = true;
+  }
+
+  /* compatibility for legacy links */
+
   // split in to segments, omit empty initial segment
   const segments = to.split("/").slice(1);
 
@@ -25,12 +37,15 @@ export default async (to: string, router: Router) => {
     // string => found a match
     if (typeof curSegment === "string") {
       await router.go(`/${curSegment}`);
-      return false; // abort previous routing
+      isRedirected = true;
+      break;
     }
 
     // no match, continue with the current route
-    if (!(segment in curSegment)) return;
+    if (!(segment in curSegment)) break;
 
     curSegment = curSegment[segment]; // go down a level
   }
+
+  return !isRedirected; // return false to cancel the current navigation
 };
