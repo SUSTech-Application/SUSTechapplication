@@ -1,8 +1,6 @@
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 
-import type { Router } from "vitepress";
-
 import { parse } from "yaml";
 
 interface RedirectionMap {
@@ -14,14 +12,14 @@ const mapping = parse(
 ) as RedirectionMap;
 
 /** A Vue plugin to handle client side redirections */
-export default async (to: string, router: Router) => {
+export default async (to: string) => {
   let isRedirected = false;
-
+  // TODO: this will be bound as a method, try to call router with self?
   /* remove hash in the path */
   const hasHash = /^\/#\/(.+)\/?$/.exec(to);
   if (hasHash) {
     console.warn("Hash path is deprecated, redirecting...");
-    await router.go(hasHash[1]);
+    await this.go(hasHash[1]);
     isRedirected = true;
   }
 
@@ -36,7 +34,7 @@ export default async (to: string, router: Router) => {
   for (const segment of segments) {
     // string => found a match
     if (typeof curSegment === "string") {
-      await router.go(`/${curSegment}`);
+      await this.go(`/${curSegment}`);
       isRedirected = true;
       break;
     }
