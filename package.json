@@ -34,7 +34,6 @@
     "fast-glob": "^3.3.3",
     "gray-matter": "^4.0.3",
     "jiti": "^2.4.2",
-    "markdown-it-task-lists": "^2.1.1",
     "markdownlint-cli2": "^0.17.2",
     "prettier": "^3.5.3",
     "prettier-plugin-sh": "^0.17.2",
