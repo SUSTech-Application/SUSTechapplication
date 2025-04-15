@@ -10,21 +10,19 @@ const mapping = rawMapping as RedirectionMap;
 
 /** A Vue plugin to handle client side redirections */
 export default async (to: string, router: Router) => {
+  to = to.slice(1); // remove leading slash
   let isRedirected = false;
-  // TODO: this will be bound as a method, try to call router with self?
+
   /* remove hash in the path */
-  console.log("I am being executed!");
-  const hasHash = /^\/#\/(.+)\/?$/.exec(to);
+  const hasHash = /^#\/(.+)\/?$/.exec(to);
   if (hasHash) {
     console.warn("Hash path is deprecated, redirecting...");
-    await router.go(hasHash[1]);
+    to = hasHash[1];
     isRedirected = true;
   }
 
   /* compatibility for legacy links */
-
-  // split in to segments, omit empty initial segment
-  const segments = to.split("/").slice(1);
+  const segments = to.split("/");
 
   // try to find a match in the redirect map
   let curSegment: RedirectionMap | string = mapping;
@@ -32,16 +30,17 @@ export default async (to: string, router: Router) => {
   for (const segment of segments) {
     // string => found a match
     if (typeof curSegment === "string") {
-      await router.go(`/${curSegment}`);
+      to = curSegment;
       isRedirected = true;
+      console.warn("Redirecting to new path");
       break;
     }
-
-    // no match, continue with the current route
-    if (!(segment in curSegment)) break;
-
+    if (!curSegment[segment]) break; // no match
     curSegment = curSegment[segment]; // go down a level
   }
 
-  return !isRedirected; // return false to cancel the current navigation
+  if (isRedirected) {
+    await router.go(to);
+    return false; // abort the previous navigation
+  }
 };
