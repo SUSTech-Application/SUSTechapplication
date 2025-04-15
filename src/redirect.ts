@@ -1,15 +1,14 @@
-import { readFileSync } from "node:fs";
-import { resolve } from "node:path";
-
-import { parse } from "yaml";
+// import { readFileSync } from "node:fs";
+// import { resolve } from "node:path";
+// import { parse } from "yaml";
+// const mapping = parse(
+//   readFileSync(resolve(__dirname, "./mapping.yaml"), "utf-8"),
+// ) as RedirectionMap;
+import mapping from "./mapping.yaml";
 
 interface RedirectionMap {
   [segment: string]: RedirectionMap | string;
 }
-
-const mapping = parse(
-  readFileSync(resolve(__dirname, "./mapping.yaml"), "utf-8"),
-) as RedirectionMap;
 
 /** A Vue plugin to handle client side redirections */
 export default async (to: string) => {
