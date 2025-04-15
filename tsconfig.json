@@ -1,5 +1,9 @@
 {
-  "compilerOptions": { "baseUrl": ".", "paths": { "@/*": ["src/*"] } },
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "@/*": ["src/*"] },
+    "types": ["@modyfi/vite-plugin-yaml/modules"]
+  },
   "extends": "@vue/tsconfig/tsconfig.json",
   "include": [".", "src/.vitepress/**/*"],
   "vueCompilerOptions": { "vitePressExtensions": [".md"] }

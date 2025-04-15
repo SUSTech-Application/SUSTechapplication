@@ -22,6 +22,7 @@
     "primevue": "^4.3.3"
   },
   "devDependencies": {
+    "@modyfi/vite-plugin-yaml": "^1.1.1",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "@types/ajv": "^1.0.4",
     "@types/node": "^22.14.1",

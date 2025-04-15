@@ -1,7 +1,6 @@
-import { resolve } from "node:path";
-
 import { defineConfig } from "vitepress";
 
+import vite from "../../vite.config";
 import sidebar from "../sidebar";
 
 // https://vitepress.dev/reference/site-config
@@ -55,5 +54,5 @@ export default defineConfig({
     ],
   ],
 
-  vite: { resolve: { alias: { "@": resolve(__dirname, "../") } } },
+  vite,
 });
