@@ -14,7 +14,7 @@ export default {
   extends: DefaultTheme,
   enhanceApp({ app, router }) {
     /* client side redirections */
-    router.onBeforeRouteChange = redirect;
+    router.onBeforeRouteChange = (to) => redirect(to, router);
 
     /* register PrimeVue */
     app.use(PrimeVue, { theme: { preset: Aura } });

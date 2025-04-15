@@ -1,3 +1,5 @@
+import type { Router } from "vitepress";
+
 import rawMapping from "./mapping.yaml";
 
 interface RedirectionMap {
@@ -7,14 +9,15 @@ interface RedirectionMap {
 const mapping = rawMapping as RedirectionMap;
 
 /** A Vue plugin to handle client side redirections */
-export default async (to: string) => {
+export default async (to: string, router: Router) => {
   let isRedirected = false;
   // TODO: this will be bound as a method, try to call router with self?
   /* remove hash in the path */
+  console.log("I am being executed!");
   const hasHash = /^\/#\/(.+)\/?$/.exec(to);
   if (hasHash) {
     console.warn("Hash path is deprecated, redirecting...");
-    await this.go(hasHash[1]);
+    await router.go(hasHash[1]);
     isRedirected = true;
   }
 
@@ -29,7 +32,7 @@ export default async (to: string) => {
   for (const segment of segments) {
     // string => found a match
     if (typeof curSegment === "string") {
-      await this.go(`/${curSegment}`);
+      await router.go(`/${curSegment}`);
       isRedirected = true;
       break;
     }
