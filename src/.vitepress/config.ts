@@ -1,10 +1,10 @@
-import { defineConfig } from "vitepress";
+import type { DefaultTheme, UserConfig } from "vitepress";
 
 import vite from "../../vite.config";
 import sidebar from "../sidebar";
 
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
+/** @see https://vitepress.dev/reference/site-config */
+export default {
   srcDir: "../content",
   outDir: "../dist",
   cacheDir: "../cache",
@@ -15,8 +15,8 @@ export default defineConfig({
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
 
+  /** @see https://vitepress.dev/reference/default-theme-config */
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     outline: { level: "deep", label: "目录" },
     nav: [
       { text: "主页", link: "/" },
@@ -39,7 +39,7 @@ export default defineConfig({
         link: "https://github.com/SUSTech-Application/SUSTechapplication",
       },
     ],
-  },
+  } as DefaultTheme.Config,
   head: [
     [
       "script",
@@ -59,4 +59,4 @@ export default defineConfig({
   ],
 
   vite,
-});
+} as UserConfig;
