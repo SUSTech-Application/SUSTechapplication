@@ -20,10 +20,14 @@ export default defineConfig({
     outline: { level: "deep", label: "目录" },
     nav: [
       { text: "主页", link: "/" },
-      { text: "最近更新", link: "updates" },
-      { text: "分享经验", link: "docs/contribute" },
+      { text: "最近更新", link: "updates", activeMatch: "updates" },
+      {
+        text: "分享经验",
+        link: "docs/contribute",
+        activeMatch: "docs/contribute",
+      },
       { text: "参考文档", link: "docs/contribute", activeMatch: "docs" },
-      { text: "技术博客", link: "blog" },
+      { text: "技术博客", link: "blog", activeMatch: "blog" },
     ],
     sidebar: {
       "/docs": sidebar.docs,
@@ -41,7 +45,7 @@ export default defineConfig({
       "script",
       {
         async: "",
-        src: "https://www.googletagmanager.com/gtag/js?id=G-VVQKMMQ3VE",
+        src: "https://googletagmanager.com/gtag/js?id=G-VVQKMMQ3VE",
       },
     ],
     [

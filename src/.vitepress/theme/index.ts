@@ -22,4 +22,4 @@ export default {
     /* register global components */
     app.component("PostList", PostList);
   },
-} satisfies Theme;
+} as Theme;
