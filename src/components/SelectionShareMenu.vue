@@ -1,15 +1,15 @@
-<script setup>
+<script setup lang="ts">
 import { onMounted, onUnmounted, ref } from "vue";
 
 import ShareCard from "./ShareCard.vue";
 
-const menuVisible = ref(false);
-const menuPosition = ref({ x: 0, y: 0 });
-const selectedText = ref("");
-const shareCardVisible = ref(false);
+const menuVisible = ref<boolean>(false);
+const menuPosition = ref<{ x: number; y: number }>({ x: 0, y: 0 });
+const selectedText = ref<string>("");
+const shareCardVisible = ref<boolean>(false);
 
 // Function to show the menu
-const showMenu = (x, y, text) => {
+const showMenu = (x: number, y: number, text: string) => {
   if (text && text.trim() !== "") {
     selectedText.value = text;
     menuPosition.value = { x, y };
@@ -86,7 +86,7 @@ const closeShareCard = () => {
 };
 
 // Click outside to hide menu
-const handleClickOutside = (event) => {
+const handleClickOutside = (event: MouseEvent) => {
   if (menuVisible.value && !event.target.closest(".selection-menu")) {
     hideMenu();
   }

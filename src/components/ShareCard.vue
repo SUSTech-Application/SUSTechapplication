@@ -1,31 +1,54 @@
-<script setup>
+<script setup lang="ts">
 import { computed, onMounted, ref, watch } from "vue";
 
 import { useData } from "vitepress";
 
-const props = defineProps({
-  text: {
-    type: String,
-    required: true,
-  },
-  visible: {
-    type: Boolean,
-    default: false,
-  },
-});
+// 定义Props类型
+interface ShareCardProps {
+  text: string;
+  visible: boolean;
+}
 
-const emit = defineEmits(["close"]);
+// 定义主题类型
+interface Theme {
+  name: string;
+  background: string;
+  text: string;
+  border: string;
+}
+
+// 定义主题样式类型
+interface ThemeStyle {
+  background: string;
+  color: string;
+  borderColor: string;
+}
+
+// 定义dom-to-image-more选项类型
+interface DomToImageOptions {
+  quality?: number;
+  bgcolor?: string;
+  width?: number;
+  height?: number;
+  style?: Record<string, string>;
+}
+
+const props = defineProps<ShareCardProps>();
+
+const emit = defineEmits<{
+  (e: "close"): void;
+}>();
 
 // 获取VitePress的主题设置
 const { isDark } = useData();
 
-const qrcodeGenerated = ref(false);
-const isGeneratingImage = ref(false);
-const shareCardRef = ref(null);
-const currentTheme = ref(isDark.value ? "dark" : "light"); // 根据网站主题设置默认值
+const qrcodeGenerated = ref<boolean>(false);
+const isGeneratingImage = ref<boolean>(false);
+const shareCardRef = ref<HTMLElement | null>(null);
+const currentTheme = ref<string>(isDark.value ? "dark" : "light"); // 根据网站主题设置默认值
 
 // 监听网站主题变化
-watch(isDark, (newValue) => {
+watch(isDark, (newValue: boolean) => {
   // 只有当当前主题是dark或light时才自动切换
   if (currentTheme.value === "dark" || currentTheme.value === "light") {
     currentTheme.value = newValue ? "dark" : "light";
@@ -33,7 +56,7 @@ watch(isDark, (newValue) => {
 });
 
 // 定义主题
-const themes = [
+const themes: Theme[] = [
   { name: "dark", background: "#333", text: "#fff", border: "#4285f4" },
   { name: "light", background: "#fff", text: "#333", border: "#4285f4" },
   { name: "blue", background: "#1a73e8", text: "#fff", border: "#fff" },
@@ -43,7 +66,7 @@ const themes = [
 ];
 
 // 当前主题的样式
-const themeStyle = computed(() => {
+const themeStyle = computed<ThemeStyle>(() => {
   const theme = themes.find((t) => t.name === currentTheme.value) || themes[0];
   return {
     background: theme.background,
@@ -53,7 +76,7 @@ const themeStyle = computed(() => {
 });
 
 // 设置主题
-const setTheme = (themeName) => {
+const setTheme = (themeName: string): void => {
   currentTheme.value = themeName;
   // 重新生成二维码以匹配主题颜色
   qrcodeGenerated.value = false;
@@ -68,7 +91,7 @@ const setTheme = (themeName) => {
 };
 
 // Function to generate QR code
-const generateQRCode = () => {
+const generateQRCode = (): void => {
   if (typeof window === "undefined" || typeof document === "undefined") return;
 
   try {
@@ -111,7 +134,7 @@ const generateQRCode = () => {
       qrcodeGenerated.value = true;
     };
 
-    qrCodeImg.onerror = (e) => {
+    qrCodeImg.onerror = (e: Event) => {
       console.error("Failed to load QR code image:", e);
       // 尝试使用默认颜色
       qrCodeImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=${encodeURIComponent(qrUrl)}`;
@@ -122,17 +145,27 @@ const generateQRCode = () => {
 
     // 添加到DOM
     qrcodeElement.appendChild(qrCodeImg);
-  } catch (err) {
-    console.error("Failed to generate QRCode:", err);
+  } catch (err: unknown) {
+    console.error(
+      "Failed to generate QRCode:",
+      err instanceof Error ? err.message : String(err),
+    );
   }
 };
 
+// 声明dom-to-image-more模块
+interface DomToImage {
+  toPng(node: HTMLElement, options?: DomToImageOptions): Promise<string>;
+}
+
 // 生成分享卡片图片
-const generateShareImage = async () => {
+const generateShareImage = async (): Promise<string | null> => {
   if (!shareCardRef.value || typeof window === "undefined") return null;
 
   try {
-    const domToImage = await import("dom-to-image-more");
+    const domToImage = (await import("dom-to-image-more")) as unknown as {
+      default: DomToImage;
+    };
 
     // 创建一个新的div元素，用于生成图片
     const cloneContainer = document.createElement("div");
@@ -142,11 +175,11 @@ const generateShareImage = async () => {
     document.body.appendChild(cloneContainer);
 
     // 克隆分享卡片
-    const clone = shareCardRef.value.cloneNode(true);
+    const clone = shareCardRef.value.cloneNode(true) as HTMLElement;
 
     // 确保 HTML 格式在克隆中保留
     const blockquote = clone.querySelector(".formatted-text");
-    if (blockquote) {
+    if (blockquote instanceof HTMLElement) {
       blockquote.innerHTML = props.text;
     }
 
@@ -154,7 +187,7 @@ const generateShareImage = async () => {
     const theme =
       themes.find((t) => t.name === currentTheme.value) || themes[0];
 
-    // 计算厚度分辨率的尺寸
+    // 计算高分辨率的尺寸
     const originalWidth = shareCardRef.value.offsetWidth;
     const originalHeight = shareCardRef.value.offsetHeight;
     const scale = 3; // 3倍分辨率
@@ -174,7 +207,7 @@ const generateShareImage = async () => {
     cloneContainer.appendChild(clone);
 
     // 使用toPng生成高分辨率图片
-    const dataUrl = await domToImage.toPng(clone, {
+    const dataUrl = await domToImage.default.toPng(clone, {
       quality: 1,
       bgcolor: theme.background,
       width: scaledWidth, // 使用放大后的宽度
@@ -194,14 +227,17 @@ const generateShareImage = async () => {
     document.body.removeChild(cloneContainer);
 
     return dataUrl;
-  } catch (err) {
-    console.error("Failed to generate image:", err);
+  } catch (err: unknown) {
+    console.error(
+      "Failed to generate image:",
+      err instanceof Error ? err.message : String(err),
+    );
     return null;
   }
 };
 
 // Function to download share card as image
-const downloadAsImage = async () => {
+const downloadAsImage = async (): Promise<void> => {
   if (!shareCardRef.value || typeof window === "undefined") return;
 
   isGeneratingImage.value = true;
@@ -220,14 +256,36 @@ const downloadAsImage = async () => {
     link.click();
 
     isGeneratingImage.value = false;
-  } catch (err) {
-    console.error("Failed to download image:", err);
+  } catch (err: unknown) {
+    console.error(
+      "Failed to download image:",
+      err instanceof Error ? err.message : String(err),
+    );
     isGeneratingImage.value = false;
   }
 };
 
+// 声明ClipboardItem接口
+interface ClipboardItems {
+  [key: string]: Blob;
+}
+
+interface ClipboardItemConstructor {
+  new (items: ClipboardItems): ClipboardItem;
+}
+
+declare global {
+  interface Navigator {
+    clipboard: {
+      write(items: ClipboardItem[]): Promise<void>;
+    };
+  }
+
+  var ClipboardItem: ClipboardItemConstructor;
+}
+
 // 复制图片到剪贴板
-const copyToClipboard = async () => {
+const copyToClipboard = async (): Promise<void> => {
   if (!shareCardRef.value || typeof window === "undefined") return;
 
   isGeneratingImage.value = true;
@@ -251,8 +309,11 @@ const copyToClipboard = async () => {
     alert("图片已复制到剪贴板！");
 
     isGeneratingImage.value = false;
-  } catch (err) {
-    console.error("Failed to copy image to clipboard:", err);
+  } catch (err: unknown) {
+    console.error(
+      "Failed to copy image to clipboard:",
+      err instanceof Error ? err.message : String(err),
+    );
     alert("复制图片失败，请尝试下载图片后手动分享。");
     isGeneratingImage.value = false;
   }
@@ -261,7 +322,7 @@ const copyToClipboard = async () => {
 // Watch for visibility changes to generate QR code when component becomes visible
 watch(
   () => props.visible,
-  (newValue) => {
+  (newValue: boolean) => {
     // 当组件变为可见时，重置状态并生成新的二维码
     if (newValue) {
       // 重置状态
