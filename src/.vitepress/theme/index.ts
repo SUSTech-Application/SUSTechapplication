@@ -5,14 +5,17 @@ import DefaultTheme from "vitepress/theme";
 import Aura from "@primeuix/themes/aura";
 import PrimeVue from "primevue/config";
 
-import Layout from "../../components/Layout.vue";
+// Import components
+import AppLayout from "../../components/AppLayout.vue";
 import PostList from "../../components/PostList.vue";
 import SelectionShareMenu from "../../components/SelectionShareMenu.vue";
 import "./style.css";
 
+// Define the theme
 export default {
   extends: DefaultTheme,
-  Layout,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/no-unsafe-assignment
+  Layout: AppLayout as any,
   enhanceApp({ app, router }) {
     /* redirect legacy hash path, can only be done on client side */
     router.onAfterRouteChange = async (to) => {
@@ -30,4 +33,4 @@ export default {
     app.component("PostList", PostList);
     app.component("SelectionShareMenu", SelectionShareMenu);
   },
-} satisfies Theme;
+} as Theme;

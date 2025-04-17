@@ -35,9 +35,7 @@ interface DomToImageOptions {
 
 const props = defineProps<ShareCardProps>();
 
-const emit = defineEmits<{
-  (e: "close"): void;
-}>();
+const emit = defineEmits<(e: "close") => void>();
 
 // 获取VitePress的主题设置
 const { isDark } = useData();
@@ -67,7 +65,7 @@ const themes: Theme[] = [
 
 // 当前主题的样式
 const themeStyle = computed<ThemeStyle>(() => {
-  const theme = themes.find((t) => t.name === currentTheme.value) || themes[0];
+  const theme = themes.find((t) => t.name === currentTheme.value) ?? themes[0];
   return {
     background: theme.background,
     color: theme.text,
@@ -134,8 +132,8 @@ const generateQRCode = (): void => {
       qrcodeGenerated.value = true;
     };
 
-    qrCodeImg.onerror = (e: Event) => {
-      console.error("Failed to load QR code image:", e);
+    qrCodeImg.onerror = () => {
+      console.error("Failed to load QR code image");
       // 尝试使用默认颜色
       qrCodeImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=${encodeURIComponent(qrUrl)}`;
     };
@@ -185,7 +183,7 @@ const generateShareImage = async (): Promise<string | null> => {
 
     // 确保背景色正确应用
     const theme =
-      themes.find((t) => t.name === currentTheme.value) || themes[0];
+      themes.find((t) => t.name === currentTheme.value) ?? themes[0];
 
     // 计算高分辨率的尺寸
     const originalWidth = shareCardRef.value.offsetWidth;
@@ -195,8 +193,8 @@ const generateShareImage = async (): Promise<string | null> => {
     const scaledHeight = originalHeight * scale;
 
     // 设置克隆元素的样式
-    clone.style.width = `${originalWidth}px`;
-    clone.style.height = `${originalHeight}px`;
+    clone.style.width = `${String(originalWidth)}px`;
+    clone.style.height = `${String(originalHeight)}px`;
     clone.style.backgroundColor = theme.background;
     clone.style.color = theme.text;
     clone.style.padding = "20px";
@@ -218,7 +216,7 @@ const generateShareImage = async (): Promise<string | null> => {
         "border-radius": "12px",
         "background-color": theme.background,
         color: theme.text,
-        transform: `scale(${scale})`,
+        transform: `scale(${String(scale)})`,
         "transform-origin": "top left",
       },
     });
@@ -251,7 +249,7 @@ const downloadAsImage = async (): Promise<void> => {
 
     // 创建下载链接
     const link = document.createElement("a");
-    link.download = `share-${new Date().getTime()}.png`;
+    link.download = `share-${String(new Date().getTime())}.png`;
     link.href = dataUrl;
     link.click();
 
@@ -265,24 +263,7 @@ const downloadAsImage = async (): Promise<void> => {
   }
 };
 
-// 声明ClipboardItem接口
-interface ClipboardItems {
-  [key: string]: Blob;
-}
-
-interface ClipboardItemConstructor {
-  new (items: ClipboardItems): ClipboardItem;
-}
-
-declare global {
-  interface Navigator {
-    clipboard: {
-      write(items: ClipboardItem[]): Promise<void>;
-    };
-  }
-
-  var ClipboardItem: ClipboardItemConstructor;
-}
+// We're using the global.d.ts file for clipboard API declarations
 
 // 复制图片到剪贴板
 const copyToClipboard = async (): Promise<void> => {
@@ -357,8 +338,8 @@ onMounted(() => {
 
       <!-- 预览卡片 - 用于下载 -->
       <div
-        class="share-card"
         ref="shareCardRef"
+        class="share-card"
         :style="{
           backgroundColor: themeStyle.background,
           color: themeStyle.color,
@@ -368,10 +349,11 @@ onMounted(() => {
       >
         <div class="share-content">
           <div class="share-text">
+            <!-- eslint-disable-next-line vue/no-v-html -->
             <blockquote
               :style="{ borderLeftColor: themeStyle.borderColor }"
-              v-html="text"
               class="formatted-text"
+              v-html="text"
             ></blockquote>
           </div>
           <div class="share-footer">
@@ -413,15 +395,15 @@ onMounted(() => {
         <div class="button-group">
           <button
             class="copy-button"
-            @click="copyToClipboard"
             :disabled="isGeneratingImage"
+            @click="copyToClipboard"
           >
             {{ isGeneratingImage ? "生成中..." : "复制到剪贴板" }}
           </button>
           <button
             class="download-button"
-            @click="downloadAsImage"
             :disabled="isGeneratingImage"
+            @click="downloadAsImage"
           >
             {{ isGeneratingImage ? "生成中..." : "下载分享图片" }}
           </button>

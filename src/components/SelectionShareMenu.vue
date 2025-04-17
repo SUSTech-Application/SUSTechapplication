@@ -87,7 +87,8 @@ const closeShareCard = () => {
 
 // Click outside to hide menu
 const handleClickOutside = (event: MouseEvent) => {
-  if (menuVisible.value && !event.target.closest(".selection-menu")) {
+  const target = event.target as HTMLElement;
+  if (menuVisible.value && !target.closest(".selection-menu")) {
     hideMenu();
   }
 };
@@ -118,7 +119,7 @@ onUnmounted(() => {
         transform: 'translate(-50%, -100%)',
       }"
     >
-      <button @click="copyText" class="menu-button copy-button" title="复制">
+      <button class="menu-button copy-button" title="复制" @click="copyText">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
@@ -136,7 +137,7 @@ onUnmounted(() => {
           ></path>
         </svg>
       </button>
-      <button @click="shareText" class="menu-button share-button" title="分享">
+      <button class="menu-button share-button" title="分享" @click="shareText">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
