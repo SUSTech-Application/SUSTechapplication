@@ -7,16 +7,18 @@ const path = require('path');
  * @param {string} basePath 当前路径
  * @param {object} structure 文件结构
  */
-function parseFiles(basePath, structure,newPath) {
+function parseFiles(basePath, structure,movePath) {
   for (const key in structure) {
     const value = structure[key];
     const currentPath = path.join(basePath, key);
 
     if (typeof value === 'string') {
-      const destinationPath = path.join(newPath, value);
-      moveFile(currentPath, destinationPath); // 移动文件
+      // 如果是文件，打印文件路径
+      console.log(`File: ${currentPath}/${value}`);
+      const destinationPath = path.join(movePath, value);
+     moveFile(currentPath, destinationPath);
     } else if (typeof value === 'object' && value !== null) {
-      parseFiles(currentPath, value);
+      parseFiles(currentPath, value,movePath);
     }
   }
 }
@@ -47,5 +49,5 @@ function moveFile(sourcePath, destinationPath) {
   }
 // 调用函数解析文件结构
 const rootPath = path.resolve(__dirname, '../content');
-const newPath = path.resolve(__dirname, '../content/post');
-parseFiles(rootPath, rawMapping,newPath);
+const movePath = path.resolve(__dirname, '../content/post');
+parseFiles(rootPath, rawMapping,movePath);
