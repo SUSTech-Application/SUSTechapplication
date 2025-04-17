@@ -1,15 +1,15 @@
-<script setup>
-import { useData } from 'vitepress'
-import DefaultTheme from 'vitepress/theme'
-import SelectionShareMenu from './SelectionShareMenu.vue'
+<script setup lang="ts">
+import DefaultTheme from "vitepress/theme";
 
-const { Layout } = DefaultTheme
+import SelectionShareMenu from "./SelectionShareMenu.vue";
+
+const { Layout: DefaultLayout } = DefaultTheme;
 </script>
 
 <template>
-  <Layout>
+  <DefaultLayout>
     <template #layout-bottom>
       <SelectionShareMenu />
     </template>
-  </Layout>
+  </DefaultLayout>
 </template>
