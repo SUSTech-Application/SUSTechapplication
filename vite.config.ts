@@ -10,8 +10,5 @@ import yaml from "@modyfi/vite-plugin-yaml";
 
 export default {
   resolve: { alias: { "@": resolve(__dirname, "src") } },
-  // FIXME: yaml is not correctly typed, file an issue
-  // eslint-disable-next-line @typescript-eslint/no-unsafe-call
   plugins: [yaml()],
-  // specifically typed for VitePress
-} as UserConfig["vite"];
+} as UserConfig["vite"]; // specifically typed for VitePress config
