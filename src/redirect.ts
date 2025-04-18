@@ -30,10 +30,9 @@ export default async (to: string, router: Router) => {
   for (const segment of segments) {
     // string => found a match
     if (typeof curSegment === "string") {
-      // TODO: turn this on once migrated
-      // to = curSegment;
-      // isRedirected = true;
-      // console.warn("redirecting to new path");
+      to = curSegment;
+      isRedirected = true;
+      console.warn("redirecting to new path");
       break;
     }
     if (!curSegment[segment]) break; // no match
