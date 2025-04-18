@@ -8,7 +8,7 @@ type: abroad
 
 # 在计系，暑研对北美申请重要性的讨论
 
-by [15级-计算机-阎相易](/grad-application/computer-science-and-engineering/[US]-15-yanxiangyi)
+by [15级-计算机-阎相易](yanxy15)
 
 在计系，如果没有北美暑研的经历，基本不可能申请到好学校的PhD项目。
 
