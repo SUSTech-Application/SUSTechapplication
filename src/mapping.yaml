@@ -1,14 +1,14 @@
 英语学习:
   GRE:
     GRE修仙指南-15级-张孜晟: zhangzs15
-    GRE指南-19级-杨文汉夫: yangwhf19a
+    GRE指南-19级-杨文汉夫: yangwhf19
   日常学习:
     经验分享-21-周弘毅: zhouhy21
   IELTS:
-    2个月自学雅思总分6-7: "76" # FIXME: who wrote this?
+    2个月自学雅思总分6-7: "anon16"
     英语学渣学习指南: lijj16
 grad-application:
-  申请Tips: anon # FIXME: which year? might as well remove it
+  申请Tips: anon00 # public anonymous tips
   information-systems-and-management-engineering:
     big-data-management-and-applications:
       "[US]-18-lizhichen": lizc18
@@ -49,7 +49,6 @@ grad-application:
       "[CN]-15-mayue": may15
       "[US]-20-yua": yua20
     financial-mathematics:
-      "[CN]-21-gaoyiyang": gaoyy21
       "[US]-16-yangzhiyao": yangzy16
     applied-mathematics:
       "[DNK]-16-linruijun": linrj16
@@ -75,7 +74,6 @@ grad-application:
     optical-information:
       "[US]-16-fanzhenkun": fanzk16
   biomedical-engineering:
-    "[US]-21-zhaoenze": zhaoez21
     "[HK]-18-wangshuchen": wangsc18
     "[SG]-18-wangyehan": wangyh18
     "[SG]-17-gaoxu": gaox17
@@ -93,7 +91,7 @@ grad-application:
     "[CN]-17-dingmingyu": dingmy17
   computer-science-and-engineering:
     "[US]-16-zhangzhaoxu": zhangzx16
-    "[CN]-18-anonymous": anonymous18
+    "[CN]-18-anonymous": anon18
     "[US]-15-fangyidong": fangyd15
     "[US]-21-zhousicheng": zhousc21
     "[CN]-15-liziqiang": lizq15
@@ -114,7 +112,6 @@ grad-application:
     "[US]-19-chenxingyu": chenxy19
     "[US]-17-luanwendi": luanwd17
     "[US]-16-chendeyuan": chendy16
-    "[CN]-18-anoymous": anon18
   mechanics-and-aerospace-engineering:
     "[CN]-16-shanghengrui": shanghr16
     "[US]-15-hezilong": hezl15
@@ -134,12 +131,12 @@ grad-application:
       "[US]-19-lihaoming": lihm19
       "[CN]-16-zhaoyanchu": zhaoyc16
     financial-engineering:
-      "[CH]-18-wenjipeng": wenjp18
       "[CN]-16-gongguoyu": gonggy16
       "[SG]-16-liyilin-1": "lyl16"
       "[CN]-16-jinghongyan": jinghy16
       "[SG]-16-liyilin": liyl16
       "[IT]-16-laimeizhi": laimz16
+      "[CN]-18-wenjipeng": wenjp18
       "[CN]-17-dengzhuorui": dengzr17
       "[CH]-16-wangdanyu": wangdy16
       "[FR]-17-zhuyeyun": zhuyy17
@@ -167,7 +164,7 @@ grad-application:
     "[US]-17-aiqian": aiq17
     "[CN]-16-jiangcheng": jiangc16
     "[CN]-17-baihaoyu": baihy17
-    "[CN]-16-chenyong": cheny16a
+    "[CN]-16-chenyong": cheny16
     "[HK]-15-laihuang": laih15
     "[US]-15-liuguoyuan": liugy15
   biology:
@@ -189,7 +186,7 @@ oversea-program:
     columbia_environment_LDEO_wuxin: wux16
     columbia_environment_LDEO_liujingyu: liujy15
   summer-school:
-    ucla_summer_session_recommendation: ucla_summer_session_recommendation # FIXME: who wrote this?
+    ucla_summer_session_recommendation: shiml22
     ucsd_summer_session_guide: jiz22 # FIXME: who wrote this?
   semester-program:
     uc_yangzonghao: yangzh16
