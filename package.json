@@ -24,6 +24,7 @@
     "qrcodejs2": "^0.0.2"
   },
   "devDependencies": {
+    "@modyfi/vite-plugin-yaml": "^1.1.1",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "@types/ajv": "^1.0.4",
     "@types/node": "^22.14.1",
@@ -33,10 +34,7 @@
     "eslint": "^9.24.0",
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-vue": "^10.0.0",
-    "fast-glob": "^3.3.3",
-    "gray-matter": "^4.0.3",
     "jiti": "^2.4.2",
-    "markdown-it-task-lists": "^2.1.1",
     "markdownlint-cli2": "^0.17.2",
     "prettier": "^3.5.3",
     "prettier-plugin-sh": "^0.17.2",
@@ -44,7 +42,6 @@
     "vite": "^6.2.6",
     "vitepress": "^1.6.3",
     "vitest": "^3.1.1",
-    "yaml": "^2.7.1",
     "zod": "^3.24.2"
   }
 }

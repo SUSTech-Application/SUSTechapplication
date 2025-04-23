@@ -1,15 +1,10 @@
-import { resolve } from "node:path";
+import type { DefaultTheme, UserConfig } from "vitepress";
 
-import { defineConfig } from "vitepress";
-
-import { type PluginSimple } from "markdown-it";
-// @ts-expect-error this pkg has no types
-import taskLists from "markdown-it-task-lists";
-
+import vite from "../../vite.config";
 import sidebar from "../sidebar";
 
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
+/** @see https://vitepress.dev/reference/site-config */
+export default {
   srcDir: "../content",
   outDir: "../dist",
   cacheDir: "../cache",
@@ -20,15 +15,19 @@ export default defineConfig({
   title: "南方科技大学飞跃手册",
   description: "[description goes here...]",
 
+  /** @see https://vitepress.dev/reference/default-theme-config */
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     outline: { level: "deep", label: "目录" },
     nav: [
       { text: "主页", link: "/" },
-      { text: "最近更新", link: "updates" },
-      { text: "分享经验", link: "docs/contribute" },
+      { text: "最近更新", link: "updates", activeMatch: "updates" },
+      {
+        text: "分享经验",
+        link: "docs/contribute",
+        activeMatch: "docs/contribute",
+      },
       { text: "参考文档", link: "docs/contribute", activeMatch: "docs" },
-      { text: "技术博客", link: "blog" },
+      { text: "技术博客", link: "blog", activeMatch: "blog" },
     ],
     sidebar: {
       "/docs": sidebar.docs,
@@ -40,13 +39,13 @@ export default defineConfig({
         link: "https://github.com/SUSTech-Application/SUSTechapplication",
       },
     ],
-  },
+  } as DefaultTheme.Config,
   head: [
     [
       "script",
       {
         async: "",
-        src: "https://www.googletagmanager.com/gtag/js?id=G-VVQKMMQ3VE",
+        src: "https://googletagmanager.com/gtag/js?id=G-VVQKMMQ3VE",
       },
     ],
     [
@@ -59,11 +58,5 @@ export default defineConfig({
     ],
   ],
 
-  markdown: {
-    config: (md) => {
-      md.use(taskLists as PluginSimple);
-    },
-  },
-
-  vite: { resolve: { alias: { "@": resolve(__dirname, "../") } } },
-});
+  vite,
+} as UserConfig;

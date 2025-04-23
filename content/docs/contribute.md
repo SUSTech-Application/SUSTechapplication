@@ -81,7 +81,9 @@ GitHub 的用户界面可能在本指南发布后有所变动，请以实际为�
 
 - 撰写经验分享帖子
 - 在仓库中[创建新 Issue](https://github.com/SUSTech-Application/SUSTechapplication/issues/new)，并将你的帖子作为附件上传。
-- 如果你不希望使用 GitHub，也可以直接将文件发送给维护者。
+- 如果你不希望使用 GitHub，也可以直接将文件发送给一位维护者：
+  - <zhangyj2021@mail.sustech.edu.cn>
+  - <zhangwy2022@mail.sustech.edu.cn>
 
 ::: warning 为什么不推荐使用非 Markdown 格式进行分享？
 
@@ -94,4 +96,4 @@ GitHub 的用户界面可能在本指南发布后有所变动，请以实际为�
 
 ## 经验分享之外
 
-如果你对建设飞跃手册感兴趣，欢迎加入维护团队！
+如果你对建设飞跃手册感兴趣，欢迎联系 <huanggc2019@mail.sustech.edu.cn> 加入维护团队！

@@ -1,7 +1,7 @@
 英语学习:
   GRE:
     GRE修仙指南-15级-张孜晟: zhangzs15
-    GRE指南-19级-杨文汉夫: yangwhf19
+    GRE指南-19级-杨文汉夫: yangwhf19a
   日常学习:
     经验分享-21-周弘毅: zhouhy21
   IELTS:
@@ -49,6 +49,7 @@ grad-application:
       "[CN]-15-mayue": may15
       "[US]-20-yua": yua20
     financial-mathematics:
+      "[CN]-21-gaoyiyang": gaoyy21
       "[US]-16-yangzhiyao": yangzy16
     applied-mathematics:
       "[DNK]-16-linruijun": linrj16
@@ -74,6 +75,7 @@ grad-application:
     optical-information:
       "[US]-16-fanzhenkun": fanzk16
   biomedical-engineering:
+    "[US]-21-zhaoenze": zhaoez21
     "[HK]-18-wangshuchen": wangsc18
     "[SG]-18-wangyehan": wangyh18
     "[SG]-17-gaoxu": gaox17
@@ -132,12 +134,12 @@ grad-application:
       "[US]-19-lihaoming": lihm19
       "[CN]-16-zhaoyanchu": zhaoyc16
     financial-engineering:
+      "[CH]-18-wenjipeng": wenjp18
       "[CN]-16-gongguoyu": gonggy16
       "[SG]-16-liyilin-1": "lyl16"
       "[CN]-16-jinghongyan": jinghy16
       "[SG]-16-liyilin": liyl16
       "[IT]-16-laimeizhi": laimz16
-      "[CN]-18-wenjipeng": wenjp18
       "[CN]-17-dengzhuorui": dengzr17
       "[CH]-16-wangdanyu": wangdy16
       "[FR]-17-zhuyeyun": zhuyy17
@@ -165,7 +167,7 @@ grad-application:
     "[US]-17-aiqian": aiq17
     "[CN]-16-jiangcheng": jiangc16
     "[CN]-17-baihaoyu": baihy17
-    "[CN]-16-chenyong": cheny16
+    "[CN]-16-chenyong": cheny16a
     "[HK]-15-laihuang": laih15
     "[US]-15-liuguoyuan": liugy15
   biology:
@@ -191,4 +193,4 @@ oversea-program:
     ucsd_summer_session_guide: jiz22 # FIXME: who wrote this?
   semester-program:
     uc_yangzonghao: yangzh16
-    why_I_suggest_u_KAUST: why_I_suggest_u_KAUST # FIXME: who wrote this?
+    why_I_suggest_u_KAUST: wangyt16a
