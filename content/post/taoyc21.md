@@ -10,43 +10,24 @@ department: cse
 
 ## 基本背景
 
-> **GPA:** 3.79/4 91.35/100（大三学年 rk8）
->
-> **TOEFL:** 106 (Reading 29 + Listening 29 + Speaking 24 + Writing 24)
->
-> **GRE:** V153 + Q169 + AW3.5
->
-> **申请时排名：**39/195
->
-> **交换：**
->
-> 23 Spring -- MIT Blended Learning 冬季在线课程
->
-> 23 Summer -- NUS SoC summer workshop
->
-> 24 Fall -- NTU visiting research
->
-> **实习：**
->
-> 3 段水实习
->
-> **论文（申请时）：**
->
-> _没有 AC 的_
->
-> 北深合作的一篇
->
-> 统计系合作的一篇
->
-> NTU 在写一篇
->
-> UTokyo 在写一篇
->
-> **推荐信：**学术导师，东大合作老师，统计系合作老师，NTU 合作老师
->
-> **联系方式：**<12112003@mail.sustech.edu.cn>，微信 13771837710
+> - **GPA:** 3.79/4 91.35/100（大三学年 rk8）
+> - **TOEFL:** 106 (Reading 29 + Listening 29 + Speaking 24 + Writing 24)
+> - **GRE:** V153 + Q169 + AW3.5
+> - **申请时排名：** 39/195
+> - **交换：**
+>   - 23 Spring -- MIT Blended Learning 冬季在线课程
+>   - 23 Summer -- NUS SoC summer workshop
+>   - 24 Fall -- NTU visiting research
+> - **实习：** 3 段水实习
+> - **论文（申请时）：** _没有 AC 的_
+>   - 北深合作的一篇
+>   - 统计系合作的一篇
+>   - NTU 在写一篇
+>   - UTokyo 在写一篇
+> - **推荐信：** 学术导师，东大合作老师，统计系合作老师，NTU 合作老师
+> - **联系方式：**<12112003@mail.sustech.edu.cn>，微信 13771837710
 
-### 申请结果
+## 申请结果
 
 **最终录取学校：**
 
