@@ -1,6 +1,6 @@
 ---
 year: 21
-date: 2025-4-25
+date: 2025-04-25
 type: grad
 region: US
 department: cse
