@@ -36,25 +36,27 @@ department: bme
 
 ### 其他录取结果
 
-* Pending:
+- Pending:
 
-  * 洛桑联邦理工学院-材料科学与工程 PhD in EDMX @ EPFL （在明年二月之前找到导师有funding并且愿意要我就可以去）
-  * 新加坡国立大学-PhD in Chemistry @ NUS （从这里开始的四个都是因为接了yale的offer之后就没有进一步推进了）
-  * 新加坡国立大学-PhD in Mechanobiology @ NUS
-  * 威斯康辛大学麦迪逊分校-PhD in BME @ UW Madison
-  * 香港科技大学-PhD in Bioengineering @ HKUST
-* Rej:
+  - 洛桑联邦理工学院-材料科学与工程 PhD in EDMX @ EPFL （在明年二月之前找到导师有funding并且愿意要我就可以去）
+  - 新加坡国立大学-PhD in Chemistry @ NUS （从这里开始的四个都是因为接了yale的offer之后就没有进一步推进了）
+  - 新加坡国立大学-PhD in Mechanobiology @ NUS
+  - 威斯康辛大学麦迪逊分校-PhD in BME @ UW Madison
+  - 香港科技大学-PhD in Bioengineering @ HKUST
 
-  * 哈佛大学-PhD in Bioengineering @ Harvard
-  * 麻省理工-MS in Media Arts & Sciences @ MIT
-  * 加州理工学院-PhD in Medical Engineering @ Caltech
-  * 杜克大学-PhD in BME @ Duke
-  * 德克萨斯大学西南医学中心-PhD in BME @ UT Southwestern
-  * 洛桑联邦理工学院-生物科学与工程 PhD in EDBB @ EPFL
-* Unknown:
-  * 香港中文大学PhD in BME @ CUHK
-  * 哥伦比亚大学PhD in BME @ Columbia University
-  * 佐治亚理工PhD in Biomaterials @ Gatech
+- Rej:
+
+  - 哈佛大学-PhD in Bioengineering @ Harvard
+  - 麻省理工-MS in Media Arts & Sciences @ MIT
+  - 加州理工学院-PhD in Medical Engineering @ Caltech
+  - 杜克大学-PhD in BME @ Duke
+  - 德克萨斯大学西南医学中心-PhD in BME @ UT Southwestern
+  - 洛桑联邦理工学院-生物科学与工程 PhD in EDBB @ EPFL
+
+- Unknown:
+  - 香港中文大学PhD in BME @ CUHK
+  - 哥伦比亚大学PhD in BME @ Columbia University
+  - 佐治亚理工PhD in Biomaterials @ Gatech
 
 ## 申请心得
 
@@ -142,15 +144,15 @@ department: bme
 
 ​3.大致过程：
 
-* 先准备好CV和SOP（适配导师的通用版就行）和成绩单电子版，或许加一张个人生活照；
+- 先准备好CV和SOP（适配导师的通用版就行）和成绩单电子版，或许加一张个人生活照；
 
-* 通过导师的lab网站了解组内情况（导师的CV，研究方向，组内成员，publication，是否招人等等）；
+- 通过导师的lab网站了解组内情况（导师的CV，研究方向，组内成员，publication，是否招人等等）；
 
-* 在word文档编辑套磁信（小红书找个模板），合理使用AI润色，结构基本上是：是否招生与自我介绍+对组内什么课题感兴趣+你的研究经历+你相关的技能+再问一遍是否招生（可以加上我想申请你们学校的什么什么项目，你有没有建议）+你的referee及邮箱，然后把非常AI的用词和结构修改以下；如果你和这个老师有什么别的缘分一定加上，全文中你想打重点的地方加粗，但不要弄太多；
+- 在word文档编辑套磁信（小红书找个模板），合理使用AI润色，结构基本上是：是否招生与自我介绍+对组内什么课题感兴趣+你的研究经历+你相关的技能+再问一遍是否招生（可以加上我想申请你们学校的什么什么项目，你有没有建议）+你的referee及邮箱，然后把非常AI的用词和结构修改以下；如果你和这个老师有什么别的缘分一定加上，全文中你想打重点的地方加粗，但不要弄太多；
 
-* 编辑邮件，记得附上所有附件，发送（可以选在工作日的上午，可以定时发送）；
+- 编辑邮件，记得附上所有附件，发送（可以选在工作日的上午，可以定时发送）；
 
-* 等待两天没有回复可以追一封follow up邮件（小红书找个模板），再没就看看其他老师吧。
+- 等待两天没有回复可以追一封follow up邮件（小红书找个模板），再没就看看其他老师吧。
 
 #### 面试
 
