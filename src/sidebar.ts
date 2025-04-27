@@ -22,6 +22,7 @@ const docs: DefaultTheme.SidebarItem = {
   base: "docs/",
   items: [
     { text: "分享经验", link: "contribute" },
+    { text: "审稿工作流", link: "publish" },
     { text: "路径格式", link: "path" },
     { text: "元数据", link: "metadata" },
   ],
