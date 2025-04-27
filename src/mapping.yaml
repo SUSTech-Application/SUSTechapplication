@@ -5,10 +5,10 @@
   日常学习:
     经验分享-21-周弘毅: zhouhy21
   IELTS:
-    2个月自学雅思总分6-7: "76" # FIXME: who wrote this?
+    2个月自学雅思总分6-7: "anon16"
     英语学渣学习指南: lijj16
 grad-application:
-  申请Tips: anon # FIXME: which year? might as well remove it
+  申请Tips: anon00 # public anonymous tips
   information-systems-and-management-engineering:
     big-data-management-and-applications:
       "[US]-18-lizhichen": lizc18
@@ -93,7 +93,7 @@ grad-application:
     "[CN]-17-dingmingyu": dingmy17
   computer-science-and-engineering:
     "[US]-16-zhangzhaoxu": zhangzx16
-    "[CN]-18-anonymous": anonymous18
+    "[CN]-18-anonymous": anon18
     "[US]-15-fangyidong": fangyd15
     "[US]-21-zhousicheng": zhousc21
     "[CN]-15-liziqiang": lizq15
@@ -114,7 +114,6 @@ grad-application:
     "[US]-19-chenxingyu": chenxy19
     "[US]-17-luanwendi": luanwd17
     "[US]-16-chendeyuan": chendy16
-    "[CN]-18-anoymous": anon18
   mechanics-and-aerospace-engineering:
     "[CN]-16-shanghengrui": shanghr16
     "[US]-15-hezilong": hezl15
@@ -134,12 +133,12 @@ grad-application:
       "[US]-19-lihaoming": lihm19
       "[CN]-16-zhaoyanchu": zhaoyc16
     financial-engineering:
-      "[CH]-18-wenjipeng": wenjp18
       "[CN]-16-gongguoyu": gonggy16
       "[SG]-16-liyilin-1": "lyl16"
       "[CN]-16-jinghongyan": jinghy16
       "[SG]-16-liyilin": liyl16
       "[IT]-16-laimeizhi": laimz16
+      "[CH]-18-wenjipeng": wenjp18
       "[CN]-17-dengzhuorui": dengzr17
       "[CH]-16-wangdanyu": wangdy16
       "[FR]-17-zhuyeyun": zhuyy17
@@ -189,7 +188,7 @@ oversea-program:
     columbia_environment_LDEO_wuxin: wux16
     columbia_environment_LDEO_liujingyu: liujy15
   summer-school:
-    ucla_summer_session_recommendation: ucla_summer_session_recommendation # FIXME: who wrote this?
+    ucla_summer_session_recommendation: shiml22
     ucsd_summer_session_guide: jiz22 # FIXME: who wrote this?
   semester-program:
     uc_yangzonghao: yangzh16
