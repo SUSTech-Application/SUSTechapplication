@@ -36,6 +36,8 @@ department: bme
 
 ### 其他录取结果
 
+<!-- cSpell:words EDMX Mechanobiology HKUST EDBB CUHK Gatech -->
+
 - Pending:
 
   - 洛桑联邦理工学院-材料科学与工程 PhD in EDMX @ EPFL （在明年二月之前找到导师有funding并且愿意要我就可以去）
