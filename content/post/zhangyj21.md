@@ -99,8 +99,8 @@ department: cse
 
   在项目选择上，我申请了港新大部分的cs/泛cs项目，准备了两套文书（一套for纯cs项目，一套for偏产品design的项目）。
 
-  - **纯cs项目：**cuhk cs, hkust it, hkust bdt, ntu spml, nus mcomp, nus ce
-  - **偏产品design的泛cs项目：**nus edi, ntu msis, hku idt, hkust tle
+  - **纯cs项目**：cuhk cs, hkust it, hkust bdt, ntu spml, nus mcomp, nus ce
+  - **偏产品design的泛cs项目**：nus edi, ntu msis, hku idt, hkust tle
   - 本人心里的排名是nus edi > ntu msis = hku idt > 其他 （完全基于个人的职业规划和主观喜好orz）
 
 ### 2. 申请感受
