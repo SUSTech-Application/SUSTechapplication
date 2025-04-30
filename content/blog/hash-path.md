@@ -4,7 +4,7 @@ date: 2025-03-28
 
 # 井号路径兼容性
 
-作者：[黄冠超](https://sghua.ng) (<hi@sghua.ng>)
+作者：[黄冠超](https://sgh.ng) (<hi@sgh.ng>)
 
 飞跃手册过去使用 [Docsify](https://docsify.js.org/#/) 作为引擎，但因为一些已不能考据的技术原因，网站使用了 `hash` 模式进行路由（参考 [`routerMode`](https://docsify.js.org/#/configuration?id=routermode)）。这意味着所有路径都会以井号开头，如 `domain.com/#/path`。
 
