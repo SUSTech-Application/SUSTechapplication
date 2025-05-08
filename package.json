@@ -28,7 +28,7 @@
     "@types/node": "^22.14.1",
     "@vue/tsconfig": "^0.7.0",
     "ajv": "^8.17.1",
-    "cspell": "^8.18.1",
+    "cspell": "^9.0.1",
     "eslint": "^9.24.0",
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-vue": "^10.0.0",
