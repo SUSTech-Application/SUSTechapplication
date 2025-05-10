@@ -1,3 +1,11 @@
+---
+year: 21
+date: 2025-03-28
+type: grad
+region: CN
+department: math
+---
+
 # [CN]-21-高奕扬-北京大学硕士
 
 ## 基本背景
