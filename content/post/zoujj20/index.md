@@ -6,6 +6,8 @@ type: experience
 
 # 雅思备考指南
 
+<!-- cSpell:words Jiaju -->
+
 作者：Zou Jiaju \
 联系方式：<mailto:zoujj2020@mail.sustech.edu.cn>
 
