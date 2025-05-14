@@ -132,7 +132,7 @@ sdim算是个很特殊的专业，之前一个学长和我说，sdim是希望延
 
 - 工具：我想sdim的同学都会使用notion吧，强烈建议用notion自带的database来进行管理，下图是我的notion页面截图，我觉得非常清晰整洁，J人很满意。
 
-  ![alt text](<notion database.png>)
+  ![notion_database](<notion_database.png>)
 
 - 关于美硕：
 
