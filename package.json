@@ -38,6 +38,7 @@
     "prettier-plugin-sh": "^0.17.2",
     "typescript-eslint": "^8.29.1",
     "vite": "^6.2.6",
+    "vite-plugin-sitemap": "^0.7.1",
     "vitepress": "^1.6.3",
     "vitest": "^3.1.1",
     "zod": "^3.24.2"
