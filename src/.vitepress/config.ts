@@ -59,4 +59,23 @@ export default {
   ],
 
   vite,
+
+  sitemap: {
+    hostname: 'https://sustech-application.com',
+    exclude: [
+      '/content/type/[key].html',
+      '/content/year/[year].html',
+      '/content/region/[key].html',
+      '/content/department/[key].html'
+    ],
+    transformItems: (items) => {
+      // 添加新项目或修改/筛选现有选项
+      items.push({
+        url: '/extra-page',
+        changefreq: 'monthly',
+        priority: 0.8
+      })
+      return items
+    }
+  }
 } as UserConfig;
