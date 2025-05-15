@@ -43,7 +43,7 @@ department: bio
 
 #### 大三: 新月
 
-大三时有幸能和[松涛](../../computer-science-and-engineering/[CN]-15-zhangsongtao)一起做一些Biomedical Imaging方向的项目，运气还行中了两篇MICCAI Workshops。 同时我还参加了MICCAI BraTS Challenge, 算是Biomedical Imaging领域里Top Challenges之一了。 这段时间又做了一些微小的工作，运气爆表在Survival Prediction Task上拿了2nd Place (also Top 5 in Tumor Segmentaton Task)。 然后获邀去西班牙参加MICCAI作Spotlight Presentation, 同时拿了Intel AI的Award。 在会上结识了一帮顶会大佬，感觉自己还是需要继续努力。
+大三时有幸能和[松涛](zhangst15)一起做一些Biomedical Imaging方向的项目，运气还行中了两篇MICCAI Workshops。 同时我还参加了MICCAI BraTS Challenge, 算是Biomedical Imaging领域里Top Challenges之一了。 这段时间又做了一些微小的工作，运气爆表在Survival Prediction Task上拿了2nd Place (also Top 5 in Tumor Segmentaton Task)。 然后获邀去西班牙参加MICCAI作Spotlight Presentation, 同时拿了Intel AI的Award。 在会上结识了一帮顶会大佬，感觉自己还是需要继续努力。
 
 #### 申请季: 我不曾懂得的苍凉
 
