@@ -2,6 +2,7 @@
 year: 21
 date: 2025-03-26
 type: grad
+department: bme
 ---
 
 # [US] 21-赵恩泽 @ Purdue University - Mechanical Engineering PhD
