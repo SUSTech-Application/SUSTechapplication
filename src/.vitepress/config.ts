@@ -57,6 +57,6 @@ export default {
       gtag("config", "G-VVQKMMQ3VE");`,
     ],
   ],
-
+  sitemap: { hostname: "https://sustech-application.com" },
   vite,
 } as UserConfig;
