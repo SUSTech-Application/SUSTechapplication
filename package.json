@@ -19,7 +19,9 @@
   },
   "dependencies": {
     "@primeuix/themes": "^1.0.3",
-    "primevue": "^4.3.3"
+    "dom-to-image-more": "^3.5.0",
+    "primevue": "^4.3.3",
+    "qrcodejs2": "^0.0.2"
   },
   "devDependencies": {
     "@modyfi/vite-plugin-yaml": "^1.1.1",
