@@ -12,7 +12,7 @@
 飞跃手册中的页面使用 Markdown 撰写。Markdown 是一个被广泛使用的标记语言（markup language），它允许你使用纯文本来创建带有简单格式的文档，实现样式与内容的分离。如果你暂不熟悉 Markdown，可以参考以下内容：
 
 - 飞跃手册其他帖子的[源代码](https://github.com/SUSTech-Application/SUSTechapplication/tree/master/docs)
-- 由飞跃手册维护者撰写的经验分享[范例](../post/huanggc19)
+- 由飞跃手册维护者撰写的经验分享[范例](../post/huanggc19/)
 - [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
 
 ::: tip

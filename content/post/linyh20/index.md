@@ -727,7 +727,7 @@ contributing to and learning from your distinguished program.
 
 最后做一个简单的自我介绍：我叫林雨航，计算机科学与技术专业，GPA
 3.81/4.00，年排 22/223，3.8k词汇量硬考托福101的逻辑战士，无科研成果。教过 2022春+2022秋+2023春 三学期的 Java互助课，[B站回放](https://space.bilibili.com/383809016/channel/series)曾救诸多学生于水火。主申欧陆+新加坡，拿了 NTU、NUS、哥本哈根大学等7个offer，最后与女朋友一起去了瑞典皇家理工学院（KTH）。部分申请和选校经验已总结于
-[小红书@Tsuki](https://www.xiaohongshu.com/user/profile/5f14f967000000000100518b?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board)，申请德国的同学可以参考女朋友写的[APS经验帖](../zengxq20)。想了解欧陆或有欧陆申请意愿的朋友欢迎加好友交流：
+[小红书@Tsuki](https://www.xiaohongshu.com/user/profile/5f14f967000000000100518b?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board)，申请德国的同学可以参考女朋友写的[APS经验帖](../zengxq20/)。想了解欧陆或有欧陆申请意愿的朋友欢迎加好友交流：
 
 <table style="margin: auto; width: fit-content"><tbody><tr style="border: none">
 <td style="border: none"><img style="height: 18rem" src='./Wechat.jpg'></td>
