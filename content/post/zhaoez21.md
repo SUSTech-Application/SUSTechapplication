@@ -42,7 +42,6 @@ department: bme
 ### 其他录取结果
 
 - offer:
-
   - 华盛顿大学圣路易斯分校 - PhD in Biomedical Engineering @ Washington University in St. Louis （有 lab rotation）
   - 加州大学尔湾分校 - PhD in Biomedical Engineering @ UCI (Fellowship，有 lab rotation)
   - 东北大学 - PhD in Bioengineering @ Northeastern University (Direct Match, 可以和哈佛联培）
@@ -52,7 +51,6 @@ department: bme
 <!-- cSpell:words BMEP -->
 
 - Rej _（申请项目多，选了些有代表的）_:
-
   - 梅奥诊所 - PhD in Biomedical Engineering and Physiology (BMEP) @ Mayo Clinic （免申请费，进了面试，panel meeting 形式，5 教授面 1 学生，每年收 4 个左右，offer rolling 制，由于不在美国高教体制内，不受 4.15 decision ddl 限制，如果下 offer 只给 2 周考虑时间，并且 7 月初就开学）
   - 密西根大学 - PhD in Biomedical Engineering @ University of Michigan （进一面，没进二面）
   - 宾州州立大学 - PhD in Biomedical Engineering @ Penn State University （面试比较早，和老师聊挺好，后来听说 funding 被砍得很惨，所以没钱招了）

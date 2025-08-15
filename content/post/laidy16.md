@@ -28,7 +28,6 @@
 ## 申请结果
 
 - **Offer \(全额奖学金的PhD, 难度从高到低\):**
-
   - Statistics@HKU (accept), Statistics@KAUST
 
 - **AD :**

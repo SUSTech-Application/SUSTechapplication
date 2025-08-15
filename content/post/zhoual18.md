@@ -31,7 +31,6 @@ department: cse
 **其他录取结果：**
 
 - AD(6):
-
   - 卡内基梅隆大学计算数据科学硕士 (CMU MCDS)
   - 卡内基梅隆大学信息网络硕士 (CMU MSIN)
   - 卡内基梅隆大学信息管理学硕士 (CMU MISM)
@@ -40,7 +39,6 @@ department: cse
   - 纽约大学计算机工程硕士 (NYU MSCE)
 
 - Rej(7):
-
   - 卡内基梅隆大学人机交互专业硕士 (CMU MHCI)
   - 布朗大学计算机科学硕士 (Brown MSCS)
   - 莱斯大学计算机科学硕士 (Rice MSCS)

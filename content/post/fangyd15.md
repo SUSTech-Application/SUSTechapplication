@@ -15,7 +15,6 @@
 其他录取结果：
 
 - **Offer\(1\):**
-
   - PhD @ Stony Brook University, New York
 
 - **AD\(2\):**
@@ -42,9 +41,9 @@
 
 希望大家不要为了出国而出国，还是要想清楚你希望得到什么，多收集信息，从各方面做好 trade off，留学不是万能的。多听听别人的故事，多问问自己的内心。另外，没有谁的成功经验能被完美复刻，请结合自己的实际情况进行调整。
 
-联系方式 ：fangyd1997@gmail.com
+联系方式 ：<mailto:fangyd1997@gmail.com>
 
-个人主页：https://cv.edydfang.com
+个人主页：<https://cv.edydfang.com>
 
 ---
 

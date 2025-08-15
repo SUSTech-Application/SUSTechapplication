@@ -39,7 +39,6 @@ department: bme
 <!-- cSpell:words EDMX Mechanobiology HKUST EDBB CUHK Gatech -->
 
 - Pending:
-
   - 洛桑联邦理工学院-材料科学与工程 PhD in EDMX @ EPFL （在明年二月之前找到导师有 funding 并且愿意要我就可以去）
   - 新加坡国立大学-PhD in Chemistry @ NUS （从这里开始的四个都是因为接了 yale 的 offer 之后就没有进一步推进了）
   - 新加坡国立大学-PhD in Mechanobiology @ NUS
@@ -47,7 +46,6 @@ department: bme
   - 香港科技大学-PhD in Bioengineering @ HKUST
 
 - Rej:
-
   - 哈佛大学-PhD in Bioengineering @ Harvard
   - 麻省理工-MS in Media Arts & Sciences @ MIT
   - 加州理工学院-PhD in Medical Engineering @ Caltech

@@ -23,7 +23,7 @@ department: math
 >
 > 申请时无任何文章发表或在审
 >
-> 联系方式: figo.nf.jiang@gmail.com
+> 联系方式: <mailto:figo.nf.jiang@gmail.com>
 
 ## 申请结果
 
@@ -32,7 +32,6 @@ department: math
 其他录取结果：
 
 - **AD\(4\):**
-
   - **[UC Santa Barbara (PhD in ECE)]**: 非常意外的一个offer, 所有项目里面我只有这一个申的是ECE，结果真的中了。UCSB 在control领域实力很强 (全美Top3)，像 Andrew Teel, Francesco bullo, Joao Hespanha等等都是行业顶级大佬。我自己教授做的东西也非常的数学，了解了Control Dynamical-System, and Computation (CCDC)这个research center之后发现真的挺合适自己的。
 
   - **[UC Santa Cruz (PhD in Applied Math)]**: 保底，因为之前就和自己暑研的教授聊的很好，所以一开始就知道自己想去应该是没啥困难的，教授也非常欢迎。也正是因为这个offer，即使我整个申请过程操作地稀烂，但心态却一直非常平和。（别人都很惊讶我受了那么多rej居然还活蹦乱跳的）。UCSC虽然综排不高，也不显眼，但贵地理位置优越：硅谷附近，方便就业；度假村级别风景，依山傍海沙滩多（如果UCSB没有录，UCSC会是我的首选）。个人推荐有兴趣的同学选校阶段可以多了解一下这个学校。
@@ -41,7 +40,6 @@ department: math
   - **[University of Washington, Seattle (Master in Applied Math, 博退硕)]**: 一年制的硕士，第1个收到的offer（2月份），虽然有点小失望，但总好过rej。UW的 Applied Math 非常厉害，而且有很多大佬。一位在Berkeley给我写推荐信的教授，听到我想研究的方向（我当时说自己感兴趣 Data-driven method on solving PDEs）。就和我推荐了他UW的好朋友 Nathan Kutz. 本来其实还要申NYU，UCSD和USC的硕士的，但还没提交UW那边的offer就已经下来了，最后就没申了。
 
 - **Rej\(10\)**:
-
   - **[MIT (PhD in Mathematics)]**: 究极彩票，非常不意外
   - **UC Berkeley (PhD in Applied Math)**: 意料之中，一般也都是清北top的学生才能申到。但应该是我最难过的rej了，申请材料上我all in了我的五封推荐信，材料都是最认真准备的。
   - **Caltech (PhD in ACM)**: 彩票，不意外
