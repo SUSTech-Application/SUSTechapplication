@@ -3,11 +3,7 @@ import { createContentLoader } from "vitepress";
 import { z } from "zod";
 
 // TODO: more validations
-const Metadata = z
-  .object({
-    date: z.string(),
-  })
-  .passthrough();
+const Metadata = z.object({ date: z.string() }).loose();
 
 export interface Page {
   title?: string;
