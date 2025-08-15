@@ -53,7 +53,6 @@ department: cse
 截至2025.02.23的申请结果(均为CS PhD program)：
 
 - **Offer**:
-
   - **University of Georgia**: 申请前套磁+informal meeing，全英文，聊得很好，表示欢迎 & stay in touch (虽然申请后也没有connect) -> Offer
   - **University of Utah**: 申请前套磁+informal meeting，meeting后帮忙提供fee waiver，并表示“非常希望你加入我们lab” -> Offer
 

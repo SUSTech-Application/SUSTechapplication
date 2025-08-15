@@ -21,7 +21,6 @@ department: bio
 ## 申请结果
 
 - **Offer\(5\):**
-
   - \[Intelligent Systems PhD @ University of Pittsburgh\]
   - \[Biomedical Informatics PhD @ Stony Brook\]
   - \[Biomedical Informatics PhD @ ASU\]

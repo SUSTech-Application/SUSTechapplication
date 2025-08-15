@@ -31,14 +31,12 @@ department: bme
 **其他录取结果：**
 
 - AD:
-
   - 苏黎世联邦理工学院-生物医学工程MS in BME @ ETH Zurich
   - 洛桑联邦理工学院-生物工程MS in Life Science Engineering @ EPFL
   - 瑞典皇家理工-医学工程MS in Medical Engineering @ KTH: AD
   - 波士顿大学 MS in BME @ Boston University(PhD降录)
 
 - Rej:
-
   - 哈佛大学-PhD in Bioengineering @ Harvard
   - 康奈尔大学-PhD in BME @ Cornell(提供降录ms机会)
   - 加州理工学院-PhD in Bioengineering @ Caltech

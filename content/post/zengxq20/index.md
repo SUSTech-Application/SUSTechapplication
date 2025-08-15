@@ -92,7 +92,6 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
 ## CS Major Review for APS
 
 - 1. 专业基础 Major Foundation Courses
-
   - Data Structures and Algorithm Analysis
     - Introduction
       - This course will teach students the fundamentals of data organization, storage and processing in computer science. Students will be required to grasp why and how a data structure can be applied according to applications.
@@ -163,7 +162,6 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
       - **Dynamic Programming**: This method solves complex problems by breaking them down into simpler **sub-problems**, **storing the results** of these sub-problems to avoid redundant calculations. Example: The Fibonacci Sequence calculation, where each number is the sum of the two preceding ones, uses dynamic programming to store previous results for efficiency.
 
 - 2. 专业核心 Major Core Courses
-
   - Artificial Intelligence
     - Introduction
       - The course is an introduction to AI for undergraduate students. Artificial Intelligence (AI) is a big field, we will try to explore the most important topics of the field, which encompasses search, game, constraint satisfaction problem (CSP), logic, machine learning, and natural language processing (NLP), and we will go into some depth. We will have 2 or 3 mini-projects in this course, and the programing language can be Java or Python. The students’ programs will be partially automatically graded, so they must be written to run on the computers. The goal is to provide every student who takes the course a basic set of ideas and tools to employ on AI, and to be able to pursue advanced study and research in the field if desired.
@@ -216,9 +214,7 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
     - Important learned things/examples
 
 - 3. 专业选修 Major Elective Courses
-
   - Deep Learning
-
     - Introduction
       - This course provides an introduction to the field of deep learning, covering the main deep learning techniques from both a theoretical and practical point of view. Architectures that will be covered include Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Autoencoders, and Generative Adversarial Networks (GANs) The goal of the course is that of equipping students with the necessary skills to access the rapidly evolving field of deep learning. To this end lectures and labs will draw multiple links to both the Industry and state-of-the-art academic research, allowing the students to pursue a successful career in both directions. The practical elements of the course will be based on the PyTorch framework, a widely used open source Python framework for deep learning.
       - NA
@@ -226,9 +222,7 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
     - Important learned things/examples
 
   - C/C++ Program Design
-
     - Introduction
-
       - The objective of this course is to give **a good knowledge of C and C++**, as well as a working practice of Linux, and to prepare to future courses in the Computer Science curriculum. Through lectures and small programming projects, it covers topics such as how to build a program on Linux, what are the **major differences** between a language such as C and Object oriented languages such as Java (and C++), how Object oriented Programming in C++ differs from Object oriented Programming in Java, **pointers and memory management**, data structures in C and C++, as well as system calls. The first half of the course will solely be devoted to mastering C, and the second half will present C++ and the efforts to build a “better C”, as well as how to interact with the operating system through "system calls".
 
       - C/C++ is a professional foundation course in computer science and technology. C is a general-purpose programming language focused on problem-solving, characterized by its simplicity, extensive data types, complete structure, strong expressiveness, direct memory manipulation, and modular application. C combines the advantages of high-level languages with low-level language features.
@@ -236,14 +230,12 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
         C++, on the other hand, is an object-oriented development method that extends from the C language, absorbing valuable concepts and effective software engineering methods. It encapsulates data and data operations while integrating abstraction, encapsulation, inheritance, and polymorphism for highly modular, abstracted, concealed, reusable, and adaptable program development. The course is divided into two parts, covering general design principles in C++ and object-oriented programming.
 
     - Main concepts (or themes)
-
       - **Memory Management**: Involves manually allocating (`malloc` in C, `new` in C++) and deallocating (`free` in C, `delete` in C++) memory. It's crucial for optimizing resource use.
       - **Pointer and Reference**: Pointers hold memory addresses, allowing direct memory access and manipulation. References are aliases for existing variables, providing an alternative way to access a variable's value.
       - **Class & Object**: C++ uses classes for OOP, supporting features like namespaces (to avoid name conflicts) and inheritance (for code reuse and hierarchy).
       - **Function**: Functions in C/C++ can be inline (suggesting compiler to embed function body where invoked), and support overloading (same function name with different parameters).
 
   - Computer System Design and Applications A
-
     - Introduction
       - The course aims to teach students advanced skills of **object oriented programming** in java, including **network programing and multimedia processing**. The students should be familiar with java programing environment and related APIs. Students will learn how to develop a software project to solve some practical problems.
       - NA
@@ -253,7 +245,6 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
       - **Reflection**: Reflection allows inspection and modification of a program's behavior at runtime. For example, in Java, it enables examining or modifying runtime behavior of classes, methods, and interfaces.
 
 - 4. 通识基础 General education required courses
-
   - Experiments of Fundamental Physics
     - Introduction
       - Physics Laboratory I is a fundamental experiment course after undergraduates enter the university. This course plays an important role in training experimental skills, innovative thinking and practical capability of students. This course includes the fundamental physics experiments of mechanics, thermodynamics, optics, electromagnetics and modern physics. Fundamental experimental apparatus and basic science thoughts and methods are also introduced in this course. This course aims to train the scientific experimental literacy of undergraduates and enhance the interests of experimental physics for students.
@@ -316,7 +307,6 @@ APS证书作为德国高校录取中国学生的前提条件之一，可能会�
     - Important learned things/examples
 
 - 5. 其他（人文社科艺术英语体育思政）General education elective courses
-
   - Introduction to Chinese Information processing
     - Introduction
       - This course give a fundamental introduction to Chinese Information Processing (CIP), including: 1. the nature and history of CIP; 2.the fundamental principle of CIP, like corpus, matching, rules, statistics, and corpus annotation; 3. frequently-used tools, corpora and how to use them. We’ll do some computer programming in this course, so it is easier for students who have enough knowledge on programming. However, the programming tasks in this course are too easy to worry about for most students.

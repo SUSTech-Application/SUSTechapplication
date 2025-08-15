@@ -75,7 +75,6 @@ The University of Warwick, Mathematics of Systems (MSc leading to PhD)
 
 - 申请授课型硕士需要提供的材料:
 - 申请授课型硕士需要提供的材料:
-
   - 本科前三年的成绩单,
   - 语言成绩 (有的大学可以无雅思申请, 但是被录取后需要在规定时间内考过雅思) (GRE: 据我所知仅 ICL),
   - 推荐信(一般为 2 封, 爱大 1 封),
@@ -86,7 +85,6 @@ The University of Warwick, Mathematics of Systems (MSc leading to PhD)
   - PS (可能要有 CV).
 
 - 申请科研型硕士需要提供的材料:
-
   - 本科前三年的成绩单,
   - 语言成绩 (有的大学可以无雅思申请, 但是被录取后需要在规定时间内考过雅思) (GRE: 据我所知仅 ICL),
   - 推荐信(一般为 2 封, 爱大 1 封),
@@ -94,7 +92,6 @@ The University of Warwick, Mathematics of Systems (MSc leading to PhD)
   - Research Proposal
 
 - 申请科研型硕士需要提供的材料:
-
   - 本科前三年的成绩单,
   - 语言成绩 (有的大学可以无雅思申请, 但是被录取后需要在规定时间内考过雅思) (GRE: 据我所知仅 ICL),
   - 推荐信(一般为 2 封, 爱大 1 封),
@@ -201,10 +198,8 @@ The University of Warwick, Mathematics of Systems (MSc leading to PhD)
 
 - 一些资源的推荐 (真的不是广告, 是用过后的诚心推荐):
 - 一些资源的推荐 (真的不是广告, 是用过后的诚心推荐):
-
   - 单词:
   - 单词:
-
     - 书: <<雅思词汇词根+联想>>, <<词以类记>>, <<顾家北手把手教你雅思词伙>>
     - APP: 墨墨背单词 + 韦氏词典/新牛津词典
     - 书: <<雅思词汇词根+联想>>, <<词以类记>>, <<顾家北手把手教你雅思词伙>>
@@ -218,7 +213,6 @@ The University of Warwick, Mathematics of Systems (MSc leading to PhD)
 
   - 培训机构:
   - 培训机构:
-
     - 艾布纳教育(北京): 我报了付鹏老师的口语课, 口语从之前两次的 5.5 直接提升至 6.5
     - 饥饿英语(深圳): 我只报了顾家北的写作网课班作为写作成绩的巩固. 写作成绩变化: 第一次: 6.0, 第二次: 使用了<<顾家北手把手教你雅思写作>>后: 7.0, 第三次: 顾家北的写作网课后 7.0.
     - 艾布纳教育(北京): 我报了付鹏老师的口语课, 口语从之前两次的 5.5 直接提升至 6.5

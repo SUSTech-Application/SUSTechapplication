@@ -33,7 +33,6 @@ department: cse
 **申请**
 
 - AD(6):
-
   - City University of Hong Kong, MSCS
   - University of Washington(Tacoma), MSCS
   - Northeastern University(Silicon Valley), MSCS

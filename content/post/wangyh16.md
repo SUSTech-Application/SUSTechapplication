@@ -51,7 +51,6 @@ department: phy
 其他录取结果：
 
 - **Offer(5)**
-
   - [PhD in Physics @ Penn State]
   - [PhD in Physics @ U Florida]
   - [PhD in Physics @ UT-Austin]
@@ -59,13 +58,11 @@ department: phy
   - [PhD in Mechanobiology (NGS) @ NUS] (President Graduate Fellowship)
 
 - **Rej(7)**
-
   - [PhD in Physics @ UC Berkeley, Cornell, Columbia, UCSD, U Washington]
   - [PhD in Applied Physics @ U Michigan]
   - [PhD in MSE @ Maryland]
 
 - **Withdrawn(1)**
-
   - [PhD in EE @ HKU]
 
 ## 申请心得
