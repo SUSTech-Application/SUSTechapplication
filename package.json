@@ -26,7 +26,7 @@
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "@types/ajv": "^1.0.4",
     "@types/node": "^24.3.0",
-    "@vue/tsconfig": "^0.7.0",
+    "@vue/tsconfig": "^0.8.1",
     "ajv": "^8.17.1",
     "cspell": "^9.2.0",
     "eslint": "^9.33.0",
