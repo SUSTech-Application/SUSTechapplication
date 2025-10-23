@@ -39,7 +39,7 @@
     "typescript-eslint": "^8.39.1",
     "vite": "^7.1.2",
     "vitepress": "^1.6.4",
-    "vitest": "^3.2.4",
+    "vitest": "^4.0.1",
     "zod": "^4.0.17"
   }
 }
