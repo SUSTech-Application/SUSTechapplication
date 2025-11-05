@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@modyfi/vite-plugin-yaml": "^1.1.1",
-    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "@trivago/prettier-plugin-sort-imports": "^6.0.0",
     "@types/ajv": "^1.0.4",
     "@types/node": "^24.3.0",
     "@vue/tsconfig": "^0.8.1",
