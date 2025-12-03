@@ -77,7 +77,7 @@ jobs:
       BUCKET: oss://sustech-application
     steps:
       - name: Download build files
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: build-files
           path: dist/
@@ -94,7 +94,7 @@ jobs:
           ./ossutil version
 
       - name: Download diff list
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: diff-list
           path: ./
