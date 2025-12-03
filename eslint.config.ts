@@ -1,9 +1,10 @@
 import js from "@eslint/js";
 import prettier from "eslint-config-prettier";
 import vue from "eslint-plugin-vue";
+import { defineConfig } from "eslint/config";
 import ts from "typescript-eslint";
 
-export default ts.config(
+export default defineConfig(
   js.configs.recommended,
   ts.configs.strictTypeChecked,
   ts.configs.stylisticTypeChecked,
