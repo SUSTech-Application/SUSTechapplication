@@ -50,7 +50,7 @@ jobs:
           fi
 
       - name: Upload build files
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: build-files
           path: dist/
@@ -61,7 +61,7 @@ jobs:
           rsync -ainc --delete dist/ prev/ | tee diff-list
 
       - name: Upload diff list
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: diff-list
           path: diff-list
