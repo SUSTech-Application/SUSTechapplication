@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@primeuix/themes": "^2.0.2",
+    "pangu": "^7.2.1",
     "primevue": "^4.3.7"
   },
   "devDependencies": {
