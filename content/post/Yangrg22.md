@@ -1,3 +1,14 @@
+---
+type: grad
+author: 杨若谷
+year: 22
+degree: PhD
+university: NEU
+department: CS
+date: 2026-03-21
+---
+
+
 # [US] 22 - 杨若谷 - Northeastern University-CS PhD
 
 ## Part 0
