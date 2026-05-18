@@ -35,7 +35,7 @@ type: page
 
 ## 投稿/修改
 
-- 投稿/修改请联系 **12313635 AT mail.sustech.edu.cn** 或 **zhangwy2022 AT mail.sustech.edu.cn**
+- 投稿/修改请联系 **zhangwy2022 AT mail.sustech.edu.cn**
 
 ## 意见/改进
 
