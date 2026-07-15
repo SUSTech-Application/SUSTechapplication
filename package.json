@@ -18,7 +18,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@primeuix/themes": "^2.0.2",
+    "@primeuix/themes": "^3.0.0",
     "primevue": "^4.3.7"
   },
   "devDependencies": {
