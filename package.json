@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@primeuix/themes": "^2.0.2",
-    "primevue": "^4.3.7"
+    "primevue": "^5.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
