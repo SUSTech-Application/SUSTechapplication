@@ -17,7 +17,7 @@ jobs:
       REPO: ${{ github.repository }}
       ARTIFACT_NAME: build-files
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Setup Node # this provides global polyfills?
         uses: actions/setup-node@v6
