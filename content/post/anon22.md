@@ -9,7 +9,7 @@ author: 某某
 
 # [US] 22 - 某某 - Psychology PhD @ Columbia University
 
-**联系方式：** 12210315@mail.sustech.edu.cn
+**联系方式：** <12210315@mail.sustech.edu.cn>
 
 ## ⚠️ 说明
 
@@ -121,11 +121,7 @@ Master 和 PhD 的逻辑不完全一样。美国主要的问题是学费高以�
 
 ## 不同方向的申请体感
 
-如果非常粗暴地按照我自己的申请体验排一下几个方向的难度，大概是：
-
-**Neuro >> CS > EE ≈ Psych ≥ BME**
-
-再次强调，这只是我个人在这一届申请中的体感，不是录取率统计。
+如果非常粗暴地按照我自己的申请体验排一下几个方向的难度，大概是 **Neuro >> CS > EE ≈ Psych ≥ BME**。再次强调，这只是我个人在这一届申请中的体感，不是录取率统计。
 
 Neuro 对国际生比较难的一个现实原因是 funding 和国际生名额往往比较有限，而且不少项目采用 rotation 或 committee admission。对于国际生来说，可用名额本身可能就比美国本土学生少很多。
 
