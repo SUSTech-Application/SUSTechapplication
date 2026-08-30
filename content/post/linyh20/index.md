@@ -370,22 +370,22 @@ Yours sincerely, Yuhang Lin
         	<div class="comment" style='font-size: 14px; color: gray'>
             图源：<a style='color:gray' target="_blank" href='https://www.chalmers.se/en/education/find-masters-programme/interaction-design-and-technologies-msc/#topics-covered'>CTH MSc IDT 课程结构介绍</a>
         </div>
-     </div> 	
-    
+     </div>
+
      <div style='text-align: center'>
         	<img class="boarder" src="./16-UU自由选课.png" alt="16-UU自由选课.png" style="zoom: 44%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              图源：<a style='color:gray' target="_blank" href='https://www.uu.se/en/study/outline?query=2988'>UU MSc CS 课程结构介绍</a>
          </div>
      </div>
-    
+
      <div style='text-align: center'>
         	<img class="boarder" src="./17-阿尔托辅修.png" alt="17-阿尔托辅修.png" style="zoom: 42%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
              图源：<a style='color:gray' target="_blank" href='https://www.aalto.fi/en/programmes/masters-programme-in-computer-communication-and-information-sciences/curriculum-2022-2024#30-software-and-service-engineering--sse-'>Aalto CCIS 项目介绍</a>
          </div>
      </div>
-    
+
      <div style='text-align: center'>
         	<img class="boarder" src="./18-KTH软件开发子方向.png" alt="18-KTH软件开发子方向.png" style="zoom: 36%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
@@ -401,7 +401,7 @@ Yours sincerely, Yuhang Lin
              图源：<a style='color:gray' target="_blank" href='https://studies.helsinki.fi/instructions/article/structure-and-scope-my-degree-programme?degree_programme_code=MH50_009'>UU MSc CS 项目结构介绍</a>
          </div>
      </div>
-    
+
      <div style='text-align: center'>
         	<img class="boarder" src="./20-哥哈DADIU.png" alt="20-哥哈DADIU.png" style="zoom: 40%;" />
          <div class="comment" style='font-size: 14px;color:gray'>
