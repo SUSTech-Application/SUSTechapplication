@@ -1,3 +1,12 @@
+---
+year: 22
+date: 2026-08-30
+type: grad
+region: US
+department: cse
+author: 某某
+---
+
 # [US] 22 - 某某 - Psychology PhD @ Columbia University
 
 **联系方式：** 12210315@mail.sustech.edu.cn
